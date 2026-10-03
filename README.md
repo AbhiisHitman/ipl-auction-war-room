@@ -52,7 +52,7 @@ Auction tables, player bios and the Cricsheet player register are already includ
 
 ## Run it
 ```bash
-python3.11 -m venv .venv && .venv/bin/pip install -r requirements.txt
+python3.11 -m venv .venv && .venv/bin/pip install -r requirements-dev.txt
 .venv/bin/python -m src.pipeline              # data -> valuation -> market -> gaps -> optimiser (~1 min)
 .venv/bin/python -m src.build_excel           # Excel P&L + Solver workbooks
 .venv/bin/python -m src.charts                # PNG charts
@@ -61,7 +61,7 @@ python3.11 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python -m src.export_web            # JSON for the app
 .venv/bin/python -m pytest -q                 # 32 tests
 
-.venv/bin/uvicorn api.main:app --port 8000    # live optimiser + P&L API
+.venv/bin/uvicorn api.index:app --port 8000    # live optimiser + P&L API
 cd web && npm install && npm run dev          # http://localhost:5180
 ```
 Team logos: put `CSK.png`, `MI.png`, ... in `web/public/logos/`. Missing ones fall back to an original crest. Deployment link: *to be added*.

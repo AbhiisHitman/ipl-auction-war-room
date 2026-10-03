@@ -1,6 +1,7 @@
 """Auction War Room API - live optimiser and P&L for the React app.
 
-    .venv/bin/uvicorn api.main:app --port 8000
+    .venv/bin/uvicorn api.index:app --port 8000      (local)
+    On Vercel this file is the Python serverless function behind /api/*.
 
 Uses exactly the same functions as the pipeline (src/), so numbers match the
 Excel models and processed tables.
@@ -17,7 +18,7 @@ from pydantic import BaseModel, Field
 
 from src.app_context import load_context
 from src.economics import default_inputs, expected_profit, scenario_table
-from src.pipeline import run_team
+from src.planner import run_team
 from src.recommend import build_recommendations
 from src.teams import active_codes
 

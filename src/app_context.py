@@ -36,7 +36,7 @@ def load_context() -> dict:
     from .config import assumptions
     q = assumptions()["strategy"]["replacement_level_percentile"]["value"]
     repl = float(players.loc[players["has_impact"], "impact"].quantile(q))
-    from .pipeline import PLAN_SEASON
+    from .planner import PLAN_SEASON
     league_long = pd.read_csv(PROCESSED_DIR / "league_role_rankings.csv")
     return {
         "players": players, "briefs": briefs, "win_model": wm,

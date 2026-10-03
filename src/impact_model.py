@@ -17,8 +17,7 @@ from dataclasses import dataclass
 
 import numpy as np
 import pandas as pd
-import statsmodels.api as sm
-from scipy.stats import binom
+from math import comb
 
 from .optimiser import STARTERS
 
@@ -46,8 +45,9 @@ class WinModel:
     def playoff_prob(self, win_pct: float, games: int = 14) -> float:
         """P(wins >= threshold) + half of P(wins == threshold - 1) (tie-breaks on NRR)."""
         t = self.playoff_wins_threshold
-        p_ge = 1 - binom.cdf(t - 1, games, win_pct)
-        p_edge = binom.pmf(t - 1, games, win_pct)
+        pmf = [comb(games, k) * win_pct**k * (1 - win_pct) ** (games - k) for k in range(games + 1)]
+        p_ge = sum(pmf[t:])
+        p_edge = pmf[t - 1]
         return float(p_ge + 0.5 * p_edge)
 
 
@@ -95,6 +95,7 @@ def realised_team_impact(apps: pd.DataFrame, season_impact: pd.DataFrame,
 
 def fit_win_model(strength: pd.DataFrame, wins: pd.DataFrame, matches: pd.DataFrame,
                   realised: pd.DataFrame) -> WinModel:
+    import statsmodels.api as sm  # only needed when fitting (pipeline), not in the web API
     d = strength.merge(wins, on=["season", "team"]).merge(realised, on=["season", "team"])
     s1 = sm.OLS(d["win_pct"], sm.add_constant(d["realised"])).fit()
     s2 = sm.OLS(d["realised"], sm.add_constant(d["strength"])).fit()
