@@ -12,3 +12,4 @@ web/dist/
 data/raw/hl_ipl_study_2025.pdf
 data/raw/geo/india-composite.geojson
 *.log
+.vercel

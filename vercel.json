@@ -1,17 +1,23 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
   "buildCommand": "cd web && npm ci && npm run build",
   "outputDirectory": "web/dist",
   "installCommand": "echo 'site deps install in buildCommand; API deps from requirements.txt'",
   "functions": {
     "api/index.py": {
       "maxDuration": 30,
-      "memory": 1024,
       "excludeFiles": "{web/**,data/raw/**,data/interim/**,outputs/**,tests/**,docs/**,notebooks/**,SPEC.md,README.md}"
     }
   },
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/index" },
-    { "source": "/((?!api/).*)", "destination": "/index.html" }
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/index"
+    },
+    {
+      "source": "/((?!api/).*)",
+      "destination": "/index.html"
+    }
   ]
 }

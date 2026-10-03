@@ -2,6 +2,8 @@
 
 **Key question:** *How should an IPL franchise rebuild its squad and spend its purse at the next auction to maximise wins and commercial value?*
 
+**Live app:** https://ipl-auction-war-room-two.vercel.app
+
 **Answer:** Spend on output, not reputation.
 - Release the contracts whose output does not justify the salary.
 - Fill the specific role gaps with players the market underprices, up to a hard bid ceiling.
@@ -64,7 +66,7 @@ python3.11 -m venv .venv && .venv/bin/pip install -r requirements-dev.txt
 .venv/bin/uvicorn api.index:app --port 8000    # live optimiser + P&L API
 cd web && npm install && npm run dev          # http://localhost:5180
 ```
-Team logos: put `CSK.png`, `MI.png`, ... in `web/public/logos/`. Missing ones fall back to an original crest. Deployment link: *to be added*.
+Team logos: put `CSK.png`, `MI.png`, ... in `web/public/logos/`. Missing ones fall back to an original crest. Deployed on Vercel: the React site as static files and `api/index.py` as a Python serverless function (`vercel.json`).
 
 ## Limitations (stated honestly)
 - Auction prices reflect bidding dynamics; Wikipedia lists sold players only, so unsold players are missing from the market model.
