@@ -1,0 +1,44 @@
+# The 10 current IPL franchises. `aliases` maps every historical name used in
+# Cricsheet / Wikipedia to the current franchise (renames only, not defunct teams).
+# Home venue is NOT hard-coded: src/features.py derives it from the data
+# (the ground where the team played most often in the last 3 seasons).
+teams:
+  CSK:
+    name: Chennai Super Kings
+    aliases: [Chennai Super Kings]
+  DC:
+    name: Delhi Capitals
+    aliases: [Delhi Capitals, Delhi Daredevils]
+  GT:
+    name: Gujarat Titans
+    aliases: [Gujarat Titans]
+  KKR:
+    name: Kolkata Knight Riders
+    aliases: [Kolkata Knight Riders]
+  LSG:
+    name: Lucknow Super Giants
+    aliases: [Lucknow Super Giants]
+  MI:
+    name: Mumbai Indians
+    aliases: [Mumbai Indians]
+  PBKS:
+    name: Punjab Kings
+    aliases: [Punjab Kings, Kings XI Punjab]
+  RR:
+    name: Rajasthan Royals
+    aliases: [Rajasthan Royals]
+  RCB:
+    name: Royal Challengers Bengaluru
+    aliases: [Royal Challengers Bengaluru, Royal Challengers Bangalore]
+  SRH:
+    name: Sunrisers Hyderabad
+    aliases: [Sunrisers Hyderabad]
+
+# Defunct franchises keep their own code so their matches still count toward
+# league baselines, but they never appear as a client.
+defunct:
+  DCH: [Deccan Chargers]
+  KTK: [Kochi Tuskers Kerala]
+  PWI: [Pune Warriors]
+  RPS: [Rising Pune Supergiant, Rising Pune Supergiants]
+  GL: [Gujarat Lions]

@@ -1,0 +1,1900 @@
+{{Short description|Professional Twenty20 cricket league in India}}
+{{About||the women's tournament|Women's Premier League (cricket)}}
+{{Redirect|IPL}}
+{{pp-semi-indef|small=y}}
+{{Use Indian English|date=January 2021}}
+{{Use dmy dates|date=February 2026}}
+{{Infobox cricket tournament main
+|name              = Indian Premier League
+|image             = Indian Premier League Official Logo.svg
+|country           = [[India]]
+|administrator     = [[Board of Control for Cricket in India]]
+|headquarters      = [[Mumbai]], India
+|cricket format    = [[Twenty20]]
+|first             = [[2008 Indian Premier League|2008]]
+|last              = [[2026 Indian Premier League|2026]]
+|next              = 2027
+|tournament format = [[Round-robin tournament|Double round-robin format]] followed by [[playoffs]]
+|champions         = [[Royal Challengers Bengaluru]] <br />(2nd title)
+|most successful   = [[Chennai Super Kings]] <br /> [[Mumbai Indians]] <br />(5 titles each)
+|most runs         = {{flagicon|IND}} [[Virat Kohli]] (9,336)
+|most wickets      = {{flagicon|IND}} [[Yuzvendra Chahal]] (233)
+|TV                = [[#List_of_broadcasters|List of broadcasters]]
+|website           = {{URL|https://www.iplt20.com/|iplt20.com}}
+| current = [[2026 Indian Premier League]]
+}}<!--
+{{Season sidebar
+|title = Seasons
+|list  = 
+*[[2008 Indian Premier League|2008]]
+*[[2009 Indian Premier League|2009]]
+*[[2010 Indian Premier League|2010]]
+*[[2011 Indian Premier League|2011]]
+*[[2012 Indian Premier League|2012]]
+*[[2013 Indian Premier League|2013]]
+*[[2014 Indian Premier League|2014]]
+*[[2015 Indian Premier League|2015]]
+*[[2016 Indian Premier League|2016]]
+*[[2017 Indian Premier League|2017]]
+*[[2018 Indian Premier League|2018]]
+*[[2019 Indian Premier League|2019]]
+*[[2020 Indian Premier League|2020]]
+*[[2021 Indian Premier League|2021]]
+*[[2022 Indian Premier League|2022]]
+*[[2023 Indian Premier League|2023]]
+*[[2024 Indian Premier League|2024]]
+*[[2025 Indian Premier League|2025]]
+*[[2026 Indian Premier League|2026]]
+}}-->
+The '''Indian Premier League''' ('''IPL''') is a professional [[Twenty20]] (T20) [[cricket]] league in [[India]], organised by the [[Board of Control for Cricket in India]] (BCCI).<ref>{{cite news | url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/tata-group-to-replace-vivo-as-ipl-title-sponsors-from-this-year/articleshow/88830655.cms | title=IPL 2022: Tata group to replace Vivo as IPL title sponsors from this year | newspaper=The Times of India | date=11 January 2022 | access-date=22 April 2024 | archive-date=21 May 2024 | archive-url=https://web.archive.org/web/20240521105931/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/tata-group-to-replace-vivo-as-ipl-title-sponsors-from-this-year/articleshow/88830655.cms | url-status=live }}</ref> Founded in 2007, it features ten city-based [[Professional sports league organization|franchise]] teams.<ref>{{cite news |date=28 June 2018 |title=How can the IPL become a global sports giant? |work=ESPNcricinfo |url=https://www.espncricinfo.com/story/tim-wigmore-how-can-the-ipl-become-a-global-sports-giant-1150459 |access-date=20 February 2019 |archive-date=7 February 2021 |archive-url=https://web.archive.org/web/20210207160149/https://www.espncricinfo.com/story/tim-wigmore-how-can-the-ipl-become-a-global-sports-giant-1150459 |url-status=live }}</ref> The IPL is widely regarded as the world's most commercially successful cricket league. It is the [[List of professional sports leagues by revenue|11th richest sporting league in the world by revenue]]. It is held annually between March and May. It has an exclusive window in the [[ICC Future Tours Programme|Future Tours Programme]] of the [[International Cricket Council]], resulting in fewer international tours occurring during the seasons.<ref>{{cite news |date=12 December 2017 |title=IPL now has window in ICC Future Tours Programme |work=ESPNcricinfo |url=https://www.espncricinfo.com/story/ipl-now-has-window-in-icc-future-tours-programme-1129304 |access-date=20 February 2019 |archive-date=20 April 2022 |archive-url=https://web.archive.org/web/20220420091110/https://www.espncricinfo.com/story/ipl-now-has-window-in-icc-future-tours-programme-1129304 |url-status=live }}</ref> It is also the most viewed [[Sport in India|Indian sports]] event, as per the [[Broadcast Audience Research Council]].<ref>{{Cite news |date=22 July 2024 |title=How India's sports leagues are on a meteoric growth |url=https://timesofindia.indiatimes.com/business/india-business/how-indias-sports-leagues-are-on-a-meteoric-growth/articleshow/111921329.cms |access-date=19 January 2025 |work=The Times of India |issn=0971-8257}}</ref><ref>{{Cite web |last= |first= |title=Rise of Indian Sports Leagues |url=https://www.barcindia.co.in/newsletter/rise-of-indian-sports-leagues.pdf |website=www.barcindia.co.in/}}</ref>
+
+In 2010, the IPL became the first sporting event to [[Broadcasting|broadcast]] live on [[YouTube]].<ref>{{cite news |title=IPL matches to be broadcast live on Youtube |url=https://www.espncricinfo.com/story/ipl-matches-to-be-broadcast-live-on-youtube-445173 |url-status=live |archive-url=https://web.archive.org/web/20210211075527/https://www.espncricinfo.com/story/ipl-matches-to-be-broadcast-live-on-youtube-445173 |archive-date=11 February 2021 |access-date=20 February 2019 |work=ESPNcricinfo}}</ref><ref>{{cite news |author=Hoult, Nick |date=20 January 2010 |title=IPL to broadcast live on YouTube |url=https://www.telegraph.co.uk/sport/cricket/twenty20/ipl/7033597/IPL-to-broadcast-live-on-YouTube.html |url-access=subscription |url-status=live |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/sport/cricket/twenty20/ipl/7033597/IPL-to-broadcast-live-on-YouTube.html |archive-date=11 January 2022 |access-date=20 February 2019 |work=The Telegraph UK}}{{cbignore}}</ref> In 2014, it ranked sixth in attendance among all sports leagues.<ref>{{cite news |author=Barrett, Chris |title=Big Bash League jumps into top 10 of most attended sports leagues in the world |url=https://www.smh.com.au/sport/cricket/big-bash-league-jumps-into-top-10-of-most-attended-sports-leagues-in-the-world-20160110-gm2w8z.html |url-status=live |archive-url=https://web.archive.org/web/20210504180627/https://www.smh.com.au/sport/cricket/big-bash-league-jumps-into-top-10-of-most-attended-sports-leagues-in-the-world-20160110-gm2w8z.html |archive-date=4 May 2021 |access-date=20 February 2019 |work=[[The Sydney Morning Herald]]}}</ref> Inspired by the success of the IPL, other [[Sport in India#Major sporting leagues or competitions|Indian sports leagues]] have been established.{{efn|Indian cricket leagues established using similar formats to the IPL include the [[Women's Premier League (cricket)|Women's Premier League]] and various [[List of regional T20 cricket leagues in India|domestic state-level leagues]]. Leagues established in other sports include the association football [[Indian Super League]],<ref>{{cite news | url=https://economictimes.indiatimes.com/war-of-leagues-with-ipl-isl-is-india-emerging-as-a-sporting-nation/articleshow/54672726.cms | title=War of leagues: With IPL & ISL, is India emerging as a sporting nation? | newspaper=The Economic Times | date=5 October 2016 | last1=Balakrishnan | first1=Ravi | last2=Bapna | first2=Amit | access-date=22 April 2024 | archive-date=21 May 2024 | archive-url=https://web.archive.org/web/20240521104425/https://economictimes.indiatimes.com/war-of-leagues-with-ipl-isl-is-india-emerging-as-a-sporting-nation/articleshow/54672726.cms | url-status=live }}</ref> the [[Pro Kabaddi League]] and [[Pro Volleyball League]]<ref name=AA>{{cite web | url=https://www.financialexpress.com/sports/from-ipl-to-isl-sports-leagues-in-india-to-watch-out-for/2337628/ | title=From IPL to ISL, sports leagues in India to watch out for | date=26 September 2021 | access-date=25 July 2023 | archive-date=22 October 2021 | archive-url=https://web.archive.org/web/20211022023028/https://www.financialexpress.com/sports/from-ipl-to-isl-sports-leagues-in-india-to-watch-out-for/2337628/ | url-status=live }}</ref> Other international leagues have also adopted elements of the IPL and been influenced by the business model used.}}<ref>{{Cite web |title=How Tamil Nadu Premier League became a feeder series for IPL |url=https://theprint.in/opinion/pov/how-tamil-nadu-premier-league-became-a-feeder-series-for-ipl/1065828/%3Famp&ved=2ahUKEwjRqJnk9qmAAxW9zzgGHQf6AIoQFnoECCUQAQ&usg=AOvVaw1_L0DlYmZrqQK4e4o2tdQ0 |archive-url=https://web.archive.org/web/20230828191809/https://theprint.in/opinion/pov/how-tamil-nadu-premier-league-became-a-feeder-series-for-ipl/1065828/?amp&ved=2ahUKEwjRqJnk9qmAAxW9zzgGHQf6AIoQFnoECCUQAQ&usg=AOvVaw1_L0DlYmZrqQK4e4o2tdQ0 |url-status=dead |archive-date=28 August 2023 |website=[[The Print]]}}</ref><ref>{{Cite web |date=12 April 2015 |title=Move over IPL, the Indian rural cricket league is here |url=https://www.hindustantimes.com/cricket/move-over-ipl-the-indian-rural-cricket-league-is-here/story-srsc83tlpQ8ZjwDGK4BtbL.html |access-date=25 July 2023 |website=Hindustan Times |language=en |archive-date=25 July 2023 |archive-url=https://web.archive.org/web/20230725133632/https://www.hindustantimes.com/cricket/move-over-ipl-the-indian-rural-cricket-league-is-here/story-srsc83tlpQ8ZjwDGK4BtbL.html |url-status=live }}</ref> The IPL is the second-richest [[sports league]] in the world by per-match value, after the [[National Football League]].<ref>{{Cite web |date=14 June 2022 |title=IPL world's second-most valued sporting league in terms of per match value, digital rights costlier than TV |url=https://www.indiatoday.in/sports/cricket/story/ipl-media-rights-digital-value-more-than-tv-2nd-most-valuable-jay-shah-1962410-2022-06-14 |access-date=12 May 2025 |website=India Today |language=en}}</ref> In 2023, the league sold its [[Broadcasting rights|media rights]] for the next four seasons for US$6.4 billion to [[Viacom18]] and [[Star Sports (India)|Star Sports]],<ref>{{Cite web |title=IPL media rights BCCI hits a six while star India and Viacom18 scramble for the ball |url=https://www.financialexpress.com/business/brandwagon-ipl-media-rights-bcci-hits-a-six-while-viacom18-and-star-india-scramble-for-the-ball-2566141/lite/ |website=[[The Financial Express (India)|Financial Express]] |date=20 June 2022 |access-date=20 May 2023 |archive-date=20 May 2023 |archive-url=https://web.archive.org/web/20230520160243/https://www.financialexpress.com/business/brandwagon-ipl-media-rights-bcci-hits-a-six-while-viacom18-and-star-india-scramble-for-the-ball-2566141/lite/ |url-status=live }}</ref> which meant that each IPL match was valued at $13.4 million.<ref>{{Cite news |title=IPL media rights at ₹104 million IPL... |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-media-rights-at-rs-104-crore-ipl-overtakes-epl-in-per-match-value/articleshow/92169438.cms |website=[[Times of India]] |date=14 June 2022 |access-date=20 May 2023 |archive-date=20 May 2023 |archive-url=https://web.archive.org/web/20230520155935/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-media-rights-at-rs-104-crore-ipl-overtakes-epl-in-per-match-value/articleshow/92169438.cms |url-status=live }}</ref> As of 2026, there have been 19 seasons of the tournament. The current champions are the [[Royal Challengers Bengaluru]], who won the [[2026 Indian Premier League|2026 season]] after defeating the [[Gujarat Titans]] in the [[2026 Indian Premier League final|final]].
+
+A women's edition of the Indian Premier League, known as the [[Women's Premier League (cricket)|Women's Premier League]], was established in 2022 and had its [[2023 Women's Premier League (cricket)|first season]] in 2023.<ref>{{Cite web |title=BCCI plans to start a full-fledged women's IPL in 2023: Sourav Ganguly |url=https://www.indiatoday.in/sports/cricket/story/bcci-plans-to-start-a-full-fledged-women-s-ipl-in-2023-sourav-ganguly-1908796-2022-02-04 |access-date=16 February 2023 |website=[[India Today]] |date=4 February 2022 |language=en}}</ref><ref>{{Cite news |date=26 January 2023 |title='Let the journey begin': BCCI garners Rs 4669.99 crore for sale of 5 Women's Premier League teams |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/let-the-journey-begin-bcci-garners-rs-4669-99-crore-for-sale-of-5-womens-premier-league-teams/articleshow/97310824.cms |access-date=7 February 2024 |work=[[The Times of India]] |issn=0971-8257}}</ref>
+
+== History ==
+{| class="wikitable floatright" style="text-align:center; font-size:85%"
+|+ Winners of the<br />Indian Premier League
+|-
+! Season !!style="width:200px"| Winners
+|-
+| [[2008 Indian Premier League|2008]]
+|style="text-align:left"| [[Rajasthan Royals]]
+|-
+| [[2009 Indian Premier League|2009]]
+|style="text-align:left"| [[Deccan Chargers]]
+|-
+| [[2010 Indian Premier League|2010]]
+|style="text-align:left"| [[Chennai Super Kings]]
+|-
+| [[2011 Indian Premier League|2011]]
+|style="text-align:left"| [[Chennai Super Kings]]&nbsp;{{small|(2)}}
+|-
+| [[2012 Indian Premier League|2012]]
+|style="text-align:left"| [[Kolkata Knight Riders]]
+|-
+| [[2013 Indian Premier League|2013]]
+|style="text-align:left"| [[Mumbai Indians]]
+|-
+| [[2014 Indian Premier League|2014]]
+|style="text-align:left"| [[Kolkata Knight Riders]]&nbsp;{{small|(2)}}
+|-
+| [[2015 Indian Premier League|2015]]
+|style="text-align:left"| [[Mumbai Indians]]&nbsp;{{small|(2)}}
+|-
+| [[2016 Indian Premier League|2016]]
+|style="text-align:left"| [[Sunrisers Hyderabad]]
+|-
+| [[2017 Indian Premier League|2017]]
+|style="text-align:left"| [[Mumbai Indians]]&nbsp;{{small|(3)}}
+|-
+| [[2018 Indian Premier League|2018]]
+|style="text-align:left"| [[Chennai Super Kings]]&nbsp;{{small|(3)}}
+|-
+| [[2019 Indian Premier League|2019]]
+|style="text-align:left"| [[Mumbai Indians]]&nbsp;{{small|(4)}}
+|-
+| [[2020 Indian Premier League|2020]]
+|style="text-align:left"| [[Mumbai Indians]]&nbsp;{{small|(5)}}
+|-
+| [[2021 Indian Premier League|2021]]
+|style="text-align:left"| [[Chennai Super Kings]]&nbsp;{{small|(4)}}
+|-
+| [[2022 Indian Premier League|2022]]
+|style="text-align:left"| [[Gujarat Titans]]
+|-
+| [[2023 Indian Premier League|2023]]
+|style="text-align:left"| [[Chennai Super Kings]]&nbsp;{{small|(5)}}
+|-
+| [[2024 Indian Premier League|2024]]
+|style="text-align:left"| [[Kolkata Knight Riders]]&nbsp;{{small|(3)}}
+|-
+| [[2025 Indian Premier League|2025]]
+|style="text-align:left"| [[Royal Challengers Bengaluru]]
+|-
+|[[2026 Indian Premier League|2026]]
+| style="text-align: left;" |[[Royal Challengers Bengaluru]] {{small|(2)}}
+|}
+
+=== Background ===
+In April 2007, [[Essel Group]] launched the [[Indian Cricket League]] (ICL) in partnership with [[Infrastructure Leasing & Financial Services|IL&FS]].<ref>{{cite news |last1=Mitra |first1=Moinak |title=Concrete shape to come from IL&FS |url=https://economictimes.indiatimes.com/concrete-shape-to-come-from-ilfs/articleshow/1858753.cms |access-date=26 March 2025 |work=The Economic Times |date=5 April 2007}}</ref><ref>{{cite news |title=Subhash wants to do Kerry Packer in Indian cricket |url=https://economictimes.indiatimes.com/subhash-wants-to-do-kerry-packer-in-indian-cricket/articleshow/1853257.cms |access-date=26 March 2025 |work=The Economic Times |date=4 April 2007}}</ref> The ICL was not recognized by the [[Board of Control for Cricket in India]] (BCCI) or the [[International Cricket Council]] (ICC). Moreover, the BCCI was unhappy about its committee members joining the ICL executive board.<ref>{{cite news|author=Press Trust of India|url=http://inhome.rediff.com/cricket/2007/jun/13icl.htm|title=BCCI shoots down ICL|website=Rediff.com|date=13 June 2007|access-date=20 February 2019|archive-date=18 December 2007|archive-url=https://web.archive.org/web/20071218211734/http://inhome.rediff.com/cricket/2007/jun/13icl.htm|url-status=live}}</ref><ref>{{cite news|title=ICL announces team lists|url=http://www.rediff.com/cricket/2007/nov/14icl.htm|access-date=20 February 2019|work=Rediff|date=14 November 2007|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303191527/http://www.rediff.com/cricket/2007/nov/14icl.htm|url-status=live}}</ref> In response, the BCCI increased the prize money for its domestic tournaments and imposed lifetime bans on players who joined the ICL, which it considered a rebel league.<ref>{{cite news|author=Press Trust of India|url=https://www.rediff.com/cricket/2007/aug/21hike.htm|title=BCCI hikes domestic match fees|website=Rediff.com|date=21 June 2007|access-date=20 February 2019|archive-date=2 June 2021|archive-url=https://web.archive.org/web/20210602144302/https://www.rediff.com/cricket/2007/aug/21hike.htm|url-status=live}}</ref><ref name="IPL Started">{{cite news|title=Indian Premier League: How it all started|url=https://timesofindia.indiatimes.com/ipl-history/Indian-Premier-League-How-it-all-started/articleshow/19337875.cms|access-date=20 February 2019|work=[[The Times of India]]|date=2 April 2013|archive-date=12 September 2018|archive-url=https://web.archive.org/web/20180912100617/https://timesofindia.indiatimes.com/ipl-history/Indian-Premier-League-How-it-all-started/articleshow/19337875.cms|url-status=live}}</ref>
+
+=== Foundation ===
+On 13 September 2007, as the [[2007 World Twenty20|2007 ICC World Twenty20]] began, the BCCI launched the Indian Premier League, an annual franchise-based Twenty20 cricket competition.{{r|launch}} The inaugural season was scheduled to start in April 2008, commencing with a "high-profile ceremony" in New Delhi. BCCI vice-president [[Lalit Modi]], who led the IPL initiative, provided details of the tournament, including its format, prize money, franchise revenue system, and squad composition rules. The league, to be managed by a seven-person governing council, would also serve as the qualifying mechanism for that year's [[Champions League Twenty20]].<ref name="launch">{{cite news|author=Alter, Jamie|title=Franchises for board's new Twenty20 league|url=https://www.espncricinfo.com/story/franchises-for-board-s-new-twenty20-league-310819|work=ESPNcricinfo|access-date=17 February 2019|date=13 September 2007|archive-date=13 May 2021|archive-url=https://web.archive.org/web/20210513165421/https://www.espncricinfo.com/story/franchises-for-board-s-new-twenty20-league-310819|url-status=live}}</ref><ref name="allrise">{{cite web |title=Raw talent plus IPL cash point to an era of Indian dominance on cricket's world stage |url=https://www.theguardian.com/sport/2021/jan/20/indian-cricket-team-talent-ipl-premier-league-test-series-win-australia |archive-url=https://web.archive.org/web/20210224010518/https://www.theguardian.com/sport/2021/jan/20/indian-cricket-team-talent-ipl-premier-league-test-series-win-australia |archive-date=2021-02-24 |date=11 January 2021 |last=Bull |first=Andy |work=The Guardian}}</ref>
+
+To determine team ownership, an auction for the franchises was held on 24 January 2008. The reserve prices for the eight franchises totalled $400 million,<ref name="IPL Started" /> but the auction ultimately raised $723.59 million.<ref>{{cite news |date=24 January 2008 |title=ESPNcricinfo{{spd}}Big business and Bollywood grab stakes in IPL |work=ESPNcricinfo |url=https://www.espncricinfo.com/story/ipl-announces-franchise-owners-333193 |access-date=20 February 2019 |archive-date=18 April 2021 |archive-url=https://web.archive.org/web/20210418005531/https://www.espncricinfo.com/story/ipl-announces-franchise-owners-333193 |url-status=live }}</ref> The league officially commenced in April 2008, featuring [[Chennai Super Kings]] (CSK), [[Mumbai Indians]] (MI), [[Delhi Daredevils]] (DD), [[Kings XI Punjab]] (KXIP), [[Deccan Chargers]] (DC), [[Rajasthan Royals]] (RR), [[Kolkata Knight Riders]] (KKR), and [[Royal Challengers Bangalore]] (RCB).<ref>{{Cite web |title=Indian Premier League, 2007/08 – Cricket Squad Info {{!}} ESPNcricinfo.com |url=https://www.espncricinfo.com/ipl/content/squad?object=313494 |access-date=21 March 2024 |website=Cricinfo |language=en |archive-date=19 October 2022 |archive-url=https://web.archive.org/web/20221019050506/https://www.espncricinfo.com/ipl/content/squad?object=313494 |url-status=live }}</ref>
+
+In 2009, the BCCI and other national boards offered amnesty to rival ICL's players and officials, provided they terminated their contracts. The resulting player exodus and financial difficulties forced ICL to shut down later that year.<ref>{{cite news |title=BCCI amnesty for 79 players |url=https://www.espncricinfo.com/story/bcci-amnesty-for-79-players-407033 |access-date=26 March 2025 |work=ESPNcricinfo |date=2 June 2009 |language=en}}</ref><ref>{{cite news |last1=Shankar |first1=Ajay S. |title=Will the ICL survive? |url=https://www.espncricinfo.com/story/will-the-icl-survive-407101 |access-date=26 March 2025 |work=ESPNcricinfo |date=2 June 2009 |language=en}}</ref><ref>{{Cite web |date=7 May 2014 |title=Biggest Innovation: Everyone wants a piece of the IPL |url=https://www.businesstoday.in/magazine/cover-story/story/biggest-india-innovation-indian-premier-league-46696-2014-05-07 |access-date=26 June 2023 |website=Business Today |language=en |archive-date=26 June 2023 |archive-url=https://web.archive.org/web/20230626003557/https://www.businesstoday.in/magazine/cover-story/story/biggest-india-innovation-indian-premier-league-46696-2014-05-07 |url-status=live }}</ref>
+[[File:IPL T20 Chennai vs Kolkata.JPG|thumb|right|250px|A match during the [[2008 Indian Premier League|2008 IPL]] inaugural season in [[Chennai]]]]
+
+=== Expansions and terminations ===
+New franchises, [[Pune Warriors India]] and [[Kochi Tuskers Kerala]], joined the league before the fourth season in 2011.<ref name="Pune and Kerala">{{cite news |author1=Ravindran, Siddarth |author2=Gollapudi, Nagraj |date=21 March 2010 |title=Pune and Kochi unveiled as new IPL franchises |work=ESPNcricinfo |url=https://www.espncricinfo.com/story/pune-and-kochi-unveiled-as-new-ipl-franchises-452856 |access-date=20 February 2019 |archive-date=9 June 2021 |archive-url=https://web.archive.org/web/20210609115437/https://www.espncricinfo.com/story/pune-and-kochi-unveiled-as-new-ipl-franchises-452856 |url-status=live }}</ref> The [[Sahara India Pariwar#Sports|Sahara Adventure Sports Group]] purchased the Pune franchise for $370 million, while [[Rendezvous Sports World]] bought the Kochi franchise for $333.3 million.<ref name="Pune and Kerala" /> The Kochi franchise was terminated after just one season due to their failure to pay the BCCI the 10% bank guarantee element of the franchise fee.<ref name="Tuskers Out">{{cite news |date=19 September 2011 |title=Kochi franchise terminated by BCCI |work=ESPNcricinfo |url=https://www.espncricinfo.com/story/ipl-news-kochi-franchise-terminated-by-bcci-532973 |access-date=20 February 2019 |archive-date=10 August 2021 |archive-url=https://web.archive.org/web/20210810205658/https://www.espncricinfo.com/story/ipl-news-kochi-franchise-terminated-by-bcci-532973 |url-status=live }}</ref>
+
+In September 2012, the [[Deccan Chargers]] franchise agreement was terminated after the BCCI failed to find new owners.<ref>{{cite web |date=14 September 2012 |title=BCCI terminates Deccan Chargers franchise |url=https://www.espncricinfo.com/story/bcci-terminates-deccan-chargers-franchise-582292 |access-date=20 February 2019 |work=ESPNcricinfo |archive-date=8 December 2021 |archive-url=https://web.archive.org/web/20211208202224/https://www.espncricinfo.com/story/bcci-terminates-deccan-chargers-franchise-582292 |url-status=live }}</ref> In October, an auction was held for a replacement franchise; [[Sun TV Network]] won the bid for what became the [[Hyderabad]] franchise;<ref>{{cite news|work=ESPNcricinfo|date=25 October 2012|access-date=20 February 2019|url=http://www.espncricinfo.com/india/content/story/588090.html|title=Sun TV Network win Hyderabad IPL franchise|archive-date=16 September 2018|archive-url=https://web.archive.org/web/20180916093358/http://www.espncricinfo.com/india/content/story/588090.html|url-status=live}}</ref> the team was named [[Sunrisers Hyderabad]].<ref>{{cite news |date=18 December 2012 |title=Hyderabad IPL franchise named Sunrisers |work=ESPNcricinfo |url=https://www.espncricinfo.com/story/hyderabad-ipl-franchise-named-sunrisers-597700 |access-date=20 February 2019 |archive-date=26 January 2021 |archive-url=https://web.archive.org/web/20210126101453/https://www.espncricinfo.com/story/hyderabad-ipl-franchise-named-sunrisers-597700 |url-status=live }}</ref>
+
+Pune Warriors India withdrew from the IPL in May 2013 due to financial differences with the BCCI.<ref>{{cite web |date=21 May 2013 |title=Pune Warriors pull out of IPL |url=https://www.espncricinfo.com/story/pune-warriors-pull-out-of-ipl-637032 |access-date=20 February 2019 |work=ESPNcricinfo |archive-date=13 August 2021 |archive-url=https://web.archive.org/web/20210813083756/https://www.espncricinfo.com/story/pune-warriors-pull-out-of-ipl-637032 |url-status=live }}</ref> The BCCI officially terminated the franchise in October, and the league reverted to eight teams.<ref>{{cite news|url=https://timesofindia.indiatimes.com/news/BCCI-terminates-contract-with-Sahara-Pune-Warriors-out-of-IPL/articleshow/24769374.cms|author=K Shriniwas Rao|title=BCCI terminates contract with Sahara, Pune Warriors out of IPL|work=The Times of India|agency=TNN|date=27 October 2013|access-date=20 February 2019|archive-date=12 September 2018|archive-url=https://web.archive.org/web/20180912051703/https://timesofindia.indiatimes.com/news/BCCI-terminates-contract-with-Sahara-Pune-Warriors-out-of-IPL/articleshow/24769374.cms|url-status=live}}</ref>
+
+In June 2015, the two-time champions [[Chennai Super Kings]] and the inaugural season champions [[Rajasthan Royals]] were suspended for two seasons following their involvement in a [[2013 Indian Premier League spot-fixing and betting case|spot-fixing and betting scandal]].<ref>{{cite news|title=IPL scandal: Chennai Super Kings and Rajasthan Royals suspended|url=https://www.bbc.com/news/world-asia-india-33517583|work=BBC News|date=14 July 2015|access-date=20 February 2019|archive-date=23 January 2019|archive-url=https://web.archive.org/web/20190123115736/https://www.bbc.com/news/world-asia-india-33517583|url-status=live}}</ref> The two teams were replaced for two seasons by [[Rising Pune Supergiant]] and [[Gujarat Lions]], based in [[Pune]] and [[Rajkot]], respectively.<ref>{{cite news|title=Pune, Rajkot to host new IPL franchises|url=http://www.espncricinfo.com/india/content/story/949987.html|access-date=20 February 2019|work=ESPNcricinfo|date=8 December 2015|archive-date=20 May 2016|archive-url=https://web.archive.org/web/20160520050002/http://www.espncricinfo.com/india/content/story/949987.html|url-status=live}}</ref><ref>{{cite web|url=https://www.cricket.com.au/news/indian-premier-league-announce-two-new-teams-pune-rajkot-for-two-seasons-chennai-rajasthan-suspended/2015-12-09|title=IPL announce two new teams for 2016|website=cricket.com.au|access-date=19 October 2022|archive-date=15 October 2019|archive-url=https://web.archive.org/web/20191015130206/https://www.cricket.com.au/news/indian-premier-league-announce-two-new-teams-pune-rajkot-for-two-seasons-chennai-rajasthan-suspended/2015-12-09|url-status=live}}</ref>
+
+Due to the [[COVID-19 pandemic in India|COVID-19 pandemic]], the venue for the [[2020 Indian Premier League|2020 season]] was moved and games were played in the [[United Arab Emirates]].<ref>{{cite web|date=2 August 2020|title=IPL 2020 in UAE: From new match timings to coronavirus replacements approved by Governing Council – 10 points|url=https://www.indiatoday.in/sports/cricket/story/ipl-2020-uae-governing-council-meeting-10-points-updates-schedule-timings-squads-1707092-2020-08-02|access-date=3 August 2020|website=India Today|language=en|archive-date=2 August 2020|archive-url=https://web.archive.org/web/20200802171006/https://www.indiatoday.in/sports/cricket/story/ipl-2020-uae-governing-council-meeting-10-points-updates-schedule-timings-squads-1707092-2020-08-02|url-status=live}}</ref><ref>{{cite web|last=Karhadkar|first=Amol|title=IPL 2020: Final on November 10, 24-player limit for each squad|url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2020-governing-council-squad-strength-24-players-schedule-sponsors-vivo-uae-final-november-10/article32254069.ece|access-date=3 August 2020|website=Sportstar|date=2 August 2020|language=en|archive-date=4 August 2020|archive-url=https://web.archive.org/web/20200804092604/https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2020-governing-council-squad-strength-24-players-schedule-sponsors-vivo-uae-final-november-10/article32254069.ece|url-status=live}}</ref> In August 2021, the BCCI announced that two new franchises, based in two of six shortlisted cities, would join the league in the [[2022 Indian Premier League|2022 season]].<ref>{{cite web|last=Gollapudi|first=Nagraj|url=https://www.espncricinfo.com/story/ipl-to-become-10-team-tournament-from-2022-1275505|title=IPL to become 10-team tournament from 2022|work=ESPNcricinfo|date=31 August 2021|access-date=21 September 2021|archive-date=20 September 2021|archive-url=https://web.archive.org/web/20210920221207/https://www.espncricinfo.com/story/ipl-to-become-10-team-tournament-from-2022-1275505|url-status=live}}</ref><ref>{{cite web|last=Tagore|first=Vijay|url=https://www.cricbuzz.com/cricket-news/119038/new-ipl-team-auction-likely-on-october-17-through-sealed-covers-cricbuzzcom|title=New IPL team auction likely on October 17 through closed bids|work=Cricbuzz|date=14 September 2021|access-date=21 September 2021|archive-date=21 September 2021|archive-url=https://web.archive.org/web/20210921071138/https://www.cricbuzz.com/cricket-news/119038/new-ipl-team-auction-likely-on-october-17-through-sealed-covers-cricbuzzcom|url-status=live}}</ref> In closed bidding held in October, the [[RP-Sanjiv Goenka Group|RPSG Group]] and [[CVC Capital]] won the bids for the teams, paying {{INRConvert|7000|c}} and {{INRConvert|5200|c}}, respectively.<ref>{{cite web|url=https://www.cricbuzz.com/cricket-news/119555/rpsg-cvc-capital-win-bids-for-lucknow-ahmedabad-ipl-teams|title=RPSG, CVC Capital win bids for Lucknow, Ahmedabad IPL teams|work=Cricbuzz|date=25 October 2021 |access-date=25 October 2021|archive-date=25 October 2021|archive-url=https://web.archive.org/web/20211025160632/https://www.cricbuzz.com/cricket-news/119555/rpsg-cvc-capital-win-bids-for-lucknow-ahmedabad-ipl-teams|url-status=live}}</ref><ref>{{cite web|url=https://www.espncricinfo.com/story/ipl-2022-lucknow-and-ahmedabad-become-home-to-the-two-newest-ipl-franchises-1285125|title=Lucknow and Ahmedabad become home to the two newest IPL franchises|publisher=ESPNcricinfo|access-date=25 October 2021|archive-date=25 October 2021|archive-url=https://web.archive.org/web/20211025160802/https://www.espncricinfo.com/story/ipl-2022-lucknow-and-ahmedabad-become-home-to-the-two-newest-ipl-franchises-1285125|url-status=live}}</ref> The teams were subsequently named [[Lucknow Super Giants]] and [[Gujarat Titans]].
+
+Several IPL franchise owners have expanded their business by acquiring teams in other franchise leagues, such as the West Indies' [[Caribbean Premier League]] (CPL), South Africa's [[SA20]], the UAE's [[International League T20]] (ILT20) and the USA's [[Major League Cricket]] (MLC).
+
+In 2023, owners of three existing IPL teams – [[Mumbai Indians]], [[Delhi Capitals]] and [[Royal Challengers Bengaluru]] secured the rights for the homonymous franchises in the [[Women's Premier League (cricket)|Women's Premier League]].<ref>{{Cite news |last=BBC |date=25 January 2023 |title= Women's Indian Premier League: T20 franchises sell for 465m pounds |url=https://www.bbc.com/sport/cricket/64399097 |access-date=12 June 2025 |work=BBC}}</ref>
+
+In addition to these acquisitions, [[Delhi Capitals]] also bought a stake in MLC's [[Seattle Orcas]].<ref>{{Cite news |last=PTI |date=17 March 2023 |title=Delhi Capitals joins hands with Satya Nadella to own Major League Cricket team in U.S. |url=https://www.thehindu.com/sport/cricket/delhi-capitals-joins-hands-with-satya-nadella-to-own-major-league-cricket-team-in-us/article66630496.ece |url-status=live |archive-url=https://web.archive.org/web/20230601014520/https://www.thehindu.com/sport/cricket/delhi-capitals-joins-hands-with-satya-nadella-to-own-major-league-cricket-team-in-us/article66630496.ece |archive-date=1 June 2023 |access-date=29 May 2024 |work=The Hindu |language=en-IN |issn=0971-751X}}</ref>
+
+In 2025, stakes in teams from [[The Hundred (cricket)|The Hundred]] became available. [[RP-Sanjiv Goenka Group|RPSG Group]] ([[Lucknow Super Giants]]) bought a 70% stake in [[Manchester Originals]] for around £81m. [[Reliance Industries]] ([[Mumbai Indians]]) bought a 49% stake in the [[Oval Invincibles]] for £60m,<ref>{{Cite web |date=3 February 2025 |title=The Hundred: Lucknow Super Giants buy stake in Manchester Originals |url=https://www.bbc.com/sport/cricket/articles/c4g305xvl3lo |access-date=4 February 2025 |website=BBC Sport |language=en-GB}}</ref> renaming the team MI London in December 2025.<ref>{{Cite web |date=3 December 2025 |title=The Hundred: Oval Invincibles to be renamed MI London |url=https://www.bbc.com/sport/cricket/articles/cy07kdjjy0yo |access-date=3 December 2025 |website=BBC Sport |language=en-GB}}</ref> [[Yorkshire County Cricket Club|Yorkshire]] sold 100% of [[Northern Superchargers]] to [[Sun Group]] ([[Sunrisers Hyderabad]]) for £100m,<ref>{{Cite web |title=Sun Group secures 100% stake in Northern Superchargers |url=https://www.espncricinfo.com/story/sun-group-secures-stake-in-northern-superchargers-1471960 |access-date=5 February 2025 |website=ESPNcricinfo |language=en}}</ref> before announcing the team would be known as Sunrisers Leeds in November 2025.<ref>{{Cite web |date=4 November 2025 |title=The Hundred: Northern Superchargers change name to Sunrisers Leeds |url=https://www.bbc.com/sport/cricket/articles/cddrgy54pp3o |access-date=3 December 2025 |website=BBC Sport |language=en-GB}}</ref> The [[GMR Group]] ([[Delhi Capitals]]) had already acquired [[Hampshire County Cricket Club|Hampshire]] in a 2024 deal, including the club's 51% stake in the [[Southern Brave]]<ref>{{Cite news |last=Hughes |first=Matt |date=1 August 2024 |title=Delhi Capitals owners agree £120m deal to buy majority share in Hampshire |url=https://www.telegraph.co.uk/cricket/2024/08/01/delhi-capitals-owners-agree-deal-buy-shares-hampshire-ipl/ |access-date=4 February 2025 |work=The Telegraph |language=en-GB |issn=0307-1235}}</ref> and bought the remaining 49% for around £48m.<ref>{{Cite news |last=Martin |first=Ali |date=12 February 2025 |title=Southern Brave sale completes Hundred's £1bn revamp of English cricket |url=https://www.theguardian.com/sport/2025/feb/12/hampshire-snap-up-southern-brave-stake-as-hundred-sale-hits-1billion |access-date=15 February 2025 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> 
+{| class="wikitable" style="font-size:small;"
+! style="width:12%;" |{{flagicon|IND}} <br> IPL<br /> <small>(Men's)</small>
+! style="width:12%;" |{{flagicon|IND}} <br> [[Women's Premier League (cricket)|WPL]]<br /> <small>(Women's)</small>
+! style="width:12%;" |{{flagicon|ENG}} {{flagicon|WAL}} <br> [[The Hundred (cricket)|The Hundred]]<br /> <small>(Men's & Women's)</small>
+! style="width:12%;" |{{flagicon|ENG}} {{flagicon|WAL}} <br> Domestic Cricket<br /> <small>(Men's & Women's)</small>
+! style="width:12%;" |{{flagicon|RSA}} <br> [[SA20]] <br /> <small>(Men's)</small>
+! style="width:12%;" |{{flagicon|UAE}} <br> [[International League T20|ILT20]]<br />  <small>(Men's)</small>
+! style="width:12%;" |{{flagicon|West Indies}} <br> [[Caribbean Premier League|CPL]] <small>(Men's)</small> & [[Women's Caribbean Premier League|WCPL]] <small>(Women's)</small>
+! style="width:12%;" |{{flagicon|USA}} <br> [[Major League Cricket|MLC]]<br /> <small>(Men's)</small>
+|-
+![[Chennai Super Kings]]
+!
+!
+!
+|[[Joburg Super Kings]]
+!
+!
+|[[Texas Super Kings]]
+|-
+![[Delhi Capitals]]
+|[[Delhi Capitals (WPL)|Delhi Capitals]]
+|[[Southern Brave]]
+|[[Hampshire County Cricket Club|Hampshire]]<br/>[[Hampshire Women cricket team|Hampshire Women]]
+|[[Pretoria Capitals]]
+|[[Dubai Capitals]]
+!
+|[[Seattle Orcas]]{{efn|name=minor}}
+|-
+![[Gujarat Titans]]
+!
+!
+!
+!
+!
+!
+!
+|-
+![[Kolkata Knight Riders]]
+!
+!
+!
+!
+|[[Abu Dhabi Knight Riders]]
+|[[Trinbago Knight Riders]]<br/>[[Trinbago Knight Riders (WCPL)|Trinbago Knight Riders Women]]
+|[[Los Angeles Knight Riders]]
+|-
+![[Lucknow Super Giants]]
+!
+|[[Manchester Super Giants]]{{efn|name=minor}}
+!
+|[[Durban's Super Giants]]
+!
+!
+!
+|-
+![[Mumbai Indians]]
+|[[Mumbai Indians (WPL)|Mumbai Indians]]
+|[[Oval Invincibles|MI London]]{{efn|name=minor|Denotes minority stakes}}
+!
+|[[MI Cape Town]]
+|[[MI Emirates]]
+!
+|[[MI New York]]
+|-
+![[Punjab Kings]]
+!
+!
+!
+!
+!
+|[[Saint Lucia Kings]]{{efn|Men's team only}}
+!
+|-
+![[Rajasthan Royals]]
+!
+!
+!
+|[[Paarl Royals]]
+!
+|[[Barbados Tridents]]<br/>[[Barbados Tridents (WCPL)|Barbados Tridents Women]]
+!
+|-
+![[Royal Challengers Bengaluru]]
+|[[Royal Challengers Bengaluru (WPL)|Royal Challengers Bengaluru]]
+!
+!
+!
+!
+!
+!
+|-
+![[Sunrisers Hyderabad]]
+!
+|[[Sunrisers Leeds]]
+!
+|[[Sunrisers Eastern Cape]]
+!
+!
+!
+
+|}
+
+== Organization ==
+The IPL's headquarters are located in the Cricket Centre, next to the [[Wankhede Stadium]] in [[Churchgate]], Mumbai. The Governing Council is responsible for the league's functions, including the organization of tournaments. {{as of|March 2025}}, its members included:<ref>{{Cite web |title=Indian Premier League Official Website |url=https://www.iplt20.com/about/governing-council?id=275 |url-status=live |archive-url=https://web.archive.org/web/20230404223452/https://www.iplt20.com/about/governing-council?id=275 |archive-date=4 April 2023 |access-date=9 April 2023 |website=www.iplt20.com |language=en}}</ref> 
+* Arun Singh Dhumal – Chairman<ref>{{Cite web |last=Acharya |first=Shayan |date=18 October 2022 |title=Led by President Roger Binny, meet BCCI's new team |url=https://sportstar.thehindu.com/cricket/roger-binny-announced-bcci-president-jay-shah-secretary-profiles-elections-agm-mumbai/article66025270.ece |access-date=7 February 2023 |website=sportstar.thehindu.com |language=en |archive-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207171203/https://sportstar.thehindu.com/cricket/roger-binny-announced-bcci-president-jay-shah-secretary-profiles-elections-agm-mumbai/article66025270.ece |url-status=live }}</ref><ref>{{Cite web |date=18 October 2022 |title=BCCI AGM: Roger Binny elected BCCI president, takes over from Sourav Ganguly; Arun Dhumal appointed IPL chairman |url=https://www.zeebiz.com/trending/sports/news-bcci-agm-roger-binny-elected-bcci-president-takes-over-from-sourav-ganguly-arun-dhumal-appointed-ipl-chairman-203793 |access-date=7 February 2023 |website=Zee Business |archive-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207172704/https://www.zeebiz.com/trending/sports/news-bcci-agm-roger-binny-elected-bcci-president-takes-over-from-sourav-ganguly-arun-dhumal-appointed-ipl-chairman-203793 |url-status=live }}</ref>
+* [[Devajit Saikia]] – Honorary Secretary, BCCI, Member
+* Prabhtej Singh Bhatia – Honorary Treasurer, BCCI, Member
+* Avishek Dalmiya – Member
+* [[V. Chamundeswaranath|Vankina Chamundeswaranath]] – Indian Cricketers' Association's representative, Member
+* CM Sane – [[Comptroller and Auditor General of India|CAG]] Nominee, Member
+
+=== Prize money ===
+The 2022 season of the IPL offered total prize money of {{INRConvert|46.5|c|lk=on|year=2022}}, with the winning team netting {{INRConvert|20|c|year=2022}} and the second-placed team {{INRConvert|13|c|year=2022}}.<ref>{{Cite web |last=Livemint |date=29 May 2022 |title=IPL final 2022: Prize money and all other awards. All you need to know |url=https://www.livemint.com/sports/cricket-news/ipl-final-2022-prize-money-and-all-other-awards-all-you-need-to-know-11653808121321.html |access-date=11 April 2023 |website=mint |language=en |archive-date=11 April 2023 |archive-url=https://web.archive.org/web/20230411094230/https://www.livemint.com/sports/cricket-news/ipl-final-2022-prize-money-and-all-other-awards-all-you-need-to-know-11653808121321.html |url-status=live }}</ref><ref>{{Cite web |date=29 May 2022 |title=IPL 2022 Final Prize Money: All You Need To Know About Prize Money, Other Awards |url=https://news.abplive.com/sports/ipl-2022-final-prize-money-winners-runners-up-ipl-season-15-final-rr-vs-gt-cash-prize-bcci-1534490 |access-date=11 April 2023 |website=news.abplive.com |language=en |archive-date=11 April 2023 |archive-url=https://web.archive.org/web/20230411094231/https://news.abplive.com/sports/ipl-2022-final-prize-money-winners-runners-up-ipl-season-15-final-rr-vs-gt-cash-prize-bcci-1534490 |url-status=live }}</ref> League rules mandate that half of any prize money must be distributed among the franchise's players.<ref>{{cite web |author=Amrit Mathur |date=22 April 2013 |title=IPL-onomics: where Indian players call the shots |url=https://www.espncricinfo.com/story/amrit-mathur-on-the-economics-of-the-ipl-indian-players-call-the-shots-631508 |work=ESPNcricinfo |access-date=6 February 2023 |archive-date=6 February 2023 |archive-url=https://web.archive.org/web/20230206124501/https://www.espncricinfo.com/story/amrit-mathur-on-the-economics-of-the-ipl-indian-players-call-the-shots-631508 |url-status=live }}</ref> Royal Challengers Bengaluru won their first IPL title in 2025, receiving ₹20 crore, while runners-up Punjab Kings earned ₹12 crore.<ref>{{Cite web |last=Team |first=CricOpinion |date=4 June 2025 |title=IPL 2025 Awards & Prize Money: Full List of Winners and Earnings |url=https://cricopinion.com/cricket-news/ipl-2025-final-winner-awards-prize-money-list |access-date=14 June 2025 |website=CricOpinion |language=en}}</ref>
+
+==Rules and format==
+The IPL has several rules which vary from the established [[Laws of Cricket|laws of cricket]] or those used in other [[Twenty20]] leagues:
+* IPL games incorporate [[television timeout]]s. Each team is given a two-and-a-half-minute "strategic [[Time-out (sport)|time-out]]" during each innings. One must be taken by the bowling team between the conclusion of the 6th and 9th [[Over (cricket)|over]]s and the other by the batting team between the end of the 13th and 16th overs. A penalty may be imposed if umpires find teams misusing this privilege.<ref>{{cite web|url=https://www.iplt20.com/about/match-playing-conditions/law-15-intervals|title=Law 15 – Intervals|publisher=Indian Premier League|access-date=20 February 2019|archive-date=17 February 2019|archive-url=https://web.archive.org/web/20190217085050/https://www.iplt20.com/about/match-playing-conditions/law-15-intervals|url-status=dead}}</ref> 
+* Since the 2018 season, the [[Decision Review System]] (DRS) has been used in all IPL matches, allowing each team two opportunities in each innings to review an on-field umpire's decision.<ref>{{cite news|title=DRS to be used in IPL|url=https://www.thehindu.com/sport/cricket/drs-to-be-used-in-ipl/article23314621.ece|access-date=20 February 2019|work=The Hindu|agency=PTI|date=21 March 2018|archive-date=20 December 2019|archive-url=https://web.archive.org/web/20191220114513/https://www.thehindu.com/sport/cricket/drs-to-be-used-in-ipl/article23314621.ece|url-status=live}}</ref> From the [[2023 Indian Premier League|2023 season]], this was extended to allow the review of [[wide (cricket)|wide]]s and [[no-ball]]s.<ref name=":2" />
+* If the bowling team does not complete its overs in the allocated time, it may place only four fielders outside of the fielding restrictions circle for the remainder of the [[innings]],<ref name=":2">{{Cite web |date=22 March 2023 |title=IPL 2023 new rules: Playing XI, Impact Player to be revealed after toss; penalties for unfair keeper, fielder movement |url=https://www.hindustantimes.com/cricket/ipl-2023-new-rules-playing-xi-impact-player-to-be-revealed-after-toss-penalties-for-unfair-keeper-fielder-movement-101679487255661.html |access-date=30 March 2023 |website=Hindustan Times |language=en |archive-date=23 March 2023 |archive-url=https://web.archive.org/web/20230323061508/https://www.hindustantimes.com/cricket/ipl-2023-new-rules-playing-xi-impact-player-to-be-revealed-after-toss-penalties-for-unfair-keeper-fielder-movement-101679487255661.html |url-status=live }}</ref> or the match referee may impose financial sanctions on the bowling team after the match, with players fined a proportion of their match fee.<ref>{{Cite news |title=Explained: How the IPL slow over rate penalties works. |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/explained-how-the-ipl-slow-over-rate-penalties-work/articleshow/99755239.cms |website=[[Times of India]] |access-date=22 April 2024 |archive-date=21 May 2024 |archive-url=https://web.archive.org/web/20240521104428/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/explained-how-the-ipl-slow-over-rate-penalties-work/articleshow/99755239.cms |url-status=live }}</ref>
+* Teams can use a [[Substitution in sports|substitute]], termed an "impact player", from a list of five players named as possible substitutes. The substitution can be made before the start of the innings, when a wicket falls, when a batter retires or at the end of an over. Both teams can introduce a substitute once per match.<ref name=":8">{{Cite web |title=Impact player, two team sheets: What are IPL 2023's new rules? |url=https://www.aljazeera.com/sports/2023/3/31/impact-player-two-team-sheets-what-are-ipl-2023s-new-rules |website=Al-Jazeera |access-date=31 March 2023 |archive-date=31 March 2023 |archive-url=https://web.archive.org/web/20230331110223/https://www.aljazeera.com/sports/2023/3/31/impact-player-two-team-sheets-what-are-ipl-2023s-new-rules |url-status=live }}</ref><ref name="ESPN 20221221">{{Cite web |title=Impact Player in IPL 2023 – all you need to know about the new rule |url=https://www.espncricinfo.com/story/ipl-2023-impact-player-all-you-need-to-know-about-the-new-rule-1350616 |date=21 December 2022 |website=ESPN |access-date=3 April 2023 |archive-date=4 April 2023 |archive-url=https://web.archive.org/web/20230404172616/https://www.espncricinfo.com/story/ipl-2023-impact-player-all-you-need-to-know-about-the-new-rule-1350616 |url-status=live }}</ref>
+* Teams can declare their playing eleven to the match referee before or after the toss.<ref name=":8" />
+* A five-run penalty is imposed if a fielder or wicket-keeper makes an unfair movement while the bowler is bowling and the ball is designated as [[dead ball]].<ref>{{Cite web |title=Impact Player to be Indian unless the team starts with less than four foreigners |url=https://www.cricbuzz.com/cricket-news/124905/impact-player-to-be-indian-unless-team-starts-with-less-than-four-foreigners |access-date=30 March 2023 |website=Cricbuzz |date=21 December 2022 |language=en |archive-date=30 March 2023 |archive-url=https://web.archive.org/web/20230330094024/https://www.cricbuzz.com/cricket-news/124905/impact-player-to-be-indian-unless-team-starts-with-less-than-four-foreigners |url-status=live }}</ref><ref name=":2" /><ref name=":8" />
+* Teams can include a maximum of four overseas players in their playing eleven. If a team wants an overseas player as impact player, then it must include a maximum of three overseas players in their playing eleven.<ref name="ESPN 20221221" />
+* Squads can include a maximum of 25 players, including up to eight overseas players.<ref>{{Cite web |title=आयपीएलच्या प्रत्येक संघात जास्तीत जास्त किती खेळाडू असू शकतात, जाणून घ्या नियम |trans-title=How many maximum players have to be in an IPL squad, Know the rules. |url=https://maharashtratimes.com/sports/cricket/iplt20/news/how-many-players-can-be-maximum-in-a-team-of-ipl-know-the-rules/articleshow/96460178.cms |website=MT |access-date=31 March 2023 |archive-date=31 March 2023 |archive-url=https://web.archive.org/web/20230331110224/https://maharashtratimes.com/sports/cricket/iplt20/news/how-many-players-can-be-maximum-in-a-team-of-ipl-know-the-rules/articleshow/96460178.cms |url-status=live }}</ref>
+* Since the [[2024 Indian Premier League|2024 season]], bowlers have been allowed to deliver two bouncers an over. This change in playing conditions was trialled during the [[2023–24 Syed Mushtaq Ali Trophy]], India's domestic T20 tournament.<ref>{{Cite web |title=IPL to allow two bouncers per over |url=https://www.espncricinfo.com/story/ipl-2024-to-allow-two-bouncers-per-over-1413422 |access-date=19 December 2023 |work=ESPNcricinfo |language=en |archive-date=18 December 2023 |archive-url=https://web.archive.org/web/20231218233215/https://www.espncricinfo.com/story/ipl-2024-to-allow-two-bouncers-per-over-1413422 |url-status=live }}</ref>
+
+== Teams ==
+{{location map+ |India |caption=All 10 IPL teams in the cities they are based in|places=
+{{Location map~ |India |lat=18.97 |long=72.82 |label=[[Mumbai Indians|MI]] |position=top}}
+{{Location map~ |India |lat=22.56 |long=88.36 |label=[[Kolkata Knight Riders|KKR]] |position=left}}
+{{Location map~ |India |lat=30.78 |long=76.69 |label=[[Punjab Kings|PBKS]] |position=right}}
+{{Location map~ |India |lat=12.96 |long=77.56 |label=[[Royal Challengers Bengaluru|RCB]] |position=left}}
+{{location map~ |India |lat=26.92 |long=75.82 |label=[[Rajasthan Royals|RR]] |position=left}}
+{{Location map~ |India |lat=28.61 |long=77.23 |label=[[Delhi Capitals|DC]] |position=left}}
+{{Location map~ |India |lat=17.40 |long=78.45 |label=[[Sunrisers Hyderabad|SRH]] |position=right}}
+{{location map~ |India |lat=13.08 |long=80.27 |label=[[Chennai Super Kings|CSK]] |position=right}}
+{{location map~ |India |lat=23.05 |long=72.35 |label=[[Gujarat Titans|GT]] |position=right}}
+{{location map~ |India |lat=26.84 |long=80.94 |label=[[Lucknow Super Giants|LSG]] |position=bottom}}|width=350px|float=right}}
+The IPL began in [[2008 IPL]] with eight teams. Over the years, the league saw several team changes. [[Deccan Chargers]], were terminated in 2012 due to financial issues<ref>{{Cite web |last=AFP |title=Deccan Chargers expelled from IPL |url=https://www.aljazeera.com/sports/2012/10/13/deccan-chargers-expelled-from-ipl |access-date=2026-09-20 |website=Al Jazeera |language=en}}</ref> and were replaced by [[Sunrisers Hyderabad]] in 2013. [[Kochi Tuskers Kerala]] debuted in 2011 but lasted only one season before being terminated for contract breaches<ref>{{Cite news |date=2011-09-20 |title=Kochi Tuskers scrapped from IPL, threatens legal action against BCCI |url=https://timesofindia.indiatimes.com/news/kochi-tuskers-scrapped-from-ipl-threatens-legal-action-against-bcci/articleshow/10041297.cms |access-date=2026-09-20 |work=The Times of India |issn=0971-8257}}</ref>. [[Pune Warriors India]] participated from [[2011 IPL]] to [[2013 IPL]] but withdrew due to financial disputes.<ref>{{Cite web |last=Correspondent |first=H. T. |date=2013-10-26 |title=Pune Warriors' IPL contract terminated by BCCI |url=https://www.hindustantimes.com/cricket/pune-warriors-ipl-contract-terminated-by-bcci/story-SKQLOiGDVgwfWNYYdqtSBI.html |access-date=2026-09-20 |website=Hindustan Times |language=en}}</ref> In 2016, [[Chennai Super Kings]] (CSK) and [[Rajasthan Royals]] (RR) were suspended for two years due to the 2013 betting scandal, leading to the temporary inclusion of [[Rising Pune Supergiant]] and [[Gujarat Lions]], both of which played in [[2016 IPL]] and [[2017 IPL]] before being dissolved when CSK and RR returned in [[2018 IPL]].<ref>{{Cite news |date=2015-07-14 |title=IPL scam: Lodha panel suspends CSK, RR franchises for two years |url=https://www.thehindu.com/news/national/IPL-spot-fixing-scam-CSK-RR-suspended-for-two-years/article60493001.ece |access-date=2026-09-20 |work=The Hindu |language=en-IN |issn=0971-751X}}</ref><ref>{{Cite news |date=2015-07-14 |title=CSK, RR suspended from IPL for 2 years; Meiyappan, Kundra banned for life |url=https://timesofindia.indiatimes.com/news/csk-rr-suspended-from-ipl-for-2-years-meiyappan-kundra-banned-for-life/articleshow/48067702.cms |access-date=2026-09-20 |work=The Times of India |issn=0971-8257}}</ref> In [[2022 IPL]], the league expanded again with the introduction of [[Gujarat Titans]] and [[Lucknow Super Giants]], making it a ten-team tournament.<ref>{{Cite news |date=2021-10-25 |title=Indian Premier League 2022 {{!}} Welcome to the IPL, Lucknow and Ahmedabad |url=https://www.thehindu.com/sport/cricket/indian-premier-league-2022-ahmedabad-lucknow-will-be-new-teams-as-rpsg-and-cvc-capital-partners-make-winning-bids/article37164787.ece |access-date=2026-09-20 |work=The Hindu |language=en-IN |issn=0971-751X}}</ref> Over time, some teams underwent rebranding, such as [[Delhi Daredevils]] becoming [[Delhi Capitals]] in 2019<ref>{{Cite web |last=Correspondent |first=H. T. |date=2018-12-04 |title=Delhi Daredevils renamed Delhi Capitals ahead of IPL 2019 |url=https://www.hindustantimes.com/cricket/delhi-daredevils-renamed-delhi-capitals-ahead-of-ipl-2019/story-IyvHJ85zMQH6O4gLuBQXRK.html |access-date=2026-09-20 |website=Hindustan Times |language=en}}</ref> and [[Kings XI Punjab]] rebranding as [[Punjab Kings]] in 2021.<ref>{{Cite web |last=Desk |first=India Today Web |date=2021-02-15 |title=IPL 2021: Kings XI Punjab to be renamed Punjab Kings as KL Rahul-led side search for elusive title |url=https://www.indiatoday.in/sports/cricket/story/ipl-2021-kings-xi-punjab-set-renamed-punjab-kings-logo-indian-premier-league-1769587-2021-02-15 |access-date=2026-09-20 |website=India Today |language=en}}</ref> Chennai Super Kings and [[Mumbai Indians]] remain the most successful franchises, winning five IPL titles each.<ref>{{Cite journal |last1=Gokul |first1=G. |last2=Sundararaman |first2=Malolan |date=9 November 2023 |title=Determining the playing 11 based on opposition squad: An IPL illustration |journal=Journal of Sports Analytics |language=en |volume=9 |issue=3 |pages=191–203 |doi=10.3233/JSA-220638 |issn=2215-020X|doi-access=free }}</ref> As of the 2025 season, the league consists of 10 teams.
+
+{| class="wikitable" style="font-size:small";
+|-
+!colspan="2"| Team
+!City
+!State
+!Home ground
+!Debut
+!Captain
+!Head coach
+!Owner(s)         
+!Ref
+|-
+| style="background:#faef23;" |
+! [[Chennai Super Kings]]
+| [[Chennai]]
+| [[Tamil Nadu]]
+| [[M. A. Chidambaram Stadium]]
+| text-align:center;| 2008
+| [[Ruturaj Gaikwad]]
+| [[Zaheer Khan]]
+| [[Chennai Super Kings Cricket|Chennai Super Kings Cricket Limited]]
+| <ref name="Jagran">{{cite web|url=https://www.jagranjosh.com/general-knowledge/chennai-super-kings-csk-owner-in-ipl-1682073939-1|title=Chenna Super Kings owner|publisher=[[Jagran Josh]]|access-date=1 May 2024|date=21 March 2024|archive-date=21 March 2024|archive-url=https://web.archive.org/web/20240321133839/https://www.jagranjosh.com/general-knowledge/chennai-super-kings-csk-owner-in-ipl-1682073939-1|url-status=live}}</ref>
+|-
+| style="background:#253f8c;" |
+! [[Delhi Capitals]]
+| [[New Delhi]]
+| [[Delhi]]
+| [[Arun Jaitley Cricket Stadium|Arun Jaitley Stadium]]
+| text-align:center;| 2008
+| [[Axar Patel]]
+| [[Sourav Ganguly]]
+| [[GMR Group]] (50%)<br/>[[JSW Group]] (50%)
+|<ref>{{cite news |title=JSW, GMR to manage Delhi Capitals teams on two-year rotational basis |url=https://economictimes.indiatimes.com/news/sports/jsw-gmr-to-manage-delhi-capitals-teams-on-two-year-rotational-basis/articleshow/114306181.cms |access-date=25 March 2025 |work=The Economic Times |date=17 October 2024}}</ref>
+|-
+| style="background:#081d32;" |
+! [[Gujarat Titans]]
+| [[Ahmedabad]]
+| [[Gujarat]]
+| [[Narendra Modi Stadium]]
+| text-align:center;|2022
+| [[Shubman Gill]]
+| [[Ashish Nehra]]
+| [[Torrent Group]] (67%)<br/>[[CVC Capital Partners|CVC Capital]] (33%)
+|<ref name="gujt">{{cite news |title=IPL 2025: Ahmedabad-based Torrent Group completes acquisition of 67% stake in Gujarat Titans |url=https://www.livemint.com/sports/cricket-news/ipl-2025-ahmedabad-based-torrent-group-completes-acquisition-of-67-stake-in-gujarat-titans-11742230633288.html |access-date=25 March 2025 |work=Mint |date=17 March 2025}}</ref>
+|-
+| style="background:#3a225c;" |
+! [[Kolkata Knight Riders]]
+| [[Kolkata]]
+| [[West Bengal]]
+| [[Eden Gardens]]
+| text-align:center;| 2008
+| [[Rinku Singh]]
+| [[Abhishek Nayar]]
+|[[Shah Rukh Khan]] (55%)<br/>[[Mehta Group]] (45%)
+|<ref name="gujt"/>
+|-
+| style="background:#c4282b;" |
+! [[Lucknow Super Giants]]
+| [[Lucknow]]
+| [[Uttar Pradesh]]
+| [[Ekana Cricket Stadium|Ekana Stadium]]
+| text-align:center;|2022
+| [[Nicolas Pooran]]
+| [[Justin Langer]]
+| [[RP-Sanjiv Goenka Group]]
+|<ref>{{cite news |title='Specifically wanted the Lucknow franchise', Sanjiv Goenka says |url=https://economictimes.indiatimes.com/news/sports/specifically-wanted-the-lucknow-franchise-sanjiv-goenka-says/articleshow/87270246.cms |access-date=25 March 2025 |work=The Economic Times |date=26 October 2021}}</ref>
+|-
+| style="background:#1c5f93;" |
+! [[Mumbai Indians]]
+| [[Mumbai]]
+| [[Maharashtra]]
+| [[Wankhede Stadium]]
+| text-align:center;| 2008
+| [[Hardik Pandya]]
+| [[Mahela Jayawardene]]
+| [[Reliance Industries]]
+|<ref>{{cite web |title=Indiawin Sports Private Limited Financial Statements 2023–24 |url=https://rilstaticasset.akamaized.net/sites/default/files/2024-08/Indiawin-Sports-Private-Limited.pdf |publisher=Reliance Industries |access-date=25 March 2025}}</ref>
+|-
+| style="background:#d92028;" |
+! [[Punjab Kings]]
+| [[New Chandigarh]]
+| [[Punjab, India|Punjab]]
+| [[Maharaja Yadavindra Singh International Cricket Stadium|Maharaja Yadavindra Singh Stadium]]
+| text-align:center;| 2008
+| [[Shreyas Iyer]]
+| [[Ricky Ponting]]
+|[[Mohit Burman]] (48%)<br/>[[Ness Wadia]] (23%)<br/>[[Preity Zinta]] (23%)<br/>[[Karan Paul]] (6%)
+|<ref>{{cite news |title=No plan to sell stake now: Punjab Kings' Burman |url=https://economictimes.indiatimes.com/markets/stocks/news/no-plan-to-sell-stake-now-punjab-kings-burman/articleshow/112754405.cms |access-date=25 March 2025 |work=The Economic Times |date=24 August 2024}}</ref>
+|-
+| style="background:#e21e8e;" |
+! [[Rajasthan Royals]]
+| [[Jaipur]]
+| [[Rajasthan]]
+| [[Sawai Mansingh Stadium]]
+| text-align:center;| 2008
+| [[Riyan Parag]]
+| [[Kumar Sangakkara]]
+|[[Lakshmi Mittal]] (75%)<br/>[[Adar Poonawalla]] (18%) <br/>[[Manoj Badale]] (7%)
+|<ref>{{cite web | title=Mittal Family, Adar Poonawalla acquire Rajasthan Royals for approx $1.65 billion | work=The Times of India | url=https://timesofindia.indiatimes.com/sports/cricket/news/mittal-family-adar-poonawala-acquire-rajasthan-royals-for-approx-1-65-billion/articleshow/130729193.cms }}</ref>
+|-
+| style="background:#d7282f;" |
+! [[Royal Challengers Bengaluru]]
+| [[Bengaluru]]
+| [[Karnataka]]
+| [[M. Chinnaswamy Stadium]]
+| text-align:center;| 2008
+| [[Rajat Patidar]]
+| [[Andy Flower]]
+|[[David Blitzer|Bolt Ventures]] (35%)<br/>[[Aditya Birla Group]] (27%)<br/>[[The Times Group]] (25%)<br/>[[Blackstone Inc.]] (13%)
+|<ref>{{cite news |last1=Malviya |first1=Sagar |title=RCB's fours and sixes lift United Spirits' scorecard in FY24 |url=https://economictimes.indiatimes.com/industry/cons-products/liquor/rcbs-fours-and-sixes-lift-united-spirits-scorecard-in-fy24/articleshow/111560121.cms |access-date=25 March 2025 |work=The Economic Times |date=8 July 2024}}</ref>
+|-
+| style="background:#f36331;" |
+! [[Sunrisers Hyderabad]]
+| [[Hyderabad]]
+| [[Telangana]]
+| [[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]]
+| text-align:center;|2013
+| [[Pat Cummins]]
+| [[Daniel Vettori]]
+| [[Sun Group]]
+|<ref>{{cite news |title=Revenue from cricket franchise SunRisers will rise substantially: Sun TV |url=https://economictimes.indiatimes.com/news/sports/revenue-from-cricket-franchise-sunrisers-will-rise-substantially-sun-tv/articleshow/113068563.cms |access-date=25 March 2025 |work=The Economic Times |date=4 September 2024}}</ref>
+|}
+
+=== Defunct teams ===
+{| class="wikitable" style="font-size:small";
+|-
+!colspan="2"| Team
+!City
+!State
+!Home ground
+!Debut
+!Dissolved
+!Owner(s)
+|-
+| style="background:#00A79D;" |
+|[[Deccan Chargers]]
+|[[Hyderabad]]
+| [[Andhra Pradesh]]<ref>Hyderabad was part of Andhra Pradesh when Deccan Chargers used to play.</ref>
+|[[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]]
+|text-align:center;|2008
+|text-align:center;|2012
+|[[Deccan Chronicle]]
+|-
+| style="background:#F47721;" |
+|[[Kochi Tuskers Kerala]]
+|[[Kochi]]
+| [[Kerala]]
+|[[Jawaharlal Nehru Stadium (Kochi)|Jawaharlal Nehru Stadium]]
+|text-align:center;|2011
+|text-align:center;|2012
+| [[Rendezvous Sports World]]
+|-
+| style="background:#003087;" |
+|[[Pune Warriors India]]
+| rowspan="2" |[[Pune]]
+| rowspan="2" |[[Maharashtra]]
+| rowspan="2" |[[Maharashtra Cricket Association Stadium|MCA Stadium]]
+|text-align:center;|2011
+|text-align:center;|2013
+| [[Sahara India Pariwar]]
+|-
+| style="background:#6a1b9a;" |
+|[[Rising Pune Supergiant]]
+|text-align:center;|2016
+|text-align:center;|2018
+| [[RP-Sanjiv Goenka Group]]
+|-
+| style="background:#f26522;" |
+|[[Gujarat Lions]]
+|[[Rajkot]]
+|[[Gujarat]]
+|[[Niranjan Shah Stadium]]
+|text-align:center;|2016
+|text-align:center;|2018
+| [[Intex Technologies]]
+|}
+
+===Timeline of teams===
+{{Timeline Indian Premier League}}
+
+==Squads==
+A team can acquire players through the annual {{vanchor|player auction}}, trading with other teams during trading windows, and signing replacements for unavailable players.
+
+=== Player acquisition ===
+For the 2025 IPL season, the total salary cap for each team is ₹120 crore. Each team must spend at least 75% of their total salary cap. Each squad must have a minimum of 18 players, a maximum of 25 players and a maximum of 8 overseas players.
+
+==== Auction ====
+Before the auction, teams are permitted to retain a select number of players for the following season. The rules for retaining players are determined by the league prior to each auction. The salaries of retained players are deducted from the team's salary cap prior to the auction.<ref>{{cite news |title=IPL Auction and retention FAQs |url=http://www.cricbuzz.com/cricket-news/98827/ipl-2018-auction-rules-explainer-ms-dhoni-steven-smith-csk-rr |access-date=26 December 2017 |work=Cricbuzz}}</ref> These players do not participate in the auction and merely continue with their current franchise.
+
+The auction usually takes place in the winter months, in the middle of the IPL's offseason. Players who are not retained, and players who were not attached to a team in the previous tournament, can enter the auction. Each player signs up for the auction, sets their base price and plays for the highest-bidding franchise.<ref>{{Cite web |title=IPL Auction |url=https://www.iplt20.com/auction |url-status=live |archive-url=https://web.archive.org/web/20230511191056/https://www.iplt20.com/auction |archive-date=11 May 2023 |access-date=25 May 2023 |website=IPLT20 website}}</ref> Once purchased, the final bid determines the player's salary for that season, and the amount is deducted from the salary cap. [[Free agent|Unsold players]] at the auction can become replacement signings for injured or unavailable players.
+
+The league holds an auction every year, but every 3 years the league will hold a 'mega auction'.<ref>{{Cite news |title=Rishabh Pant becomes most expensive IPL player ever at mega auction |url=https://www.independent.co.uk/sport/cricket/rishabh-pant-ipl-auction-lucknow-delhi-b2653101.html |archive-url=https://web.archive.org/web/20250613145735/https://www.independent.co.uk/sport/cricket/rishabh-pant-ipl-auction-lucknow-delhi-b2653101.html |archive-date=13 June 2025 |access-date=7 August 2025 |work=The Independent |language=en-GB |url-status=live }}</ref><ref name=":1">{{Cite web |date=25 November 2024 |title=What is the IPL auction and who are the main players? |url=https://apnews.com/article/ipl-auction-pant-e9dff27917addbd95c5b699815f8d6f1 |access-date=7 August 2025 |website=AP News |language=en}}</ref> At this mega auction, teams can only retain a small number of players (6 players at the most recent mega auction)<ref name=":1" /> and are required to release a majority of their squad to the auction pool. This system is designed to ensure parity between teams as it forces them to rebuild their squads at regular intervals. Non-mega auctions, where teams can retain a high number of players, are often called 'mini-auctions'.<ref>{{Cite web |date=24 November 2024 |title=IPL auction 2025: Rishabh Pant becomes tournament's most expensive player as Buttler, Archer & Salt get deals |url=https://www.bbc.com/sport/cricket/articles/c5yp0n29j4no |access-date=7 August 2025 |website=BBC Sport |language=en-GB}}</ref>
+
+If a team wants to retain a player who does not want to be retained, the player can request to be traded or released into the auction pool. However, the team has the final say in whether or not to trade or release them. The exception to this is at a mega auction, when the player can demand to be released into the auction pool even if the team intends to retain them.<ref>{{Cite web |date=7 August 2025 |title=Explained: Why Sanju Samson's Fate Is Fully In RR's Hands Despite His Decision To Leave Before IPL 2026 |url=https://www.timesnownews.com/sports/cricket/explained-why-sanju-samsons-fate-is-fully-in-rrs-hands-despite-his-decision-to-leave-before-ipl-2026-article-152427819 |access-date=7 August 2025 |website=Times Now |language=en}}</ref>
+
+==== Trades ====
+Trades require player consent, and any contract differences are covered by the franchise. There are typically three trading windows: two before the auction and one before the tournament. No trading is allowed outside these windows or during the tournament, but replacements can be signed before or during the IPL.
+
+=== Contracts and salaries ===
+Other notable rules, as of the 2024 season, include:
+*The [[salary cap]] of the entire squad have been allotted a purse of  ₹120 crore each.<ref>{{Cite web |date=25 November 2023 |title=Is there a salary cap for IPL teams? Detailing how teams can increase their auction purse {{!}} Sporting News India |url=https://www.sportingnews.com/in/cricket/news/salary-cap-ipl-teams-teams-can-increase-their-auction-purse/f7bc5a9cf2c0876d1bf1cbad |url-status=live |archive-url=https://web.archive.org/web/20240521094942/https://www.sportingnews.com/in/cricket/news/salary-cap-ipl-teams-teams-can-increase-their-auction-purse/f7bc5a9cf2c0876d1bf1cbad |archive-date=21 May 2024 |access-date=21 May 2024 |website=www.sportingnews.com |language=en-in}}</ref>
+* Under-19 players cannot be picked unless they have previously played [[first-class cricket|first-class]] or [[List A cricket|List A]] cricket.<ref>{{cite web |date=5 May 2016 |title=Instances in IPL when team played less than 4 overseas players |url=https://www.crictracker.com/instances-ipl-team-played-less-4-overseas-players/ |url-status=live |archive-url=https://web.archive.org/web/20180707120342/https://www.crictracker.com/instances-ipl-team-played-less-4-overseas-players/ |archive-date=7 July 2018 |access-date=20 February 2019 |work=CricTracker}}</ref>
+
+Player contracts run for one year but can be extended by one or two years if the franchises take up the option. Since the 2014 season, player contracts have been denominated in the [[Indian rupee]], before which the contracts were in the US dollar. Overseas players can be remunerated in the currency of the player's choice, at the exchange rate on either the contract due date or the actual payment date.<ref>{{cite web |date=24 December 2013 |title=Player regulations for IPL 2014 |url=https://www.espncricinfo.com/story/player-regulations-for-ipl-2014-703647 |url-status=live |archive-url=https://web.archive.org/web/20220630015430/https://www.espncricinfo.com/story/player-regulations-for-ipl-2014-703647 |archive-date=30 June 2022 |access-date=20 February 2019 |work=ESPNcricinfo}}</ref> Before the 2014 season, Indian domestic players were not included in the player auction pool. They could be signed up by franchises at a discrete amount while a fixed sum of {{INRConvert|10|l}} to {{INRConvert|30|l}} would be deducted per signing from the franchise's salary purse. This received significant opposition from franchise owners, who complained richer franchises were "luring players with under-the-table deals." The IPL later decided to include domestic players in the player auction.<ref>{{cite web |date=30 January 2014 |title=IPL longlist features 651 uncapped players |url=https://www.espncricinfo.com/story/ipl-longlist-features-651-uncapped-players-714115 |url-status=live |archive-url=https://web.archive.org/web/20230206125545/https://www.espncricinfo.com/story/ipl-longlist-features-651-uncapped-players-714115 |archive-date=6 February 2023 |access-date=20 February 2019 |work=ESPNcricinfo}}</ref>
+
+The BCCI give 10% of foreign players' salaries to their country's national cricket board.<ref name="australia-stars-in-contract-dispute-after-cricket-australia-makes-ipl-cash-grab">{{Cite web |date=7 September 2010 |title=Australia stars in contrast dispute after Cricket Australia makes IPL cash grab. |url=https://www.foxsports.com.au/cricket/indian-premier-league/australia-stars-in-contract-dispute-after-cricket-australia-makes-ipl-cash-grab/news-story/69aca1333b2bbc3e07df1a9d1192bd0e |url-status=live |archive-url=https://web.archive.org/web/20221115192541/https://www.foxsports.com.au/cricket/indian-premier-league/australia-stars-in-contract-dispute-after-cricket-australia-makes-ipl-cash-grab/news-story/69aca1333b2bbc3e07df1a9d1192bd0e |archive-date=15 November 2022 |access-date=15 November 2022 |website=Fox Sports}}</ref>
+
+Based on a 2024 report by ''[[Forbes India]]'', the average IPL salary among the top 10 highest-paid players is ₹12.37 crore,<ref name=":0">{{Cite web |title=Top 10 Most Expensive Players In IPL 2024 |url=https://www.forbesindia.com/article/explainers/most-expensive-players-ipl/92165/1 |url-status=live |archive-url=https://web.archive.org/web/20240521102116/https://www.forbesindia.com/article/explainers/most-expensive-players-ipl/92165/1 |archive-date=21 May 2024 |access-date=21 May 2024 |website=Forbes India |language=en}}</ref> the second-highest of sports leagues in the world. Because players in the IPL are contracted only for the duration of the tournament&nbsp;– less than two months&nbsp;– the weekly IPL salaries are extrapolated ''pro data'' to obtain an average annual salary, unlike other sports leagues in which players are contracted by a single team for the entire year.<ref>{{cite news |date=21 May 2015 |title=IPL cricketers world's No.2 sports earners |url=https://www.emirates247.com/sports/ipl/ipl-cricketers-world-s-no-2-sports-earners-2015-05-21-1.591446 |url-status=live |archive-url=https://web.archive.org/web/20190403133437/https://www.emirates247.com/sports/ipl/ipl-cricketers-world-s-no-2-sports-earners-2015-05-21-1.591446 |archive-date=3 April 2019 |access-date=20 February 2019 |work=Emirates 24/7}}</ref>
+
+According to a report by [[The Daily Telegraph|''The Telegraph'']], IPL players are paid 18% of the revenue, which is the lowest amount compared to other major sports leagues, in which players receive at least 50% of the revenue. The [[Federation of International Cricketers' Associations]] said that IPL players must be paid fairly.<ref>{{cite news |last1=Staff |first1=The Wire |date=2 May 2023 |title=IPL Cricketers Get Only 18% of Revenue as Wages, Must Be 'Paid Fairly': International Federation |url=https://thewire.in/sport/ipl-cricketers-get-only-18-of-revenue-as-wages-must-be-paid-fairly-international-federation |url-status=live |archive-url=https://web.archive.org/web/20230503090353/https://thewire.in/sport/ipl-cricketers-get-only-18-of-revenue-as-wages-must-be-paid-fairly-international-federation |archive-date=3 May 2023 |access-date=3 May 2023 |work=[[The Wire (India)|The Wire]]}}</ref><ref>{{cite news |last1=Wigmore |first1=Tim |date=29 March 2023 |title=Think IPL players are well paid? They should be paid three times more |url=https://www.telegraph.co.uk/cricket/2023/03/29/think-ipl-players-paid-should-paid-three-times/ |url-status=live |archive-url=https://web.archive.org/web/20230503091848/https://www.telegraph.co.uk/cricket/2023/03/29/think-ipl-players-paid-should-paid-three-times/ |archive-date=3 May 2023 |access-date=3 May 2023 |work=[[The Daily Telegraph]]}}</ref><ref>{{cite news |last1=Wigmore |first1=Tim |date=1 May 2023 |title=IPL cricketers should be paid fairly and proportionately, says players' union |url=https://www.telegraph.co.uk/cricket/2023/05/01/ipl-cricketers-not-paid-enough-says-players-union/ |url-status=live |archive-url=https://web.archive.org/web/20230503093353/https://www.telegraph.co.uk/cricket/2023/05/01/ipl-cricketers-not-paid-enough-says-players-union/ |archive-date=3 May 2023 |access-date=3 May 2023 |work=[[The Daily Telegraph]]}}</ref>
+
+{{static-row-numbers}}
+Here is a table listing the most expensive player acquisitions in each Indian Premier League (IPL) season, along with their respective teams and purchase prices. 
+{| class="wikitable sortable"
+|+ List of most expensive player in IPL Auction each year 
+|-
+! Year
+! Auction Location
+! Player
+! Nationality
+! Team
+! Price INR
+! Ref.
+|- 
+|[[List of 2008 Indian Premier League auctions and personnel signings|2008]] || [[Mumbai]] || [[MS Dhoni]] ||{{cr|IND}} ||[[Chennai Super Kings]] || 9.5 crore || <ref>{{cite news|url=https://www.thehindu.com/todays-paper/tp-sports/Dhoni-gets-the-highest-price-at-IPL-auction/article15170655.ece|title=Dhoni gets the highest price at IPL auction|newspaper=[[The Hindu]]|date=21 February 2008|access-date=24 September 2018|archive-date=23 August 2023|url-access=subscription|archive-url=https://web.archive.org/web/20230823143919/https://www.thehindu.com/todays-paper/tp-sports/Dhoni-gets-the-highest-price-at-IPL-auction/article15170655.ece|url-status=live}}</ref>
+|-
+|rowspan=2 | [[List of 2009 Indian Premier League personnel changes|2009]]||rowspan=2 |[[Goa]] || [[Kevin Pietersen]] || rowspan="2" | {{cr|ENG}} || [[Royal Challengers Bangalore]] ||rowspan=2 | 9.8 crore ||rowspan=2 | <ref>{{Cite web|url=http://www.espncricinfo.com/ipl2009/content/story/389466.html|title=Flintoff and Pietersen most expensive buys|work=Cricinfo }}</ref>
+|- 
+|[[Andrew Flintoff]]|| [[Chennai Super Kings]]
+|-
+|rowspan=2 | [[List of 2010 Indian Premier League personnel changes|2010]]||rowspan=3 | [[Bengaluru]] || [[Shane Bond]] || {{cr|NZ}}|| [[Kolkata Knight Riders]] ||rowspan=2| 4.8 crore ||rowspan=2| <ref>{{Cite web |date=20 January 2010 |first=K. Shriniwas |last=Rao |title=IPL3 auction: Mumbai Indians bag Pollard for whopping $2.2m |url=https://timesofindia.indiatimes.com/news/ipl3-auction-mumbai-indians-bag-pollard-for-whopping-2-2m/articleshow/5478767.cms |access-date=4 April 2022 |website=The Times of India |language=en}}</ref>
+|-
+| [[Kieron Pollard]] || {{cr|WIN}} || [[Mumbai Indians]] 
+|-
+|[[List of 2011 Indian Premier League personnel changes|2011]] || [[Gautam Gambhir]] || rowspan="2" | {{cr|IND}} || [[Kolkata Knight Riders]] || 14.9 crore ||<ref>{{cite web |title=Solid nucleus for new-look Kolkata |url=https://www.espncricinfo.com/story/indian-premier-league-2011-solid-nucleus-for-new-look-kolkata-509864 |access-date=13 April 2011 |publisher=ESPNcricinfo}}</ref>
+|-
+|[[List of 2012 Indian Premier League personnel changes|2012]]||rowspan=2 | [[Chennai]] || [[Ravindra Jadeja]] || [[Chennai Super Kings]] || 12.8 crore ||<ref>{{cite web |author=Siddarth Ravindran |date=4 February 2012 |title=Millions for Jadeja, Jayawardene and Vinay |url=https://www.espncricinfo.com/story/ipl-2012-auction-millions-for-ravindra-jadeja-mahela-jayawardene-and-vinay-kumar-552094 |access-date=19 November 2012 |publisher=ESPNcricinfo}}</ref>
+|-
+|[[List of 2013 Indian Premier League personnel changes|2013]] || [[Glenn Maxwell]] || {{cr|AUS}} || [[Mumbai Indians]] || 6.3 crore ||<ref>{{cite news|url=http://www.news.com.au/sport/cricket/glenn-maxwell-scores-million-dollar-contract-in-indian-premier-league-auction/story-fndpt0dy-1226567691662|title=Glenn Maxwell scores million dollar contract in Indian Premier League auction|work=Cricket.Org.PK|access-date=3 February 2013|archive-date=3 February 2013|archive-url=https://web.archive.org/web/20130203094450/http://www.news.com.au/sport/cricket/glenn-maxwell-scores-million-dollar-contract-in-indian-premier-league-auction/story-fndpt0dy-1226567691662|url-status=dead}}</ref>
+|-
+|[[List of 2014 Indian Premier League personnel changes|2014]]|| [[Dubai]] || rowspan="2" | [[Yuvraj Singh]] || rowspan="2" | {{cr|IND}} || [[Royal Challengers Bangalore]] || 14 crore ||<ref>{{cite web |url=http://www.iplt20.com/playerauction |title=Pepsi IPL 2014 Player Auction |publisher=iplt20 |access-date=12 February 2012 |archive-date=14 March 2013 |archive-url=https://web.archive.org/web/20130314024937/http://www.iplt20.com/playerAuction |url-status=dead }}</ref>
+|-
+|[[List of 2015 Indian Premier League personnel changes|2015]]|| rowspan=4 | [[Bengaluru]] || [[Delhi Daredevils]] || 16 crore || <ref>{{Cite web|url=https://sports.ndtv.com/|title=Latest Sports News, Live Scores, Results Today's Sports Headlines Updates|website=NDTVSports.com}}</ref>
+|-
+|[[List of 2016 Indian Premier League personnel changes|2016]] || [[Shane Watson]] || {{cr|AUS}} || [[Royal Challengers Bangalore]] || 9.5 crore || <ref>{{cite web|url=https://www.smh.com.au/sport/cricket/indian-premier-league-auction-shane-watson-goes-for-198m-20160206-gmndml.html|title=IPL auction: Unwanted two months ago, Shane Watson surges to $2 million pay day|last=Hogan|first=Jesse|date=6 February 2016|access-date=11 January 2023|website=The Sydney Morning Herald}}</ref>
+|-
+|[[List of 2017 Indian Premier League personnel changes|2017]] || rowspan="2" | [[Ben Stokes]] || rowspan="2" | {{cr|ENG}} || [[Rising Pune Supergiant]] || 14.5 crore || <ref>{{Cite web |title=IPL Auction Live: Jason Roy, Darren Sammy, Guptill Find Takers |url=https://www.thequint.com/sports/2017/02/20/ipl-2017-auction-live-morgan-johnson-mathews-up-for-grabs-stokes-england-india-cricket-dhoni-ishant-sharma-boult |access-date=26 February 2017 |website=[[The Quint]]|date=20 February 2017 }}</ref>
+|-
+|[[List of 2018 Indian Premier League personnel changes|2018]] || [[Rajasthan Royals]] || 12.5 crore || <ref>{{Cite news |last=Wilde |first=Simon |date=2018 |title=Stokes goes for £1.37m... Root snubbed |language=en |work=[[The Sunday Times]] |url=https://www.thetimes.com/sport/cricket/article/stokes-goes-for-1-37m-root-snubbed-9z5vvjx3h |access-date=28 January 2018 |issn=0956-1382}}</ref>
+|-
+|[[List of 2019 Indian Premier League personnel changes|2019]] || [[Jaipur]] ||[[Varun Chakravarthy]] || {{cr|IND}} || [[Kings XI Punjab]] || 8.4 crore || <ref>{{cite web |url=http://www.espncricinfo.com/story/_/id/25390461/ipl-2019-auction-was-sold-whom |title=IPL 2019 auction: The list of sold and unsold players |work=ESPNcricinfo |access-date=18 December 2018 |date=18 December 2018 |archive-date=18 December 2018 |archive-url=https://web.archive.org/web/20181218224600/http://www.espncricinfo.com/story/_/id/25390461/ipl-2019-auction-was-sold-whom |url-status=live }}</ref><ref>{{cite web |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-auction-2019-who-got-whom/articleshow/67144375.cms |title=IPL 2019 Auction: Who got whom |work=The Times of India |access-date=18 December 2018 |archive-date=18 December 2018 |archive-url=https://web.archive.org/web/20181218230123/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-auction-2019-who-got-whom/articleshow/67144375.cms |url-status=live }}</ref>
+|-
+|[[List of 2020 Indian Premier League personnel changes|2020]] || [[Kolkata]] || [[Pat Cummins]] || {{cr|AUS}} || [[Kolkata Knight Riders]] || 15.5 crore || <ref>{{cite web|date=19 December 2019|title=IPL 2020 auction: Cummins goes for record sum, windfall for Aussies|url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2020-auction-watch-live-streaming-update-players-bid-expensive-buys-rcb-csk-kkr-mi-srh-dc-rr-kxip-full-squad-team-list-base-price/article30341823.ece|access-date=20 December 2019|work=Sportstar: The Hindu}}</ref>
+|-
+|[[List of 2021 Indian Premier League personnel changes|2021]] || [[Chennai]] || [[Chris Morris (cricketer)|Chris Morris]] || {{cr|SA}} || [[Rajasthan Royals]] || 16.25 crore
+|
+|-
+|[[List of 2022 Indian Premier League personnel changes|2022]] || [[Bengaluru]] || [[Ishan Kishan]] || {{cr|IND}} || [[Mumbai Indians]] || 15.25 crore
+|
+|-
+|[[List of 2023 Indian Premier League personnel changes|2023]] ||[[Kochi]] || [[Sam Curran]] || {{cr|ENG}} || [[Punjab Kings]] || 18.5 crore
+|
+|-
+|[[List of 2024 Indian Premier League personnel changes|2024]] || [[Dubai]] || [[Mitchell Starc]] || {{cr|AUS}} || [[Kolkata Knight Riders]] || 24.75 crore
+|
+|-
+|[[List of 2025 Indian Premier League personnel changes|2025]] || [[Jeddah]] || [[Rishabh Pant]] || {{cr|IND}} || [[Lucknow Super Giants]] || 27 crore
+|
+|-
+|[[List of 2026 Indian Premier League personnel changes|2026]] || [[Abu Dhabi]] || [[Cameron Green]] || {{cr|AUS}}|| [[Kolkata Knight Riders]] || 25.25 crore
+|
+|}
+
+==Tournament results==
+{{Main|List of Indian Premier League seasons and results|List of Indian Premier League records and statistics}}
+
+{| class="wikitable sortable" style="font-size:90%; text-align: center;"
+! rowspan="2" |Year
+! colspan="3" |Final
+! rowspan="2" |Venue
+! rowspan="2" |Player of the Season
+|-
+!Winner
+!Result
+!Runners up
+|- style="background:#ddeeff"
+!{{flagicon|IND}} [[2008 Indian Premier League|2008]]
+|'''[[Rajasthan Royals]]'''<br />{{small|164/7 (20 overs)}}
+|'''RR won by 3 wickets'''<br />[http://www.espncricinfo.com/ipl/engine/match/336040.html Scorecard]
+|[[Chennai Super Kings]]<br />{{small|163/5 (20 overs)}}
+|[[DY Patil Stadium]],<br /> [[Navi Mumbai]]
+|[[Shane Watson]] ([[Rajasthan Royals|RR]])
+|-
+!{{flagicon|SA}} [[2009 Indian Premier League|2009]]
+|'''[[Deccan Chargers]]'''<br />{{small|143/6 (20 overs)}}
+|'''DC won by 6 runs''' <br />[http://www.espncricinfo.com/ipl2009/engine/match/392239.html Scorecard]
+|[[Royal Challengers Bangalore]]<br /><small>137/9 (20 overs)</small>
+|[[Wanderers Stadium]],<br /> [[Johannesburg]]
+|[[Adam Gilchrist]] ([[Deccan Chargers|DC]])
+|- style="background:#ddeeff"
+!{{flagicon|IND}} [[2010 Indian Premier League|2010]]
+|'''[[Chennai Super Kings]]'''<br />{{small|168/5 (20 overs)}}
+|'''CSK won by 22 runs'''<br />[http://www.espncricinfo.com/ipl2010/engine/match/419165.html Scorecard]
+|[[Mumbai Indians]]<br /><small>146/9 (20 overs)</small>
+|[[DY Patil Stadium]],<br /> [[Navi Mumbai]]
+|[[Sachin Tendulkar]] ([[Mumbai Indians|MI]])
+|-
+!{{flagicon|IND}} [[2011 Indian Premier League|2011]]
+|'''[[Chennai Super Kings]]'''<br /><small>205/5 (20 overs)</small>
+|'''CSK won by 58 runs'''<br />[http://www.espncricinfo.com/indian-premier-league-2011/engine/match/501271.html Scorecard]
+|[[Royal Challengers Bangalore]]<br /><small>147/8 (20 overs)</small>
+| [[M. A. Chidambaram Stadium]],<br /> [[Chennai]]
+|[[Chris Gayle]] ([[Royal Challengers Bangalore|RCB]])
+|- style="background:#ddeeff"
+!{{flagicon|IND}} [[2012 Indian Premier League|2012]]
+|'''[[Kolkata Knight Riders]]'''<br /><small>192/5 (19.4 overs)</small>
+|'''KKR won by 5 wickets'''<br />[http://www.espncricinfo.com/indian-premier-league-2012/engine/match/548381.html Scorecard]
+|[[Chennai Super Kings]]<br /><small>190/3 (20 overs)</small>
+| [[M. A. Chidambaram Stadium]],<br /> [[Chennai]]
+|[[Sunil Narine]] ([[Kolkata Knight Riders|KKR]])
+|-
+!{{flagicon|IND}} [[2013 Indian Premier League|2013]]
+|'''[[Mumbai Indians]]'''<br /><small>148/9 (20 overs)</small>
+|'''MI won by 23 runs'''<br />[http://www.espncricinfo.com/ci/engine/match/598073.html Scorecard]
+|[[Chennai Super Kings]]<br /><small>125/9 (20 overs)</small>
+|[[Eden Gardens]],<br /> [[Kolkata]]
+|[[Shane Watson]] ([[Rajasthan Royals|RR]])
+|- style="background:#ddeeff"
+!{{flagicon|IND}} {{flagicon|UAE}} [[2014 Indian Premier League|2014]]
+|'''[[Kolkata Knight Riders]]'''<br /><small>200/7 (19.3 overs)</small>
+|'''KKR won by 3 wickets'''<br />[http://www.espncricinfo.com/indian-premier-league-2014/engine/match/734049.html Scorecard]
+|[[Kings XI Punjab]]<br /><small>199/4 (20 overs)</small>
+|[[M. Chinnaswamy Stadium]],<br /> [[Bengaluru]]
+|[[Glenn Maxwell]] ([[Kings XI Punjab|KXIP]])
+|-
+!{{flagicon|IND}} [[2015 Indian Premier League|2015]]
+|'''[[Mumbai Indians]]'''<br /><small>202/5 (20 overs)</small>
+|'''MI won by 41 runs'''<br />[http://www.espncricinfo.com/indian-premier-league-2015/engine/match/829823.html Scorecard]
+|[[Chennai Super Kings]]<br /><small>161/8 (20 overs)</small>
+|[[Eden Gardens]],<br /> [[Kolkata]]
+|[[Andre Russell]] ([[Kolkata Knight Riders|KKR]])
+|- style="background:#ddeeff"
+!{{flagicon|IND}} [[2016 Indian Premier League|2016]]
+|'''[[Sunrisers Hyderabad]]'''<br /><small>208/7 (20 overs)</small>
+|'''SRH won by 8 runs'''<br />[http://www.espncricinfo.com/ci/engine/match/981019.html Scorecard]
+|[[Royal Challengers Bangalore]]<br /><small >200/7 (20 overs) </small>
+|[[M. Chinnaswamy Stadium]],<br /> [[Bengaluru]]
+| [[Virat Kohli]] ([[Royal Challengers Bangalore|RCB]])
+|-
+!{{flagicon|IND}} [[2017 Indian Premier League|2017]]
+|'''[[Mumbai Indians]]'''<br /><small>129/8 (20 overs)</small>
+|'''MI won by 1 run'''<br />[http://www.espncricinfo.com/ci/engine/match/1082650.html Scorecard]
+|[[Rising Pune Supergiant]]<br />{{small|128/6 (20 overs)}}
+|[[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]],<br /> [[Hyderabad]]
+|[[Ben Stokes]] ([[Rising Pune Supergiant|RPS]])
+|- style="background:#ddeeff"
+!{{flagicon|IND}} [[2018 Indian Premier League|2018]]
+|'''[[Chennai Super Kings]]'''<br />{{small|181/2 (18.3 overs)}}
+|'''CSK won by 8 wickets'''<br />[http://www.espncricinfo.com/series/8048/game/1136620 Scorecard]
+|[[Sunrisers Hyderabad]]<br />{{small|178/6 (20 overs)}}
+|[[Wankhede Stadium]],<br /> [[Mumbai]]
+|[[Sunil Narine]] ([[Kolkata Knight Riders|KKR]])
+|-
+!{{flagicon|IND}} [[2019 Indian Premier League|2019]]
+|'''[[Mumbai Indians]]'''<br /><small>149/8 (20 overs)</small>
+|'''MI won by 1 run'''<br />[http://www.espncricinfo.com/series/8048/game/1181768 Scorecard]
+|[[Chennai Super Kings]]<br /><small>148/7 (20 overs)</small>
+|[[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]],<br /> [[Hyderabad]]
+|[[Andre Russell]] ([[Kolkata Knight Riders|KKR]])
+|- style="background:#ddeeff"
+!{{flagicon|UAE}} [[2020 Indian Premier League|2020]]
+|'''[[Mumbai Indians]]'''<br /><small>157/5 (18.4 overs)</small>
+|'''MI won by 5 wickets'''<br />[https://www.espncricinfo.com/series/8048/game/1237181 Scorecard]
+|[[Delhi Capitals]]<br /><small>156/7 (20 overs)</small>
+| [[Dubai International Cricket Stadium|Dubai International Stadium]], [[Dubai]]
+|[[Jofra Archer]] ([[Rajasthan Royals|RR]])
+|-
+!{{flagicon|IND}} {{flagicon|UAE}}[[2021 Indian Premier League|2021]]
+|'''[[Chennai Super Kings]]'''<br /><small>192/3 (20 overs)</small>
+|'''CSK won by 27 runs'''<br />[https://www.iplt20.com/match/2021/60 Scorecard]
+|[[Kolkata Knight Riders]]<br /><small>165/9 (20 overs)</small>
+| [[Dubai International Cricket Stadium|Dubai International Stadium]],<br /> [[Dubai]]
+|[[Harshal Patel]] ([[Royal Challengers Bangalore|RCB]])
+|- style="background:#ddeeff"
+!{{flagicon|IND}} [[2022 Indian Premier League|2022]]
+|'''[[Gujarat Titans]]'''<br /><small>133/3 (18.1 overs)</small>
+|'''GT won by 7 wickets'''<br />[https://www.iplt20.com/match/2022/531 Scorecard]
+|[[Rajasthan Royals]]<br /><small>130/9 (20 overs)</small>
+|[[Narendra Modi Stadium]],<br /> [[Ahmedabad]]
+| [[Jos Buttler]] ([[Rajasthan Royals|RR]])
+|-
+!{{flagicon|IND}} [[2023 Indian Premier League|2023]]
+|'''[[Chennai Super Kings]]'''<br /><small>171/5 (15 overs)</small>
+|'''CSK won by 5 wickets''' ([[Duckworth-Lewis-Stern method|DLS]])<br />[https://www.espncricinfo.com/ci/engine/match/1370353.html Scorecard]
+| [[Gujarat Titans]]<br /><small>214/4 (20 overs)</small>
+|[[Narendra Modi Stadium]],<br /> [[Ahmedabad]]
+| [[Shubman Gill]] ([[Gujarat Titans|GT]])
+|- style="background:#ddeeff"
+!{{flagicon|IND}} [[2024 Indian Premier League|2024]]
+| |'''[[Kolkata Knight Riders]]'''<br/><small>114/2 (10.3 overs)</small>
+|'''KKR won by 8 wickets'''<br/>[https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-sunrisers-hyderabad-final-1426312/full-scorecard Scorecard]
+| [[Sunrisers Hyderabad]]<br/><small>113/10 (18.3 overs)</small>
+|[[M. A. Chidambaram Stadium]],<br /> [[Chennai]]
+| [[Sunil Narine]] ([[Kolkata Knight Riders|KKR]])
+|- 
+!{{flagicon|IND}} [[2025 Indian Premier League|2025]]
+|'''[[Royal Challengers Bengaluru]]'''<br /><small>190/9 (20 overs)</small>
+|'''RCB won by 6 runs'''<br/>[https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-royal-challengers-bengaluru-final-1473511/full-scorecard Scorecard]
+| [[Punjab Kings]]<br/><small>184/7 (20 overs)</small>
+|[[Narendra Modi Stadium]],<br /> [[Ahmedabad]]
+| [[Suryakumar Yadav]] ([[Mumbai Indians|MI]])
+|- style="background:#ddeeff"
+!{{flagicon|IND}} [[2026 Indian Premier League|2026]]
+|'''[[Royal Challengers Bengaluru]]'''<br /><small>161/5 (18 overs)</small>
+|'''RCB won by''' '''5 wickets'''<br/>[https://www.espncricinfo.com/series/ipl-2026-1510719/royal-challengers-bengaluru-vs-gujarat-titans-final-1535465/full-scorecard Scorecard]
+|[[Gujarat Titans]]<br/><small>155/8 (20 overs)</small>
+|[[Narendra Modi Stadium]],<br />[[Ahmedabad]]
+| [[Vaibhav Sooryavanshi]] ([[Rajasthan Royals|RR]])
+|}
+
+==Performance by teams==
+[[Chennai Super Kings]] and [[Mumbai Indians]] have each won five titles, the most in the tournament. [[Kolkata Knight Riders]] have won three titles,<ref>{{cite web |url=https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-sunrisers-hyderabad-final-1426312/match-report |title=KKR's bowlers rip through SRH to win third IPL title |work=ESPNCricinfo |date=26 May 2024 |access-date=26 May 2024 |archive-date=26 May 2024 |archive-url=https://web.archive.org/web/20240526172105/https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-sunrisers-hyderabad-final-1426312/match-report |url-status=live }}</ref> [[Royal Challengers Bengaluru]] have won two titles, while [[Rajasthan Royals]], [[Deccan Chargers]], [[Sunrisers Hyderabad]] and [[Gujarat Titans]] have each won a single title.<ref>{{cite web|url=https://www.financialexpress.com/sports/ipl/first-ipl-winning-rajasthan-royals-team-find-out-where-they-are-now/1116052/|title=First IPL winning Rajasthan Royals team: Find out where they are now|date=30 March 2018 |access-date=19 October 2022|archive-date=16 October 2019|archive-url=https://web.archive.org/web/20191016121212/https://www.financialexpress.com/sports/ipl/first-ipl-winning-rajasthan-royals-team-find-out-where-they-are-now/1116052/|url-status=live}}</ref><ref>{{cite web|url=https://www.indiatoday.in/sports/story/this-day-that-year-srh-win-ipl-1st-batsman-dismissed-in-test-is-born-1244963-2018-05-29|title=This day, that year: SRH win IPL, 1st batsman dismissed in Test is born|website=India Today|date=29 May 2018 |access-date=19 October 2022|archive-date=16 October 2019|archive-url=https://web.archive.org/web/20191016121338/https://www.indiatoday.in/sports/story/this-day-that-year-srh-win-ipl-1st-batsman-dismissed-in-test-is-born-1244963-2018-05-29|url-status=live}}</ref> The reigning champions are the Royal Challengers Bengaluru, who defeated the Gujarat Titans by 5 wickets in the 2026 IPL [[2026 Indian Premier League final|final]] to secure their second consecutive title.
+
+{| class="wikitable sortable"
+|-
+! colspan="2"| Team
+! Winners 
+! Runners up 
+! Playoffs
+! Seasons
+|- 
+| style="background:#faef23;" |
+| [[Chennai Super Kings]]
+|style="background:gold"| 5 ([[2010 Indian Premier League|2010]], [[2011 Indian Premier League|2011]], [[2018 Indian Premier League|2018]], [[2021 Indian Premier League|2021]], [[2023 Indian Premier League|2023]])
+|style="background:#C0C0C0"| 5 ([[2008 Indian Premier League|2008]], [[2012 Indian Premier League|2012]], [[2013 Indian Premier League|2013]], [[2015 Indian Premier League|2015]], [[2019 Indian Premier League|2019]])
+| 12
+| 17
+|- 
+| style="background:#1c5f93;" |
+| [[Mumbai Indians]]
+|style="background:gold"| 5 ([[2013 Indian Premier League|2013]], [[2015 Indian Premier League|2015]], [[2017 Indian Premier League|2017]], [[2019 Indian Premier League|2019]], [[2020 Indian Premier League|2020]])
+|style="background:#C0C0C0"| 1 ([[2010 Indian Premier League|2010]])
+| 11
+| 19
+|- 
+| style="background:#3a225c;" |
+| [[Kolkata Knight Riders]]
+|style="background:gold"| 3 ([[2012 Indian Premier League|2012]], [[2014 Indian Premier League|2014]], [[2024 Indian Premier League|2024]])
+|style="background:#C0C0C0"| 1 ([[2021 Indian Premier League|2021]])
+| 8
+| 19
+|- 
+| style="background:#d7282f;" |
+| [[Royal Challengers Bengaluru]]
+|style="background:gold"| 2 ([[2025 Indian Premier League|2025]], [[2026 Indian Premier League|2026]])
+|style="background:#C0C0C0"| 3 ([[2009 Indian Premier League|2009]], [[2011 Indian Premier League|2011]], [[2016 Indian Premier League|2016]])
+| 11
+| 19
+|- 
+| style="background:#f36331;" |
+| [[Sunrisers Hyderabad]]
+|style="background:gold"| 1 ([[2016 Indian Premier League|2016]])
+|style="background:#C0C0C0"| 2 ([[2018 Indian Premier League|2018]], [[2024 Indian Premier League|2024]])
+| 8
+| 14
+|- 
+| style="background:#081d32;" |
+| [[Gujarat Titans]]
+|style="background:gold"| 1 ([[2022 Indian Premier League|2022]])
+|style="background:#C0C0C0"| 2 ([[2023 Indian Premier League|2023]], [[2026 Indian Premier League|2026]])
+| 4
+| 5
+|- 
+| style="background:#e21e8e;" |
+| [[Rajasthan Royals]]
+|style="background:gold"| 1 ([[2008 Indian Premier League|2008]])
+|style="background:#C0C0C0"| 1 ([[2022 Indian Premier League|2022]])
+| 7
+| 17
+|- 
+| style="background:#00A79D;" |
+| [[Deccan Chargers]] <sup>†</sup>
+|style="background:gold"| 1 ([[2009 Indian Premier League|2009]])
+| 
+| 2
+| 5
+|- 
+| style="background:#d92028;" |
+| [[Punjab Kings]]
+|
+|style="background:#C0C0C0"| 2 ([[2014 Indian Premier League|2014]], [[2025 Indian Premier League|2025]])
+| 3
+| 19
+|- 
+| style="background:#253f8c;" |
+| [[Delhi Capitals]]
+|
+|style="background:#C0C0C0"| 1 ([[2020 Indian Premier League|2020]])
+| 6
+| 19
+|- 
+| style="background:#6a1b9a;" |
+| [[Rising Pune Supergiant]] <sup>†</sup>
+|
+|style="background:#C0C0C0"| 1 ([[2017 Indian Premier League|2017]])
+|1
+| 2
+|- 
+| style="background:#c4282b;" |
+| [[Lucknow Super Giants]]
+|
+|
+|2
+|5
+|- 
+| style="background:#f26522;" |
+| [[Gujarat Lions]] <sup>†</sup>
+|
+|
+|1
+|2
+|- 
+| style="background:#003087;" |
+| [[Pune Warriors India]] <sup>†</sup>
+|
+|
+| –
+|3 
+|- 
+| style="background:#F47721;" |
+| [[Kochi Tuskers Kerala]] <sup>†</sup>
+|
+|
+| –
+|1 
+|-
+|}
+<sup>†</sup> <small>Team now defunct</small>
+
+=== Seasons ===
+{| class="wikitable" style="text-align: center"
+|-
+!colspan="2"| Team
+![[2008 Indian Premier League|2008]]
+![[2009 Indian Premier League|2009]]
+![[2010 Indian Premier League|2010]]
+![[2011 Indian Premier League|2011]]
+![[2012 Indian Premier League|2012]]
+![[2013 Indian Premier League|2013]]
+![[2014 Indian Premier League|2014]]
+![[2015 Indian Premier League|2015]]
+![[2016 Indian Premier League|2016]]
+![[2017 Indian Premier League|2017]]
+![[2018 Indian Premier League|2018]]
+![[2019 Indian Premier League|2019]]
+![[2020 Indian Premier League|2020]]
+![[2021 Indian Premier League|2021]]
+![[2022 Indian Premier League|2022]]
+![[2023 Indian Premier League|2023]]
+![[2024 Indian Premier League|2024]]
+![[2025 Indian Premier League|2025]]
+![[2026 Indian Premier League|2026]]
+|-
+| style="background:#faef23;" |
+| align=left| [[Chennai Super Kings]]
+! style="background: silver" | RU
+| style="background: #cfc" |SF
+! style="background: gold" | C
+! style="background: gold" | C
+! style="background: silver" | RU
+! style="background: silver" | RU
+| style="background: #cfc" |3rd
+! style="background: silver" | RU
+| colspan="2" | ''Suspended''
+! style="background: gold" | C
+! style="background: silver" | RU
+| 7th
+! style="background: gold" | C
+| 9th
+! style="background: gold" | C
+| 5th
+| 10th
+|8th
+|-
+| style="background:#253f8c;" |
+| align="left" | [[Delhi Capitals]]
+| style="background: #cfc" |SF
+| style="background: #cfc" |SF
+| 5th
+| 10th
+| style="background: #cfc" |3rd
+| 9th
+| 8th
+| 7th
+| 6th
+| 6th
+| 8th
+| style="background: #cfc" |3rd
+! style="background: silver" | RU
+| style="background: #cfc" |3rd
+| 5th
+| 9th
+| 6th
+| 5th
+|6th
+|-
+| style="background:#081d32;" |
+| align="left" | [[Gujarat Titans]]
+| colspan="14" style="background: #ececec" | –
+! style="background: gold" | C
+! style="background: silver" | RU
+| 8th
+| style="background: #cfc" | 4th
+! style="background: silver" | RU
+|-
+| style="background:#3a225c;" |
+| align="left" | [[Kolkata Knight Riders]]
+| 6th
+| 8th
+| 7th
+| style="background: #cfc" |4th
+! style="background: gold" | C
+| 7th
+! style="background: gold" | C
+| 5th
+| style="background: #cfc" |4th
+| style="background: #cfc" |3rd
+| style="background: #cfc" |3rd
+| 5th
+| 5th
+! style="background: silver" | RU
+| 7th
+| 7th
+! style="background: gold" | C
+| 8th
+|7th
+|-
+| style="background:#c4282b;" |
+| align="left" | [[Lucknow Super Giants]]
+| colspan="14" style="background: #ececec" | –
+| style="background: #cfc" |4th
+| style="background: #cfc" |4th
+| 7th
+| 7th
+| 10th 
+|-
+| style="background:#1c5f93;" |
+| align="left" | [[Mumbai Indians]]
+| 5th
+| 7th
+! style="background: silver" | RU
+| style="background: #cfc" |3rd
+| style="background: #cfc" |4th
+! style="background: gold" | C
+| style="background: #cfc" |4th
+! style="background: gold" | C
+| 5th
+! style="background: gold" | C
+| 5th 
+! style="background: gold" | C
+! style="background: gold" | C
+| 5th
+| 10th 
+| style="background: #cfc" |3rd
+| 10th
+| style="background: #cfc" |3rd
+| 9th
+|-
+| style="background:#d92028;" |
+| align="left" | [[Punjab Kings]] 
+| style="background: #cfc" |SF
+| 5th
+| 8th
+| 5th
+| 6th
+| 6th
+! style="background: silver" | RU 
+| 8th
+| 8th
+| 5th
+| 7th
+| 6th
+| 6th
+| 6th
+| 6th
+| 8th
+| 9th
+! style="background: silver" | RU 
+|5th
+|-
+| style="background:#e21e8e;" |
+| align="left" | [[Rajasthan Royals]]
+! style="background: gold" | C
+| 6th
+| 7th
+| 6th
+| 7th
+| style="background: #cfc" |3rd
+| 5th
+| style="background: #cfc" |4th
+| colspan="2" | ''Suspended''
+| style="background: #cfc" |4th
+| 7th
+| 8th
+| 7th
+! style="background: silver" | RU
+| 5th
+| style="background: #cfc" |3rd
+| 9th
+| style="background: #cfc" |3rd
+|-
+| style="background:#d7282f;" |
+| align="left" | [[Royal Challengers Bengaluru]]
+| 7th
+! style="background: silver" | RU
+| style="background: #c96" | 3rd
+! style="background: silver" | RU
+| 5th
+| 5th
+| 7th
+| style="background: #cfc" |3rd
+! style="background: silver" | RU
+| 8th
+| 6th
+| 8th
+| style="background: #cfc" |4th
+| style="background: #cfc" |4th
+| style="background: #cfc" |3rd
+| 6th
+| style="background: #cfc" |4th
+! style="background: gold" |C
+! style="background: gold" |C
+|-
+| style="background:#f36331;" |
+| align="left" | [[Sunrisers Hyderabad]]
+| colspan="5" style="background: #ececec" | –
+| style="background: #cfc" |4th
+| 6th
+| 6th
+! style="background: gold" |C
+| style="background: #cfc" |4th
+! style="background: silver" | RU 
+| style="background: #cfc" |4th
+| style="background: #cfc" |3rd
+| 8th
+| 8th
+| 10th
+! style="background: silver" | RU
+| 6th
+| style="background: #cfc" |4th
+|-
+! colspan=21|Defunct Teams
+|-
+| style="background:#00A79D;" |
+| align="left" | [[Deccan Chargers]]
+| 8th 
+! style="background: gold" | C
+| style="background: #cfc" |4th
+| 7th
+| 8th
+| colspan="14" style="background: #ececec" | –
+|-
+| style="background:#F47721;" |
+| align=left | [[Kochi Tuskers Kerala]]
+| colspan="3" style="background: #ececec" | –
+| 8th
+| colspan="15" style="background: #ececec" | –
+|-
+| style="background:#003087;" |
+| align=left | [[Pune Warriors India]]
+| colspan="3" style="background: #ececec" | –
+| 9th
+| 9th
+| 8th
+| colspan="13" style="background: #ececec" | –
+|-
+| style="background:#f26522;" |
+| align=left | [[Gujarat Lions]]
+| colspan="8" style="background: #ececec" | –
+| style="background: #cfc" |3rd
+| 7th
+| colspan="9" style="background: #ececec" | –
+|-
+| style="background:#6a1b9a;" |
+| align=left | [[Rising Pune Supergiant]]
+| colspan="8" style="background: #ececec" | –
+| 7th
+! style="background: silver" | RU
+| colspan="9" style="background: #ececec" | –
+|}
+* Active teams are listed alphabetically. Defunct teams are listed by order of entry to the league, then alphabetically.
+
+{{color box|border=darkgray|gold}} Champions<br/>
+{{color box|border=darkgray|silver}} Runners up<br/>
+{{color box|border=darkgray|c96}} Team won the 3rd place playoff; only took place in 2010<br/>
+{{color box|border=darkgray|cfc}} Team qualified for the playoffs or semi-final
+
+===Positions each season===
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan=2|Position
+!colspan=19|Season
+|-
+! [[2008 Indian Premier League|2008]]
+! [[2009 Indian Premier League|2009]]
+! [[2010 Indian Premier League|2010]]
+! [[2011 Indian Premier League|2011]]
+! [[2012 Indian Premier League|2012]]
+! [[2013 Indian Premier League|2013]]
+! [[2014 Indian Premier League|2014]]
+! [[2015 Indian Premier League|2015]]
+! [[2016 Indian Premier League|2016]]
+! [[2017 Indian Premier League|2017]]
+! [[2018 Indian Premier League|2018]]
+! [[2019 Indian Premier League|2019]]
+! [[2020 Indian Premier League|2020]]
+! [[2021 Indian Premier League|2021]]
+! [[2022 Indian Premier League|2022]]
+! [[2023 Indian Premier League|2023]]
+! [[2024 Indian Premier League|2024]]
+! [[2025 Indian Premier League|2025]]
+! [[2026 Indian Premier League|2026]]
+|-
+! 1st
+|scope="row"  style="text-align:center; background:gold" | [[Rajasthan Royals in 2008|RR]]
+|scope="row"  style="text-align:center; background:#cfc;" | [[Delhi Daredevils in 2009|DD]]
+|scope="row"  style="text-align:center; background:silver;" | [[Mumbai Indians in 2010|MI]] 
+|scope="row"  style="text-align:center; background:silver;" |[[Royal Challengers Bangalore in 2011|RCB]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Delhi Daredevils in 2012|DD]]
+|scope="row"  style="text-align:center; background:silver;" |[[Chennai Super Kings in 2013|CSK]]
+|scope="row"  style="text-align:center; background:silver;" |[[Kings XI Punjab in 2014|KXIP]]
+|scope="row"  style="text-align:center; background:silver;" |[[Chennai Super Kings in 2015|CSK]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Gujarat Lions in 2016|GL]]
+|scope="row"  style="text-align:center; background:gold;" |[[Mumbai Indians in 2017|MI]]
+|scope="row"  style="text-align:center; background:silver;" |[[Sunrisers Hyderabad in 2018|SRH]]
+|scope="row"  style="text-align:center; background:gold;" |[[Mumbai Indians in 2019|MI]]
+|scope="row"  style="text-align:center; background:gold;" |[[Mumbai Indians in 2020|MI]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Delhi Capitals in 2021|DC]]
+|scope="row"  style="text-align:center; background:gold;" |[[Gujarat Titans in 2022|GT]] 
+|scope="row"  style="text-align:center; background:silver;" |[[Gujarat Titans in 2023|GT]]
+|scope="row"  style="text-align:center; background:gold;" |[[2024 Kolkata Knight Riders season|KKR]]
+|scope="row"  style="text-align:center; background:silver;" |[[2025 Punjab Kings season|PBKS]]
+|scope="row"  style="text-align:center; background:gold;" |[[2026 Royal Challengers Bengaluru season|RCB]]
+|-
+! 2nd
+|scope="row"  style="text-align:center; background:#cfc;" |[[Kings XI Punjab in 2008|KXIP]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Chennai Super Kings in 2009|CSK]] 
+|scope="row"  style="text-align:center; background:#cfc;" |[[Deccan Chargers in 2010|DEC]] 
+|scope="row"  style="text-align:center; background:gold;" |[[Chennai Super Kings in 2011|CSK]]
+|scope="row"  style="text-align:center; background:gold;" |[[Kolkata Knight Riders in 2012|KKR]]
+|scope="row"  style="text-align:center; background:gold;" |[[Mumbai Indians in 2013|MI]]
+|scope="row"  style="text-align:center; background:gold;" |[[Kolkata Knight Riders in 2014|KKR]]
+|scope="row"  style="text-align:center; background:gold;" |[[Mumbai Indians in 2015|MI]]
+|scope="row"  style="text-align:center; background:silver;" |[[Royal Challengers Bangalore in 2016|RCB]]
+|scope="row"  style="text-align:center; background:silver;" |[[Rising Pune Supergiants in 2017|RPS]]
+|scope="row"  style="text-align:center; background:gold;" |[[Chennai Super Kings in 2018|CSK]]
+|scope="row"  style="text-align:center; background:silver;" |[[Chennai Super Kings in 2019|CSK]]
+|scope="row"  style="text-align:center; background:silver;" |[[Delhi Capitals in 2020|DC]]
+|scope="row"  style="text-align:center; background:gold;" |[[Chennai Super Kings in 2021|CSK]]
+|scope="row"  style="text-align:center; background:silver;" |[[Rajasthan Royals in 2022|RR]]
+|scope="row"  style="text-align:center; background:gold;" |[[Chennai Super Kings in 2023|CSK]]
+|scope="row"  style="text-align:center; background:silver;" |[[2024 Sunrisers Hyderabad season|SRH]]
+|scope="row"  style="text-align:center; background:gold;" |[[2025 Royal Challengers Bengaluru season|RCB]]
+|scope="row"  style="text-align:center; background:silver;" |[[2026 Gujarat Titans season|GT]]
+|-
+! 3rd
+|scope="row"  style="text-align:center; background:silver" |[[Chennai Super Kings in 2008|CSK]] 
+|scope="row"  style="text-align:center; background:silver;" |[[Royal Challengers Bangalore in 2009|RCB]]
+|scope="row"  style="text-align:center; background:gold;" |[[Chennai Super Kings in 2010|CSK]]
+|scope="row"  style="text-align:center; background:#cfc;" | [[Mumbai Indians in 2011|MI]] 
+|scope="row"  style="text-align:center; background:#cfc;" |[[Mumbai Indians in 2012|MI]] 
+|scope="row"  style="text-align:center; background:#cfc;" |[[Rajasthan Royals in 2013|RR]] 
+|scope="row"  style="text-align:center; background:#cfc;" |[[Chennai Super Kings in 2014|CSK]] 
+|scope="row"  style="text-align:center; background:#cfc;" |[[Royal Challengers Bangalore in 2015|RCB]]
+|scope="row"  style="text-align:center; background:gold;" |[[Sunrisers Hyderabad in 2016|SRH]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Sunrisers Hyderabad in 2017|SRH]] 
+|scope="row"  style="text-align:center; background:#cfc;" |[[Kolkata Knight Riders in 2018|KKR]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Delhi Capitals in 2019|DC]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Sunrisers Hyderabad in 2020|SRH]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Royal Challengers Bangalore in 2021|RCB]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Lucknow Super Giants in 2022|LSG]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Lucknow Super Giants in 2023|LSG]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[2024 Rajasthan Royals season|RR]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[2025 Gujarat Titans season|GT]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[2026 Sunrisers Hyderabad season|SRH]]
+|-
+! 4th
+|scope="row"  style="text-align:center; background:#cfc;" | [[Delhi Daredevils in 2008|DD]]
+|scope="row"  style="text-align:center; background:gold;" |[[Deccan Chargers in 2009|DEC]]
+|scope="row"  style="text-align:center; background:#c96;" |[[Royal Challengers Bangalore in 2010|RCB]] 
+|scope="row"  style="text-align:center; background:#cfc;" |[[Kolkata Knight Riders in 2011|KKR]]
+|scope="row"  style="text-align:center; background:silver;" |[[Chennai Super Kings in 2012|CSK]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Sunrisers Hyderabad in 2013|SRH]] 
+|scope="row"  style="text-align:center; background:#cfc;" |[[Mumbai Indians in 2014|MI]] 
+|scope="row"  style="text-align:center; background:#cfc;" |[[Rajasthan Royals in 2015|RR]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Kolkata Knight Riders in 2016|KKR]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Kolkata Knight Riders in 2017|KKR]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Rajasthan Royals in 2018|RR]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Sunrisers Hyderabad in 2019|SRH]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Royal Challengers Bangalore in 2020|RCB]]
+|scope="row"  style="text-align:center; background:silver;" |[[Kolkata Knight Riders in 2021|KKR]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Royal Challengers Bangalore in 2022|RCB]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Mumbai Indians in 2023|MI]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[2024 Royal Challengers Bengaluru season|RCB]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[2025 Mumbai Indians season|MI]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[2026 Rajasthan Royals season|RR]]
+|-
+! 5th
+|[[Mumbai Indians in 2008|MI]]
+|[[Kings XI Punjab in 2009|KXIP]]
+|[[Delhi Daredevils in 2010|DD]]
+|[[Kings XI Punjab in 2011|KXIP]]
+|[[Royal Challengers Bangalore in 2012|RCB]]
+|[[Royal Challengers Bangalore in 2013|RCB]]
+|[[Rajasthan Royals in 2014|RR]]
+|[[Kolkata Knight Riders in 2015|KKR]]
+|[[Mumbai Indians in 2015|MI]]
+|[[Kings XI Punjab in 2017|KXIP]]
+|[[Mumbai Indians in 2018|MI]]
+|[[Kolkata Knight Riders in 2019|KKR]]
+|[[Kolkata Knight Riders in 2020|KKR]]
+|[[Mumbai Indians in 2021|MI]]
+|[[Delhi Capitals in 2022|DC]]
+|[[Rajasthan Royals|RR]]
+|[[2024 Chennai Super Kings season|CSK]]
+|[[2025 Delhi Capitals season|DC]]
+|[[2026 Punjab Kings season|PBKS]]
+|-
+! 6th
+|[[Kolkata Knight Riders in 2008|KKR]]
+|[[Rajasthan Royals in 2009|RR]] 
+|[[Kolkata Knight Riders in 2010|KKR]]
+|[[Rajasthan Royals in 2011|RR]] 
+|[[Kings XI Punjab in 2012|KXIP]]
+|[[Kings XI Punjab in 2013|KXIP]]
+|[[Sunrisers Hyderabad in 2014|SRH]] 
+|[[Sunrisers Hyderabad in 2015|SRH]] 
+|[[Delhi Daredevils in 2016|DD]]
+|[[Delhi Daredevils in 2017|DD]]
+|[[Royal Challengers Bangalore in 2018|RCB]]
+|[[Kings XI Punjab in 2019|KXIP]]
+|[[Kings XI Punjab in 2020|KXIP]]
+|[[Punjab Kings in 2021|PBKS]]
+|[[Punjab Kings in 2022|PBKS]]
+|[[Royal Challengers Bangalore in 2023|RCB]]
+|[[2024 Delhi Capitals season|DC]]
+|[[2025 Sunrisers Hyderabad season|SRH]]
+|[[2026 Delhi Capitals season|DC]]
+|-
+! 7th
+|[[Royal Challengers Bangalore in 2008|RCB]]
+|[[Mumbai Indians in 2009|MI]]
+|[[Rajasthan Royals in 2010|RR]] 
+|[[Deccan Chargers in 2011|DEC]]
+|[[Rajasthan Royals in 2012|RR]] 
+|[[Kolkata Knight Riders in 2013|KKR]] 
+|[[Royal Challengers Bangalore in 2014|RCB]]
+|[[Delhi Daredevils in 2015|DD]]
+|[[Rising Pune Supergiants in 2016|RPS]]
+|[[Gujarat Lions in 2016|GL]] 
+|[[Kings XI Punjab in 2018|KXIP]]
+|[[Rajasthan Royals in 2019|RR]]
+|[[Chennai Super Kings in 2020|CSK]]
+|[[Rajasthan Royals in 2021|RR]]
+|[[Kolkata Knight Riders in 2022|KKR]]
+|[[Kolkata Knight Riders in 2023|KKR]]
+|[[2024 Lucknow Super Giants season|LSG]]
+|[[2025 Lucknow Super Giants season|LSG]]
+|[[2026 Kolkata Knight Riders season|KKR]]
+|-
+! 8th
+|[[Deccan Chargers in 2008|DEC]]
+|[[Kolkata Knight Riders in 2009|KKR]]
+|[[Kings XI Punjab in 2010|KXIP]]
+|[[Kochi Tuskers Kerala|KTK]]
+|[[Deccan Chargers in 2012|DEC]]
+|[[Pune Warriors India|PWI]]
+|[[Delhi Daredevils in 2014|DD]]
+|[[Kings XI Punjab in 2015|KXIP]]
+|[[Kings XI Punjab in 2016|KXIP]]
+|[[Royal Challengers Bangalore in 2016|RCB]]
+|[[Delhi Daredevils in 2018|DD]]
+|[[Royal Challengers Bangalore in 2019|RCB]]
+|[[Rajasthan Royals in 2020|RR]]
+|[[Sunrisers Hyderabad in 2021|SRH]]
+|[[Sunrisers Hyderabad in 2022|SRH]]
+|[[Punjab Kings in 2023|PBKS]]
+|[[2024 Gujarat Titans season|GT]]
+|[[2025 Kolkata Knight Riders season|KKR]]
+|[[2026 Chennai Super Kings season|CSK]]
+|-
+! 9th
+| rowspan="2" colspan="3" {{n/a}}
+|[[Pune Warriors India|PWI]]
+|[[Pune Warriors India|PWI]]
+|[[Delhi Daredevils in 2013|DD]]
+| rowspan="2" colspan="8" {{n/a}}
+|[[Chennai Super Kings in 2022|CSK]]
+|[[Delhi Capitals|DC]]
+|[[2024 Punjab Kings season|PBKS]]
+|[[2025 Rajasthan Royals season|RR]]
+|[[2026 Mumbai Indians season|MI]]
+|-
+! 10th
+|[[Delhi Daredevils in 2011|DD]]
+| colspan="2" {{n/a}}
+|[[Mumbai Indians in 2022|MI]]
+|[[Sunrisers Hyderabad in 2023|SRH]]
+|[[2024 Mumbai Indians season|MI]]
+|[[2025 Chennai Super Kings season|CSK]]
+|[[2026 Lucknow Super Giants season|LSG]]
+|}
+{{color box|border=darkgray|gold}} Champions<br/>
+{{color box|border=darkgray|silver}} Runners up<br/>
+{{color box|border=darkgray|c96}} Team won the 3rd place playoff; only took place in 2010<br/>
+{{color box|border=darkgray|cfc}} Team qualified for the playoffs or semi-final
+
+=== All time standings ===
+''Teams are ordered by best result, then by winning percentage, then alphabetically'':
+{| class="wikitable sortable" style="text-align:center"
+|-
+!rowspan="2" |Team
+!colspan=3|Appearances
+!rowspan="2" |Best result
+!colspan="7"|Statistics
+|-
+!Total
+!First
+!Latest
+!Played
+!Won
+!Lost
+!{{tooltip|Tied+W|Won tied match in Super Over}} 
+!{{tooltip|Tied+L|Lost tied match in Super Over}} 
+!NR
+!Win%
+|-
+|style="text-align:left"|'''[[Chennai Super Kings]]'''
+| 17 || [[2008 Indian Premier League|2008]] ||rowspan=10|[[2026 Indian Premier League|2026]] ||style="background:gold"| {{sort|1.2|'''Champions'''}} ([[2010 Indian Premier League|2010]], [[2011 Indian Premier League|2011]], [[2018 Indian Premier League|2018]], [[2021 Indian Premier League|2021]], [[2023 Indian Premier League|2023]]) || 267 || 148 || 116 || 0 || 1 || 2 || 55.84
+|-
+|style="text-align:left"|'''[[Mumbai Indians]]'''
+| 19 || [[2008 Indian Premier League|2008]] || style="background:gold"| {{sort|1.1|'''Champions'''}} ([[2013 Indian Premier League|2013]], [[2015 Indian Premier League|2015]], [[2017 Indian Premier League|2017]], [[2019 Indian Premier League|2019]], [[2020 Indian Premier League|2020]])  || 291 || 155 || 132 || 2 || 2 || 0 || 53.95
+|-
+|style="text-align:left"|'''[[Kolkata Knight Riders]]'''
+| 19 || [[2008 Indian Premier League|2008]] ||style="background:gold"| {{sort|1.2|'''Champions'''}} ([[2012 Indian Premier League|2012]], [[2014 Indian Premier League|2014]], [[2024 Indian Premier League|2024]]) || 279 || 140 || 131 || 2 || 3 || 3 || 51.44
+|-
+|style="text-align:left"|'''[[Royal Challengers Bengaluru]]'''
+| 19 || [[2008 Indian Premier League|2008]] || style="background:gold"| {{sort|1.2|'''Champions'''}} ([[2025 Indian Premier League|2025]], [[2026 Indian Premier League|2026]]) || 287 || 143 || 137 || 2 || 1 || 4 || 51.23
+|-
+|style="text-align:left"|'''[[Gujarat Titans]]'''
+| 5 || [[2022 Indian Premier League|2022]] || style="background:gold"| {{sort|1.2|'''Champions'''}} ([[2022 Indian Premier League|2022]]) || 77 || 47 || 30 || 0 || 0 || 0 || 61.03
+|-
+|style="text-align:left"|'''[[Rajasthan Royals]]'''
+| 17 ||[[2008 Indian Premier League|2008]] || style="background:gold"| {{sort|1.2|'''Champions'''}} ([[2008 Indian Premier League|2008]]) || 252 || 123 || 122 || 2 || 2 || 3 || 50.20
+|-
+|style="text-align:left"|'''[[Sunrisers Hyderabad]]'''
+| 14 || [[2013 Indian Premier League|2013]] || style="background:gold"| {{sort|1.2|'''Champions'''}} ([[2016 Indian Premier League|2016]]) || 211 || 102 ||104 || 1 || 3 || 1 || 49.04
+|-
+|style="text-align:left"|'''[[Punjab Kings]]'''
+| 19 || [[2008 Indian Premier League|2008]] || style="background:silver"| {{sort|2.1|'''Runners-up'''}} ([[2014 Indian Premier League|2014]], [[2025 Indian Premier League|2025]]) || 277 || 126 || 145 || 3 || 1 || 2 || 46.90
+|-
+|style="text-align:left"|'''[[Delhi Capitals]]'''
+| 19 || [[2008 Indian Premier League|2008]] || style="background:silver"| {{sort|2.1|'''Runners-up'''}} ([[2020 Indian Premier League|2020]]) || 280 || 125 || 147 || 4 || 1 || 3 || 46.57
+|-
+|style="text-align:left"|'''[[Lucknow Super Giants]]'''
+| 5 || [[2022 Indian Premier League|2022]] || {{sort|4.1|Eliminator}} ([[2022 Indian Premier League|2022]], [[2023 Indian Premier League|2023]]) || 72 || 34 || 36 || 0 || 1 || 1 || 47.88
+|- style="background:#fcc;"
+|style="text-align:left"|[[Deccan Chargers]]
+|5 || [[2008 Indian Premier League|2008]] || [[2012 Indian Premier League|2012]] ||style="background:gold;"|{{sort|1.1|'''Champions'''}} ([[2009 Indian Premier League|2009]]) || 75 || 29 || 46 || 0 || 0 || 0 || 38.66
+|- style="background:#fcc;"
+|style="text-align:left"|[[Rising Pune Supergiant]] || 2 || [[2016 Indian Premier League|2016]] || [[2017 Indian Premier League|2017]] || style="background-color: silver" |{{sort|2.5|'''Runners-up'''}} ([[2017 Indian Premier League|2017]]) || 30 || 15 || 15 || 0 || 0 || 0 || 50.00
+|- style="background:#fcc;"
+|style="text-align:left"|[[Gujarat Lions]] || 2 || [[2016 Indian Premier League|2016]] || [[2017 Indian Premier League|2017]] ||{{sort|7.5|Qualifier 2}} ([[2016 Indian Premier League|2016]]) || 30 || 13 || 16 || 0 || 1 || 0 || 43.33
+|- style="background:#fcc;"
+|style="text-align:left"|[[Kochi Tuskers Kerala]] || 1 || [[2011 Indian Premier League|2011]] || [[2011 Indian Premier League|2011]] || {{sort|7.5|Group Stage}} ([[2011 Indian Premier League|2011]]) || 14 || 6 || 8 || 0 || 0 || 0 || 42.85
+|- style="background:#fcc;"
+|style="text-align:left"|[[Pune Warriors India]] || 3 || [[2011 Indian Premier League|2011]] || [[2013 Indian Premier League|2013]] || {{sort|7.5|Group Stage}} ([[2011 Indian Premier League|2011]], [[2012 Indian Premier League|2012]], [[2013 Indian Premier League|2013]]) || 46 || 12 || 33 || 0 || 0 || 1 || 26.08
+|}
+{| class="wikitable sortable"
+|- style="background:#fcc;"
+| Team now defunct
+|-
+|''Source: [https://www.espncricinfo.com/records/trophy/team-results-summary/indian-premier-league-117 ESPNCricinfo] (Last updated: 31 May 2026)''
+|}
+
+Notes:
+* Tie+W and Tie+L indicates matches tied and then won or lost by [[Super Over|super over]]
+* The result percentage excludes no results and counts ties (irrespective of a tiebreaker) as half a win
+
+==Records and statistics==
+{{Main|List of Indian Premier League records and statistics}}
+
+{{updated|31 May 2026}}
+[[File:Virat Kohli with AudiQ7.png|thumb|200px|[[Virat Kohli]] is the highest run-scorer in IPL.]]
+[[File:Yuzvendra Chahal in PMO New Delhi.jpg|thumb|200px|[[Yuzvendra Chahal]] is the highest wicket-taker in IPL.]]
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="3" |Batting records
+|-
+|[[List of Indian Premier League records and statistics#Individual batting records#Most career runs|Most runs]]
+| rowspan="2" |[[Virat Kohli]] (RCB)
+|9,336
+|-
+|[[List of Indian Premier League records and statistics#Individual batting records|Most fours]]
+|844
+|-
+|[[List of Indian Premier League records and statistics#Individual batting records|Most sixes]]
+|[[Chris Gayle]] (KKR/PBKS/RCB)
+|357
+|-
+|[[List of Indian Premier League centuries|Most centuries]]
+| rowspan="3" |[[Virat Kohli]] (RCB)
+|9
+|-
+|[[List of Indian Premier League records and statistics|Most half-centuries]]
+|68
+|-
+|[[List of Indian Premier League records and statistics#Individual batting records#Most runs in a season|Most runs in a season]]
+|973 (2016)
+|-
+|[[List of Indian Premier League records and statistics#Individual batting records|Best strike rate]]
+|[[Tim David]] (MI/RCB)
+|177.07
+|-
+|[[List of Indian Premier League records and statistics#Individual batting records#Highest individual score|Highest score]]
+|[[Chris Gayle]] (RCB)
+|175[[not out|*]] vs [[Pune Warriors India]]<br>(23 April 2013)
+|-
+||[[List of Indian Premier League records and statistics#Partnership records#Highest partnerships by runs|Highest partnership]]
+|[[Virat Kohli]] and [[AB de Villiers]] (RCB)
+|229 vs [[Gujarat Lions]]<br>(14 May 2016)
+|-
+! colspan="3"| Bowling records
+|-
+|[[List of Indian Premier League records and statistics#Individual bowling records#Most career wickets|Most wickets]]
+|[[Yuzvendra Chahal]] (PBKS/MI/RCB/RR)
+|233
+|-
+|[[List of Indian Premier League records and statistics#Individual bowling records#Best bowling figures|Best bowling figures]]
+|[[Alzarri Joseph]] (MI)
+|6/12 vs [[Sunrisers Hyderabad]]<br>(6 April 2019)
+|-
+|rowspan=2| [[List of Indian Premier League records and statistics#Individual bowling records#Most wickets in a season|Most wickets in a season]]
+|[[Harshal Patel]] (RCB)
+|32 (2021)
+|-
+|[[Dwayne Bravo]] (CSK)
+|32 (2013)
+|-
+! colspan="3"| Fielding records
+|-
+|[[List of Indian Premier League records and statistics#Individual wicket-keeping records#Most career dismissals|Most dismissals]] as a [[wicket-keeper]]
+|[[MS Dhoni]] (CSK/RPS)
+|201
+|-
+|[[List of Indian Premier League records and statistics#Individual fielding records#Most career catches|Most catches]] as a [[fielding (cricket)|fielder]]
+|[[Virat Kohli]] (RCB)<ref>{{Cite web |last=Team |first=CricOpinion |date=5 May 2026 |title=List of Most Catches in IPL History (2008 to 2026) |url=https://cricopinion.com/cricket-stats/most-catches-in-ipl |access-date=5 May 2026 |website=CricOpinion |language=en}}</ref>
+|126
+|-
+! colspan="3"|Team records
+|-
+|Highest total
+|[[Sunrisers Hyderabad]] 
+|287/3 (20) vs [[Royal Challengers Bengaluru]]<br>(15 April 2024)
+|-
+|Lowest total
+|[[Royal Challengers Bengaluru]]
+|49 (9.4) vs [[Kolkata Knight Riders]]<br>(23 April 2017)
+|} 
+[https://www.iplt20.com/stats/ Source]
+
+===Most appearances===
+:{{as of|2026|5|22}}
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+! scope="col" | Rank
+! scope="col" | Player
+! scope="col" | Team
+! scope="col" | Years active
+! scope="col" | Apps
+! scope="col" | Runs
+! scope="col" | Wkts
+|-
+|1
+|'''[[Virat Kohli]]'''
+|{{color box|#d7282f}} [[Royal Challengers Bangalore|RCB]]
+| rowspan="4" |2008–present
+!283
+|9,336
+|4
+|-
+|2
+|'''[[Rohit Sharma]]'''
+|{{color box|#00A79D}} [[Deccan Chargers|DCH]], {{color box|#1c5f93}} [[Mumbai Indians|MI]]
+!280
+|7,329
+|15
+|-
+|3
+|'''[[MS Dhoni]]'''
+| {{color box|#faef23}} [[Chennai Super Kings|CSK]], {{color box|#6a1b9a}} [[Rising Pune Supergiants|RPS]]
+!278
+|5,439
+| –
+|-
+|4
+|'''[[Ravindra Jadeja]]'''
+|{{color box|#faef23}} [[Chennai Super Kings|CSK]], {{color box|#f26522}} [[Gujarat Lions|GL]], {{color box|#F47721}} [[Kochi Tuskers Kerala|KTK]], {{color box|#e21e8e}} [[Rajasthan Royals|RR]]
+!264
+|3,450
+|178
+|-
+|5
+|[[Dinesh Karthik]]
+|{{color box|#253f8c}} [[Delhi Capitals|DD]], {{color box|#f26522}} [[Gujarat Lions|GL]], {{color box|#3a225c}} [[Kolkata Knight Riders|KKR]], {{color box|#d92028}} [[Punjab Kings|KXIP]], {{color box|#1c5f93}} [[Mumbai Indians|MI]], {{color box|#d7282f}} [[Royal Challengers Bangalore|RCB]]
+| rowspan="2" |2008–2024
+!257
+|4,842
+| –
+|-
+|6
+|[[Shikhar Dhawan]]
+|{{color box|#253f8c}} [[Delhi Capitals|DD]], {{color box|#00A79D}} [[Deccan Chargers|DCH]], {{color box|#1c5f93}} [[Mumbai Indians|MI]], {{color box|#d92028}} [[Punjab Kings|PBKS]], {{color box|#f36331}} [[Sunrisers Hyderabad|SRH]]
+!222
+|6,769
+|4
+|-
+|7
+|[[Ravichandran Ashwin]]
+|{{color box|#faef23}} [[Chennai Super Kings|CSK]], {{color box|#253f8c}} [[Delhi Capitals|DC]], {{color box|#d92028}} [[Punjab Kings|KXIP]], {{color box|#e21e8e}} [[Rajasthan Royals|RR]], {{color box|#6a1b9a}} [[Rising Pune Supergiants|RPS]]
+|2009–2025
+!221
+|833
+|187
+|-
+|8
+|'''[[Ajinkya Rahane]]'''
+|{{color box|#faef23}} [[Chennai Super Kings|CSK]], {{color box|#253f8c}} [[Delhi Capitals|DC]], {{color box|#3a225c}} [[Kolkata Knight Riders|KKR]], {{color box|#1c5f93}} [[Mumbai Indians|MI]], {{color box|#6a1b9a}} [[Rising Pune Supergiants|RPS]],  {{color box|#e21e8e}} [[Rajasthan Royals|RR]]
+|2008–present
+!211
+|5,304
+|1
+|-
+|9
+|[[Suresh Raina]]
+|{{color box|#faef23}} [[Chennai Super Kings|CSK]], {{color box|#f26522}} [[Gujarat Lions|GL]]
+|2008–2021
+!205
+|5,528
+|25
+|-
+|10
+|[[Robin Uthappa]]
+|{{color box|#faef23}} [[Chennai Super Kings|CSK]], {{color box|#3a225c}} [[Kolkata Knight Riders|KKR]], {{color box|#003087}} [[Pune Warriors India|PWI]], {{color box|#e21e8e}} [[Rajasthan Royals|RR]], {{color box|#d7282f}} [[Royal Challengers Bangalore|RCB]]
+|2008–2022
+!205
+|4,952
+| –
+|-
+|}
+*Source: ESPNcricinfo<ref>{{cite web |url=https://www.espncricinfo.com/records/trophy/individual-most-matches-career/indian-premier-league-117 |title=Most Matches Played |work=ESPNcricinfo |access-date=14 May 2026}}</ref>
+*Currently active IPL players appear in '''boldface'''.
+
+==End-of-season awards==
+{{Main|List of Indian Premier League awards}}
+
+===Prize money===
+Starting with the 2026 season, the distribution of the prize money is as follows:
+* Winning team: ₹20 crore (US$2.5 million)
+* Runner-up team: ₹13 crore (US$1.3 million)
+* Third-place team: ₹7 crore (US$736,000)
+* Fourth-place team: ₹6.5 crore (US$684,000)
+
+=== Fair Play Award ===
+The Fair Play Award is given to the team considered to have the best [[Sportsmanship|fair play]] record in the season. After each match, the two on-field umpires and the [[third umpire]] score the performance of both teams, with the highest-scoring team at the end of the season receiving the award.<ref>{{cite web|url=https://cricketaddictor.com/cricket-news/ipl-2021-revealed-this-is-how-fair-play-points-are-calculated-in-indian-premier-league/|title=IPL 2021: Revealed! This Is How Fair Play Points Are Calculated In Indian Premier League|work=Cricket Addictor|date=18 April 2021|access-date=5 October 2021|archive-date=5 October 2021|archive-url=https://web.archive.org/web/20211005045051/https://cricketaddictor.com/cricket-news/ipl-2021-revealed-this-is-how-fair-play-points-are-calculated-in-indian-premier-league/|url-status=live}}</ref> The 2025 winners were [[Chennai Super Kings]], who won it for the seventh time.
+
+=== Orange Cap ===
+The Orange Cap is awarded to the highest run-scorer at the end of each season. It is an ongoing competition with the current highest run-scorer wearing the cap whilst fielding. The eventual winner keeps the cap for the season. [[Brendon McCullum]] was the first player to wear the Orange Cap and [[Shaun Marsh]] the inaugural winner of the award. Australian batsman [[David Warner (cricketer)|David Warner]] has won the award three times, while [[Chris Gayle]] and [[Virat Kohli]] have each won it twice.<ref>{{Cite web |last=Sportstar |first=Team |date=29 March 2023 |title=IPL Orange Cap Winners list in Indian Premier League, from 2008 to 2022 |url=https://sportstar.thehindu.com/cricket/ipl/faqs/indian-premier-league-orange-cap-winners-most-runs-season-batters-ipl-2023-buttler-gayle-warner-kohli/article66641048.ece |access-date=11 April 2023 |website=sportstar.thehindu.com |language=en |archive-date=11 April 2023 |archive-url=https://web.archive.org/web/20230411095701/https://sportstar.thehindu.com/cricket/ipl/faqs/indian-premier-league-orange-cap-winners-most-runs-season-batters-ipl-2023-buttler-gayle-warner-kohli/article66641048.ece |url-status=live }}</ref> [[Sai Sudharsan]] of [[Gujarat Titans]], who scored 759 runs during the 2025 season, is the most recent winner of the award.<ref>{{Cite news |date=3 April 2023 |title=IPL 2023: Here is a look at all orange cap winners from 2008 to 2022 |work=The Economic Times |url=https://economictimes.indiatimes.com/news/new-updates/ipl-2023-here-is-a-look-at-all-orange-cap-winners-from-2008-t0-2022/articleshow/99137624.cms |url-status=live |access-date=9 April 2023 |archive-url=https://web.archive.org/web/20230409083125/https://economictimes.indiatimes.com/news/new-updates/ipl-2023-here-is-a-look-at-all-orange-cap-winners-from-2008-t0-2022/articleshow/99137624.cms |archive-date=9 April 2023 |issn=0013-0389}}</ref><ref>{{cite web|url=https://www.iplt20.com/stats/2015/most-runs|title=IPLT20.com – Indian Premier League Official Website|website=IPLT20 – 2015 Orange Cap Final Leaderboard|access-date=17 February 2019|archive-date=17 February 2019|archive-url=https://web.archive.org/web/20190217143725/https://www.iplt20.com/stats/2015/most-runs|url-status=live}}</ref>
+
+=== Purple Cap ===
+The Purple Cap is awarded to the highest wicket-taker at the end of each season. It is an ongoing competition and the bowler who is the leading wicket-taker wears a purple cap whilst fielding. The eventual winner keeps the cap for the season. [[Bhuvneshwar Kumar]] and [[Dwayne Bravo]] are the only players to have won the award twice.<ref>{{Cite web |last=Sportstar |first=Team |date=29 March 2023 |title=IPL: Purple Cap Winners list in Indian Premier League, from 2008 to 2022 |url=https://sportstar.thehindu.com/cricket/ipl/faqs/indian-premier-league-purple-cap-winners-most-wickets-season-bowlers-ipl-2023-chahal-harshal-rabada-bhuvneshwar/article66641052.ece |url-status=live |archive-url=https://web.archive.org/web/20230409082857/https://sportstar.thehindu.com/cricket/ipl/faqs/indian-premier-league-purple-cap-winners-most-wickets-season-bowlers-ipl-2023-chahal-harshal-rabada-bhuvneshwar/article66641052.ece |archive-date=9 April 2023 |access-date=9 April 2023 |website=sportstar.thehindu.com |language=en}}</ref><ref>{{cite web|url=https://www.iplt20.com/stats/2015/most-wickets|title=IPLT20.com – 2015 Purple Cap Final Leaderboard|website=IPLT20|access-date=20 February 2019|archive-date=6 January 2019|archive-url=https://web.archive.org/web/20190106010949/https://www.iplt20.com/stats/2015/most-wickets|url-status=live}}</ref> [[Prasidh Krishna]] of [[Gujarat Titans]], who took 25 wickets during the [[2025 Indian Premier League|2025 season]], is the most recent winner of the award.
+
+=== Most Valuable Player ===
+The Most Valuable Player award, formerly called the "Man of the Tournament" until the 2012 season, is awarded using a ratings system introduced in 2013. [[Suryakumar Yadav]] won the award in 2025.
+
+=== Emerging Player Award ===
+The Emerging Player Award was presented to the best under-19 player in 2008 and the best under-23 player in 2009 and 2010. In 2011 and 2012, the award was known as "Rising Star of the Year," and in 2013 the "Best Young Player of the Season." Since 2014, the award has been called the Emerging Player of the Year. [[Mustafizur Rahman]] is the only foreign player to win this award.<ref>{{cite news |title=Fizz adjudged IPL's first foreign Emerging Player |url=https://www.thedailystar.net/sports/cricket/fizz-adjudged-ipls-first-foreign-emerging-player-1231564 |access-date=23 September 2021 |work=The Daily Star |date=30 May 2016 |language=en |archive-date=2 October 2021 |archive-url=https://web.archive.org/web/20211002160234/https://www.thedailystar.net/sports/cricket/fizz-adjudged-ipls-first-foreign-emerging-player-1231564 |url-status=live }}</ref> The 2025 winner was [[Sai Sudharsan]].
+
+== Finances ==
+{{See also|List of professional sports leagues by revenue}}
+
+=== Title sponsorship ===
+{| class="wikitable floatright"
+|+ Title sponsorship fees<ref>{{Cite news |title=DLF to TATA, title sponsors help BCCI lift its brand value to Rs 47.5k cr |url=https://www.business-standard.com/article/sports/dlf-to-tata-title-sponsors-help-bcci-lift-its-brand-value-to-rs-47-5k-cr-122032600506_1.html |date=26 March 2022 |archive-url=https://web.archive.org/web/20230406225035/https://www.business-standard.com/article/sports/dlf-to-tata-title-sponsors-help-bcci-lift-its-brand-value-to-rs-47-5k-cr-122032600506_1.html |archive-date=6 April 2023 |url-status=live |newspaper=[[Business Standard]] |agency=[[Indo-Asian News Service|IANS]] |access-date=10 April 2023}}</ref>
+|-
+!Sponsor
+!Period
+!Estimated annual sponsorship fee
+|-
+|[[DLF (company)|DLF]]
+|2008–2012
+|{{INRConvert|40|c|year=2008|mode=historical|round=0}}
+|-
+| [[PepsiCo|Pepsi]]
+|2013–2015
+|{{INRConvert|79|c|year=2013|mode=historical|round=0}}
+|-
+| rowspan="2" | [[Vivo (technology company)|Vivo]]
+|2016–2017
+|{{INRConvert|100|c|year=2016|mode=historical|round=0}}
+|-
+|2018–2019, 2021
+|{{INRConvert|440|c|year=2018|mode=historical|round=0}}
+|-
+| [[Dream11]]
+| 2020
+|{{INRConvert|222|c|year=2020|mode=historical|round=0}}
+|-
+| rowspan="2" | [[Tata Group|Tata]]
+| 2022–2023
+|{{INRConvert|335|c|year=2022|mode=historical|round=0}}
+|-
+|2024–2028
+|{{INRConvert|500|c|0}}<ref>{{Cite news |date=19 January 2024 |title=Tata Group to continue as IPL title sponsor for next 5 years |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/tata-group-to-continue-as-ipl-title-sponsor-for-next-5-years/articleshow/106994026.cms |access-date=19 January 2024 |work=The Times of India |issn=0971-8257 |archive-date=19 January 2024 |archive-url=https://web.archive.org/web/20240119142956/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/tata-group-to-continue-as-ipl-title-sponsor-for-next-5-years/articleshow/106994026.cms |url-status=live }}</ref>
+|}
+
+From 2008 to 2012, the IPL title sponsor was [[DLF (company)|DLF]], a real estate developer, which bid {{INRConvert|200|c}}.<ref>{{cite news|author1=Bhat, Varada|author2=Kamath, Raghavendra|title=DLF unlikely to continue with IPL title sponsorship|url=https://www.business-standard.com/article/companies/dlf-unlikely-to-continue-with-ipl-title-sponsorship-112042700057_1.html|access-date=20 February 2019|work=Business Standard|date=27 April 2012|archive-date=18 February 2019|archive-url=https://web.archive.org/web/20190218021132/https://www.business-standard.com/article/companies/dlf-unlikely-to-continue-with-ipl-title-sponsorship-112042700057_1.html|url-status=live}}</ref> After 2012, [[PepsiCo]] bought the rights for {{INRConvert|397|c}} for five seasons,<ref>{{cite news |last1=Gollapudi |first1=Nagraj |date=21 November 2012 |title=IPL sells title rights to PepsiCo for $71m |work=ESPNcricinfo |url=https://www.espncricinfo.com/story/pepsico-buys-ipl-title-sponsorship-for-rs-396-crore-592291 |access-date=20 February 2019 |archive-date=20 June 2022 |archive-url=https://web.archive.org/web/20220620101908/https://www.espncricinfo.com/story/pepsico-buys-ipl-title-sponsorship-for-rs-396-crore-592291 |url-status=live }}</ref> but terminated the deal in 2015, two years before expiry, due to the two-season suspension of the Chennai and Rajasthan franchises.<ref>{{cite news |date=9 October 2015 |title=PepsiCo set to end IPL sponsorship two years early |work=ESPNcricinfo |url=https://www.espncricinfo.com/story/pepsico-set-to-end-ipl-sponsorship-two-years-early-927319 |access-date=20 February 2019 |archive-date=6 February 2023 |archive-url=https://web.archive.org/web/20230206130647/https://www.espncricinfo.com/story/pepsico-set-to-end-ipl-sponsorship-two-years-early-927319 |url-status=live }}</ref> The BCCI transferred the rights for those two seasons to Chinese smartphone manufacturer [[Vivo (technology company)|Vivo]] for {{INRConvert|200|c}}.<ref>{{cite news|author=Laghate, Gaurav|title=Title sponsorship: Mobile companies gear up for IPL Innings|url=https://economictimes.indiatimes.com/industry/services/advertising/title-sponsorship-mobile-companies-gears-for-ipl-innings/articleshow/59260453.cms?from=mdr|access-date=20 February 2019|work=The Economic Times|date=22 June 2017|archive-date=1 September 2017|archive-url=https://web.archive.org/web/20170901063734/http://economictimes.indiatimes.com/industry/services/advertising/title-sponsorship-mobile-companies-gears-for-ipl-innings/articleshow/59260453.cms?from=mdr|url-status=live}}</ref>
+[[File:Tata IPL EDEN 47th Match KKR vs SRH 02.png|thumb|right|Crowd during a match of the [[2023 Indian Premier League|2023 IPL]] season in [[Kolkata]]]]
+In 2017, Vivo retained the rights for 2018–22 with a winning bid of {{INRConvert|2199|c}}.<ref>{{cite news |last1=Venugopal |first1=Arun |date=27 June 2017 |title=Vivo retains IPL title rights till 2022 after massive bid |work=ESPNcricinfo |url=https://www.espncricinfo.com/story/vivo-retains-ipl-title-rights-till-2022-after-massive-bid-1106833 |access-date=20 February 2019 |archive-date=22 August 2017 |archive-url=https://web.archive.org/web/20170822145409/http://www.espncricinfo.com/india/content/story/1106833.html |url-status=live }}</ref><ref>{{cite news|author=Choudhary, Vidhi|title=Vivo sponsorship may make IPL world's richest sports league|url=https://www.livemint.com/Home-Page/Q4W9gw4FYoJlAyIRypDZ2M/Vivo-wins-IPL-title-sponsorship-for-Rs2200-crore-for-the-ne.html|access-date=20 February 2019|work=Livemint|date=28 June 2017|archive-date=17 February 2019|archive-url=https://web.archive.org/web/20190217142644/https://www.livemint.com/Home-Page/Q4W9gw4FYoJlAyIRypDZ2M/Vivo-wins-IPL-title-sponsorship-for-Rs2200-crore-for-the-ne.html|url-status=live}}</ref> In August 2020, Vivo canceled the rights due to a [[2020–2021 China–India skirmishes|military stand-off]] between India and China.<ref>{{Cite news|title=Vivo withdraws IPL sponsorship, sources say, amid China backlash|department=Cricket News|url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/its-official-vivo-will-not-be-ipl-title-sponsors-this-year-says-bcci/articleshow/77390968.cms|access-date=18 August 2020|newspaper=The Times of India|language=en|archive-date=13 August 2020|archive-url=https://web.archive.org/web/20200813230859/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vivo-withdraws-ipl-sponsorship-sources-say-amid-china-backlash/articleshow/77390968.cms|url-status=live}}</ref> The withdrawal was also a result of Vivo's market losses due to the COVID pandemic; Vivo intended to return as sponsor for the following three years.<ref>{{cite web|date=9 August 2020|title=Explained: IPL's financial model, and how the withdrawal of Vivo impacts the balance sheets of franchises|url=https://indianexpress.com/article/explained/ipl-2020-uae-financial-model-vivo-sponsorship-6544090/|access-date=9 August 2020|website=The Indian Express|language=en|archive-date=8 August 2020|archive-url=https://web.archive.org/web/20200808064704/https://indianexpress.com/article/explained/ipl-2020-uae-financial-model-vivo-sponsorship-6544090/|url-status=live}}</ref> [[Dream11]] became sponsors for 2020 for {{INRConvert|222|c|year=2020}}.<ref>{{cite web|title=IPL title sponsor: Dream 11 replaces Vivo as IPL 2020 title sponsor, to pay BCCI Rs 222 crore|url=https://www.timesnownews.com/sports/article/ipl-title-sponsor-dream-11-replaces-vio-as-ipl-2020-title-sponsor-to-pay-bcci-250-crore/638828|access-date=18 August 2020|website=www.timesnownews.com|date=18 August 2020 |language=en|archive-date=18 August 2020|archive-url=https://web.archive.org/web/20200818140314/https://www.timesnownews.com/sports/article/ipl-title-sponsor-dream-11-replaces-vio-as-ipl-2020-title-sponsor-to-pay-bcci-250-crore/638828|url-status=live}}</ref> Vivo returned for 2021<ref>{{cite web |title=Vivo back as IPL title sponsor for 2021 season |url=https://www.espncricinfo.com/story/ipl-2021-vivo-back-as-title-sponsor-1252177 |access-date=26 March 2022 |work=ESPNcricinfo |language=en |archive-date=26 March 2022 |archive-url=https://web.archive.org/web/20220326220431/https://www.espncricinfo.com/story/ipl-2021-vivo-back-as-title-sponsor-1252177 |url-status=live }}</ref> but withdrew again, and was replaced by the [[Tata Group]] for the next two seasons.<ref>{{cite web |title=Tata Group replaces Vivo as IPL title sponsors for 2022 and 2023 seasons |url=https://www.espncricinfo.com/story/tata-group-replaces-vivo-as-ipl-title-sponsors-for-2022-and-2023-seasons-1296383 |access-date=26 March 2022 |work=ESPNcricinfo |language=en |archive-date=18 March 2022 |archive-url=https://web.archive.org/web/20220318082841/https://www.espncricinfo.com/story/tata-group-replaces-vivo-as-ipl-title-sponsors-for-2022-and-2023-seasons-1296383 |url-status=live }}</ref> ''InsideSport'' reported the BCCI would receive {{INRConvert|498|c}} for the 2022–23 seasons from title sponsors. Vivo had agreed to pay a higher amount for the last two seasons of its contract due to the league's expansion from 2022. Due to the new deal's structure, Tata would pay {{INRConvert|335|c}} per year while Vivo would pay the deficit of {{INRConvert|163|c}}.<ref>{{cite web |date=25 March 2022 |title=IPL 2022: BCCI to earn record 1000 Crore from IPL Sponsors |url=https://www.insidesport.in/ipl-2022-sponsors-jackpot-for-bcci-ipl-sponsorship-earnings-crossed-1000-cr-for-a-single-season-confirms-ipl-gc/ |access-date=26 March 2022 |language=en-US |archive-date=27 March 2022 |archive-url=https://web.archive.org/web/20220327034754/https://www.insidesport.in/ipl-2022-sponsors-jackpot-for-bcci-ipl-sponsorship-earnings-crossed-1000-cr-for-a-single-season-confirms-ipl-gc/ |url-status=live }}</ref><ref>{{Cite news |last=IANS |date=26 March 2022 |title=For the first time in 15 years, IPL sponsorships cross Rs 1,000 crore |work=Business Standard India |url=https://www.business-standard.com/article/sports/for-the-first-time-in-15-years-ipl-sponsorships-cross-rs-1-000-crore-122032600420_1.html |access-date=26 March 2022 |archive-date=26 March 2022 |archive-url=https://web.archive.org/web/20220326103600/https://www.business-standard.com/article/sports/for-the-first-time-in-15-years-ipl-sponsorships-cross-rs-1-000-crore-122032600420_1.html |url-status=live }}</ref> [[Saudi Aramco|Aramco]] bought the sponsorship rights for the Orange and Purple Caps in 2022.<ref>{{cite web |title=Redirect Notice |url=https://www.insidesport.in/ipl-2022-bcci-gets-another-deal-on-the-eve-of-ipl-saudi-oil-company-aramco-signs-as-orange-purple-cap-partner-for-65-cr-per-annum/ |access-date=24 May 2022 |website=www.Insidesport.in |date=9 May 2022 |archive-date=26 June 2022 |archive-url=https://web.archive.org/web/20220626011944/https://www.insidesport.in/ipl-2022-bcci-gets-another-deal-on-the-eve-of-ipl-saudi-oil-company-aramco-signs-as-orange-purple-cap-partner-for-65-cr-per-annum/ |url-status=live }}</ref>
+
+===Payments to foreign national boards===
+The BCCI pays 10% of the auctioned value of players to their national cricket boards. In 2018, IPL chairman Rajiv Shukla said the IPL would double the amount paid to cricket boards that made their players available for an entire season.<ref>{{cite news |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/bcci-doubles-boards-share-for-providing-players-for-ipl/articleshow/62668234.cms |title=BCCI double Boards' share for providing players for IPL |website=The Times of India |date=27 January 2018 |access-date=22 November 2022 |archive-date=22 November 2022 |archive-url=https://web.archive.org/web/20221122133014/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/bcci-doubles-boards-share-for-providing-players-for-ipl/articleshow/62668234.cms |url-status=live }}</ref> In 2022, the [[Australian Cricketers' Association]] expressed its unhappiness about this.<ref name="australia-stars-in-contract-dispute-after-cricket-australia-makes-ipl-cash-grab"/>
+
+=== Brand value ===
+The IPL tournament rapidly grew in value between 2016 and 2018. Experts valued it at US$4.2&nbsp;billion in 2016, $5.3&nbsp;billion in 2017 and $6.1&nbsp;billion in 2018. A report from Duff & Phelps said a contributing factor was a television deal with Star India Private Limited, which engaged more viewers because the IPL was transmitted to regional channels in eight languages; under the previous deal, transmissions were limited to sports networks with English-language commentary.<ref name="Gaurav Gupta">{{Cite news|url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/brand-ipl-now-soars-to-6-3-billion/articleshow/65321837.cms|title=Ipl brand Valuation gets stronger soars to $6.3 billion|author=Gaurav Gupta|date=8 August 2018|work=[[The Times of India]]|access-date=20 March 2019|archive-date=9 August 2018|archive-url=https://web.archive.org/web/20180809000445/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/brand-ipl-now-soars-to-6-3-billion/articleshow/65321837.cms|url-status=live}}</ref><ref>{{Cite news|url=https://economictimes.indiatimes.com/industry/services/advertising/brand-ipl-gets-stronger-valuation-soars-to-5-3-billion/articleshow/60199993.cms|title=Brand IPL gets stronger, valuation soars to $5.3 billion|author=Laghate, Gaurav|date=24 August 2017|work=The Economic Times|access-date=20 February 2019|archive-date=2 April 2019|archive-url=https://web.archive.org/web/20190402044133/https://economictimes.indiatimes.com/industry/services/advertising/brand-ipl-gets-stronger-valuation-soars-to-5-3-billion/articleshow/60199993.cms|url-status=live}}</ref>
+
+In 2022, the IPL became a [[Unicorn (finance)|decacorn]] valued at US$11 billion, registering a 75% growth since 2020 when it was valued at $6.2 billion.<ref name="Faruooqi">{{cite news |last=Faruooqi |first=Javed |date=21 December 2022 |title=IPL crosses $10 billion valuation to become a decacorn: D and P Advisory |url=https://economictimes.indiatimes.com/news/sports/ipl-crosses-10-billion-valuation-to-become-a-decacorn-d-and-p-advisory/articleshow/96385715.cms?from=mdr |url-status=live |archive-url=https://web.archive.org/web/20230322222710/https://economictimes.indiatimes.com/news/sports/ipl-crosses-10-billion-valuation-to-become-a-decacorn-d-and-p-advisory/articleshow/96385715.cms?from=mdr |archive-date=22 March 2023 |access-date=22 March 2023 |website=Economic Times}}</ref>
+
+{| class="wikitable sortable"
+|+Brand value
+ 
+|-
+! rowspan="3" |Team
+! colspan="9" |Year
+|-
+! 2025
+! 2024<ref>{{Cite web|url=https://www.sportingnews.com/in/ipl/news/which-most-valued-ipl-team-mi-csk-or-kkr/87709bd75d535f1b840b69a6|title=Which is the most valued IPL team?|date=16 March 2025|website=www.sportingnews.com}}</ref>
+! 2023<ref name="Brand Finance, 2024">{{cite web |title=IPL 2024 Brand Value Ranking League Table |url=https://brandirectory.com/rankings/indian-premier-league/table |access-date=10 December 2024 |website=brandirectory.com |publisher=Brand Finance |language=en}}</ref>
+! 2022<ref name=":10">{{Cite web |title=IPL 2022. Brand Value Ranking League Table. Brandirectory |url=https://brandirectory.com/rankings/indian-premier-league/table |url-status=live |archive-url=https://web.archive.org/web/20230418152514/https://brandirectory.com/rankings/indian-premier-league/table |archive-date=18 April 2023 |access-date=18 April 2023 |website=brandirectory.com |language=en}}</ref><ref>{{Cite web |date=22 December 2022 |title=IPL brand value surges 77%; Mumbai Indians tops table |url=https://www.moneycontrol.com/news/trends/sports-trends/ipl-brand-value-surges-77-mumbai-indians-tops-table-9743711.html |url-status=live |archive-url=https://web.archive.org/web/20230418153336/https://www.moneycontrol.com/news/trends/sports-trends/ipl-brand-value-surges-77-mumbai-indians-tops-table-9743711.html |archive-date=18 April 2023 |access-date=18 April 2023 |website=Moneycontrol}}</ref><ref name=":11">{{Cite web |last=Ozanian |first=Mike |title=Indian Premier League Valuations: Cricket Now Has A Place Among World's Most Valuable Sports Teams |url=https://www.forbes.com/sites/mikeozanian/2022/04/26/indian-premier-league-valuations-cricket-now-has-a-place-among-worlds-most-valuable-sports-teams/ |url-status=live |archive-url=https://web.archive.org/web/20220507153431/https://www.forbes.com/sites/mikeozanian/2022/04/26/indian-premier-league-valuations-cricket-now-has-a-place-among-worlds-most-valuable-sports-teams/ |archive-date=7 May 2022 |access-date=18 April 2023 |website=Forbes |language=en}}</ref>
+!2021<ref name=":10" /> 
+|-
+!Brand value
+!Brand value
+!Brand value
+!Brand value
+!Brand value
+|-
+|[[Royal Challengers Bengaluru]]
+|$269M
+|$117M
+|$70M
+|$68M
+|$50M
+|-
+|[[Mumbai Indians]]
+|$242M
+|$119M
+|$87M
+|$83M
+|$80M
+|-
+|[[Chennai Super Kings]]
+|$235M
+|$122M
+|$81M
+|$74M
+|$76M
+|-
+|[[Kolkata Knight Riders]]
+|$227M
+|$109M
+|$79M
+|$77M
+|$66M
+|-
+|[[Sunrisers Hyderabad]]
+|$154M
+|$85M
+|$48M
+|$49M
+|$52M
+|-
+|[[Delhi Capitals]]
+|$152M
+|$80M
+|$64M
+|$62M
+|$56M
+|-
+|[[Rajasthan Royals]]
+|$146M
+|$81M
+|$62M
+|$61M
+|$34M
+|-
+|[[Gujarat Titans]]
+|$142M
+|$69M
+|$65M
+|$47M
+|N/A
+|-
+|[[Punjab Kings]]
+|$141M
+|$68M
+|$45M
+|$45M
+|$36M
+|-
+|[[Lucknow Super Giants]]
+|$122M
+|$60M
+|$47M
+|$32M
+|N/A
+|}
+
+In 2022, the BCCI took insurance of {{INRConvert|5000|c}} for the IPL. This policy involves all stakeholders, including broadcasters, ancillary services providers, and sponsors. The BCCI is covered in case of revenue losses due to weather, riots, and unforeseen events.<ref>{{cite web|title= IPL 2022 records largest-ever insurance cover of Rs 5,000 cr|date= 12 April 2022|url= https://www.businesstoday.in/trending/entertainment/story/ipl-2022-records-largest-ever-insurance-cover-of-rs-5000-cr-329490-2022-04-12|access-date= 20 May 2022|archive-date= 20 May 2022|archive-url= https://web.archive.org/web/20220520102335/https://www.businesstoday.in/amp/trending/entertainment/story/ipl-2022-records-largest-ever-insurance-cover-of-rs-5000-cr-329490-2022-04-12|url-status= live}}</ref>
+
+== Broadcasting ==
+{{Main|Indian Premier League on television}}
+
+The IPL has been India's most-watched sports property; [[JioCinema]] estimated that an average of 620 million viewers watched part of the [[2024 Indian Premier League]] overall, with at least 350 billion minutes streamed across the tournament.<ref>{{Cite web |last=Sim |first=Josh |date=30 May 2024 |title=IPL 2024 scores 620m viewers for JioCinema |url=https://www.sportspro.com/news/ipl-2024-season-jiocinema-viacom-18-viewership-streaming/ |access-date=16 June 2025 |website=SportsPro |language=en-GB}}</ref> The 2025 final was seen on [[Star Sports (India)|Star Sports]] by 169 million viewers, making it the most-watched cricket broadcast to-date on [[linear television]].<ref>{{Cite news |last=Farooqui |first=Javed |date=13 June 2025 |title=IPL 2025 final draws 169 million TV viewers |url=https://economictimes.indiatimes.com/news/sports/ipl-2025-final-draws-169-million-tv-viewers/articleshow/121817543.cms?from=mdr |access-date=16 June 2025 |work=The Economic Times |issn=0013-0389}}</ref>
+
+Currently, domestic media rights are held by [[JioStar]], under contracts originally awarded in 2022 to its corporate predecessors Disney Star and Viacom18; coverage is carried via its streaming service [[JioHotstar]], and the Star Sports [[pay television]] networks.<ref name=":82">{{Cite news |last=Livemint |date=14 February 2025 |title=JioHotstar streaming platform launched as JioCinema and Disney+ Hotstar merges content |url=https://www.livemint.com/technology/tech-news/jiohotstar-streaming-platform-launched-merging-content-from-jiocinema-and-disney-hotstar-11739495401060.html |archive-url=https://web.archive.org/web/20250528000715/https://www.livemint.com/technology/tech-news/jiohotstar-streaming-platform-launched-merging-content-from-jiocinema-and-disney-hotstar-11739495401060.html |archive-date=28 May 2025 |access-date=16 June 2025 |work=Mint |language=en |url-status=live }}</ref><ref>{{Cite web |date=14 February 2025 |title=Meet JioHotstar, the new streaming platform that combines content from JioCinema and Disney+ Hotstar |url=https://indianexpress.com/article/technology/tech-news-technology/jiohotstar-jio-cinema-disney-hotstar-streaming-platform-9834789/ |access-date=14 February 2025 |website=The Indian Express |language=en}}</ref> The main packages for domestic television and digital rights were collectively valued at around US$6.2 billion (more than double the value of the previous contract), causing the IPL to overtake the [[Premier League]] in English football as the second highest-valued sports media property worldwide, behind only the [[National Football League]] (US$111 billion).<ref>{{cite web |last=Livemint |date=14 June 2022 |title=Viacom18, Disney Star win big as IPL media rights sold for ₹48,390 crore |url=https://www.livemint.com/sports/cricket-news/viacom18-disney-star-win-big-as-ipl-media-rights-sold-for-rs-48-390-crore-bcci-secretary-jay-shah-11655211425507.html |url-status=live |archive-url=https://web.archive.org/web/20220614233122/https://www.livemint.com/sports/cricket-news/viacom18-disney-star-win-big-as-ipl-media-rights-sold-for-rs-48-390-crore-bcci-secretary-jay-shah-11655211425507.html |archive-date=14 June 2022 |access-date=14 June 2022 |website=mint |language=en}}</ref><ref>{{cite web |last1=Frater |first1=Patrick |last2=Ramachandran |first2=Naman |date=14 June 2022 |title=Viacom18, Disney Carve up $6.2 Billion IPL Cricket Rights |url=https://www.sportico.com/business/media/2022/indian-premier-league-cricket-viacom18-disney-1234678715/ |url-status=live |archive-url=https://web.archive.org/web/20220617165210/https://www.sportico.com/business/media/2022/indian-premier-league-cricket-viacom18-disney-1234678715/ |archive-date=17 June 2022 |access-date=19 June 2022 |website=Sportico.com |language=en-US}}</ref><ref name=":02">{{cite web |title=It's a big deal! IPL 2023–27 India subcontinent TV and digital rights sold for US$ 5.1 billion |url=https://www.espncricinfo.com/story/ipl-2023-27-india-subcontinent-tv-and-digital-rights-sold-for-us-5-1-billion-1319721 |url-status=live |archive-url=https://web.archive.org/web/20221111152203/https://www.espncricinfo.com/story/ipl-2023-27-india-subcontinent-tv-and-digital-rights-sold-for-us-5-1-billion-1319721 |archive-date=11 November 2022 |access-date=14 June 2022 |work=ESPNcricinfo}}</ref><ref>{{cite web |date=14 June 2022 |title=Indian Cricket Rights Cost Broadcasters More Than English Soccer |url=https://www.bloomberg.com/news/articles/2022-06-14/indian-cricket-rights-cost-broadcasters-more-than-english-soccer |url-status=live |archive-url=https://web.archive.org/web/20221204162347/https://www.bloomberg.com/news/articles/2022-06-14/indian-cricket-rights-cost-broadcasters-more-than-english-soccer |archive-date=4 December 2022 |access-date=19 June 2022 |website=Bloomberg}}</ref>
+
+The IPL's media rights were originally held from 2008 to 2017 by [[Sony Pictures Networks]] (domestic) and [[World Sport Group]] (international) under a ten-year contract valued at US$1.03&nbsp;billion.<ref>{{cite web |date=14 January 2008 |title=Sony and World Sports Group bag IPL television rights |url=https://www.espncricinfo.com/story/sony-and-world-sports-group-bag-ipl-television-rights-330881 |url-status=live |archive-url=https://web.archive.org/web/20210430024853/https://www.espncricinfo.com/story/sony-and-world-sports-group-bag-ipl-television-rights-330881 |archive-date=30 April 2021 |access-date=20 February 2019 |work=ESPNcricinfo}}</ref><ref>{{cite news |date=15 January 2008 |title=Billion dollar rights deal for IPL |url=http://www.theaustralian.news.com.au/story/0,25197,23054747-2722,00.html |url-status=dead |archive-url=https://web.archive.org/web/20080118123649/http://www.theaustralian.news.com.au/story/0,25197,23054747-2722,00.html |archive-date=18 January 2008 |work=The Australian}}</ref> Coverage was split between SPN channels such as [[Sony Max]] (which primarily carried coverage in the [[Hindi]] language), [[Sony Sports Network|Sony Six]] (Hindi, [[Bengali language|Bengali]], [[Tamil language|Tamil]], [[Kannada]] and [[Telugu language|Telugu]]), and [[Sony ESPN]] (English).<ref name=":03">{{cite news |date=8 April 2016 |title=IPL viewership may touch 500 million this year: Sony |url=https://www.thehindu.com/sport/cricket/IPL-viewership-may-touch-500-million-this-year-Sony/article60560518.ece |url-status=live |archive-url=https://web.archive.org/web/20200801195414/https://www.thehindu.com/sport/cricket/IPL-viewership-may-touch-500-million-this-year-Sony/article14226514.ece |archive-date=1 August 2020 |access-date=20 February 2019 |work=The Hindu |agency=PTI}}</ref> SPN also produced ''[[Extraaa Innings T20]]'', an [[aftershow]] that combined [[Post-game show|post-match]] analysis with entertainment features such as celebrity guests and interviews.<ref>{{Cite web |last=MediaInfoline |date=10 April 2015 |title='Extraaa Innings T20'- more than just cricket analysis |url=https://www.mediainfoline.com/sports/extraaa-innings-t20-more-than-just-cricket-analysis |url-status=live |archive-url=https://web.archive.org/web/20230313074152/https://www.mediainfoline.com/sports/extraaa-innings-t20-more-than-just-cricket-analysis |archive-date=13 March 2023 |access-date=13 March 2023 |website=Media Infoline |language=en-US}}</ref><ref>{{cite web |title=Shah Rukh Khan to promote Chennai Express during IPL final |url=http://movies.ndtv.com/bollywood/shah-rukh-khan-to-promote-chennai-express-during-ipl-final-633314 |url-status=live |archive-url=https://web.archive.org/web/20170908020516/http://movies.ndtv.com/bollywood/shah-rukh-khan-to-promote-chennai-express-during-ipl-final-633314 |archive-date=8 September 2017 |access-date=24 May 2013 |website=NDTV}}</ref>
+
+The media rights were then held by Star India from 2018 to 2022, under a contract valued at US$2.55&nbsp;billion—which, at the time, was the highest-valued broadcast rights contract in the history of cricket. Star Sports would hold the pay television rights, while [[Disney+ Hotstar]] held the digital rights.<ref name=":22">{{cite news |title=Star India wins IPL rights for US $2.55 billion |url=https://www.espncricinfo.com/story/star-india-wins-ipl-rights-for-us-2-55-billion-1119351 |url-status=live |archive-url=https://web.archive.org/web/20210225032725/https://www.espncricinfo.com/story/star-india-wins-ipl-rights-for-us-2-55-billion-1119351 |archive-date=25 February 2021 |access-date=20 February 2019 |work=ESPNcricinfo}}</ref><ref name=":3">{{cite news |date=4 September 2017 |title=IPL television and broadcast rights sold for massive £1.97bn to Star India |url=https://www.theguardian.com/sport/2017/sep/04/ipl-rights-sold-star-india-cricket-twenty-20 |url-status=live |archive-url=https://web.archive.org/web/20170904130121/https://www.theguardian.com/sport/2017/sep/04/ipl-rights-sold-star-india-cricket-twenty-20 |archive-date=4 September 2017 |access-date=4 September 2017 |work=[[The Guardian]] |issn=0261-3077 |oclc=183261689 |agency=[[Reuters]]}}</ref><ref name=":4">{{Cite news |title=Six stand-out numbers from the IPL media rights sale |url=https://www.espncricinfo.com/story/six-stand-out-numbers-from-the-ipl-media-rights-sale-1119374 |url-status=live |archive-url=https://web.archive.org/web/20210609071450/https://www.espncricinfo.com/story/six-stand-out-numbers-from-the-ipl-media-rights-sale-1119374 |archive-date=9 June 2021 |access-date=20 February 2019 |work=ESPNcricinfo}}</ref><ref>{{cite news |date=5 September 2017 |title=Star Sports mega deal: How buying IPL media rights will change sports broadcasting? |url=https://indianexpress.com/article/sports/sport-others/star-sports-ipl-media-rights-what-cost-monopoly-sky-sports-bcci-4829847/ |url-status=live |archive-url=https://web.archive.org/web/20190404003645/https://indianexpress.com/article/sports/sport-others/star-sports-ipl-media-rights-what-cost-monopoly-sky-sports-bcci-4829847/ |archive-date=4 April 2019 |access-date=20 February 2019 |work=The Indian Express}}</ref> In 2022, Disney Star lost the digital rights to a consortium of [[Reliance Industries]] and [[Viacom18]] (which would stream the IPL for free via their streaming service JioCinema),<ref>{{Cite web |last=Jha |first=Lata |date=3 February 2023 |title=Viacom18's free IPL streaming queers pitch for rivals |url=https://www.livemint.com/industry/media/viacom18s-free-ipl-streaming-queers-pitch-for-rivals-11675437503172.html |url-status=live |archive-url=https://web.archive.org/web/20230210021930/https://www.livemint.com/industry/media/viacom18s-free-ipl-streaming-queers-pitch-for-rivals-11675437503172.html |archive-date=10 February 2023 |access-date=10 February 2023 |website=mint |language=en}}</ref> while maintaining the pay television rights for Star Sports. The loss of IPL rights notably contributed to Disney losing 2.4 million [[Disney+]] subscribers worldwide in fiscal Q4 2022.<ref>{{Cite web |last=Maglio |first=Tony |date=8 February 2023 |title=Disney+ Lost 2.4 Million Subscribers in Q1: What Happened |url=https://www.indiewire.com/2023/02/disney-plus-lost-millions-of-subscribers-1234807625/ |url-status=live |archive-url=https://web.archive.org/web/20230210021930/https://www.indiewire.com/2023/02/disney-plus-lost-millions-of-subscribers-1234807625/ |archive-date=10 February 2023 |access-date=10 February 2023 |website=IndieWire |language=en}}</ref><ref>{{Cite web |date=9 February 2023 |title=Jio effect: Hotstar sheds 3.8 mn subscribers in Dec quarter after losing IPL rights |url=https://www.businesstoday.in/latest/corporate/story/jio-effect-hotstar-sheds-38-mn-subscribers-in-dec-quarter-after-losing-ipl-rights-369648-2023-02-09 |url-status=live |archive-url=https://web.archive.org/web/20230210021931/https://www.businesstoday.in/latest/corporate/story/jio-effect-hotstar-sheds-38-mn-subscribers-in-dec-quarter-after-losing-ipl-rights-369648-2023-02-09 |archive-date=10 February 2023 |access-date=10 February 2023 |website=Business Today |language=en}}</ref>
+
+=== List of broadcasters ===
+{| class="wikitable"
+|-
+! Territory
+! Channels
+! Years
+|-
+| rowspan="2" |India
+| [[Disney Star|Star Sports 1 <br />Star Sports 1 Hindi <br />Star Sports 1 Kannada<br />Star Sports 1 Tamil <br />Star Sports 1 Telugu HD<br />Star Gold<br />Star Bharat <br />Star Utsav Movies <br />Star Jalsa Movies <br />Star Maa Movies<br />Star Suvarna Plus <br />Star Vijay Super]]<br />[[Colors Tamil]]<br />[[Asianet Movies]] 
+| [[2024 Indian Premier League|2024–2027]]
+|-
+| [[JioHotstar]] (Digital)
+| [[2024 Indian Premier League|2024–2027]]
+|-
+| rowspan="2" |Afghanistan
+| [[Ariana Television Network|ATN HD<br />ATN News HD]]
+| [[2024 Indian Premier League|2024]]
+|-
+|Ariana Television (Digital)
+| [[2024 Indian Premier League|2024]]
+|-
+| rowspan="2"|Australia
+| [[Foxtel]] <br/> [[Fox Cricket]]<br/>[[Kayo Sports]]
+| 2023–present<ref name="IPLRights">{{cite web|last1=Frater|first1=Patrick|last2=Ramachandran|first2=Naman|title=India Media Landscape Redrawn as Viacom18, Disney Carve up $6.2 Billion IPL Cricket Rights|url=https://variety.com/2022/digital/asia/indian-premier-league-cricket-viacom18-disney-1235293584/|website=[[Variety (magazine)|Variety]]|date=14 June 2022|access-date=18 August 2022|archive-date=18 August 2022|archive-url=https://web.archive.org/web/20220818195257/https://variety.com/2022/digital/asia/indian-premier-league-cricket-viacom18-disney-1235293584/|url-status=live}}</ref>
+|-
+| [[Kayo Sports#Kayo Freebies|Kayo Freebies]] (Digital)
+| 2023–present<ref name="IPLRights" />
+|-
+| rowspan="2" |Bangladesh
+| [[T Sports|T Sports HD]]
+| [[2024 Indian Premier League|2024]]
+|-
+| [[T Sports|T Sports APP]]
+| [[2024 Indian Premier League|2024]]
+|-
+| Indonesia
+|[[Vidio]] (Digital)
+|2023<ref>{{Cite web |last=Vidio |title=Liga kriket terbaik di dunia hadir di Vidio! |trans-title=The best cricket league in the world comes to Vidio! |url=https://mobile.twitter.com/vidio/status/1644976439085891584 |website=Twitter |language=id |access-date=10 April 2023 |archive-date=9 April 2023 |archive-url=https://web.archive.org/web/20230409195953/https://mobile.twitter.com/vidio/status/1644976439085891584 |url-status=live }}</ref>
+|-
+| New Zealand
+| [[Sky Sport (New Zealand)|Sky Sport]]
+| 2025–present
+|-
+|Nepal
+|[[Kantipur Television|Kantipur Max]]
+|2025–present
+|-
+|Pakistan
+| Tapmad APP
+| [[2024 Indian Premier League|2024]]
+|-
+| Ireland
+| rowspan="2" | [[Sky Sports]]<br/>[[DAZN]]
+| rowspan="2" | 2023–present
+|-
+| United Kingdom
+|-
+| South Africa
+| [[SuperSport (South African broadcaster)|SuperSport]]
+| [[2023 Indian Premier League|2023]]<ref name="IPLRights" />
+|-
+| rowspan="3" |Sri Lanka
+|[[Star Sports (India)|Star Sports 1 <br/> Star Sports 1 HD <br/> Star Sports 2 <br/> Star Sports Select HD 1 <br/> Star Sports Select HD 2]]
+|
+|-
+| [[Supreme TV]]
+| 2023–present
+|-
+| [[SandBrix]] (Digital)
+| 2025
+|-
+| United States
+| [[Willow (TV channel)|Willow TV]]
+| [[2023 Indian Premier League|2023]]–present<ref name="IPLRights" />
+|-
+| Middle East and North Africa
+| [[Times Internet]]
+| [[2023 Indian Premier League|2023]]<ref name="IPLRights" />
+|-
+| Sub-Saharan Africa
+| [[SuperSport (South African TV channel)|SuperSport]]
+| 2021–present
+|}
+
+== Controversies ==
+{{Main|Indian Premier League Controversies}}
+=== Spot-fixing and betting cases ===
+====2012 Indian Premier League spot-fixing and betting case====
+{{Main|2012 Indian Premier League spot-fixing case}}
+
+In the [[2012 Indian Premier League spot-fixing case|2012 IPL spot-fixing case]], the BCCI imposed a lifetime ban on [[Deccan Chargers]] player [[TP Sudhindra]] and suspended four other players.<ref>{{Cite web |title=BCCI bans five cricketers for spot-fixing in Indian Premier League |url=https://www.indiatoday.in/sports/cricket/story/bcci-bans-five-cricketers-for-spot-fixing-in-ipl-107658-2012-06-30 |access-date=28 January 2023 |website=India Today |date=July 2012 |language=en |archive-date=28 January 2023 |archive-url=https://web.archive.org/web/20230128190320/https://www.indiatoday.in/sports/cricket/story/bcci-bans-five-cricketers-for-spot-fixing-in-ipl-107658-2012-06-30 |url-status=live }}</ref> In a [[sting operation]], [[Pune Warriors India]] player [[Mohnish Mishra]] was recorded alleging that IPL franchise owners paid players [[Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015|black money]], over and above their salaries. Mishra later apologized for his "frivolous and incorrect statements".<ref>{{Cite news |title=BCCI suspends 5 cricketers after sting operation |url=https://www.thehindu.com/sport/cricket/bcci-suspends-5-cricketers-after-sting-operation/article3422290.ece |website=The Hindu |date=15 May 2012 |access-date=2 February 2023 |archive-date=26 February 2018 |archive-url=https://web.archive.org/web/20180226131849/http://www.thehindu.com/sport/cricket/bcci-suspends-5-cricketers-after-sting-operation/article3422290.ece |url-status=live }}</ref><ref>{{Cite web |title=IPL spot-fixing: Mohnish Mishra admits and aplogises |url=https://sports.ndtv.com/ipl-2012/ipl-spot-fixing-mohnish-mishra-admits-and-aplogises-1554456 |date=16 May 2012 |agency=Indo-Asian News Service |website=NDTV |access-date=3 April 2023 |archive-date=3 April 2023 |archive-url=https://web.archive.org/web/20230403020120/https://sports.ndtv.com/ipl-2012/ipl-spot-fixing-mohnish-mishra-admits-and-aplogises-1554456 |url-status=live }}</ref>
+
+====2013 Indian Premier League spot-fixing and betting case====
+{{Main|2013 Indian Premier League spot-fixing and betting case}}
+
+In the [[2013 Indian Premier League spot-fixing and betting case|2013 IPL spot-fixing and betting case]], Delhi police arrested [[Rajasthan Royals]] players [[Ajit Chandila]], [[Ankeet Chavan]] and [[S. Sreesanth]] on charges of spot-fixing; they received lifetime bans from the BCCI. The police also arrested [[Gurunath Meiyappan]], the team principal of [[Chennai Super Kings]] and son-in-law of then BCCI president [[N. Srinivasan]], for illegally betting on IPL matches and passing team information to bookmakers.<ref>{{cite web|url=https://www.espncricinfo.com/story/the-gurunath-meiyappan-case-672225 |date=21 September 2013 |title=The Gurunath Meiyappan case|work=ESPNcricinfo|access-date=19 October 2022|archive-date=19 October 2022|archive-url=https://web.archive.org/web/20221019050508/https://www.espncricinfo.com/story/the-gurunath-meiyappan-case-672225|url-status=live}}</ref><ref>{{Cite web |date=16 May 2022 |title=On this day in 2013: IPL spot-fixing scandal rocks cricketing world; Sreesanth among three players arrested |url=https://www.firstpost.com/firstcricket/sports-news/on-this-day-in-2013-ipl-spot-fixing-scandal-rocks-cricketing-world-sreesanth-among-three-players-arrested-10674031.html |url-status=live |archive-url=https://web.archive.org/web/20231028121623/https://www.firstpost.com/firstcricket/sports-news/on-this-day-in-2013-ipl-spot-fixing-scandal-rocks-cricketing-world-sreesanth-among-three-players-arrested-10674031.html |archive-date=28 October 2023 |website=Firstpost}}</ref> In 2015, the [[Lodha Committee]], appointed by the [[Supreme Court of India]], banned Rajasthan Royals and Chennai Super Kings for two years. Meiyappan and Rajasthan Royals co-owner [[Raj Kundra]] were found guilty of betting and banned from any involvement with the game.<ref>{{Cite news |title=CSK, RR suspended from IPL for 2 years; Meiyappan, Kundra banned for life |url=https://timesofindia.indiatimes.com/news/csk-rr-suspended-from-ipl-for-2-years-meiyappan-kundra-banned-for-life/articleshow/48067702.cms |website=[[Times of India]]|date=14 July 2015|url-status=live |archive-url=https://web.archive.org/web/20221118161958/https://timesofindia.indiatimes.com/news/csk-rr-suspended-from-ipl-for-2-years-meiyappan-kundra-banned-for-life/articleshow/48067702.cms?from=mdr |archive-date=18 November 2022 }}</ref>
+
+===Strategic timeouts===
+In the [[2009 Indian Premier League|2009 season]], the IPL introduced the "strategic [[Time-out (sport)|timeout]]", a seven-and-a-half minute break at the end of the tenth over in each innings.<ref>{{Cite news |title=Indian Premier League introduces compulsory time-outs during matches |url=https://www.theguardian.com/sport/2009/apr/16/indian-premier-league-cricket |newspaper=The Guardian |access-date=18 July 2025 |location=Cape Town |first=Lawrence |last=Booth |date=16 April 2009}}</ref> Teams and players, including [[Sachin Tendulkar]], disapproved of it for interrupting the flow of play,<ref>{{Cite web |date=20 April 2009 |title=Timeout hampering teams' momentum, says Tendulkar |url=https://www.indiatoday.in/sports/story/timeout-hampering-teams-momentum-says-tendulkar-45054-2009-04-19 |website=[[India Today]] |agency=IANS |publisher=AtMigration |access-date=18 July 2025}}</ref> while critics labelled it a "commercial use of an extended drinks break" as every 10-second advertisement slot was sold for over ₹5 lakh.<ref name=":12">{{Cite web |title=Controversial IPL strategic time outs now armed with a sponsor |url=https://www.indiatoday.in/sports/cricket/story/ipl-8-sponsor-strategic-time-outs-240036-2015-02-12 |first1=Rasesh |last1=Mandani |date=12 February 2015 |website=India Today |url-status=live |archive-url=https://web.archive.org/web/20231116212551/https://www.indiatoday.in/sports/cricket/story/ipl-8-sponsor-strategic-time-outs-240036-2015-02-12 |archive-date=16 November 2023 |access-date=18 July 2025}}</ref><ref name=":13" /> The then-president of the IPL insisted that the break was intended to allow teams to strategise during the game. Following widespread criticism, in the [[2010 Indian Premier League|2010 season]], the duration of the timeout was reduced to five minutes, split in two halves during each innings.<ref name=":13">{{Cite web |last=Gollapudi |first=Nagraj |title=IPL sets down time-out ruling |url=https://www.espncricinfo.com/story/ipl-sets-down-time-out-ruling-450810 |date=4 March 2010 |work=ESPNcricinfo |access-date=3 April 2023 |archive-date=3 April 2023 |archive-url=https://web.archive.org/web/20230403015123/https://www.espncricinfo.com/story/ipl-sets-down-time-out-ruling-450810 |url-status=live }}</ref><ref>{{Cite web |author=Cricinfo staff |date=18 February 2010 |title=IPL shortens match timeouts |url=https://www.espncricinfo.com/story/ipl-shortens-match-timeouts-448906 |website=ESPNcricinfo |access-date=18 July 2025}}</ref>
+
+IPL stakeholders have described strategic timeouts as unavoidable, as they provide the BCCI with sponsorship revenue and allow broadcasters additional time for advertisements.<ref name=":12" /> In 2022, commentator [[Sunil Gavaskar]] said that strategic timeouts, among other factors, caused IPL matches to stretch to nearly 4 hours, instead of the stipulated time of 3 hours and 10 minutes.<ref name=Hindu>{{Cite web |title=Gavaskar: IPL teams should stick to the time limit. |url=https://www.sportstar.thehindu.com/columns/onthewriteline-sunil-gavaskar/gavaskar-says-ipl-teams-should-stick-to-time-limit-2022-season/article38486951.ece/amp/ |website=[[The Hindu]] Sportstar |access-date=23 May 2023 |archive-date=14 May 2022 |archive-url=https://web.archive.org/web/20220514235225/https://sportstar.thehindu.com/columns/onthewriteline-sunil-gavaskar/gavaskar-says-ipl-teams-should-stick-to-time-limit-2022-season/article38486951.ece/amp/ |url-status=dead }}</ref>
+
+===Incidents with players===
+
+During the 2008 season, Mumbai Indians player [[Harbhajan Singh]] slapped [[S. Sreesanth]] at the end of a match, resulting in Harbhajan being fined and banned from the remaining games of the season.<ref>{{cite news |title=Harbhajan banned for rest of IPL season |url=https://www.espncricinfo.com/story/harbhajan-banned-for-rest-of-ipl-season-347804 |access-date=27 January 2026 |work=ESPNcricinfo |date=28 April 2008 |language=en}}</ref> Years later, Harbhajan apologized to Sreesanth on television.<ref>{{Cite web |title='Forget it man!': Harbhajan Singh interrupts after Sehwag reminds Sreesanth of 'slapgate' incident |url=https://www.hindustantimes.com/cricket/forget-it-man-harbhajan-singh-interrupts-after-sehwag-reminds-sreesanth-of-slapgate-incident-watch-ipl-2023-101680615664073.html |website=[[Hindustan Times]] |date=5 April 2023 |access-date=7 August 2023 |archive-date=7 August 2023 |archive-url=https://web.archive.org/web/20230807070401/https://www.hindustantimes.com/cricket/forget-it-man-harbhajan-singh-interrupts-after-sehwag-reminds-sreesanth-of-slapgate-incident-watch-ipl-2023-101680615664073.html |url-status=live }}</ref><ref>{{Cite web |title='If I had to Correct one Mistake, it's How I treated Sreesanth': Harbhajan on Infamous Slapgate Incident |url=https://www.news18.com/cricketnext/news/if-i-had-to-correct-one-mistake-its-how-i-treated-sreesanth-harbhajan-one-infamous-slapgate-incident-watch-5313979.html |website=[[News18]]}}</ref>
+
+In 2010, the BCCI banned [[Ravindra Jadeja]] from the IPL for one year after he violated league guidelines by negotiating a more lucrative contract with other teams instead of renewing his contract with the Rajasthan Royals.<ref>{{Cite web |date=13 February 2010 |title=IPL slaps one-year ban on Ravindra Jadeja |url=https://www.hindustantimes.com/cricket/ipl-slaps-one-year-ban-on-ravindra-jadeja/story-cDImazEWOCpsUGRVRxEDXK.html |access-date=11 April 2023 |website=Hindustan Times |language=en |archive-date=20 March 2023 |archive-url=https://web.archive.org/web/20230320064351/https://www.hindustantimes.com/cricket/ipl-slaps-one-year-ban-on-ravindra-jadeja/story-cDImazEWOCpsUGRVRxEDXK.html |url-status=live }}</ref>
+
+===Team ownership controversies===
+In April 2010, IPL commissioner [[Lalit Modi]] revealed that [[Sunanda Pushkar]], who was described at the time as a "close friend" of the Minister of State for External Affairs [[Shashi Tharoor]], held [[sweat equity]] shares in [[Rendezvous Sports World]] (RSW), the proprietor of the newly auctioned franchise [[Kochi Tuskers Kerala]]. Since Tharoor had mentored RSW's successful bid for the Kochi franchise, members of his [[Indian National Congress]] party demanded his resignation. Pushkar gave up her 4.7% sweat equity estimated to be worth ₹70 crore, while Tharoor resigned over charges of [[conflict of interest]] and allegations that Pushkar was acting as a proxy for him.<ref>{{Cite news |date=19 April 2010 |title=Shashi Tharoor resigns, PM accepts |url=https://timesofindia.indiatimes.com/india/kochi-ipl-row-shashi-tharoor-resigns-pm-accepts/articleshow/5829192.cms |url-status=live |archive-url=https://web.archive.org/web/20100421021113/http://timesofindia.indiatimes.com/india/Kochi-IPL-row-Shashi-Tharoor-resigns-PM-accepts/articleshow/5829192.cms |archive-date=21 April 2010 |website=[[Times of India]]}}</ref><ref>{{cite news |title=Indian minister quits over Kochi franchise deal |url=https://www.espncricinfo.com/story/indian-minister-tharoor-quits-over-ipl-kochi-franchise-deal-456550 |access-date=27 January 2026 |work=ESPNcricinfo |date=18 April 2010}}</ref> Tharoor married Pushkar in August later that year.<ref>{{cite news |last1=Bhattacharya |first1=Suryatapa |title=Tharoor and Pushkar finally tie the knot |url=https://www.thenationalnews.com/uae/tharoor-and-pushkar-finally-tie-the-knot-1.557281 |access-date=27 January 2026 |work=The National |date=22 August 2010 |language=en}}</ref>
+
+In April 2010, the BCCI president [[Shashank Manohar]] claimed in a press conference that the IPL Governing Council did not know the true owners of the Rajasthan Royals (RR) and Kings XI Punjab (KXIP). He stated that during the franchise bidding process, only [[Preity Zinta]] had initially come forward to bid for KXIP, but the franchise agreement was later signed by a different company in which she held no ownership stake. He cited similar irregularities in the bidding process for RR, adding that the BCCI's permission had not been sought before the owners of RR sold a part stake to [[Shilpa Shetty]] and [[Raj Kundra]], and that the mandatory 5% share transfer fee had not been paid.<ref>{{cite news |date=27 April 2010 |title=BCCI to Modi: Who owns RR? |url=https://economictimes.indiatimes.com/bcci-to-modi-who-owns-rr/articleshow/5861722.cms?from=mdr |url-status=live |archive-url=https://web.archive.org/web/20240419120745/https://economictimes.indiatimes.com/bcci-to-modi-who-owns-rr/articleshow/5861722.cms?from=mdr |archive-date=19 April 2024 |access-date=31 May 2025 |newspaper=The Economic Times}}</ref><ref>{{cite news |title=BCCI not given fee for IPL share transfers |url=https://www.hindustantimes.com/cricket/bcci-not-given-fee-for-ipl-share-transfers/story-S64Rdo5nmRmsWLQ2U8mHjO.html |access-date=27 January 2026 |work=Hindustan Times |date=26 April 2010 |language=en}}</ref> Both franchises were briefly terminated in October 2010 over alleged violations of the franchise agreement,<ref>{{cite news |last1=Shah |first1=Gouri |last2=Narayan |first2=Khushboo |title=Rajasthan Royals, Kings XI expelled |url=https://www.livemint.com/Home-Page/JDAqiUOv3RUxwcDHMUuViP/Rajasthan-Royals-Kings-XI-expelled.html |access-date=27 January 2026 |work=mint |date=10 October 2010 |language=en}}</ref><ref>{{cite news |title=IPL terminates Punjab, Rajasthan franchises |url=https://www.espncricinfo.com/story/ipl-news-ipl-terminates-punjab-rajasthan-franchises-480748 |access-date=27 January 2026 |work=ESPNcricinfo |date=10 October 2010}}</ref><ref>{{cite news |last1=Rao |first1=K Shriniwas |title=Rajasthan Royals, Kings XI Punjab in shock |url=https://timesofindia.indiatimes.com/news/rajasthan-royals-kings-xi-punjab-in-shock/articleshow/6726370.cms |access-date=27 January 2026 |work=The Times of India |date=11 October 2010}}</ref> before the terminations were overturned by the [[Bombay High Court]] in December 2010.<ref>{{cite news |title=BCCI loses appeal against Kings XI Punjab |url=https://www.cricbuzz.com/cricket-news/33800/bcci-loses-appeal-against-kings-xi-punjab |access-date=27 January 2026 |work=Cricbuzz |date=16 December 2010}}</ref><ref>{{cite news |title=BCCI not to move Supreme Court against Royals, Kings XI |url=https://sports.ndtv.com/cricket/bcci-not-to-move-supreme-court-against-royals-kings-xi-1586067 |access-date=27 January 2026 |work=NDTV |date=18 December 2010}}</ref>
+
+In April 2010, former BCCI president [[A. C. Muthiah]] filed a Supreme Court petition against Chennai Super Kings (CSK) owner [[N. Srinivasan]], claiming that the then-BCCI president Srinivasan altered BCCI's rules to allow himself to purchase an IPL team and that owning an IPL team was a case of [[conflict of interest]].<ref>{{cite news |title=Muthiah-Srinivasan rivalry resurfaces |url=https://economictimes.indiatimes.com/muthiah-srinivasan-rivalry-resurfaces/articleshow/5850931.cms |access-date=27 January 2026 |work=The Economic Times |date=24 April 2010}}</ref> A few months later, Indian media, citing an alleged leaked e-mail, accused former IPL commissioner [[Lalit Modi]] of helping Srinivasan's team buy [[Andrew Flintoff]] in the 2009 player auction.<ref>{{Cite news |title=N Srinivasan accused of playing foul to cement Flintoff's place in CSK |work=The Economic Times |url=https://economictimes.indiatimes.com/n-srinivasan-accused-of-playing-foul-to-cement-flintoffs-place-in-csk/articleshow/6442735.cms?from=mdr |access-date=28 January 2023 |archive-date=28 January 2023 |archive-url=https://web.archive.org/web/20230128193757/https://economictimes.indiatimes.com/n-srinivasan-accused-of-playing-foul-to-cement-flintoffs-place-in-csk/articleshow/6442735.cms?from=mdr |url-status=live }}</ref> During a hearing of the [[2013 Indian Premier League spot-fixing and betting case|2013 betting case]] in which Srinivasan's son-in-law and CSK's team principal [[Gurunath Meiyappan]] was suspended by the [[Lodha Committee]],<ref>{{Cite news |title=IPL scam: Lodha panel suspends CSK, RR franchises for two years |url=https://www.thehindu.com/news/national/IPL-spot-fixing-scam-CSK-RR-suspended-for-two-years/article60493001.ece |access-date=2 February 2023 |website=The Hindu |date=14 July 2015 |archive-date=9 April 2023 |archive-url=https://web.archive.org/web/20230409052931/https://www.thehindu.com/news/national/IPL-spot-fixing-scam-CSK-RR-suspended-for-two-years/article60493001.ece |url-status=live }}</ref> the Supreme Court criticized Srinivasan for owning an IPL team while serving as the BCCI president.<ref>{{Cite web |last=Bose |first=Soumitra |title=N. Srinivasan Slammed by Supreme Court, Asks 'How Can BCCI Chief Own an IPL Team?' |url=https://sports.ndtv.com/cricket/supreme-court-tells-n-srinivasan-no-distinction-between-bcci-ipl-it-has-become-a-mutual-benefit-society-1509154 |date=24 November 2014 |website=[[NDTV]] |access-date=3 April 2023 |archive-date=28 January 2023 |archive-url=https://web.archive.org/web/20230128192043/https://sports.ndtv.com/cricket/supreme-court-tells-n-srinivasan-no-distinction-between-bcci-ipl-it-has-become-a-mutual-benefit-society-1509154 |url-status=live }}</ref> As of 2024, Srinivasan's family was reported to exercise control over [[Chennai Super Kings Cricket]] through a significant ownership stake;<ref>{{cite news |title=CSK to remain in fold of Srinivasan's family |url=https://timesofindia.indiatimes.com/city/chennai/csk-ownership-remains-with-srinivasan-family/articleshow/112091083.cms |access-date=27 January 2026 |work=The Times of India |date=29 July 2024}}</ref> his daughter [[Rupa Gurunath]] often appears in stadiums during CSK's games.
+
+===Slow over rates===
+Field umpires sometimes penalize teams by restricting them to having only four fielders outside the 30-yard area, or match referees penalize captains and team members by reducing their match fees, but these measures have not solved the problem. Games often run at a slow speed and finish late. During the [[2024 Indian Premier League|2024 season]], Rishabh Pant, captain of Delhi Capitals, and Shubman Gill of Gujarat Titans were fined ₹12 lakhs each for their teams' slow over rates during matches against Chennai Super Kings.<ref>{{Cite web |last=Madhan |date=1 April 2024 |title=IPL 2024: Delhi Capitals Skipper Rishabh Pant Slapped with 12 Lakh Fine for Slow Over Rate Against CSK |url=https://crictips.com/news/ipl-2024-delhi-capitals-skipper-rishabh-pant-slapped-with-12-lakh-fine-for-slow-over-rate-against-csk/ |access-date=16 April 2024 |website=CricTips |language=en-GB |archive-date=9 June 2024 |archive-url=https://web.archive.org/web/20240609190112/https://crictips.com/news/ipl-2024-delhi-capitals-skipper-rishabh-pant-slapped-with-12-lakh-fine-for-slow-over-rate-against-csk/ |url-status=live }}</ref> Millions of viewers feel that IPL matches should be fast-paced.<ref>{{Cite web |title=IPL is losing the game of clock |url=https://www.hindustantimes.com/cricket/ipl-is-losing-the-game-of-the-clock-101680630300397.html |website=[[Hindustan Times]] |date=4 April 2023 |access-date=23 May 2023 |archive-date=23 May 2023 |archive-url=https://web.archive.org/web/20230523224332/https://www.hindustantimes.com/cricket/ipl-is-losing-the-game-of-the-clock-101680630300397-amp.html |url-status=live }}</ref>
+
+===Security issues===
+Ahead of the [[2009 Indian Premier League|2009 season]], the Indian government declined to provide security for the IPL, citing that central security forces would be engaged in the [[2009 Indian general election|general elections]].<ref>{{cite news |title=Indian government withholds security clearance for the IPL |url=https://www.theguardian.com/sport/2009/mar/13/indian-premier-league-security-clearance-denied |access-date=27 January 2026 |work=The Guardian |date=13 March 2009}}</ref> As a result, the BCCI shifted the season to [[South Africa]].<ref>{{cite news |title=South Africa to host IPL |url=http://content.cricinfo.com/ipl2009/content/story/396617.html |access-date=26 September 2021 |work=ESPNcricinfo |language=en}}</ref> A similar decision by the Indian government in [[2014 Indian Premier League|2014]], when the IPL again coincided with the [[2014 Indian general election|general elections]],<ref name="host">{{cite news |url=http://www.espncricinfo.com/indian-premier-league-2014/content/story/721055.html |title=Government says it can't provide IPL security during polls |date=21 February 2014 |work=ESPNcricinfo |access-date=21 February 2014 |archive-url=https://web.archive.org/web/20140222231824/http://www.espncricinfo.com/indian-premier-league-2014/content/story/721055.html |archive-date=22 February 2014 |url-status=live}}</ref> led to the opening 20 matches being held in the [[United Arab Emirates]], with the tournament returning to India on 2 May 2014.<ref name="BBCUAE">{{cite news |url=https://www.bbc.co.uk/sport/cricket/26542931 |title=Indian Premier League to open in United Arab Emirates |date=12 March 2014 |work=BBC Sport |access-date=12 March 2014 |archive-url=https://web.archive.org/web/20140313000245/http://www.bbc.co.uk/sport/0/cricket/26542931 |archive-date=13 March 2014 |url-status=live}}</ref>
+
+On 9 May 2025, the [[2025 Indian Premier League|2025 season]] was suspended for one week during the [[India–Pakistan relations|India-Pakistan]] [[2025 India–Pakistan conflict|conflict]].<ref>{{Cite web|url=https://www.hindustantimes.com/cricket/ipl-2025-likely-to-be-suspended-as-military-tensions-escalate-between-india-and-pakistan-101746771194814.html|title=IPL 2025 suspended indefinitely as military tensions escalate between India and Pakistan: Report|work=Hindustan Times |date=9 May 2025}}</ref><ref>{{Cite web|url=https://www.espncricinfo.com/story/ipl-2025-suspended-over-india-pakistan-border-tensions-1485448|title=IPL 2025 suspended 'for one week' amid India-Pakistan border tensions|website=ESPNcricinfo}}</ref> As several airports in North India were closed, the [[Indian Railways]] organized special [[Vande Bharat Express|Vande Bharat Express trains]] for players, support staff, commentators, production crew members, and operations staff on the request of the BCCI.<ref>{{Cite web|url=https://www.livemint.com/sports/ipl-thanks-rail-ministry-for-arranging-special-arranging-trains-for-players-11746833961569.html|title='Jis tarah se manage kiya, woh bahut achcha tha': BCCI lauds Railways for arranging special trains for players|date=10 May 2025}}</ref>
+
+===Exclusion of Pakistani and Bangladeshi players===
+Following the [[2008 Mumbai attacks|November 2008 terrorist attacks]] in [[Mumbai]] by Pakistan-based terrorist group [[Lashkar-e-Taiba]], geopolitical tensions surged between India and Pakistan. The aftermath of the attack led to the exclusion of Pakistani players from playing in the IPL, as none of them were picked by any team during the [[List of 2009 Indian Premier League personnel changes#Auction|2009 IPL auction]].<ref>[https://www.sportingnews.com/uk/cricket/news/ipl-2023-why-arent-pakistan-players-indian-premier-league/fhamxhorobjqnxcioy8s5ipb#:~:text=Due%20to%20the%202008%20Mumbai,banned%20from%20joining%20the%20IPL. IPL 2023: Why aren't Pakistan players in the Indian Premier League?] {{Webarchive|url=https://web.archive.org/web/20231121094650/https://www.sportingnews.com/uk/cricket/news/ipl-2023-why-arent-pakistan-players-indian-premier-league/fhamxhorobjqnxcioy8s5ipb#:~:text=Due%20to%20the%202008%20Mumbai,banned%20from%20joining%20the%20IPL. |date=21 November 2023 }} The Sporting News, 27 May 2023.</ref> While they had been selected by several teams for the inaugural [[2008 Indian Premier League|IPL season in 2008]], their [[List of 2009 Indian Premier League personnel changes#Withdrawals|contracts were terminated]] before the 2009 edition, and have been excluded for subsequent editions.<ref>[https://www.hindustantimes.com/cricket/shaheen-afridi-box-office-babar-azam-rizwan-worrisome-experts-manjrekar-moody-pakistan-cricketers-for-ipl-perfect-world-101685872234883.html 'Shaheen Afridi would be box office. Babar, Rizwan worrisome': Experts pick PAK cricketers for IPL in ‘perfect world’] {{Webarchive|url=https://web.archive.org/web/20231111072149/https://www.hindustantimes.com/cricket/shaheen-afridi-box-office-babar-azam-rizwan-worrisome-experts-manjrekar-moody-pakistan-cricketers-for-ipl-perfect-world-101685872234883.html |date=11 November 2023 }}. Hindustan Times, 4 June 2023.</ref> Among the critics of the BCCI and IPL owners has been retired cricketer and former Pakistan prime minister [[Imran Khan]], who stated that they "take it out on Pakistan players". He accused the BCCI of "arrogance" but also stated that "Pakistan should not worry about it".<ref>[https://sports.ndtv.com/cricket/if-india-doesnt-allow-pakistan-players-in-ipl-imran-khan-slams-bcci-3909778 'If India Doesn't Allow Pakistan Players In IPL...': Imran Khan Slams BCCI] {{Webarchive|url=https://web.archive.org/web/20231111072149/https://sports.ndtv.com/cricket/if-india-doesnt-allow-pakistan-players-in-ipl-imran-khan-slams-bcci-3909778 |date=11 November 2023 }}. NDTV Sports Desk, 1 April 2023.</ref> Certain Pakistani players, including [[Hasan Ali (cricketer)|Hasan Ali]] and [[Sohail Tanvir]] expressed disappointment about not getting an opportunity to be a part of the IPL.<ref>{{cite web|url= https://scroll.in/field/951505/not-given-up-hopes-of-being-recalled-by-pakistan-for-t20-world-cup-says-sohail-tanvir|title= Regret that other Pakistan players and I can't play in IPL, says pacer Sohail Tanvir|date= 29 January 2020}}</ref><ref>{{cite news|url= https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/every-player-wants-to-play-ipl-star-pakistan-pacer-expresses-desire-to-play-in-worlds-most-popular-league/articleshow/105539548.cms|title= Every Player wants to play in IPL:Star Pakistani Pacer|newspaper= The Times of India|date= 27 November 2023}}</ref> In addition to the exclusion of Pakistani players from the IPL, India refused to play with Pakistan in any bilateral series and pulled out from the [[Sri Lankan cricket team in Pakistan in 2008–09|2009]] series.<ref>{{cite news |first=Steve |last=Herman |title=India Cancels Cricket Tour of Pakistan |date=18 December 2008 |publisher=Voice of America |url=http://voanews.com/english/2008-12-18-voa16.cfm |archive-url=https://web.archive.org/web/20081222054330/http://www.voanews.com/english/2008-12-18-voa16.cfm |url-status=dead |archive-date=22 December 2008 |work=VOA News | access-date = 3 January 2009}}</ref>
+
+For the [[2010 Indian Premier League|2010 IPL season]] auction, as no franchise bid for any Pakistani player, it led to major protests in Pakistan.<ref>{{cite web|url= https://www.aljazeera.com/sports/2010/1/22/pakistan-protest-over-ipl-snub|title= Pakistan protest over IPL snub |date=22 January 2010 |website=[[Al Jazeera]] }}</ref> As a result of not being selected, several players such as [[Shahid Afridi]] and [[Abdul Razzaq (cricketer)|Abdul Razzaq]] expressed disappointment, while former leg spinner [[Abdul Qadir (cricketer)|Abdul Qadir]] stated that Pakistan should form its own league.<ref>{{cite web|url= https://www.cricbuzz.com/cricket-news/23392/pak-players-angry-at-ipl-snub|title= Pak players angry at IPL snub |date=19 January 2010 |website=cricbuzz.com}}</ref> Subsequently, it led to the formation of [[Pakistan Super League]], which had its first season in 2016.<ref>{{cite web|url= https://www.reuters.com/article/sports/pakistan-keen-to-build-on-super-league-success-idUSKCN0VW2HZ/|title= Pakistan keen to build on Super League success|website= [[Reuters]]}}</ref>
+
+During the [[List of 2025 Indian Premier League personnel changes|2025 IPL auction]] on 24 and 25 November 2024 at Jeddah, Saudi Arabia, 13 Bangladeshi players were registered, out of which 12 were auctioned.<ref>{{cite web|url= https://www.sentinelassam.com/sports-news/franchises-overlook-bangladeshi-cricketers-in-indian-premier-league-ipl-auction|title= Franchises overlook Bangladeshi cricketers in Indian Premier League (IPL) auction|date= 27 November 2024}}</ref> However, none of the players were sold, prompting a backlash from Bangladeshi fans and cricketers.<ref>{{Cite web|url=https://news24online.com/sports/no-bids-no-spotlight-not-a-single-player-from-bangladesh-in-ipl-2025/392070/|title=No Bids, No Spotlight: Not A Single Player From Bangladesh In IPL 2025 News24 – |date=27 November 2024 }}</ref> After the auction concluded, the exclusion of Bangladeshi players was largely supported by Indians following the [[2024 Bangladesh anti-Hindu violence|violence against Hindus in Bangladesh]] in the aftermath of [[Resignation of Sheikh Hasina|resignation]] of [[Sheikh Hasina]] on 5 August 2024.<ref>{{cite web|url= https://www.msn.com/en-in/sports/cricket/bangladesh-s-ipl-2025-snub-bangladeshis-cry-foul-claim-bcci-instructed-teams-not-to-buy-players-watch/ar-AA1uKY0G|title= Bangladesh's IPL 2025 snub: Bangladeshis cry foul, claim BCCI instructed teams not to buy players (WATCH)|website= [[MSN]]}}</ref>
+
+Following the [[List of 2026 Indian Premier League personnel changes|2026 IPL auction]] in December 2025 at Abu Dhabi, controversy arose after [[Kolkata Knight Riders]] bought Bangladeshi cricketer [[Mustafizur Rahman]], due to the geopolitical tensions caused by the [[2025 Bangladesh anti-Hindu violence|violence against Hindus]] and [[lynching of Dipu Chandra Das]] in [[December 2025 Bangladesh violence|December 2025]].<ref>{{Cite web|title=KKR And Mustafizur Rahman Controversy Explained: What Is It About?|url=https://www.news18.com/cricket/kkr-and-mustafizur-rahman-controversy-explained-what-is-it-about-ws-kln-9804495.html|work=[[News18]]|language=en|date=2 January 2026|access-date=3 January 2026}}</ref> Following an outcry and widespread condemnation across India, the BCCI on 3 January 2026 requested the team to release Rahman.<ref>{{Cite web|title=KKR release Mustafizur from IPL 2026 squad following BCCI instructions|url=https://www.espncricinfo.com/story/ipl-2026-bcci-asks-kkr-to-release-mustafiqur-rahman-from-their-squad-because-of-recent-developments-1517878|publisher=[[Cricinfo]]|language=en|access-date=3 January 2026}}</ref> The incident led to the [[Bangladesh Cricket Board]] request the [[International Cricket Council]] to shift their matches against India in the [[2026 Men's T20 World Cup]], co-hosted by India and Sri Lanka, to be solely held in Sri Lanka, similar to that of Pakistan's.<ref>{{Cite news |date=4 January 2026 |title=Bangladesh govt asks cricket board to shift T20 World Cup games out of India after Mustafizur controversy |url=https://economictimes.indiatimes.com/news/sports/bangladesh-govt-asks-cricket-board-to-shift-t20-world-cup-games-out-of-india-after-mustafizur-controversy/articleshow/126330617.cms?from=mdr |access-date=4 January 2026 |work=The Economic Times |issn=0013-0389}}</ref><ref>{{Cite web |date=4 January 2026 |title="Won't Tolerate Insult": Bangladesh Prepare Big IPL Move After Mustafizur Rahman's Release |url=https://sports.ndtv.com/ipl-2026/wont-tolerate-insult-bangladesh-prepare-big-ipl-move-after-mustafizur-rahmans-release-10271012 |work=[[NDTV Sports]] |language=en}}</ref> Due to unresolved disagreements between the ICC and BCB, the Bangladesh team was later officially replaced by the Scotland team.<ref name=BAN-W2>{{Cite web |date=24 January 2026 |title=T20 World Cup 2026: ICC replace Bangladesh with Scotland |url=https://www.cricbuzz.com/cricket-news/137422/t20-world-cup-2026-icc-replace-bangladesh-with-scotland |access-date=24 January 2026 |publisher=[[Cricbuzz]] |language=en}}</ref>
+
+== See also ==
+{{Portal|Cricket}}
+* [[Cricket in India]]
+* [[Sport in India]] – overview of Indian sports culture
+* [[:Category:Cricket leagues in India|List of cricket leagues in India]]
+* [[:Category:Professional sports leagues in India|List of professional sports leagues in India]]
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{Duplicated citations|reason=DuplicateReferences script detected:
+* https://www.thehindu.com/news/national/IPL-spot-fixing-scam-CSK-RR-suspended-for-two-years/article60493001.ece (refs: 74, 208)
+* https://timesofindia.indiatimes.com/news/csk-rr-suspended-from-ipl-for-2-years-meiyappan-kundra-banned-for-life/articleshow/48067702.cms (refs: 75, 185)
+|date=September 2026}}
+
+{{reflist}}
+
+== External links ==
+{{Commons category}}
+* {{Official website|https://www.iplt20.com/}}
+* [https://stats.espncricinfo.com/ci/engine/records/index.html?id=117;type=trophy Tournament home] on [[Cricinfo]]
+
+{{Indian Premier League}}
+{{Navboxes|list=
+{{Cricket in India}}
+{{Twenty20 cricket domestic competitions}}
+{{Champions League Twenty20}}
+{{Sports leagues of India}}
+}}
+{{Authority control}}
+
+[[Category:Indian Premier League]]
+[[Category:Professional sports leagues in India]]
+[[Category:Professional cricket leagues]]
+[[Category:Twenty20 cricket leagues]]
+[[Category:Sports leagues established in 2008]]
+[[Category:2008 establishments in India]]
+[[Category:Sport in India]]

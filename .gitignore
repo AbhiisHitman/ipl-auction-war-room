@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/cricsheet/ipl_csv2/
+data/raw/cricsheet/*.zip
+data/interim/
+.DS_Store
+web/node_modules/
+web/dist/
+# third-party files that are large or not ours to redistribute (see README to re-download)
+data/raw/hl_ipl_study_2025.pdf
+data/raw/geo/india-composite.geojson
+*.log

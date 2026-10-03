@@ -1,0 +1,2241 @@
+player,team,own_team,fit_gain,strength_gain,win_pct_gain,starter,gap,gap_role,purse_room_now,overseas_slot,fit_rank
+V Suryavanshi,CSK,False,12.164,9.54,0.0292,True,Amber,Opener,False,True,2
+SP Narine,CSK,False,8.401,6.529,0.02,True,Amber,Opener,False,False,5
+B Kumar,CSK,False,10.282,6.375,0.0195,True,Red,Death pacer,False,True,2
+JP Inglis,CSK,False,6.834,5.275,0.0162,True,Amber,Wicketkeeper,False,False,5
+JJ Bumrah,CSK,False,8.227,5.033,0.0154,True,Red,Death pacer,False,True,2
+JO Holder,CSK,False,4.86,4.907,0.015,True,Green,,False,False,8
+V Kohli,CSK,False,6.178,4.751,0.0146,True,Amber,Opener,False,True,2
+Abhishek Sharma,CSK,False,5.945,4.565,0.014,True,Amber,Opener,False,True,3
+B Sai Sudharsan,CSK,False,5.768,4.423,0.0136,True,Amber,Opener,False,True,2
+Mohsin Khan,CSK,False,3.97,4.013,0.0123,True,Green,,True,True,8
+H Klaasen,CSK,False,5.253,4.011,0.0123,True,Amber,Wicketkeeper,False,False,5
+Shubman Gill,CSK,False,5.155,3.932,0.012,True,Amber,Opener,False,True,2
+AJ Hosein,CSK,True,3.941,4.068,0.0125,True,Green,,True,True,8
+JR Hazlewood,CSK,False,3.588,3.629,0.0111,True,Green,,False,False,8
+SR Dubey,CSK,False,3.594,3.612,0.0111,True,,,False,True,9
+JC Archer,CSK,False,3.525,3.565,0.0109,True,Green,,False,False,8
+MR Marsh,CSK,False,4.588,3.479,0.0107,True,Amber,Opener,False,False,2
+KL Rahul,CSK,False,4.572,3.466,0.0106,True,Amber,Opener,False,True,4
+RM Patidar,CSK,False,3.38,3.398,0.0104,True,Green,,False,True,9
+L Ngidi,CSK,False,5.603,3.318,0.0102,True,Red,Death pacer,False,False,2
+SS Iyer,CSK,False,3.247,3.265,0.01,True,Green,,False,True,9
+CV Varun,CSK,False,3.199,3.195,0.0098,True,Green,,False,True,10
+Mustafizur Rahman,CSK,False,5.411,3.192,0.0098,True,Red,Death pacer,False,False,2
+FH Allen,CSK,False,3.899,2.927,0.009,True,Amber,Opener,False,False,4
+C Connolly,CSK,False,2.846,2.864,0.0088,True,Green,,False,False,9
+Noor Ahmad,CSK,True,2.91,3.042,0.0093,True,Green,,True,True,9
+RD Rickelton,CSK,False,3.666,2.742,0.0084,True,Amber,Opener,True,False,4
+Mohammed Siraj,CSK,False,2.654,2.69,0.0082,True,Green,,False,True,8
+N Thushara,CSK,False,4.617,2.673,0.0082,True,Red,Death pacer,True,False,2
+P Simran Singh,CSK,False,3.579,2.671,0.0082,True,Amber,Opener,True,True,5
+Ishan Kishan,CSK,False,3.415,2.54,0.0078,True,Amber,Wicketkeeper,False,True,5
+Swapnil Singh,CSK,False,2.447,2.464,0.0076,True,,,True,True,9
+E Malinga,CSK,False,4.11,2.342,0.0072,True,Red,Death pacer,True,False,2
+Harpreet Brar,CSK,False,2.3,2.301,0.007,True,Green,,True,True,9
+PD Salt,CSK,False,3.089,2.28,0.007,True,Amber,Opener,False,False,4
+JM Bairstow,CSK,False,3.049,2.248,0.0069,True,Amber,Opener,False,False,4
+C Bosch,CSK,False,3.844,2.168,0.0066,True,Red,Death pacer,True,False,5
+AM Ghazanfar,CSK,False,1.983,1.985,0.0061,True,Green,,False,False,9
+K Rabada,CSK,False,1.929,1.961,0.006,True,Green,,False,False,8
+S Sandeep Warrier,CSK,False,1.922,1.939,0.0059,True,,,True,True,9
+JC Buttler,CSK,False,2.626,1.909,0.0059,True,Amber,Wicketkeeper,False,False,5
+Priyansh Arya,CSK,False,2.589,1.879,0.0058,True,Amber,Opener,True,True,3
+SA Yadav,CSK,False,1.844,1.861,0.0057,True,Green,,False,True,9
+TM Head,CSK,False,2.532,1.834,0.0056,True,Amber,Opener,False,False,3
+Prince Yadav,CSK,False,3.183,1.736,0.0053,True,Red,Death pacer,True,True,2
+A Mhatre,CSK,True,1.771,1.923,0.0059,True,Green,,True,True,8
+KH Pandya,CSK,False,1.716,1.72,0.0053,True,Green,,False,True,9
+V Puthur,CSK,False,1.7,1.718,0.0053,True,,,True,True,9
+Akash Singh,CSK,False,1.697,1.714,0.0053,True,,,True,True,9
+M Prasidh Krishna,CSK,False,1.597,1.627,0.005,True,Green,,False,True,8
+RR Rossouw,CSK,False,1.596,1.613,0.0049,True,,,False,False,9
+Sakib Hussain,CSK,False,2.934,1.573,0.0048,True,Red,Death pacer,True,True,2
+TH David,CSK,False,1.425,1.543,0.0047,True,Green,,True,False,9
+N Pooran,CSK,False,2.165,1.54,0.0047,True,Amber,Wicketkeeper,False,False,6
+R Parag,CSK,False,1.389,1.395,0.0043,True,Green,,False,True,9
+VR Iyer,CSK,False,1.31,1.328,0.0041,True,Green,,False,True,9
+M Pathirana,CSK,False,2.53,1.309,0.004,True,Red,Death pacer,False,False,2
+MJ Santner,CSK,False,1.302,1.308,0.004,True,Green,,True,False,9
+MM Ali,CSK,False,1.225,1.231,0.0038,True,Green,,False,False,9
+PJ Cummins,CSK,False,1.155,1.184,0.0036,True,Green,,False,False,9
+SV Samson,CSK,True,1.713,1.324,0.0041,True,Amber,Opener,True,True,4
+Ashwani Kumar,CSK,False,1.048,1.076,0.0033,True,Green,,True,True,8
+Harshit Rana,CSK,False,1.004,1.031,0.0032,True,Green,,True,True,8
+Shashank Singh,CSK,False,0.911,1.008,0.0031,True,Green,,True,True,9
+D Ferreira,CSK,False,1.475,0.988,0.003,True,Amber,Wicketkeeper,True,False,7
+N Burger,CSK,False,0.953,0.98,0.003,True,Green,,True,False,8
+Kuldeep Yadav,CSK,False,0.965,0.973,0.003,True,Green,,False,True,10
+J Overton,CSK,True,2.006,1.12,0.0034,True,Red,Death pacer,True,True,5
+PP Chawla,CSK,False,0.895,0.903,0.0028,True,Green,,True,True,10
+Ashutosh Sharma,CSK,False,0.794,0.886,0.0027,True,Green,,True,True,9
+Suryansh Shedge,CSK,False,0.853,0.871,0.0027,True,,,True,True,9
+YBK Jaiswal,CSK,False,1.326,0.869,0.0027,True,Amber,Opener,False,True,4
+Rashid Khan,CSK,False,0.817,0.825,0.0025,True,Green,,False,False,10
+M Tiwari,CSK,False,0.798,0.816,0.0025,True,,,True,True,9
+Mukesh Choudhary,CSK,True,0.79,0.951,0.0029,True,Green,,True,True,7
+DL Chahar,CSK,False,0.7,0.726,0.0022,True,Green,,False,True,8
+JA Duffy,CSK,False,0.691,0.717,0.0022,True,Green,,True,False,8
+R Sai Kishore,CSK,False,0.664,0.673,0.0021,True,Green,,True,True,9
+KK Ahmed,CSK,True,0.689,0.849,0.0026,True,Green,,True,True,6
+JD Unadkat,CSK,False,0.62,0.646,0.002,True,Green,,True,True,8
+AR Patel,CSK,False,0.527,0.537,0.0016,True,Green,,False,True,10
+Arshdeep Singh,CSK,False,1.311,0.512,0.0016,True,Red,Death pacer,False,True,4
+PP Hinge,CSK,False,1.308,0.51,0.0016,True,Red,Death pacer,True,True,4
+WG Jacks,CSK,False,0.492,0.502,0.0015,True,Green,,True,False,9
+RA Jadeja,CSK,False,0.477,0.487,0.0015,True,Green,,False,True,9
+J Fraser-McGurk,CSK,False,0.83,0.473,0.0014,True,Amber,Opener,False,False,4
+Yash Raj Punja,CSK,False,0.455,0.465,0.0014,True,Green,,True,True,9
+SN Khan,CSK,True,0.477,0.628,0.0019,True,,,True,True,7
+KR Sen,CSK,False,0.383,0.4,0.0012,True,,,True,True,9
+D Padikkal,CSK,False,0.381,0.398,0.0012,True,Green,,True,True,9
+Dhruv Jurel,CSK,False,0.729,0.392,0.0012,True,Amber,Wicketkeeper,False,True,8
+A Raghuvanshi,CSK,False,0.729,0.391,0.0012,True,Amber,Wicketkeeper,True,True,8
+MK Pandey,CSK,False,0.374,0.391,0.0012,True,Green,,True,True,10
+SE Rutherford,CSK,False,0.307,0.38,0.0012,True,Green,,True,False,9
+MK Lomror,CSK,False,0.347,0.364,0.0011,True,,,True,True,9
+A Kamboj,CSK,True,0.384,0.542,0.0017,True,Green,,True,True,7
+M Shahrukh Khan,CSK,False,0.318,0.336,0.001,True,Green,,True,True,10
+AS Roy,CSK,False,0.306,0.317,0.001,True,Green,,True,True,9
+KV Sharma,CSK,False,0.288,0.299,0.0009,True,Green,,True,True,9
+D Brevis,CSK,True,0.302,0.454,0.0014,True,Green,,True,True,8
+MP Stoinis,CSK,False,0.244,0.261,0.0008,True,Green,,False,False,10
+Mohammed Shami,CSK,False,0.207,0.231,0.0007,True,Green,,True,True,8
+Rasikh Salam,CSK,False,0.874,0.227,0.0007,True,Red,Death pacer,True,True,5
+VG Arora,CSK,False,0.166,0.189,0.0006,True,Green,,True,True,9
+M Siddharth,CSK,False,0.172,0.183,0.0006,True,Green,,True,True,9
+RG Sharma,CSK,False,0.457,0.174,0.0005,True,Amber,Opener,False,True,5
+YS Chahal,CSK,False,0.155,0.166,0.0005,True,Green,,False,True,9
+Aniket Verma,CSK,False,0.056,0.118,0.0004,True,Green,,True,True,9
+RK Singh,CSK,False,0.05,0.112,0.0003,True,Green,,False,True,9
+PP Shaw,CSK,False,0.377,0.11,0.0003,True,Amber,Opener,True,True,5
+Urvil Patel,CSK,True,0.32,0.21,0.0006,True,Amber,Wicketkeeper,True,True,7
+UT Yadav,CSK,False,0.0,0.009,0.0,False,Green,,True,True,8
+Yash Dayal,CSK,False,0.0,0.002,0.0,False,Green,,True,True,8
+S Dube,CSK,True,0.0,0.192,0.0006,False,Green,,True,True,9
+S Arora,CSK,False,0.0,0.0,0.0,False,,,True,True,9
+Kartik Tyagi,CSK,False,0.501,0.0,0.0,True,Red,Death pacer,True,True,6
+Tilak Varma,CSK,False,0.0,0.0,0.0,False,Green,,True,True,9
+T Stubbs,CSK,False,0.186,0.0,0.0,True,Amber,Wicketkeeper,True,False,8
+Ravi Bishnoi,CSK,False,0.0,0.0,0.0,False,Green,,True,True,9
+Sameer Rizvi,CSK,False,0.0,0.0,0.0,False,Green,,True,True,7
+Naman Dhir,CSK,False,0.0,0.0,0.0,False,Green,,True,True,7
+PHKD Mendis,CSK,False,0.0,0.0,0.0,False,,,True,False,6
+DA Miller,CSK,False,0.0,0.0,0.0,False,Green,,True,False,7
+SB Dubey,CSK,False,0.0,0.0,0.0,False,Green,,True,True,7
+PWH de Silva,CSK,False,0.0,0.0,0.0,False,Green,,True,False,7
+Naveen-ul-Haq,CSK,False,0.254,0.0,0.0,True,Red,Death pacer,True,False,6
+MS Dhoni,CSK,True,0.058,0.0,0.0,True,Amber,Wicketkeeper,True,True,8
+Azmatullah Omarzai,CSK,False,0.0,0.0,0.0,False,Green,,True,False,6
+R Tewatia,CSK,False,0.0,0.0,0.0,False,Green,,True,True,7
+GJ Maxwell,CSK,False,0.0,0.0,0.0,False,Green,,True,False,6
+Arshad Khan,CSK,False,0.0,0.0,0.0,False,Green,,True,True,6
+R Powell,CSK,False,0.0,0.0,0.0,False,Green,,True,False,6
+A Badoni,CSK,False,0.0,0.0,0.0,False,Green,,True,True,5
+P Nissanka,CSK,False,0.0,0.0,0.0,False,Amber,Opener,True,False,5
+Abdul Samad,CSK,False,0.0,0.0,0.0,False,Green,,True,True,5
+Raghu Sharma,CSK,False,0.0,0.0,0.0,False,,,True,True,4
+RJ Gleeson,CSK,False,0.0,0.0,0.0,False,,,True,True,4
+PR Veer,CSK,True,0.0,0.0,0.0,False,,,True,True,4
+MA Starc,CSK,False,0.0,0.0,0.0,False,Green,,True,False,5
+Washington Sundar,CSK,False,0.0,0.0,0.0,False,Green,,True,True,5
+Sandeep Sharma,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,5
+TA Boult,CSK,False,0.0,0.0,0.0,False,Green,,True,False,4
+N Wadhera,CSK,False,0.0,0.0,0.0,False,Green,,True,True,4
+V Nigam,CSK,False,0.0,0.0,0.0,False,Green,,True,True,2
+JM Sharma,CSK,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,3
+DJ Mitchell,CSK,False,0.0,0.0,0.0,False,Green,,True,False,2
+Ramandeep Singh,CSK,False,0.0,0.0,0.0,False,Green,,True,True,3
+Harsh Dubey,CSK,False,0.0,0.0,0.0,False,Green,,True,True,3
+Kartik Sharma,CSK,True,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,1
+MD Choudhary,CSK,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,2
+MD Shanaka,CSK,False,0.0,0.0,0.0,False,,,True,True,1
+Gurjapneet Singh,CSK,True,0.0,0.0,0.0,False,Green,,True,True,1
+Himmat Singh,CSK,False,0.0,0.0,0.0,False,,,True,True,1
+Suyash Sharma,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+MA Agarwal,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+Nithish Kumar Reddy,CSK,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,1
+RR Pant,CSK,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,False,True,1
+V Viyaskanth,CSK,False,0.0,0.0,0.0,False,,,True,True,1
+Rahmanullah Gurbaz,CSK,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,False,1
+N Rana,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+RD Chahar,CSK,True,0.0,0.0,0.0,False,Green,,True,True,1
+KK Nair,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+Yudhvir Singh,CSK,False,0.0,0.0,0.0,False,,,True,True,1
+Mohammad Nabi,CSK,False,0.0,0.0,0.0,False,,,True,False,1
+Q de Kock,CSK,False,0.0,0.0,0.0,False,Amber,Opener,True,False,1
+Anuj Rawat,CSK,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,1
+V Shankar,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+SD Hope,CSK,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,False,1
+C Green,CSK,False,0.0,0.0,0.0,False,Green,,False,False,1
+SO Hetmyer,CSK,False,0.0,0.0,0.0,False,Green,,True,False,1
+Brijesh Sharma,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,1
+KA Jamieson,CSK,False,0.0,0.0,0.0,False,Green,,True,False,1
+W O'Rourke,CSK,False,0.0,0.0,0.0,False,,,True,True,1
+A Manohar,CSK,False,0.0,0.0,0.0,False,,,True,True,1
+LS Livingstone,CSK,False,0.0,0.0,0.0,False,Green,,True,False,1
+DS Rathi,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+M Theekshana,CSK,False,0.0,0.0,0.0,False,Green,,True,False,1
+G Coetzee,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,False,1
+HV Patel,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,1
+I Sharma,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+Abishek Porel,CSK,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,1
+F du Plessis,CSK,False,0.0,0.0,0.0,False,Amber,Opener,True,False,1
+DJ Hooda,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+AK Markram,CSK,False,0.0,0.0,0.0,False,Amber,Opener,True,False,1
+KT Maphaka,CSK,False,0.0,0.0,0.0,False,,,True,False,1
+AM Rahane,CSK,False,0.0,0.0,0.0,False,Amber,Opener,True,True,1
+PVD Chameera,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,False,1
+SN Thakur,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,1
+R Shepherd,CSK,False,0.0,0.0,0.0,False,Green,,True,False,1
+JG Bethell,CSK,False,0.0,0.0,0.0,False,,,True,False,1
+RD Gaikwad,CSK,True,0.0,0.0,0.0,False,Amber,Opener,True,True,1
+Mayank Dagar,CSK,False,0.0,0.0,0.0,False,,,True,True,1
+LH Ferguson,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,False,1
+Shivang Kumar,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+Yash Thakur,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,1
+R Ravindra,CSK,False,0.0,0.0,0.0,False,Amber,Opener,True,False,1
+T Natarajan,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,1
+RA Tripathi,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+Simarjeet Singh,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+Vijaykumar Vyshak,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+Mukesh Kumar,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,1
+Zeeshan Ansari,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+Shahbaz Ahmed,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+DA Warner,CSK,False,0.0,0.0,0.0,False,Amber,Opener,True,False,1
+Avesh Khan,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,1
+SH Johnson,CSK,False,0.0,0.0,0.0,False,Green,,True,False,1
+A Nortje,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,False,1
+M Markande,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+Akash Madhwal,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,1
+RJW Topley,CSK,False,0.0,0.0,0.0,False,,,True,False,1
+M Jansen,CSK,False,0.0,0.0,0.0,False,Green,,True,False,1
+TU Deshpande,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,1
+DP Conway,CSK,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,False,1
+HH Pandya,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+MW Short,CSK,True,0.0,0.0,0.0,False,,,True,True,1
+Ashok Sharma,CSK,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,1
+MP Yadav,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+SK Rasheed,CSK,False,0.0,0.0,0.0,False,,,True,True,1
+XC Bartlett,CSK,False,0.0,0.0,0.0,False,Green,,True,False,1
+MJ Henry,CSK,True,0.0,0.0,0.0,False,Green,,True,True,1
+SM Curran,CSK,False,0.0,0.0,0.0,False,Green,,True,False,1
+Akash Deep,CSK,False,0.0,0.0,0.0,False,Green,,True,True,1
+Auqib Nabi,CSK,False,0.0,0.0,0.0,False,,,True,True,1
+Fazalhaq Farooqi,CSK,False,0.0,0.0,0.0,False,,,True,False,1
+V Suryavanshi,DC,False,9.861,9.99,0.0306,True,Green,,False,True,5
+SP Narine,DC,False,7.025,6.979,0.0214,True,Green,,False,False,7
+B Kumar,DC,False,8.666,6.825,0.0209,True,Amber,Death pacer,False,True,4
+JP Inglis,DC,False,9.379,5.725,0.0175,True,Red,Anchor,False,False,1
+JJ Bumrah,DC,False,6.966,5.483,0.0168,True,Amber,Death pacer,False,True,4
+JO Holder,DC,False,6.547,5.357,0.0164,True,Amber,Powerplay pacer,False,False,2
+V Kohli,DC,False,5.072,5.201,0.0159,True,Green,,False,True,5
+Abhishek Sharma,DC,False,5.015,5.014,0.0154,True,Green,,False,True,6
+B Sai Sudharsan,DC,False,4.744,4.873,0.0149,True,Green,,False,True,6
+Mohsin Khan,DC,False,5.454,4.463,0.0137,True,Amber,Powerplay pacer,True,True,2
+H Klaasen,DC,False,5.592,4.461,0.0137,True,Amber,Middle-order,False,False,2
+Shubman Gill,DC,False,4.254,4.382,0.0134,True,Green,,False,True,6
+AJ Hosein,DC,False,4.31,4.326,0.0133,True,Green,,False,False,5
+JR Hazlewood,DC,False,4.984,4.078,0.0125,True,Amber,Powerplay pacer,False,False,2
+SR Dubey,DC,False,3.933,4.061,0.0124,True,,,False,True,4
+JC Archer,DC,False,4.907,4.015,0.0123,True,Amber,Powerplay pacer,False,False,2
+MR Marsh,DC,False,3.8,3.929,0.012,True,Green,,False,False,5
+KL Rahul,DC,True,3.958,3.97,0.0122,True,Green,,True,True,6
+RM Patidar,DC,False,6.375,3.848,0.0118,True,Red,Anchor,False,True,1
+L Ngidi,DC,True,4.966,3.822,0.0117,True,Amber,Death pacer,True,True,3
+SS Iyer,DC,False,6.162,3.715,0.0114,True,Red,Anchor,False,True,1
+CV Varun,DC,False,3.614,3.645,0.0112,True,Green,,False,True,6
+Mustafizur Rahman,DC,False,4.636,3.642,0.0112,True,Amber,Death pacer,False,False,4
+FH Allen,DC,False,3.249,3.377,0.0103,True,Green,,False,False,7
+C Connolly,DC,False,5.52,3.314,0.0102,True,Red,Anchor,False,False,1
+Noor Ahmad,DC,False,3.261,3.3,0.0101,True,Green,,False,False,6
+RD Rickelton,DC,False,3.063,3.191,0.0098,True,Green,,True,False,7
+Mohammed Siraj,DC,False,3.837,3.14,0.0096,True,Amber,Powerplay pacer,False,True,2
+N Thushara,DC,False,3.979,3.123,0.0096,True,Amber,Death pacer,False,False,4
+P Simran Singh,DC,False,2.993,3.121,0.0096,True,Green,,True,True,7
+Ishan Kishan,DC,False,5.003,2.99,0.0092,True,Red,Anchor,False,True,1
+Swapnil Singh,DC,False,2.786,2.914,0.0089,True,,,True,True,4
+E Malinga,DC,False,3.56,2.792,0.0086,True,Amber,Death pacer,True,False,4
+Harpreet Brar,DC,False,2.699,2.751,0.0084,True,Green,,True,True,5
+PD Salt,DC,False,2.601,2.73,0.0084,True,Green,,False,False,7
+JM Bairstow,DC,False,2.569,2.698,0.0083,True,Green,,False,False,7
+C Bosch,DC,False,3.339,2.617,0.008,True,Amber,Death pacer,True,False,6
+AM Ghazanfar,DC,False,2.376,2.435,0.0075,True,Green,,False,False,5
+K Rabada,DC,False,2.947,2.411,0.0074,True,Amber,Powerplay pacer,False,False,2
+S Sandeep Warrier,DC,False,2.261,2.389,0.0073,True,,,True,True,4
+JC Buttler,DC,False,3.993,2.359,0.0072,True,Red,Anchor,False,False,1
+Priyansh Arya,DC,False,2.201,2.329,0.0071,True,Green,,True,True,5
+SA Yadav,DC,False,3.916,2.311,0.0071,True,Red,Anchor,False,True,1
+TM Head,DC,False,2.156,2.284,0.007,True,Green,,False,False,5
+Prince Yadav,DC,False,2.792,2.186,0.0067,True,Amber,Death pacer,True,True,4
+A Mhatre,DC,False,3.708,2.181,0.0067,True,Red,Anchor,True,True,1
+KH Pandya,DC,False,2.14,2.17,0.0066,True,Green,,False,True,6
+V Puthur,DC,False,2.039,2.168,0.0066,True,,,True,True,4
+Akash Singh,DC,False,2.036,2.164,0.0066,True,,,True,True,4
+M Prasidh Krishna,DC,False,2.539,2.077,0.0064,True,Amber,Powerplay pacer,False,True,2
+RR Rossouw,DC,False,1.935,2.063,0.0063,True,,,False,False,4
+Sakib Hussain,DC,False,2.586,2.023,0.0062,True,Amber,Death pacer,True,True,4
+TH David,DC,False,1.957,1.993,0.0061,True,Green,,False,False,5
+N Pooran,DC,False,3.403,1.99,0.0061,True,Red,Anchor,False,False,1
+R Parag,DC,False,3.17,1.845,0.0057,True,Red,Anchor,False,True,2
+VR Iyer,DC,False,3.062,1.777,0.0054,True,Red,Anchor,False,True,1
+M Pathirana,DC,False,2.253,1.759,0.0054,True,Amber,Death pacer,False,False,4
+MJ Santner,DC,False,1.683,1.758,0.0054,True,Green,,True,False,5
+MM Ali,DC,False,1.604,1.681,0.0052,True,Green,,False,False,5
+PJ Cummins,DC,False,1.997,1.634,0.005,True,Amber,Powerplay pacer,False,False,4
+SV Samson,DC,False,1.454,1.583,0.0048,True,Green,,False,True,7
+Ashwani Kumar,DC,False,1.865,1.526,0.0047,True,Amber,Powerplay pacer,True,True,2
+Harshit Rana,DC,False,1.81,1.481,0.0045,True,Amber,Powerplay pacer,True,True,2
+Shashank Singh,DC,False,1.402,1.457,0.0045,True,Green,,True,True,5
+D Ferreira,DC,False,1.383,1.438,0.0044,True,Green,,True,False,8
+N Burger,DC,False,1.748,1.43,0.0044,True,Amber,Powerplay pacer,True,False,2
+Kuldeep Yadav,DC,True,1.511,1.477,0.0045,True,Green,,True,True,3
+J Overton,DC,False,1.771,1.379,0.0042,True,Amber,Death pacer,True,False,6
+PP Chawla,DC,False,1.269,1.353,0.0041,True,Green,,True,True,5
+Ashutosh Sharma,DC,True,1.447,1.391,0.0043,True,Green,,True,True,4
+Suryansh Shedge,DC,False,1.192,1.321,0.004,True,,,True,True,4
+YBK Jaiswal,DC,False,1.191,1.319,0.004,True,Green,,False,True,5
+Rashid Khan,DC,False,1.214,1.275,0.0039,True,Green,,False,False,6
+M Tiwari,DC,True,1.308,1.32,0.004,True,,,True,True,3
+Mukesh Choudhary,DC,False,1.477,1.209,0.0037,True,Amber,Powerplay pacer,True,True,2
+DL Chahar,DC,False,1.438,1.176,0.0036,True,Amber,Powerplay pacer,False,True,2
+JA Duffy,DC,False,1.426,1.167,0.0036,True,Amber,Powerplay pacer,True,False,2
+R Sai Kishore,DC,False,1.033,1.122,0.0034,True,Green,,True,True,5
+KK Ahmed,DC,False,1.353,1.107,0.0034,True,Amber,Powerplay pacer,True,True,2
+JD Unadkat,DC,False,1.339,1.096,0.0034,True,Amber,Powerplay pacer,True,True,3
+AR Patel,DC,True,1.421,1.041,0.0032,True,Amber,Middle-order,True,True,5
+Arshdeep Singh,DC,False,1.243,0.962,0.0029,True,Amber,Death pacer,False,True,5
+PP Hinge,DC,False,1.241,0.96,0.0029,True,Amber,Death pacer,True,True,6
+WG Jacks,DC,False,1.741,0.952,0.0029,True,Red,Anchor,False,False,2
+RA Jadeja,DC,False,0.863,0.937,0.0029,True,Green,,False,True,6
+J Fraser-McGurk,DC,False,0.794,0.923,0.0028,True,Green,,False,False,5
+Yash Raj Punja,DC,False,0.821,0.915,0.0028,True,Green,,True,True,5
+SN Khan,DC,False,0.758,0.887,0.0027,True,,,True,True,4
+KR Sen,DC,False,0.722,0.85,0.0026,True,,,True,True,4
+D Padikkal,DC,False,1.576,0.848,0.0026,True,Red,Anchor,True,True,1
+Dhruv Jurel,DC,False,1.068,0.842,0.0026,True,Amber,Middle-order,False,True,1
+A Raghuvanshi,DC,False,1.565,0.841,0.0026,True,Red,Anchor,True,True,1
+MK Pandey,DC,False,1.068,0.841,0.0026,True,Amber,Middle-order,True,True,1
+SE Rutherford,DC,False,0.752,0.83,0.0025,True,Green,,True,False,5
+MK Lomror,DC,False,0.686,0.814,0.0025,True,,,True,True,4
+A Kamboj,DC,False,0.979,0.801,0.0025,True,Amber,Powerplay pacer,True,True,2
+M Shahrukh Khan,DC,False,0.998,0.785,0.0024,True,Amber,Middle-order,True,True,1
+AS Roy,DC,False,0.669,0.767,0.0023,True,Green,,True,True,5
+KV Sharma,DC,False,0.651,0.749,0.0023,True,Green,,True,True,5
+D Brevis,DC,False,0.906,0.712,0.0022,True,Amber,Middle-order,True,False,1
+MP Stoinis,DC,False,0.905,0.711,0.0022,True,Amber,Middle-order,False,False,2
+Mohammed Shami,DC,False,0.832,0.681,0.0021,True,Amber,Powerplay pacer,False,True,3
+Rasikh Salam,DC,False,0.882,0.677,0.0021,True,Amber,Death pacer,True,True,4
+VG Arora,DC,False,0.781,0.639,0.002,True,Amber,Powerplay pacer,True,True,2
+M Siddharth,DC,False,0.533,0.633,0.0019,True,Green,,True,True,5
+RG Sharma,DC,False,0.496,0.624,0.0019,True,Green,,False,True,4
+YS Chahal,DC,False,0.515,0.616,0.0019,True,Green,,False,True,4
+Aniket Verma,DC,False,0.481,0.568,0.0017,True,Green,,True,True,4
+RK Singh,DC,False,0.475,0.562,0.0017,True,Green,,False,True,5
+PP Shaw,DC,True,0.602,0.614,0.0019,True,Green,,True,True,3
+Urvil Patel,DC,False,0.34,0.468,0.0014,True,Green,,True,True,5
+UT Yadav,DC,False,0.561,0.459,0.0014,True,Amber,Powerplay pacer,True,True,3
+Yash Dayal,DC,False,0.552,0.452,0.0014,True,Amber,Powerplay pacer,True,True,3
+S Dube,DC,False,0.359,0.45,0.0014,True,Green,,False,True,4
+S Arora,DC,False,0.32,0.449,0.0014,True,,,True,True,4
+Kartik Tyagi,DC,False,0.573,0.432,0.0013,True,Amber,Death pacer,True,True,4
+Tilak Varma,DC,False,0.544,0.422,0.0013,True,Amber,Middle-order,True,True,1
+T Stubbs,DC,True,0.485,0.462,0.0014,True,Green,,True,True,3
+Ravi Bishnoi,DC,False,0.266,0.373,0.0011,True,Green,,True,True,4
+Sameer Rizvi,DC,True,0.934,0.395,0.0012,True,Red,Anchor,True,True,1
+Naman Dhir,DC,False,0.23,0.325,0.001,True,Green,,True,True,4
+PHKD Mendis,DC,False,0.166,0.294,0.0009,True,,,True,False,4
+DA Miller,DC,True,0.363,0.344,0.0011,True,Green,,True,True,3
+SB Dubey,DC,False,0.191,0.288,0.0009,True,Green,,True,True,4
+PWH de Silva,DC,False,0.168,0.277,0.0008,True,Green,,True,False,4
+Naveen-ul-Haq,DC,False,0.369,0.271,0.0008,True,Amber,Death pacer,True,False,4
+MS Dhoni,DC,False,0.16,0.258,0.0008,True,Green,,True,True,5
+Azmatullah Omarzai,DC,False,0.31,0.254,0.0008,True,Amber,Powerplay pacer,True,False,3
+R Tewatia,DC,False,0.154,0.252,0.0008,True,Green,,True,True,4
+GJ Maxwell,DC,False,0.126,0.236,0.0007,True,Green,,True,False,5
+Arshad Khan,DC,False,0.286,0.234,0.0007,True,Amber,Powerplay pacer,True,True,4
+R Powell,DC,False,0.105,0.205,0.0006,True,Green,,True,False,4
+A Badoni,DC,False,0.243,0.181,0.0006,True,Amber,Middle-order,True,True,2
+P Nissanka,DC,True,0.197,0.21,0.0006,True,Green,,True,True,3
+Abdul Samad,DC,False,0.029,0.132,0.0004,True,Green,,True,True,4
+Raghu Sharma,DC,False,0.0,0.116,0.0004,False,,,True,True,5
+RJ Gleeson,DC,False,0.0,0.115,0.0004,False,,,True,True,5
+PR Veer,DC,False,0.0,0.025,0.0001,False,,,True,True,5
+MA Starc,DC,True,0.171,0.054,0.0002,True,Amber,Powerplay pacer,True,True,1
+Washington Sundar,DC,False,0.207,0.0,0.0,True,Red,Anchor,True,True,2
+Sandeep Sharma,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,6
+TA Boult,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,False,False,5
+N Wadhera,DC,False,0.0,0.0,0.0,False,Amber,Middle-order,True,True,5
+V Nigam,DC,True,0.0,0.0,0.0,False,Green,,True,True,3
+JM Sharma,DC,False,0.0,0.0,0.0,False,Green,,False,True,4
+DJ Mitchell,DC,False,0.127,0.0,0.0,True,Red,Anchor,False,False,1
+Ramandeep Singh,DC,False,0.0,0.0,0.0,False,Green,,True,True,4
+Harsh Dubey,DC,False,0.0,0.0,0.0,False,Green,,True,True,4
+Kartik Sharma,DC,False,0.0,0.0,0.0,False,Amber,Middle-order,True,True,2
+MD Choudhary,DC,False,0.0,0.0,0.0,False,Green,,True,True,3
+MD Shanaka,DC,False,0.0,0.0,0.0,False,,,True,True,2
+Gurjapneet Singh,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,2
+Himmat Singh,DC,False,0.0,0.0,0.0,False,,,True,True,2
+Suyash Sharma,DC,False,0.0,0.0,0.0,False,Green,,True,True,2
+MA Agarwal,DC,False,0.0,0.0,0.0,False,Red,Anchor,True,True,2
+Nithish Kumar Reddy,DC,False,0.0,0.0,0.0,False,Amber,Middle-order,True,True,2
+RR Pant,DC,False,0.0,0.0,0.0,False,Red,Anchor,False,True,2
+V Viyaskanth,DC,False,0.0,0.0,0.0,False,,,True,True,2
+Rahmanullah Gurbaz,DC,False,0.0,0.0,0.0,False,Green,,True,False,2
+N Rana,DC,True,0.0,0.0,0.0,False,Red,Anchor,True,True,2
+RD Chahar,DC,False,0.0,0.0,0.0,False,Green,,True,True,2
+KK Nair,DC,True,0.0,0.0,0.0,False,Red,Anchor,True,True,2
+Yudhvir Singh,DC,False,0.0,0.0,0.0,False,,,True,True,2
+Mohammad Nabi,DC,False,0.0,0.0,0.0,False,,,True,False,2
+Q de Kock,DC,False,0.0,0.0,0.0,False,Green,,True,False,2
+Anuj Rawat,DC,False,0.0,0.0,0.0,False,Green,,True,True,2
+V Shankar,DC,False,0.0,0.0,0.0,False,Amber,Middle-order,True,True,2
+SD Hope,DC,False,0.0,0.0,0.0,False,Red,Anchor,True,False,2
+C Green,DC,False,0.0,0.0,0.0,False,Red,Anchor,False,False,2
+SO Hetmyer,DC,False,0.0,0.0,0.0,False,Green,,True,False,2
+Brijesh Sharma,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,2
+KA Jamieson,DC,True,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,2
+W O'Rourke,DC,False,0.0,0.0,0.0,False,,,True,True,2
+A Manohar,DC,False,0.0,0.0,0.0,False,,,True,True,2
+LS Livingstone,DC,False,0.0,0.0,0.0,False,Green,,True,False,2
+DS Rathi,DC,False,0.0,0.0,0.0,False,Green,,True,True,2
+M Theekshana,DC,False,0.0,0.0,0.0,False,Green,,True,False,2
+G Coetzee,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,False,2
+HV Patel,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,2
+I Sharma,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,2
+Abishek Porel,DC,True,0.0,0.0,0.0,False,Red,Anchor,True,True,2
+F du Plessis,DC,False,0.0,0.0,0.0,False,Green,,True,False,2
+DJ Hooda,DC,False,0.0,0.0,0.0,False,Amber,Middle-order,True,True,2
+AK Markram,DC,False,0.0,0.0,0.0,False,Green,,True,False,2
+KT Maphaka,DC,False,0.0,0.0,0.0,False,,,True,False,2
+AM Rahane,DC,False,0.0,0.0,0.0,False,Green,,True,True,2
+PVD Chameera,DC,True,0.0,0.0,0.0,False,Amber,Death pacer,True,True,2
+SN Thakur,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,2
+R Shepherd,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,False,2
+JG Bethell,DC,False,0.0,0.0,0.0,False,,,True,False,2
+RD Gaikwad,DC,False,0.0,0.0,0.0,False,Green,,True,True,2
+Mayank Dagar,DC,False,0.0,0.0,0.0,False,,,True,True,2
+LH Ferguson,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,False,2
+Shivang Kumar,DC,False,0.0,0.0,0.0,False,Green,,True,True,2
+Yash Thakur,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,2
+R Ravindra,DC,False,0.0,0.0,0.0,False,Green,,True,False,2
+T Natarajan,DC,True,0.0,0.0,0.0,False,Amber,Death pacer,True,True,2
+RA Tripathi,DC,False,0.0,0.0,0.0,False,Red,Anchor,True,True,2
+Simarjeet Singh,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,2
+Vijaykumar Vyshak,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,2
+Mukesh Kumar,DC,True,0.0,0.0,0.0,False,Amber,Death pacer,True,True,2
+Zeeshan Ansari,DC,False,0.0,0.0,0.0,False,Green,,True,True,2
+Shahbaz Ahmed,DC,False,0.0,0.0,0.0,False,Green,,True,True,2
+DA Warner,DC,False,0.0,0.0,0.0,False,Green,,True,False,2
+Avesh Khan,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,2
+SH Johnson,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,False,2
+A Nortje,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,False,2
+M Markande,DC,False,0.0,0.0,0.0,False,Green,,True,True,2
+Akash Madhwal,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,2
+RJW Topley,DC,False,0.0,0.0,0.0,False,,,True,False,2
+M Jansen,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,False,2
+TU Deshpande,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,2
+DP Conway,DC,False,0.0,0.0,0.0,False,Green,,True,False,2
+HH Pandya,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,2
+MW Short,DC,False,0.0,0.0,0.0,False,,,True,False,2
+Ashok Sharma,DC,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,2
+MP Yadav,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,2
+SK Rasheed,DC,False,0.0,0.0,0.0,False,,,True,True,2
+XC Bartlett,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,False,2
+MJ Henry,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,False,2
+SM Curran,DC,False,0.0,0.0,0.0,False,Red,Anchor,True,False,2
+Akash Deep,DC,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,2
+Auqib Nabi,DC,True,0.0,0.0,0.0,False,,,True,True,2
+Fazalhaq Farooqi,DC,False,0.0,0.0,0.0,False,,,True,False,2
+V Suryavanshi,GT,False,9.754,9.756,0.0299,True,Green,,False,True,6
+SP Narine,GT,False,11.278,6.745,0.0207,True,Red,All-rounder,False,True,4
+B Kumar,GT,False,11.276,6.591,0.0202,True,Red,Death pacer,False,True,1
+JP Inglis,GT,False,7.066,5.491,0.0168,True,Amber,Wicketkeeper,False,True,2
+JJ Bumrah,GT,False,9.083,5.248,0.0161,True,Red,Death pacer,False,True,1
+JO Holder,GT,True,5.493,5.364,0.0164,True,Green,,True,True,4
+V Kohli,GT,False,4.965,4.967,0.0152,True,Green,,False,True,6
+Abhishek Sharma,GT,False,5.897,4.78,0.0146,True,Amber,Finger spinner,False,True,4
+B Sai Sudharsan,GT,True,4.765,4.88,0.015,True,Green,,True,True,5
+Mohsin Khan,GT,False,4.434,4.229,0.013,True,Green,,False,True,5
+H Klaasen,GT,False,5.485,4.227,0.013,True,Amber,Wicketkeeper,False,True,3
+Shubman Gill,GT,True,4.275,4.389,0.0134,True,Green,,True,True,5
+AJ Hosein,GT,False,5.071,4.092,0.0125,True,Amber,Finger spinner,False,True,3
+JR Hazlewood,GT,False,4.034,3.844,0.0118,True,Green,,False,True,5
+SR Dubey,GT,False,3.826,3.827,0.0117,True,,,False,True,5
+JC Archer,GT,False,3.968,3.781,0.0116,True,Green,,False,True,5
+MR Marsh,GT,False,3.693,3.695,0.0113,True,Green,,False,True,6
+KL Rahul,GT,False,4.804,3.682,0.0113,True,Amber,Wicketkeeper,False,True,2
+RM Patidar,GT,False,3.612,3.613,0.0111,True,Green,,False,True,6
+L Ngidi,GT,False,6.283,3.533,0.0108,True,Red,Death pacer,False,True,1
+SS Iyer,GT,False,3.479,3.48,0.0107,True,Green,,False,True,6
+CV Varun,GT,False,3.241,3.411,0.0105,True,Green,,False,True,9
+Mustafizur Rahman,GT,False,6.077,3.408,0.0104,True,Red,Death pacer,False,True,1
+FH Allen,GT,False,4.131,3.143,0.0096,True,Amber,Wicketkeeper,False,True,2
+C Connolly,GT,False,3.078,3.08,0.0094,True,Green,,False,True,6
+Noor Ahmad,GT,False,2.91,3.066,0.0094,True,Green,,False,True,10
+RD Rickelton,GT,False,3.898,2.957,0.0091,True,Amber,Wicketkeeper,False,True,2
+Mohammed Siraj,GT,True,3.185,3.147,0.0096,True,Green,,True,True,5
+N Thushara,GT,False,5.23,2.889,0.0089,True,Red,Death pacer,False,True,1
+P Simran Singh,GT,False,3.811,2.887,0.0088,True,Amber,Wicketkeeper,False,True,2
+Ishan Kishan,GT,False,3.647,2.756,0.0084,True,Amber,Wicketkeeper,False,True,2
+Swapnil Singh,GT,False,2.679,2.68,0.0082,True,,,True,True,5
+E Malinga,GT,False,4.689,2.557,0.0078,True,Red,Death pacer,False,True,1
+Harpreet Brar,GT,False,3.181,2.516,0.0077,True,Amber,Finger spinner,True,True,4
+PD Salt,GT,False,3.321,2.496,0.0076,True,Amber,Wicketkeeper,False,True,2
+JM Bairstow,GT,False,3.281,2.463,0.0075,True,Amber,Wicketkeeper,False,True,2
+C Bosch,GT,False,4.405,2.383,0.0073,True,Red,Death pacer,False,True,4
+AM Ghazanfar,GT,False,2.802,2.201,0.0067,True,Amber,Finger spinner,False,True,3
+K Rabada,GT,True,2.427,2.418,0.0074,True,Green,,True,True,5
+S Sandeep Warrier,GT,False,2.154,2.155,0.0066,True,,,False,True,5
+JC Buttler,GT,True,2.986,2.366,0.0073,True,Amber,Wicketkeeper,True,True,2
+Priyansh Arya,GT,False,2.094,2.095,0.0064,True,Green,,False,True,6
+SA Yadav,GT,False,2.076,2.077,0.0064,True,Green,,False,True,6
+TM Head,GT,False,2.049,2.05,0.0063,True,Green,,False,True,6
+Prince Yadav,GT,False,3.699,1.951,0.006,True,Red,Death pacer,True,True,1
+A Mhatre,GT,False,1.946,1.947,0.006,True,Green,,True,True,6
+KH Pandya,GT,False,3.583,1.935,0.0059,True,Red,All-rounder,False,True,4
+V Puthur,GT,False,1.932,1.934,0.0059,True,,,True,True,5
+Akash Singh,GT,False,1.929,1.93,0.0059,True,,,True,True,5
+M Prasidh Krishna,GT,True,2.079,2.084,0.0064,True,Green,,True,True,5
+RR Rossouw,GT,False,1.828,1.829,0.0056,True,,,False,True,5
+Sakib Hussain,GT,False,3.434,1.789,0.0055,True,Red,Death pacer,True,True,1
+TH David,GT,False,1.706,1.759,0.0054,True,Green,,False,True,6
+N Pooran,GT,False,2.397,1.756,0.0054,True,Amber,Wicketkeeper,False,True,2
+R Parag,GT,False,2.094,1.611,0.0049,True,Amber,Finger spinner,False,True,4
+VR Iyer,GT,False,1.542,1.543,0.0047,True,Green,,False,True,6
+M Pathirana,GT,False,3.003,1.525,0.0047,True,Red,Death pacer,False,True,1
+MJ Santner,GT,False,1.99,1.524,0.0047,True,Amber,Finger spinner,False,True,3
+MM Ali,GT,False,1.897,1.447,0.0044,True,Amber,Finger spinner,False,True,3
+PJ Cummins,GT,False,1.489,1.4,0.0043,True,Green,,False,True,6
+SV Samson,GT,False,1.887,1.348,0.0041,True,Amber,Wicketkeeper,False,True,2
+Ashwani Kumar,GT,False,1.377,1.292,0.004,True,Green,,True,True,5
+Harshit Rana,GT,False,1.33,1.247,0.0038,True,Green,,False,True,5
+Shashank Singh,GT,False,1.181,1.223,0.0037,True,Green,,False,True,6
+D Ferreira,GT,False,1.707,1.204,0.0037,True,Amber,Wicketkeeper,False,True,3
+N Burger,GT,False,1.277,1.196,0.0037,True,Green,,False,True,5
+Kuldeep Yadav,GT,False,1.107,1.188,0.0036,True,Green,,False,True,7
+J Overton,GT,False,2.382,1.145,0.0035,True,Red,Death pacer,False,True,4
+PP Chawla,GT,False,1.04,1.119,0.0034,True,Green,,True,True,7
+Ashutosh Sharma,GT,False,1.062,1.102,0.0034,True,Green,,False,True,6
+Suryansh Shedge,GT,False,1.085,1.086,0.0033,True,,,True,True,5
+YBK Jaiswal,GT,False,1.083,1.085,0.0033,True,Green,,False,True,6
+Rashid Khan,GT,True,1.131,1.282,0.0039,True,Green,,True,True,7
+M Tiwari,GT,False,1.03,1.032,0.0032,True,,,True,True,5
+Mukesh Choudhary,GT,False,1.047,0.975,0.003,True,Green,,True,True,5
+DL Chahar,GT,False,1.013,0.942,0.0029,True,Green,,False,True,5
+JA Duffy,GT,False,1.003,0.933,0.0029,True,Green,,False,True,5
+R Sai Kishore,GT,True,1.355,1.129,0.0035,True,Amber,Finger spinner,True,True,3
+KK Ahmed,GT,False,0.941,0.873,0.0027,True,Green,,False,True,5
+JD Unadkat,GT,False,0.929,0.862,0.0026,True,Green,,False,True,5
+AR Patel,GT,False,1.691,0.753,0.0023,True,Red,All-rounder,False,True,4
+Arshdeep Singh,GT,False,1.701,0.728,0.0022,True,Red,Death pacer,False,True,2
+PP Hinge,GT,False,1.698,0.726,0.0022,True,Red,Death pacer,True,True,1
+WG Jacks,GT,False,1.022,0.718,0.0022,True,Amber,Finger spinner,False,True,5
+RA Jadeja,GT,False,1.61,0.702,0.0022,True,Red,All-rounder,False,True,4
+J Fraser-McGurk,GT,False,0.687,0.689,0.0021,True,Green,,False,True,6
+Yash Raj Punja,GT,False,0.979,0.681,0.0021,True,Amber,Finger spinner,True,True,4
+SN Khan,GT,False,0.651,0.652,0.002,True,,,True,True,5
+KR Sen,GT,False,0.615,0.616,0.0019,True,,,True,True,5
+D Padikkal,GT,False,0.613,0.614,0.0019,True,Green,,False,True,6
+Dhruv Jurel,GT,False,0.961,0.608,0.0019,True,Amber,Wicketkeeper,False,True,2
+A Raghuvanshi,GT,False,0.961,0.607,0.0019,True,Amber,Wicketkeeper,True,True,2
+MK Pandey,GT,False,0.606,0.607,0.0019,True,Green,,True,True,6
+SE Rutherford,GT,False,0.566,0.596,0.0018,True,Green,,False,True,6
+MK Lomror,GT,False,0.579,0.58,0.0018,True,,,True,True,5
+A Kamboj,GT,False,0.622,0.567,0.0017,True,Green,,False,True,5
+M Shahrukh Khan,GT,True,0.678,0.792,0.0024,True,Green,,True,True,6
+AS Roy,GT,False,0.8,0.533,0.0016,True,Amber,Finger spinner,True,True,4
+KV Sharma,GT,False,0.46,0.515,0.0016,True,Green,,True,True,6
+D Brevis,GT,False,0.477,0.478,0.0015,True,Green,,False,True,6
+MP Stoinis,GT,False,0.528,0.477,0.0015,True,Green,,False,True,6
+Mohammed Shami,GT,False,0.497,0.447,0.0014,True,Green,,False,True,5
+Rasikh Salam,GT,False,1.235,0.442,0.0014,True,Red,Death pacer,False,True,1
+VG Arora,GT,False,0.454,0.405,0.0012,True,Green,,True,True,5
+M Siddharth,GT,False,0.64,0.399,0.0012,True,Amber,Finger spinner,True,True,4
+RG Sharma,GT,False,0.389,0.39,0.0012,True,Green,,False,True,6
+YS Chahal,GT,False,0.333,0.382,0.0012,True,Green,,False,True,6
+Aniket Verma,GT,False,0.31,0.334,0.001,True,Green,,True,True,6
+RK Singh,GT,False,0.304,0.328,0.001,True,Green,,False,True,6
+PP Shaw,GT,False,0.324,0.326,0.001,True,Green,,True,True,6
+Urvil Patel,GT,False,0.494,0.234,0.0007,True,Amber,Wicketkeeper,True,True,4
+UT Yadav,GT,False,0.266,0.225,0.0007,True,Green,,False,True,5
+Yash Dayal,GT,False,0.259,0.218,0.0007,True,Green,,True,True,5
+S Dube,GT,False,0.194,0.216,0.0007,True,Green,,False,True,6
+S Arora,GT,False,0.213,0.215,0.0007,True,,,False,True,5
+Kartik Tyagi,GT,False,0.837,0.198,0.0006,True,Red,Death pacer,True,True,1
+Tilak Varma,GT,False,0.187,0.188,0.0006,True,Green,,False,True,5
+T Stubbs,GT,False,0.418,0.173,0.0005,True,Amber,Wicketkeeper,False,True,5
+Ravi Bishnoi,GT,False,0.099,0.138,0.0004,True,Green,,False,True,6
+Sameer Rizvi,GT,False,0.105,0.107,0.0003,True,Green,,True,True,6
+Naman Dhir,GT,False,0.072,0.091,0.0003,True,Green,,True,True,6
+PHKD Mendis,GT,False,0.059,0.06,0.0002,True,,,True,True,5
+DA Miller,GT,False,0.037,0.056,0.0002,True,Green,,False,True,6
+SB Dubey,GT,False,0.036,0.054,0.0002,True,Green,,True,True,6
+PWH de Silva,GT,False,0.007,0.043,0.0001,True,Green,,False,True,6
+Naveen-ul-Haq,GT,False,0.574,0.037,0.0001,True,Red,Death pacer,True,True,1
+MS Dhoni,GT,False,0.232,0.024,0.0001,True,Amber,Wicketkeeper,True,True,4
+Azmatullah Omarzai,GT,False,0.053,0.02,0.0001,True,Green,,False,True,5
+R Tewatia,GT,True,0.128,0.259,0.0008,True,Green,,True,True,5
+GJ Maxwell,GT,False,0.163,0.002,0.0,True,Amber,Finger spinner,False,True,4
+Arshad Khan,GT,True,0.16,0.241,0.0007,True,Green,,True,True,5
+R Powell,GT,False,0.0,0.0,0.0,False,Green,,False,True,7
+A Badoni,GT,False,0.0,0.0,0.0,False,Green,,True,True,6
+P Nissanka,GT,False,0.0,0.0,0.0,False,Green,,False,True,6
+Abdul Samad,GT,False,0.0,0.0,0.0,False,Green,,True,True,6
+Raghu Sharma,GT,False,0.0,0.0,0.0,False,,,True,True,6
+RJ Gleeson,GT,False,0.0,0.0,0.0,False,,,False,True,6
+PR Veer,GT,False,0.0,0.0,0.0,False,,,False,True,6
+MA Starc,GT,False,0.0,0.0,0.0,False,Green,,False,True,6
+Washington Sundar,GT,True,0.0,0.0,0.0,False,Amber,Finger spinner,True,True,6
+Sandeep Sharma,GT,False,0.09,0.0,0.0,True,Red,Death pacer,True,True,3
+TA Boult,GT,False,0.0,0.0,0.0,False,Green,,False,True,6
+N Wadhera,GT,False,0.0,0.0,0.0,False,Green,,True,True,6
+V Nigam,GT,False,0.0,0.0,0.0,False,Green,,True,True,4
+JM Sharma,GT,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,False,True,5
+DJ Mitchell,GT,False,0.0,0.0,0.0,False,Green,,False,True,3
+Ramandeep Singh,GT,False,0.0,0.0,0.0,False,Green,,True,True,5
+Harsh Dubey,GT,False,0.0,0.0,0.0,False,Amber,Finger spinner,True,True,5
+Kartik Sharma,GT,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,False,True,3
+MD Choudhary,GT,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,4
+MD Shanaka,GT,False,0.0,0.0,0.0,False,,,False,True,3
+Gurjapneet Singh,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+Himmat Singh,GT,False,0.0,0.0,0.0,False,,,True,True,3
+Suyash Sharma,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+MA Agarwal,GT,False,0.0,0.0,0.0,False,Green,,False,True,3
+Nithish Kumar Reddy,GT,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,False,True,3
+RR Pant,GT,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,False,True,3
+V Viyaskanth,GT,False,0.0,0.0,0.0,False,,,False,True,3
+Rahmanullah Gurbaz,GT,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,False,True,3
+N Rana,GT,False,0.0,0.0,0.0,False,Green,,False,True,3
+RD Chahar,GT,False,0.0,0.0,0.0,False,Green,,False,True,3
+KK Nair,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+Yudhvir Singh,GT,False,0.0,0.0,0.0,False,,,True,True,3
+Mohammad Nabi,GT,False,0.0,0.0,0.0,False,,,True,True,3
+Q de Kock,GT,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,3
+Anuj Rawat,GT,True,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,3
+V Shankar,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+SD Hope,GT,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,3
+C Green,GT,False,0.0,0.0,0.0,False,Red,All-rounder,False,True,3
+SO Hetmyer,GT,False,0.0,0.0,0.0,False,Green,,False,True,3
+Brijesh Sharma,GT,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,3
+KA Jamieson,GT,False,0.0,0.0,0.0,False,Green,,False,True,3
+W O'Rourke,GT,False,0.0,0.0,0.0,False,,,True,True,3
+A Manohar,GT,False,0.0,0.0,0.0,False,,,True,True,3
+LS Livingstone,GT,False,0.0,0.0,0.0,False,Amber,Finger spinner,False,True,3
+DS Rathi,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+M Theekshana,GT,False,0.0,0.0,0.0,False,Amber,Finger spinner,False,True,3
+G Coetzee,GT,False,0.0,0.0,0.0,False,Red,Death pacer,False,True,3
+HV Patel,GT,False,0.0,0.0,0.0,False,Red,Death pacer,False,True,3
+I Sharma,GT,True,0.0,0.0,0.0,False,Green,,True,True,3
+Abishek Porel,GT,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,3
+F du Plessis,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+DJ Hooda,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+AK Markram,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+KT Maphaka,GT,False,0.0,0.0,0.0,False,,,True,True,3
+AM Rahane,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+PVD Chameera,GT,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,3
+SN Thakur,GT,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,3
+R Shepherd,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+JG Bethell,GT,False,0.0,0.0,0.0,False,,,True,True,3
+RD Gaikwad,GT,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,False,True,3
+Mayank Dagar,GT,False,0.0,0.0,0.0,False,,,True,True,3
+LH Ferguson,GT,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,3
+Shivang Kumar,GT,False,0.0,0.0,0.0,False,Amber,Finger spinner,True,True,3
+Yash Thakur,GT,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,3
+R Ravindra,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+T Natarajan,GT,False,0.0,0.0,0.0,False,Red,Death pacer,False,True,3
+RA Tripathi,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+Simarjeet Singh,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+Vijaykumar Vyshak,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+Mukesh Kumar,GT,False,0.0,0.0,0.0,False,Red,Death pacer,False,True,3
+Zeeshan Ansari,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+Shahbaz Ahmed,GT,False,0.0,0.0,0.0,False,Amber,Finger spinner,True,True,3
+DA Warner,GT,False,0.0,0.0,0.0,False,Green,,False,True,3
+Avesh Khan,GT,False,0.0,0.0,0.0,False,Red,Death pacer,False,True,3
+SH Johnson,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+A Nortje,GT,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,3
+M Markande,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+Akash Madhwal,GT,False,0.0,0.0,0.0,False,Red,Death pacer,True,True,3
+RJW Topley,GT,False,0.0,0.0,0.0,False,,,True,True,3
+M Jansen,GT,False,0.0,0.0,0.0,False,Green,,False,True,3
+TU Deshpande,GT,False,0.0,0.0,0.0,False,Red,Death pacer,False,True,3
+DP Conway,GT,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,False,True,3
+HH Pandya,GT,False,0.0,0.0,0.0,False,Red,All-rounder,False,True,3
+MW Short,GT,False,0.0,0.0,0.0,False,,,True,True,3
+Ashok Sharma,GT,True,0.0,0.0,0.0,False,Red,Death pacer,True,True,3
+MP Yadav,GT,False,0.0,0.0,0.0,False,Green,,False,True,3
+SK Rasheed,GT,False,0.0,0.0,0.0,False,,,True,True,3
+XC Bartlett,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+MJ Henry,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+SM Curran,GT,False,0.0,0.0,0.0,False,Red,All-rounder,True,True,3
+Akash Deep,GT,False,0.0,0.0,0.0,False,Green,,True,True,3
+Auqib Nabi,GT,False,0.0,0.0,0.0,False,,,True,True,3
+Fazalhaq Farooqi,GT,False,0.0,0.0,0.0,False,,,True,True,3
+V Suryavanshi,KKR,False,9.563,9.557,0.0293,True,Green,,False,True,9
+SP Narine,KKR,True,7.056,6.774,0.0208,True,Green,,True,True,6
+B Kumar,KKR,False,6.154,6.393,0.0196,True,Green,,False,True,10
+JP Inglis,KKR,False,6.874,5.293,0.0162,True,Amber,Anchor,False,False,4
+JJ Bumrah,KKR,False,4.856,5.05,0.0155,True,Green,,False,True,9
+JO Holder,KKR,False,4.58,4.925,0.0151,True,Green,,False,False,9
+V Kohli,KKR,False,4.774,4.768,0.0146,True,Green,,False,True,9
+Abhishek Sharma,KKR,False,4.94,4.582,0.014,True,Green,,False,True,7
+B Sai Sudharsan,KKR,False,4.446,4.44,0.0136,True,Green,,False,True,9
+Mohsin Khan,KKR,False,3.739,4.031,0.0124,True,Green,,True,True,9
+H Klaasen,KKR,False,4.034,4.028,0.0123,True,Green,,False,False,10
+Shubman Gill,KKR,False,3.955,3.95,0.0121,True,Green,,False,True,9
+AJ Hosein,KKR,False,4.208,3.893,0.0119,True,Green,,True,False,6
+JR Hazlewood,KKR,False,3.377,3.646,0.0112,True,Green,,False,False,10
+SR Dubey,KKR,False,3.634,3.629,0.0111,True,,,True,True,8
+JC Archer,KKR,False,3.317,3.583,0.011,True,Green,,False,False,9
+MR Marsh,KKR,False,3.502,3.496,0.0107,True,Green,,True,False,9
+KL Rahul,KKR,False,3.489,3.483,0.0107,True,Green,,False,True,9
+RM Patidar,KKR,False,4.527,3.415,0.0105,True,Amber,Anchor,False,True,2
+L Ngidi,KKR,False,3.197,3.335,0.0102,True,Green,,True,False,9
+SS Iyer,KKR,False,4.361,3.282,0.0101,True,Amber,Anchor,False,True,2
+CV Varun,KKR,True,3.512,3.44,0.0105,True,Green,,True,True,7
+Mustafizur Rahman,KKR,True,3.103,3.437,0.0105,True,Green,,True,True,9
+FH Allen,KKR,True,2.978,3.173,0.0097,True,Green,,True,True,8
+C Connolly,KKR,False,3.86,2.881,0.0088,True,Amber,Anchor,True,False,3
+Noor Ahmad,KKR,False,3.118,2.868,0.0088,True,Green,,False,False,7
+RD Rickelton,KKR,False,2.764,2.759,0.0085,True,Green,,True,False,9
+Mohammed Siraj,KKR,False,2.494,2.708,0.0083,True,Green,,False,True,9
+N Thushara,KKR,False,2.574,2.691,0.0082,True,Green,,True,False,9
+P Simran Singh,KKR,False,2.694,2.689,0.0082,True,Green,,True,True,9
+Ishan Kishan,KKR,False,3.455,2.558,0.0078,True,Amber,Anchor,False,True,4
+Swapnil Singh,KKR,False,2.487,2.482,0.0076,True,,,True,True,8
+E Malinga,KKR,False,2.253,2.359,0.0072,True,Green,,True,False,9
+Harpreet Brar,KKR,False,2.533,2.318,0.0071,True,Green,,True,True,6
+PD Salt,KKR,False,2.303,2.297,0.007,True,Green,,False,False,9
+JM Bairstow,KKR,False,2.27,2.265,0.0069,True,Green,,True,False,9
+C Bosch,KKR,False,2.19,2.185,0.0067,True,Green,,True,False,9
+AM Ghazanfar,KKR,False,2.198,2.003,0.0061,True,Green,,True,False,6
+K Rabada,KKR,False,1.808,1.979,0.0061,True,Green,,False,False,9
+S Sandeep Warrier,KKR,False,1.962,1.957,0.006,True,,,True,True,8
+JC Buttler,KKR,False,2.666,1.927,0.0059,True,Amber,Anchor,False,False,4
+Priyansh Arya,KKR,False,1.902,1.897,0.0058,True,Green,,True,True,9
+SA Yadav,KKR,False,2.606,1.879,0.0058,True,Amber,Anchor,False,True,2
+TM Head,KKR,False,1.857,1.852,0.0057,True,Green,,False,False,9
+Prince Yadav,KKR,False,1.667,1.753,0.0054,True,Green,,True,True,9
+A Mhatre,KKR,False,2.444,1.749,0.0054,True,Amber,Anchor,True,True,2
+KH Pandya,KKR,False,2.523,1.737,0.0053,True,Amber,Finisher,True,True,5
+V Puthur,KKR,False,1.741,1.735,0.0053,True,,,True,True,8
+Akash Singh,KKR,False,1.737,1.732,0.0053,True,,,True,True,8
+M Prasidh Krishna,KKR,False,1.494,1.645,0.005,True,Green,,True,True,9
+RR Rossouw,KKR,False,1.636,1.631,0.005,True,,,True,False,8
+Sakib Hussain,KKR,False,1.51,1.591,0.0049,True,Green,,True,True,9
+TH David,KKR,False,2.296,1.56,0.0048,True,Amber,Finisher,True,False,3
+N Pooran,KKR,False,2.205,1.558,0.0048,True,Amber,Anchor,False,False,4
+R Parag,KKR,False,2.023,1.412,0.0043,True,Amber,Anchor,True,True,5
+VR Iyer,KKR,False,1.939,1.345,0.0041,True,Amber,Anchor,True,True,2
+M Pathirana,KKR,True,1.283,1.554,0.0048,True,Green,,True,True,9
+MJ Santner,KKR,False,1.478,1.326,0.0041,True,Green,,True,False,6
+MM Ali,KKR,False,1.396,1.248,0.0038,True,Green,,True,False,6
+PJ Cummins,KKR,False,1.835,1.201,0.0037,True,Amber,Finisher,False,False,5
+SV Samson,KKR,False,1.156,1.15,0.0035,True,Green,,True,True,9
+Ashwani Kumar,KKR,False,0.975,1.094,0.0034,True,Green,,True,True,9
+Harshit Rana,KKR,True,0.961,1.277,0.0039,True,Green,,True,True,9
+Shashank Singh,KKR,False,1.609,1.025,0.0031,True,Amber,Finisher,True,True,3
+D Ferreira,KKR,False,1.584,1.006,0.0031,True,Amber,Finisher,True,False,5
+N Burger,KKR,False,0.885,0.998,0.0031,True,Green,,True,False,9
+Kuldeep Yadav,KKR,False,1.121,0.99,0.003,True,Green,,True,True,6
+J Overton,KKR,False,0.952,0.946,0.0029,True,Green,,True,False,9
+PP Chawla,KKR,False,1.047,0.92,0.0028,True,Green,,True,True,6
+Ashutosh Sharma,KKR,False,1.453,0.904,0.0028,True,Amber,Finisher,True,True,3
+Suryansh Shedge,KKR,False,0.894,0.888,0.0027,True,,,True,True,8
+YBK Jaiswal,KKR,False,0.892,0.887,0.0027,True,Green,,True,True,9
+Rashid Khan,KKR,False,1.375,0.843,0.0026,True,Amber,Finisher,True,False,4
+M Tiwari,KKR,False,0.839,0.833,0.0026,True,,,True,True,8
+Mukesh Choudhary,KKR,False,0.677,0.777,0.0024,True,Green,,True,True,9
+DL Chahar,KKR,False,0.646,0.744,0.0023,True,Green,,True,True,9
+JA Duffy,KKR,False,0.637,0.735,0.0023,True,Green,,True,False,9
+R Sai Kishore,KKR,False,0.803,0.69,0.0021,True,Green,,True,True,6
+KK Ahmed,KKR,False,0.581,0.675,0.0021,True,Green,,True,True,9
+JD Unadkat,KKR,False,0.57,0.664,0.002,True,Green,,True,True,9
+AR Patel,KKR,False,0.659,0.555,0.0017,True,Green,,True,True,7
+Arshdeep Singh,KKR,False,0.484,0.53,0.0016,True,Green,,True,True,9
+PP Hinge,KKR,False,0.482,0.528,0.0016,True,Green,,True,True,9
+WG Jacks,KKR,False,0.907,0.519,0.0016,True,Amber,Anchor,True,False,6
+RA Jadeja,KKR,False,0.94,0.504,0.0015,True,Amber,Finisher,True,True,5
+J Fraser-McGurk,KKR,False,0.496,0.49,0.0015,True,Green,,True,False,9
+Yash Raj Punja,KKR,False,0.582,0.483,0.0015,True,Green,,True,True,7
+SN Khan,KKR,False,0.459,0.454,0.0014,True,,,True,True,9
+KR Sen,KKR,False,0.423,0.418,0.0013,True,,,True,True,8
+D Padikkal,KKR,False,0.778,0.416,0.0013,True,Amber,Anchor,True,True,5
+Dhruv Jurel,KKR,False,0.415,0.409,0.0013,True,Green,,True,True,10
+A Raghuvanshi,KKR,True,0.797,0.637,0.002,True,Amber,Anchor,True,True,7
+MK Pandey,KKR,True,0.442,0.636,0.002,True,Green,,True,True,8
+SE Rutherford,KKR,False,0.803,0.397,0.0012,True,Amber,Finisher,True,False,4
+MK Lomror,KKR,False,0.387,0.382,0.0012,True,,,True,True,8
+A Kamboj,KKR,False,0.292,0.368,0.0011,True,Green,,True,True,9
+M Shahrukh Khan,KKR,False,0.358,0.353,0.0011,True,Green,,True,True,9
+AS Roy,KKR,True,0.452,0.562,0.0017,True,Green,,True,True,6
+KV Sharma,KKR,False,0.405,0.316,0.001,True,Green,,True,True,7
+D Brevis,KKR,False,0.285,0.28,0.0009,True,Green,,True,False,10
+MP Stoinis,KKR,False,0.284,0.279,0.0009,True,Green,,True,False,9
+Mohammed Shami,KKR,False,0.18,0.249,0.0008,True,Green,,True,True,9
+Rasikh Salam,KKR,False,0.208,0.244,0.0007,True,Green,,True,True,9
+VG Arora,KKR,True,0.168,0.435,0.0013,True,Green,,True,True,8
+M Siddharth,KKR,False,0.282,0.201,0.0006,True,Green,,True,True,6
+RG Sharma,KKR,False,0.197,0.192,0.0006,True,Green,,True,True,9
+YS Chahal,KKR,False,0.264,0.184,0.0006,True,Green,,True,True,7
+Aniket Verma,KKR,False,0.466,0.136,0.0004,True,Amber,Finisher,True,True,5
+RK Singh,KKR,True,0.487,0.357,0.0011,True,Amber,Finisher,True,True,4
+PP Shaw,KKR,False,0.133,0.128,0.0004,True,Green,,True,True,9
+Urvil Patel,KKR,False,0.041,0.036,0.0001,True,Green,,True,True,9
+UT Yadav,KKR,False,0.0,0.027,0.0001,False,Green,,True,True,9
+Yash Dayal,KKR,False,0.0,0.02,0.0001,False,Green,,True,True,9
+S Dube,KKR,False,0.315,0.017,0.0001,True,Amber,Finisher,True,True,5
+S Arora,KKR,False,0.022,0.016,0.0,True,,,True,True,8
+Kartik Tyagi,KKR,True,0.0,0.228,0.0007,False,Green,,True,True,9
+Tilak Varma,KKR,False,0.0,0.0,0.0,False,Green,,True,True,10
+T Stubbs,KKR,False,0.26,0.0,0.0,True,Amber,Finisher,True,False,7
+Ravi Bishnoi,KKR,False,0.005,0.0,0.0,True,Green,,True,True,8
+Sameer Rizvi,KKR,False,0.143,0.0,0.0,True,Amber,Anchor,True,True,5
+Naman Dhir,KKR,False,0.155,0.0,0.0,True,Amber,Finisher,True,True,5
+PHKD Mendis,KKR,False,0.0,0.0,0.0,False,,,True,False,7
+DA Miller,KKR,False,0.109,0.0,0.0,True,Amber,Finisher,True,False,5
+SB Dubey,KKR,False,0.108,0.0,0.0,True,Amber,Finisher,True,True,5
+PWH de Silva,KKR,False,0.0,0.0,0.0,False,Green,,True,False,8
+Naveen-ul-Haq,KKR,False,0.0,0.0,0.0,False,Green,,True,False,7
+MS Dhoni,KKR,False,0.069,0.0,0.0,True,Amber,Finisher,True,True,7
+Azmatullah Omarzai,KKR,False,0.0,0.0,0.0,False,Green,,True,False,7
+R Tewatia,KKR,False,0.061,0.0,0.0,True,Amber,Finisher,True,True,6
+GJ Maxwell,KKR,False,0.0,0.0,0.0,False,Green,,True,False,7
+Arshad Khan,KKR,False,0.0,0.0,0.0,False,Green,,True,True,7
+R Powell,KKR,True,0.028,0.0,0.0,True,Amber,Finisher,True,True,5
+A Badoni,KKR,False,0.0,0.0,0.0,False,Green,,True,True,7
+P Nissanka,KKR,False,0.0,0.0,0.0,False,Green,,True,False,7
+Abdul Samad,KKR,False,0.0,0.0,0.0,False,Amber,Finisher,True,True,7
+Raghu Sharma,KKR,False,0.0,0.0,0.0,False,,,True,True,7
+RJ Gleeson,KKR,False,0.0,0.0,0.0,False,,,True,True,7
+PR Veer,KKR,False,0.0,0.0,0.0,False,,,True,True,7
+MA Starc,KKR,False,0.0,0.0,0.0,False,Green,,True,False,7
+Washington Sundar,KKR,False,0.0,0.0,0.0,False,Amber,Anchor,True,True,7
+Sandeep Sharma,KKR,False,0.0,0.0,0.0,False,Green,,True,True,7
+TA Boult,KKR,False,0.0,0.0,0.0,False,Green,,True,False,7
+N Wadhera,KKR,False,0.0,0.0,0.0,False,Green,,True,True,7
+V Nigam,KKR,False,0.0,0.0,0.0,False,Green,,True,True,5
+JM Sharma,KKR,False,0.0,0.0,0.0,False,Amber,Finisher,True,True,6
+DJ Mitchell,KKR,False,0.0,0.0,0.0,False,Amber,Anchor,True,False,4
+Ramandeep Singh,KKR,True,0.0,0.0,0.0,False,Amber,Finisher,True,True,6
+Harsh Dubey,KKR,False,0.0,0.0,0.0,False,Green,,True,True,6
+Kartik Sharma,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+MD Choudhary,KKR,False,0.0,0.0,0.0,False,Amber,Finisher,True,True,5
+MD Shanaka,KKR,False,0.0,0.0,0.0,False,,,True,True,4
+Gurjapneet Singh,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+Himmat Singh,KKR,False,0.0,0.0,0.0,False,,,True,True,4
+Suyash Sharma,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+MA Agarwal,KKR,False,0.0,0.0,0.0,False,Amber,Anchor,True,True,4
+Nithish Kumar Reddy,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+RR Pant,KKR,False,0.0,0.0,0.0,False,Amber,Anchor,True,True,4
+V Viyaskanth,KKR,False,0.0,0.0,0.0,False,,,True,True,4
+Rahmanullah Gurbaz,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+N Rana,KKR,False,0.0,0.0,0.0,False,Amber,Anchor,True,True,4
+RD Chahar,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+KK Nair,KKR,False,0.0,0.0,0.0,False,Amber,Anchor,True,True,4
+Yudhvir Singh,KKR,False,0.0,0.0,0.0,False,,,True,True,4
+Mohammad Nabi,KKR,False,0.0,0.0,0.0,False,,,True,False,4
+Q de Kock,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+Anuj Rawat,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+V Shankar,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+SD Hope,KKR,False,0.0,0.0,0.0,False,Amber,Anchor,True,False,4
+C Green,KKR,True,0.0,0.0,0.0,False,Amber,Anchor,True,True,4
+SO Hetmyer,KKR,False,0.0,0.0,0.0,False,Amber,Finisher,True,False,4
+Brijesh Sharma,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+KA Jamieson,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+W O'Rourke,KKR,False,0.0,0.0,0.0,False,,,True,True,4
+A Manohar,KKR,False,0.0,0.0,0.0,False,,,True,True,4
+LS Livingstone,KKR,False,0.0,0.0,0.0,False,Amber,Finisher,True,False,4
+DS Rathi,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+M Theekshana,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+G Coetzee,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+HV Patel,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+I Sharma,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+Abishek Porel,KKR,False,0.0,0.0,0.0,False,Amber,Anchor,True,True,4
+F du Plessis,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+DJ Hooda,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+AK Markram,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+KT Maphaka,KKR,False,0.0,0.0,0.0,False,,,True,False,4
+AM Rahane,KKR,True,0.0,0.0,0.0,False,Green,,True,True,4
+PVD Chameera,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+SN Thakur,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+R Shepherd,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+JG Bethell,KKR,False,0.0,0.0,0.0,False,,,True,False,4
+RD Gaikwad,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+Mayank Dagar,KKR,False,0.0,0.0,0.0,False,,,True,True,4
+LH Ferguson,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+Shivang Kumar,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+Yash Thakur,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+R Ravindra,KKR,True,0.0,0.0,0.0,False,Green,,True,True,4
+T Natarajan,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+RA Tripathi,KKR,True,0.0,0.0,0.0,False,Amber,Anchor,True,True,4
+Simarjeet Singh,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+Vijaykumar Vyshak,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+Mukesh Kumar,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+Zeeshan Ansari,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+Shahbaz Ahmed,KKR,False,0.0,0.0,0.0,False,Amber,Finisher,True,True,4
+DA Warner,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+Avesh Khan,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+SH Johnson,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+A Nortje,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+M Markande,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+Akash Madhwal,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+RJW Topley,KKR,False,0.0,0.0,0.0,False,,,True,False,4
+M Jansen,KKR,False,0.0,0.0,0.0,False,Amber,Finisher,True,False,4
+TU Deshpande,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+DP Conway,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+HH Pandya,KKR,False,0.0,0.0,0.0,False,Amber,Finisher,True,True,4
+MW Short,KKR,False,0.0,0.0,0.0,False,,,True,False,4
+Ashok Sharma,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+MP Yadav,KKR,False,0.0,0.0,0.0,False,Green,,True,True,4
+SK Rasheed,KKR,False,0.0,0.0,0.0,False,,,True,True,4
+XC Bartlett,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+MJ Henry,KKR,False,0.0,0.0,0.0,False,Green,,True,False,4
+SM Curran,KKR,False,0.0,0.0,0.0,False,Amber,Anchor,True,False,4
+Akash Deep,KKR,True,0.0,0.0,0.0,False,Green,,True,True,4
+Auqib Nabi,KKR,False,0.0,0.0,0.0,False,,,True,True,4
+Fazalhaq Farooqi,KKR,False,0.0,0.0,0.0,False,,,True,False,4
+V Suryavanshi,LSG,False,12.678,10.137,0.0311,True,Amber,Opener,False,True,1
+SP Narine,LSG,False,11.559,7.126,0.0218,True,Red,Finger spinner,False,True,1
+B Kumar,LSG,False,8.715,6.972,0.0214,True,Amber,Death pacer,False,True,3
+JP Inglis,LSG,True,5.923,5.923,0.0181,True,Green,,True,True,6
+JJ Bumrah,LSG,False,7.038,5.63,0.0173,True,Amber,Death pacer,False,True,3
+JO Holder,LSG,False,5.474,5.504,0.0169,True,Green,,False,True,5
+V Kohli,LSG,False,6.692,5.348,0.0164,True,Amber,Opener,False,True,1
+Abhishek Sharma,LSG,False,8.31,5.162,0.0158,True,Red,Finger spinner,False,True,1
+B Sai Sudharsan,LSG,False,6.281,5.02,0.0154,True,Amber,Opener,False,True,1
+Mohsin Khan,LSG,True,4.721,4.661,0.0143,True,Green,,True,True,4
+H Klaasen,LSG,False,4.507,4.608,0.0141,True,Green,,False,True,7
+Shubman Gill,LSG,False,5.668,4.53,0.0139,True,Amber,Opener,False,True,1
+AJ Hosein,LSG,False,7.221,4.473,0.0137,True,Red,Finger spinner,False,True,1
+JR Hazlewood,LSG,False,4.18,4.226,0.0129,True,Green,,False,True,4
+SR Dubey,LSG,False,4.107,4.209,0.0129,True,,,False,True,1
+JC Archer,LSG,False,4.117,4.163,0.0128,True,Green,,False,True,4
+MR Marsh,LSG,True,5.253,4.127,0.0126,True,Amber,Opener,True,True,1
+KL Rahul,LSG,False,5.085,4.063,0.0125,True,Amber,Opener,False,True,1
+RM Patidar,LSG,False,3.894,3.995,0.0122,True,Green,,False,True,3
+L Ngidi,LSG,False,4.896,3.915,0.012,True,Amber,Death pacer,False,True,4
+SS Iyer,LSG,False,3.761,3.862,0.0118,True,Green,,False,True,4
+CV Varun,LSG,False,3.64,3.792,0.0116,True,Green,,False,True,5
+Mustafizur Rahman,LSG,False,4.738,3.789,0.0116,True,Amber,Death pacer,False,True,3
+FH Allen,LSG,False,4.412,3.525,0.0108,True,Amber,Opener,True,True,1
+C Connolly,LSG,False,3.36,3.461,0.0106,True,Green,,False,True,4
+Noor Ahmad,LSG,False,3.3,3.447,0.0106,True,Green,,False,True,5
+RD Rickelton,LSG,False,4.18,3.339,0.0102,True,Amber,Opener,True,True,1
+Mohammed Siraj,LSG,False,3.231,3.287,0.0101,True,Green,,False,True,4
+N Thushara,LSG,False,4.091,3.27,0.01,True,Amber,Death pacer,True,True,3
+P Simran Singh,LSG,False,4.092,3.269,0.01,True,Amber,Opener,True,True,1
+Ishan Kishan,LSG,False,3.036,3.137,0.0096,True,Green,,False,True,7
+Swapnil Singh,LSG,False,2.96,3.061,0.0094,True,,,True,True,1
+E Malinga,LSG,False,3.677,2.939,0.009,True,Amber,Death pacer,True,True,3
+Harpreet Brar,LSG,False,4.73,2.898,0.0089,True,Red,Finger spinner,True,True,1
+PD Salt,LSG,False,3.603,2.877,0.0088,True,Amber,Opener,False,True,1
+JM Bairstow,LSG,False,3.562,2.845,0.0087,True,Amber,Opener,False,True,1
+C Bosch,LSG,False,4.581,2.765,0.0085,True,Red,All-rounder,True,True,1
+AM Ghazanfar,LSG,False,4.232,2.582,0.0079,True,Red,Finger spinner,False,True,1
+K Rabada,LSG,False,2.493,2.559,0.0078,True,Green,,False,True,4
+S Sandeep Warrier,LSG,False,2.435,2.536,0.0078,True,,,True,True,1
+JC Buttler,LSG,False,2.405,2.506,0.0077,True,Green,,False,True,6
+Priyansh Arya,LSG,False,3.102,2.476,0.0076,True,Amber,Opener,True,True,1
+SA Yadav,LSG,False,2.357,2.458,0.0075,True,Green,,False,True,3
+TM Head,LSG,False,3.046,2.432,0.0075,True,Amber,Opener,False,True,1
+Prince Yadav,LSG,True,3.072,2.383,0.0073,True,Amber,Death pacer,True,True,3
+A Mhatre,LSG,False,2.227,2.328,0.0071,True,Green,,True,True,3
+KH Pandya,LSG,False,3.864,2.317,0.0071,True,Red,Finger spinner,False,True,1
+V Puthur,LSG,False,2.214,2.315,0.0071,True,,,True,True,1
+Akash Singh,LSG,True,2.362,2.362,0.0072,True,,,True,True,1
+M Prasidh Krishna,LSG,False,2.155,2.225,0.0068,True,Green,,False,True,4
+RR Rossouw,LSG,False,2.109,2.211,0.0068,True,,,False,True,1
+Sakib Hussain,LSG,False,2.717,2.17,0.0066,True,Amber,Death pacer,True,True,3
+TH David,LSG,False,2.643,2.14,0.0066,True,Amber,Finisher,True,True,1
+N Pooran,LSG,True,2.188,2.188,0.0067,True,Green,,True,True,5
+R Parag,LSG,False,3.298,1.992,0.0061,True,Red,Finger spinner,False,True,1
+VR Iyer,LSG,False,1.823,1.925,0.0059,True,Green,,False,True,3
+M Pathirana,LSG,False,2.387,1.906,0.0058,True,Amber,Death pacer,False,True,3
+MJ Santner,LSG,False,3.161,1.905,0.0058,True,Red,Finger spinner,True,True,1
+MM Ali,LSG,False,3.039,1.828,0.0056,True,Red,Finger spinner,False,True,1
+PJ Cummins,LSG,False,2.2,1.781,0.0055,True,Amber,Finisher,False,True,1
+SV Samson,LSG,False,2.169,1.73,0.0053,True,Amber,Opener,False,True,1
+Ashwani Kumar,LSG,False,1.597,1.673,0.0051,True,Green,,True,True,4
+Harshit Rana,LSG,False,1.552,1.629,0.005,True,Green,,True,True,4
+Shashank Singh,LSG,False,1.982,1.605,0.0049,True,Amber,Finisher,True,True,2
+D Ferreira,LSG,False,1.958,1.586,0.0049,True,Amber,Finisher,True,True,1
+N Burger,LSG,False,1.5,1.578,0.0048,True,Green,,True,True,4
+Kuldeep Yadav,LSG,False,1.444,1.57,0.0048,True,Green,,False,True,5
+J Overton,LSG,False,2.599,1.526,0.0047,True,Red,All-rounder,True,True,1
+PP Chawla,LSG,False,1.376,1.5,0.0046,True,Green,,True,True,4
+Ashutosh Sharma,LSG,False,1.832,1.484,0.0045,True,Amber,Finisher,True,True,1
+Suryansh Shedge,LSG,False,1.367,1.468,0.0045,True,,,True,True,2
+YBK Jaiswal,LSG,False,1.839,1.466,0.0045,True,Amber,Opener,False,True,1
+Rashid Khan,LSG,False,1.757,1.423,0.0044,True,Amber,Finisher,False,True,1
+M Tiwari,LSG,False,1.312,1.413,0.0043,True,,,True,True,1
+Mukesh Choudhary,LSG,False,1.276,1.356,0.0042,True,Green,,True,True,4
+DL Chahar,LSG,False,1.243,1.324,0.0041,True,Green,,False,True,4
+JA Duffy,LSG,False,1.234,1.314,0.004,True,Green,,True,True,4
+R Sai Kishore,LSG,False,2.157,1.27,0.0039,True,Red,Finger spinner,True,True,1
+KK Ahmed,LSG,False,1.173,1.254,0.0038,True,Green,,True,True,4
+JD Unadkat,LSG,False,1.162,1.243,0.0038,True,Green,,True,True,4
+AR Patel,LSG,False,1.972,1.134,0.0035,True,Red,Finger spinner,False,True,1
+Arshdeep Singh,LSG,False,1.392,1.109,0.0034,True,Amber,Death pacer,False,True,3
+PP Hinge,LSG,False,1.389,1.107,0.0034,True,Amber,Death pacer,True,True,2
+WG Jacks,LSG,False,1.887,1.099,0.0034,True,Red,Finger spinner,True,True,1
+RA Jadeja,LSG,False,1.891,1.084,0.0033,True,Red,Finger spinner,False,True,1
+J Fraser-McGurk,LSG,False,1.344,1.07,0.0033,True,Amber,Opener,False,True,1
+Yash Raj Punja,LSG,False,1.829,1.063,0.0033,True,Red,Finger spinner,True,True,1
+SN Khan,LSG,False,0.933,1.034,0.0032,True,,,True,True,1
+KR Sen,LSG,False,0.896,0.997,0.0031,True,,,True,True,1
+D Padikkal,LSG,False,0.894,0.995,0.0031,True,Green,,True,True,2
+Dhruv Jurel,LSG,False,0.888,0.989,0.003,True,Green,,False,True,4
+A Raghuvanshi,LSG,False,0.887,0.989,0.003,True,Green,,True,True,3
+MK Pandey,LSG,False,0.887,0.988,0.003,True,Green,,True,True,2
+SE Rutherford,LSG,False,1.207,0.977,0.003,True,Amber,Finisher,True,True,1
+MK Lomror,LSG,False,0.86,0.961,0.0029,True,,,True,True,1
+A Kamboj,LSG,False,0.863,0.948,0.0029,True,Green,,True,True,4
+M Shahrukh Khan,LSG,False,0.831,0.933,0.0029,True,Green,,True,True,2
+AS Roy,LSG,False,1.594,0.914,0.0028,True,Red,Finger spinner,True,True,1
+KV Sharma,LSG,False,0.779,0.896,0.0027,True,Green,,True,True,3
+D Brevis,LSG,False,0.758,0.859,0.0026,True,Green,,True,True,2
+MP Stoinis,LSG,False,0.772,0.858,0.0026,True,Green,,False,True,4
+Mohammed Shami,LSG,True,0.894,0.879,0.0027,True,Green,,True,True,2
+Rasikh Salam,LSG,False,1.035,0.824,0.0025,True,Amber,Death pacer,True,True,2
+VG Arora,LSG,False,0.7,0.787,0.0024,True,Green,,True,True,4
+M Siddharth,LSG,True,1.535,0.831,0.0025,True,Red,Finger spinner,True,True,1
+RG Sharma,LSG,False,0.971,0.772,0.0024,True,Amber,Opener,False,True,1
+YS Chahal,LSG,False,0.648,0.763,0.0023,True,Green,,False,True,3
+Aniket Verma,LSG,False,0.883,0.715,0.0022,True,Amber,Finisher,True,True,1
+RK Singh,LSG,False,0.876,0.709,0.0022,True,Amber,Finisher,False,True,1
+PP Shaw,LSG,False,0.89,0.707,0.0022,True,Amber,Opener,True,True,1
+Urvil Patel,LSG,False,0.514,0.615,0.0019,True,Green,,True,True,1
+UT Yadav,LSG,False,0.518,0.607,0.0019,True,Green,,True,True,4
+Yash Dayal,LSG,False,0.51,0.599,0.0018,True,Green,,True,True,4
+S Dube,LSG,False,0.737,0.597,0.0018,True,Amber,Finisher,True,True,1
+S Arora,LSG,False,0.495,0.596,0.0018,True,,,True,True,1
+Kartik Tyagi,LSG,False,0.73,0.58,0.0018,True,Amber,Death pacer,True,True,2
+Tilak Varma,LSG,False,0.468,0.569,0.0017,True,Green,,True,True,2
+T Stubbs,LSG,False,0.685,0.555,0.0017,True,Amber,Finisher,True,True,1
+Ravi Bishnoi,LSG,False,0.407,0.52,0.0016,True,Green,,True,True,3
+Sameer Rizvi,LSG,False,0.387,0.488,0.0015,True,Green,,True,True,2
+Naman Dhir,LSG,False,0.584,0.473,0.0014,True,Amber,Finisher,True,True,1
+PHKD Mendis,LSG,False,0.34,0.441,0.0014,True,,,True,True,2
+DA Miller,LSG,False,0.54,0.437,0.0013,True,Amber,Finisher,True,True,1
+SB Dubey,LSG,False,0.538,0.436,0.0013,True,Amber,Finisher,True,True,1
+PWH de Silva,LSG,True,0.465,0.475,0.0015,True,Green,,True,True,2
+Naveen-ul-Haq,LSG,False,0.529,0.419,0.0013,True,Amber,Death pacer,True,True,2
+MS Dhoni,LSG,False,0.501,0.406,0.0012,True,Amber,Finisher,True,True,1
+Azmatullah Omarzai,LSG,False,0.31,0.401,0.0012,True,Green,,True,True,4
+R Tewatia,LSG,False,0.493,0.399,0.0012,True,Amber,Finisher,True,True,1
+GJ Maxwell,LSG,False,0.755,0.383,0.0012,True,Red,Finger spinner,True,True,1
+Arshad Khan,LSG,False,0.29,0.381,0.0012,True,Green,,True,True,3
+R Powell,LSG,False,0.435,0.352,0.0011,True,Amber,Finisher,True,True,1
+A Badoni,LSG,True,0.379,0.379,0.0012,True,Green,,True,True,1
+P Nissanka,LSG,False,0.385,0.303,0.0009,True,Amber,Opener,True,True,1
+Abdul Samad,LSG,True,0.497,0.33,0.001,True,Amber,Finisher,True,True,1
+Raghu Sharma,LSG,False,0.162,0.263,0.0008,True,,,True,True,1
+RJ Gleeson,LSG,False,0.161,0.262,0.0008,True,,,True,True,1
+PR Veer,LSG,False,0.071,0.172,0.0005,True,,,True,True,1
+MA Starc,LSG,False,0.053,0.147,0.0005,True,Green,,True,True,4
+Washington Sundar,LSG,False,0.371,0.14,0.0004,True,Red,Finger spinner,True,True,1
+Sandeep Sharma,LSG,False,0.159,0.123,0.0004,True,Amber,Death pacer,True,True,1
+TA Boult,LSG,False,0.027,0.122,0.0004,True,Green,,True,True,3
+N Wadhera,LSG,False,0.011,0.112,0.0003,True,Green,,True,True,2
+V Nigam,LSG,False,0.0,0.093,0.0003,False,Green,,True,True,6
+JM Sharma,LSG,False,0.114,0.093,0.0003,True,Amber,Finisher,True,True,1
+DJ Mitchell,LSG,False,0.0,0.09,0.0003,False,Green,,True,True,5
+Ramandeep Singh,LSG,False,0.072,0.058,0.0002,True,Amber,Finisher,True,True,1
+Harsh Dubey,LSG,False,0.187,0.024,0.0001,True,Red,Finger spinner,True,True,2
+Kartik Sharma,LSG,False,0.0,0.021,0.0001,False,Green,,True,True,5
+MD Choudhary,LSG,True,0.152,0.051,0.0002,True,Amber,Finisher,True,True,1
+MD Shanaka,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+Gurjapneet Singh,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+Himmat Singh,LSG,True,0.0,0.0,0.0,False,,,True,True,5
+Suyash Sharma,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+MA Agarwal,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+Nithish Kumar Reddy,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+RR Pant,LSG,True,0.0,0.0,0.0,False,Green,,True,True,5
+V Viyaskanth,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+Rahmanullah Gurbaz,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+N Rana,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+RD Chahar,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+KK Nair,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+Yudhvir Singh,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+Mohammad Nabi,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+Q de Kock,LSG,False,0.0,0.0,0.0,False,Amber,Opener,True,True,5
+Anuj Rawat,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+V Shankar,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+SD Hope,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+C Green,LSG,False,0.0,0.0,0.0,False,Red,All-rounder,False,True,5
+SO Hetmyer,LSG,False,0.0,0.0,0.0,False,Amber,Finisher,True,True,5
+Brijesh Sharma,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+KA Jamieson,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+W O'Rourke,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+A Manohar,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+LS Livingstone,LSG,False,0.0,0.0,0.0,False,Red,Finger spinner,True,True,5
+DS Rathi,LSG,True,0.0,0.0,0.0,False,Green,,True,True,5
+M Theekshana,LSG,False,0.0,0.0,0.0,False,Red,Finger spinner,True,True,5
+G Coetzee,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+HV Patel,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+I Sharma,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+Abishek Porel,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+F du Plessis,LSG,False,0.0,0.0,0.0,False,Amber,Opener,True,True,5
+DJ Hooda,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+AK Markram,LSG,True,0.0,0.0,0.0,False,Amber,Opener,True,True,5
+KT Maphaka,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+AM Rahane,LSG,False,0.0,0.0,0.0,False,Amber,Opener,True,True,5
+PVD Chameera,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+SN Thakur,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+R Shepherd,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+JG Bethell,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+RD Gaikwad,LSG,False,0.0,0.0,0.0,False,Amber,Opener,True,True,5
+Mayank Dagar,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+LH Ferguson,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+Shivang Kumar,LSG,False,0.0,0.0,0.0,False,Red,Finger spinner,True,True,5
+Yash Thakur,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+R Ravindra,LSG,False,0.0,0.0,0.0,False,Amber,Opener,True,True,5
+T Natarajan,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+RA Tripathi,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+Simarjeet Singh,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+Vijaykumar Vyshak,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+Mukesh Kumar,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+Zeeshan Ansari,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+Shahbaz Ahmed,LSG,True,0.0,0.0,0.0,False,Red,Finger spinner,True,True,5
+DA Warner,LSG,False,0.0,0.0,0.0,False,Amber,Opener,True,True,5
+Avesh Khan,LSG,True,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+SH Johnson,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+A Nortje,LSG,True,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+M Markande,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+Akash Madhwal,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+RJW Topley,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+M Jansen,LSG,False,0.0,0.0,0.0,False,Amber,Finisher,True,True,5
+TU Deshpande,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+DP Conway,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+HH Pandya,LSG,False,0.0,0.0,0.0,False,Red,All-rounder,True,True,5
+MW Short,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+Ashok Sharma,LSG,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,5
+MP Yadav,LSG,True,0.0,0.0,0.0,False,Green,,True,True,5
+SK Rasheed,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+XC Bartlett,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+MJ Henry,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+SM Curran,LSG,False,0.0,0.0,0.0,False,Red,All-rounder,True,True,5
+Akash Deep,LSG,False,0.0,0.0,0.0,False,Green,,True,True,5
+Auqib Nabi,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+Fazalhaq Farooqi,LSG,False,0.0,0.0,0.0,False,,,True,True,5
+V Suryavanshi,MI,False,9.568,9.568,0.0293,True,Green,,False,True,8
+SP Narine,MI,False,6.557,6.557,0.0201,True,Green,,False,False,9
+B Kumar,MI,False,6.411,6.403,0.0196,True,Green,,False,True,8
+JP Inglis,MI,False,5.303,5.303,0.0163,True,Green,,False,False,9
+JJ Bumrah,MI,True,5.164,5.157,0.0158,True,Green,,True,True,7
+JO Holder,MI,False,4.947,4.935,0.0151,True,Green,,False,False,6
+V Kohli,MI,False,4.779,4.779,0.0146,True,Green,,False,True,8
+Abhishek Sharma,MI,False,4.592,4.592,0.0141,True,Green,,False,True,9
+B Sai Sudharsan,MI,False,4.451,4.451,0.0136,True,Green,,False,True,8
+Mohsin Khan,MI,False,4.051,4.041,0.0124,True,Green,,False,True,6
+H Klaasen,MI,False,4.039,4.039,0.0124,True,Green,,False,False,9
+Shubman Gill,MI,False,3.96,3.96,0.0121,True,Green,,False,True,8
+AJ Hosein,MI,False,3.894,3.904,0.012,True,Green,,False,False,9
+JR Hazlewood,MI,False,3.666,3.656,0.0112,True,Green,,False,False,6
+SR Dubey,MI,False,3.639,3.639,0.0112,True,,,False,True,7
+JC Archer,MI,False,3.603,3.593,0.011,True,Green,,False,False,7
+MR Marsh,MI,False,3.507,3.507,0.0107,True,Green,,False,False,8
+KL Rahul,MI,False,3.494,3.494,0.0107,True,Green,,False,True,8
+RM Patidar,MI,False,3.425,3.425,0.0105,True,Green,,False,True,8
+L Ngidi,MI,False,3.35,3.345,0.0103,True,Green,,False,False,8
+SS Iyer,MI,False,3.293,3.293,0.0101,True,Green,,False,True,8
+CV Varun,MI,False,4.266,3.223,0.0099,True,Amber,Wrist spinner,False,True,2
+Mustafizur Rahman,MI,False,3.224,3.22,0.0099,True,Green,,False,False,8
+FH Allen,MI,False,2.955,2.955,0.0091,True,Green,,False,False,9
+C Connolly,MI,False,2.892,2.892,0.0089,True,Green,,False,False,8
+Noor Ahmad,MI,False,3.836,2.878,0.0088,True,Amber,Wrist spinner,False,False,2
+RD Rickelton,MI,True,2.867,2.866,0.0088,True,Green,,True,True,8
+Mohammed Siraj,MI,False,2.726,2.718,0.0083,True,Green,,False,True,6
+N Thushara,MI,False,2.705,2.701,0.0083,True,Green,,False,False,8
+P Simran Singh,MI,False,2.699,2.699,0.0083,True,Green,,False,True,8
+Ishan Kishan,MI,False,2.568,2.568,0.0079,True,Green,,False,True,9
+Swapnil Singh,MI,False,2.492,2.492,0.0076,True,,,False,True,7
+E Malinga,MI,False,2.373,2.37,0.0073,True,Green,,False,False,8
+Harpreet Brar,MI,False,2.322,2.329,0.0071,True,Green,,False,True,8
+PD Salt,MI,False,2.308,2.308,0.0071,True,Green,,False,False,8
+JM Bairstow,MI,False,2.275,2.275,0.007,True,Green,,False,False,8
+C Bosch,MI,True,2.296,2.292,0.007,True,Green,,True,True,7
+AM Ghazanfar,MI,True,2.105,2.11,0.0065,True,Green,,True,True,7
+K Rabada,MI,False,1.995,1.989,0.0061,True,Green,,False,False,6
+S Sandeep Warrier,MI,False,1.967,1.967,0.006,True,,,False,True,7
+JC Buttler,MI,False,1.937,1.937,0.0059,True,Green,,False,False,9
+Priyansh Arya,MI,False,1.907,1.907,0.0058,True,Green,,False,True,8
+SA Yadav,MI,True,1.987,1.986,0.0061,True,Green,,True,True,7
+TM Head,MI,False,1.862,1.862,0.0057,True,Green,,False,False,8
+Prince Yadav,MI,False,1.766,1.764,0.0054,True,Green,,False,True,8
+A Mhatre,MI,False,1.759,1.759,0.0054,True,Green,,False,True,9
+KH Pandya,MI,False,1.747,1.747,0.0054,True,Green,,False,True,8
+V Puthur,MI,False,1.746,1.746,0.0053,True,,,False,True,7
+Akash Singh,MI,False,1.742,1.742,0.0053,True,,,False,True,7
+M Prasidh Krishna,MI,False,1.661,1.655,0.0051,True,Green,,False,True,6
+RR Rossouw,MI,False,1.641,1.641,0.005,True,,,False,False,7
+Sakib Hussain,MI,False,1.604,1.601,0.0049,True,Green,,False,True,8
+TH David,MI,False,1.568,1.571,0.0048,True,Green,,False,False,8
+N Pooran,MI,False,1.568,1.568,0.0048,True,Green,,False,False,9
+R Parag,MI,False,1.423,1.423,0.0044,True,Green,,False,True,8
+VR Iyer,MI,False,1.355,1.355,0.0042,True,Green,,False,True,8
+M Pathirana,MI,False,1.34,1.337,0.0041,True,Green,,False,False,8
+MJ Santner,MI,True,1.429,1.433,0.0044,True,Green,,True,True,7
+MM Ali,MI,False,1.254,1.259,0.0039,True,Green,,False,False,8
+PJ Cummins,MI,False,1.216,1.212,0.0037,True,Green,,False,False,8
+SV Samson,MI,False,1.161,1.161,0.0036,True,Green,,False,True,8
+Ashwani Kumar,MI,True,1.206,1.201,0.0037,True,Green,,True,True,6
+Harshit Rana,MI,False,1.063,1.059,0.0032,True,Green,,False,True,6
+Shashank Singh,MI,False,1.033,1.035,0.0032,True,Green,,False,True,8
+D Ferreira,MI,False,1.016,1.016,0.0031,True,Green,,False,False,9
+N Burger,MI,False,1.012,1.008,0.0031,True,Green,,False,False,7
+Kuldeep Yadav,MI,False,1.495,1.0,0.0031,True,Amber,Wrist spinner,False,True,4
+J Overton,MI,False,0.959,0.957,0.0029,True,Green,,False,False,8
+PP Chawla,MI,False,1.408,0.931,0.0029,True,Amber,Wrist spinner,False,True,3
+Ashutosh Sharma,MI,False,0.912,0.914,0.0028,True,Green,,False,True,8
+Suryansh Shedge,MI,False,0.899,0.899,0.0028,True,,,False,True,7
+YBK Jaiswal,MI,False,0.897,0.897,0.0027,True,Green,,False,True,8
+Rashid Khan,MI,False,1.311,0.853,0.0026,True,Amber,Wrist spinner,False,False,5
+M Tiwari,MI,False,0.844,0.844,0.0026,True,,,False,True,7
+Mukesh Choudhary,MI,False,0.791,0.787,0.0024,True,Green,,False,True,6
+DL Chahar,MI,True,0.855,0.851,0.0026,True,Green,,True,True,6
+JA Duffy,MI,False,0.749,0.745,0.0023,True,Green,,False,False,6
+R Sai Kishore,MI,False,0.697,0.7,0.0021,True,Green,,False,True,8
+KK Ahmed,MI,False,0.688,0.685,0.0021,True,Green,,False,True,7
+JD Unadkat,MI,False,0.677,0.674,0.0021,True,Green,,False,True,6
+AR Patel,MI,False,0.565,0.565,0.0017,True,Green,,False,True,9
+Arshdeep Singh,MI,False,0.542,0.54,0.0017,True,Green,,False,True,8
+PP Hinge,MI,False,0.54,0.538,0.0016,True,Green,,False,True,8
+WG Jacks,MI,True,0.627,0.626,0.0019,True,Green,,True,True,7
+RA Jadeja,MI,False,0.514,0.514,0.0016,True,Green,,False,True,8
+J Fraser-McGurk,MI,False,0.501,0.501,0.0015,True,Green,,False,False,8
+Yash Raj Punja,MI,False,0.49,0.493,0.0015,True,Green,,False,True,8
+SN Khan,MI,False,0.464,0.464,0.0014,True,,,False,True,8
+KR Sen,MI,False,0.428,0.428,0.0013,True,,,False,True,7
+D Padikkal,MI,False,0.426,0.426,0.0013,True,Green,,False,True,8
+Dhruv Jurel,MI,False,0.42,0.42,0.0013,True,Green,,False,True,9
+A Raghuvanshi,MI,False,0.419,0.419,0.0013,True,Green,,False,True,9
+MK Pandey,MI,False,0.419,0.419,0.0013,True,Green,,False,True,9
+SE Rutherford,MI,True,0.504,0.504,0.0015,True,Green,,True,True,7
+MK Lomror,MI,False,0.392,0.392,0.0012,True,,,False,True,7
+A Kamboj,MI,False,0.382,0.379,0.0012,True,Green,,False,True,8
+M Shahrukh Khan,MI,False,0.363,0.363,0.0011,True,Green,,False,True,8
+AS Roy,MI,False,0.342,0.345,0.0011,True,Green,,False,True,8
+KV Sharma,MI,False,0.654,0.327,0.001,True,Amber,Wrist spinner,False,True,4
+D Brevis,MI,False,0.29,0.29,0.0009,True,Green,,False,False,9
+MP Stoinis,MI,False,0.292,0.289,0.0009,True,Green,,False,False,8
+Mohammed Shami,MI,False,0.261,0.259,0.0008,True,Green,,False,True,7
+Rasikh Salam,MI,False,0.256,0.255,0.0008,True,Green,,False,True,8
+VG Arora,MI,False,0.22,0.217,0.0007,True,Green,,False,True,7
+M Siddharth,MI,False,0.209,0.211,0.0006,True,Green,,False,True,8
+RG Sharma,MI,True,0.3,0.299,0.0009,True,Green,,True,True,7
+YS Chahal,MI,False,0.489,0.194,0.0006,True,Amber,Wrist spinner,False,True,5
+Aniket Verma,MI,False,0.145,0.146,0.0004,True,Green,,False,True,8
+RK Singh,MI,False,0.139,0.14,0.0004,True,Green,,False,True,8
+PP Shaw,MI,False,0.138,0.138,0.0004,True,Green,,False,True,8
+Urvil Patel,MI,False,0.046,0.046,0.0001,True,Green,,False,True,8
+UT Yadav,MI,False,0.039,0.037,0.0001,True,Green,,False,True,7
+Yash Dayal,MI,False,0.032,0.03,0.0001,True,Green,,False,True,7
+S Dube,MI,False,0.027,0.028,0.0001,True,Green,,False,True,8
+S Arora,MI,False,0.027,0.027,0.0001,True,,,False,True,7
+Kartik Tyagi,MI,False,0.011,0.01,0.0,True,Green,,False,True,8
+Tilak Varma,MI,True,0.097,0.097,0.0003,True,Green,,True,True,7
+T Stubbs,MI,False,0.0,0.0,0.0,False,Green,,False,False,9
+Ravi Bishnoi,MI,False,0.185,0.0,0.0,True,Amber,Wrist spinner,False,True,5
+Sameer Rizvi,MI,False,0.0,0.0,0.0,False,Green,,False,True,8
+Naman Dhir,MI,True,0.0,0.0,0.0,False,Green,,True,True,8
+PHKD Mendis,MI,False,0.0,0.0,0.0,False,,,False,False,8
+DA Miller,MI,False,0.0,0.0,0.0,False,Green,,False,False,8
+SB Dubey,MI,False,0.0,0.0,0.0,False,Green,,False,True,8
+PWH de Silva,MI,False,0.066,0.0,0.0,True,Amber,Wrist spinner,False,False,5
+Naveen-ul-Haq,MI,False,0.0,0.0,0.0,False,Green,,False,False,8
+MS Dhoni,MI,False,0.0,0.0,0.0,False,Green,,False,True,9
+Azmatullah Omarzai,MI,False,0.0,0.0,0.0,False,Green,,False,False,8
+R Tewatia,MI,False,0.0,0.0,0.0,False,Green,,False,True,8
+GJ Maxwell,MI,False,0.0,0.0,0.0,False,Green,,False,False,8
+Arshad Khan,MI,False,0.0,0.0,0.0,False,Green,,False,True,8
+R Powell,MI,False,0.0,0.0,0.0,False,Green,,False,False,8
+A Badoni,MI,False,0.0,0.0,0.0,False,Green,,False,True,8
+P Nissanka,MI,False,0.0,0.0,0.0,False,Green,,False,False,8
+Abdul Samad,MI,False,0.0,0.0,0.0,False,Green,,False,True,8
+Raghu Sharma,MI,True,0.0,0.0,0.0,False,,,True,True,8
+RJ Gleeson,MI,False,0.0,0.0,0.0,False,,,False,True,8
+PR Veer,MI,False,0.0,0.0,0.0,False,,,False,True,8
+MA Starc,MI,False,0.0,0.0,0.0,False,Green,,False,False,8
+Washington Sundar,MI,False,0.0,0.0,0.0,False,Green,,False,True,8
+Sandeep Sharma,MI,False,0.0,0.0,0.0,False,Green,,False,True,8
+TA Boult,MI,True,0.0,0.0,0.0,False,Green,,True,True,8
+N Wadhera,MI,False,0.0,0.0,0.0,False,Green,,False,True,8
+V Nigam,MI,False,0.0,0.0,0.0,False,Amber,Wrist spinner,False,True,7
+JM Sharma,MI,False,0.0,0.0,0.0,False,Green,,False,True,7
+DJ Mitchell,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+Ramandeep Singh,MI,False,0.0,0.0,0.0,False,Green,,False,True,7
+Harsh Dubey,MI,False,0.0,0.0,0.0,False,Green,,False,True,7
+Kartik Sharma,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+MD Choudhary,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+MD Shanaka,MI,False,0.0,0.0,0.0,False,,,False,True,6
+Gurjapneet Singh,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+Himmat Singh,MI,False,0.0,0.0,0.0,False,,,False,True,6
+Suyash Sharma,MI,False,0.0,0.0,0.0,False,Amber,Wrist spinner,False,True,6
+MA Agarwal,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+Nithish Kumar Reddy,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+RR Pant,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+V Viyaskanth,MI,False,0.0,0.0,0.0,False,,,False,True,6
+Rahmanullah Gurbaz,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+N Rana,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+RD Chahar,MI,False,0.0,0.0,0.0,False,Amber,Wrist spinner,False,True,6
+KK Nair,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+Yudhvir Singh,MI,False,0.0,0.0,0.0,False,,,False,True,6
+Mohammad Nabi,MI,False,0.0,0.0,0.0,False,,,False,False,6
+Q de Kock,MI,True,0.0,0.0,0.0,False,Green,,True,True,6
+Anuj Rawat,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+V Shankar,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+SD Hope,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+C Green,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+SO Hetmyer,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+Brijesh Sharma,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+KA Jamieson,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+W O'Rourke,MI,False,0.0,0.0,0.0,False,,,False,True,6
+A Manohar,MI,False,0.0,0.0,0.0,False,,,False,True,6
+LS Livingstone,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+DS Rathi,MI,False,0.0,0.0,0.0,False,Amber,Wrist spinner,True,True,6
+M Theekshana,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+G Coetzee,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+HV Patel,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+I Sharma,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+Abishek Porel,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+F du Plessis,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+DJ Hooda,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+AK Markram,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+KT Maphaka,MI,False,0.0,0.0,0.0,False,,,False,False,6
+AM Rahane,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+PVD Chameera,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+SN Thakur,MI,True,0.0,0.0,0.0,False,Green,,True,True,6
+R Shepherd,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+JG Bethell,MI,False,0.0,0.0,0.0,False,,,False,False,6
+RD Gaikwad,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+Mayank Dagar,MI,False,0.0,0.0,0.0,False,,,False,True,6
+LH Ferguson,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+Shivang Kumar,MI,False,0.0,0.0,0.0,False,Green,,True,True,6
+Yash Thakur,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+R Ravindra,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+T Natarajan,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+RA Tripathi,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+Simarjeet Singh,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+Vijaykumar Vyshak,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+Mukesh Kumar,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+Zeeshan Ansari,MI,False,0.0,0.0,0.0,False,Amber,Wrist spinner,True,True,6
+Shahbaz Ahmed,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+DA Warner,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+Avesh Khan,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+SH Johnson,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+A Nortje,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+M Markande,MI,True,0.0,0.0,0.0,False,Amber,Wrist spinner,True,True,6
+Akash Madhwal,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+RJW Topley,MI,False,0.0,0.0,0.0,False,,,False,False,6
+M Jansen,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+TU Deshpande,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+DP Conway,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+HH Pandya,MI,True,0.0,0.0,0.0,False,Green,,True,True,6
+MW Short,MI,False,0.0,0.0,0.0,False,,,False,False,6
+Ashok Sharma,MI,False,0.0,0.0,0.0,False,Green,,True,True,6
+MP Yadav,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+SK Rasheed,MI,False,0.0,0.0,0.0,False,,,True,True,6
+XC Bartlett,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+MJ Henry,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+SM Curran,MI,False,0.0,0.0,0.0,False,Green,,False,False,6
+Akash Deep,MI,False,0.0,0.0,0.0,False,Green,,False,True,6
+Auqib Nabi,MI,False,0.0,0.0,0.0,False,,,False,True,6
+Fazalhaq Farooqi,MI,False,0.0,0.0,0.0,False,,,False,False,6
+V Suryavanshi,PBKS,False,10.025,10.025,0.0307,True,Green,,False,True,4
+SP Narine,PBKS,False,11.549,7.015,0.0215,True,Red,All-rounder,False,False,3
+B Kumar,PBKS,False,8.267,6.861,0.021,True,Amber,Death pacer,False,True,5
+JP Inglis,PBKS,False,5.761,5.761,0.0177,True,Green,,False,False,8
+JJ Bumrah,PBKS,False,6.67,5.518,0.0169,True,Amber,Death pacer,False,True,5
+JO Holder,PBKS,False,6.621,5.393,0.0165,True,Amber,Powerplay pacer,False,False,1
+V Kohli,PBKS,False,5.236,5.236,0.016,True,Green,,False,True,4
+Abhishek Sharma,PBKS,False,5.246,5.05,0.0155,True,Green,,False,True,5
+B Sai Sudharsan,PBKS,False,4.908,4.908,0.015,True,Green,,False,True,4
+Mohsin Khan,PBKS,False,5.542,4.498,0.0138,True,Amber,Powerplay pacer,False,True,1
+H Klaasen,PBKS,False,4.496,4.496,0.0138,True,Green,,False,False,8
+Shubman Gill,PBKS,False,4.418,4.418,0.0135,True,Green,,False,True,4
+AJ Hosein,PBKS,False,4.533,4.361,0.0134,True,Green,,False,False,4
+JR Hazlewood,PBKS,False,5.078,4.114,0.0126,True,Amber,Powerplay pacer,False,False,1
+SR Dubey,PBKS,False,4.097,4.097,0.0126,True,,,False,True,3
+JC Archer,PBKS,False,5.002,4.051,0.0124,True,Amber,Powerplay pacer,False,False,1
+MR Marsh,PBKS,False,3.964,3.964,0.0121,True,Green,,False,False,4
+KL Rahul,PBKS,False,3.951,3.951,0.0121,True,Green,,False,True,7
+RM Patidar,PBKS,False,3.883,3.883,0.0119,True,Green,,False,True,5
+L Ngidi,PBKS,False,4.629,3.803,0.0117,True,Amber,Death pacer,False,False,5
+SS Iyer,PBKS,True,4.293,4.293,0.0132,True,Green,,True,True,3
+CV Varun,PBKS,False,3.828,3.68,0.0113,True,Green,,False,True,3
+Mustafizur Rahman,PBKS,False,4.479,3.677,0.0113,True,Amber,Death pacer,False,False,5
+FH Allen,PBKS,False,3.413,3.413,0.0105,True,Green,,False,False,6
+C Connolly,PBKS,True,3.892,3.892,0.0119,True,Green,,True,True,2
+Noor Ahmad,PBKS,False,3.471,3.336,0.0102,True,Green,,False,False,3
+RD Rickelton,PBKS,False,3.227,3.227,0.0099,True,Green,,True,False,6
+Mohammed Siraj,PBKS,False,3.945,3.176,0.0097,True,Amber,Powerplay pacer,False,True,1
+N Thushara,PBKS,False,3.862,3.158,0.0097,True,Amber,Death pacer,False,False,5
+P Simran Singh,PBKS,True,3.699,3.699,0.0113,True,Green,,True,True,3
+Ishan Kishan,PBKS,False,3.026,3.026,0.0093,True,Green,,False,True,8
+Swapnil Singh,PBKS,False,2.949,2.949,0.009,True,,,True,True,3
+E Malinga,PBKS,False,3.467,2.827,0.0087,True,Amber,Death pacer,True,False,5
+Harpreet Brar,PBKS,True,3.445,3.329,0.0102,True,Green,,True,True,2
+PD Salt,PBKS,False,2.765,2.765,0.0085,True,Green,,False,False,6
+JM Bairstow,PBKS,False,2.733,2.733,0.0084,True,Green,,False,False,6
+C Bosch,PBKS,False,4.57,2.653,0.0081,True,Red,All-rounder,True,False,3
+AM Ghazanfar,PBKS,False,2.576,2.471,0.0076,True,Green,,False,False,4
+K Rabada,PBKS,False,3.066,2.447,0.0075,True,Amber,Powerplay pacer,False,False,1
+S Sandeep Warrier,PBKS,False,2.425,2.425,0.0074,True,,,True,True,3
+JC Buttler,PBKS,False,2.395,2.395,0.0073,True,Green,,False,False,8
+Priyansh Arya,PBKS,True,2.907,2.907,0.0089,True,Green,,True,True,2
+SA Yadav,PBKS,False,2.347,2.347,0.0072,True,Green,,False,True,5
+TM Head,PBKS,False,2.32,2.32,0.0071,True,Green,,False,False,4
+Prince Yadav,PBKS,False,2.746,2.221,0.0068,True,Amber,Death pacer,True,True,5
+A Mhatre,PBKS,False,2.217,2.217,0.0068,True,Green,,True,True,5
+KH Pandya,PBKS,False,3.854,2.205,0.0068,True,Red,All-rounder,False,True,3
+V Puthur,PBKS,False,2.203,2.203,0.0068,True,,,True,True,3
+Akash Singh,PBKS,False,2.2,2.2,0.0067,True,,,True,True,3
+M Prasidh Krishna,PBKS,False,2.662,2.113,0.0065,True,Amber,Powerplay pacer,False,True,1
+RR Rossouw,PBKS,False,2.099,2.099,0.0064,True,,,False,False,3
+Sakib Hussain,PBKS,False,2.553,2.058,0.0063,True,Amber,Death pacer,True,True,5
+TH David,PBKS,False,2.625,2.028,0.0062,True,Amber,Finisher,False,False,2
+N Pooran,PBKS,False,2.025,2.025,0.0062,True,Green,,False,False,8
+R Parag,PBKS,False,1.965,1.88,0.0058,True,Green,,False,True,6
+VR Iyer,PBKS,False,1.813,1.813,0.0056,True,Green,,False,True,5
+M Pathirana,PBKS,False,2.239,1.795,0.0055,True,Amber,Death pacer,False,False,5
+MJ Santner,PBKS,False,1.875,1.794,0.0055,True,Green,,True,False,4
+MM Ali,PBKS,False,1.795,1.716,0.0053,True,Green,,False,False,4
+PJ Cummins,PBKS,False,2.182,1.669,0.0051,True,Amber,Finisher,False,False,2
+SV Samson,PBKS,False,1.618,1.618,0.005,True,Green,,False,True,6
+Ashwani Kumar,PBKS,False,1.997,1.561,0.0048,True,Amber,Powerplay pacer,True,True,1
+Harshit Rana,PBKS,False,1.943,1.517,0.0046,True,Amber,Powerplay pacer,True,True,1
+Shashank Singh,PBKS,True,2.508,2.036,0.0062,True,Amber,Finisher,True,True,1
+D Ferreira,PBKS,False,1.942,1.474,0.0045,True,Amber,Finisher,True,False,2
+N Burger,PBKS,False,1.882,1.466,0.0045,True,Amber,Powerplay pacer,False,False,1
+Kuldeep Yadav,PBKS,False,1.528,1.458,0.0045,True,Green,,False,True,2
+J Overton,PBKS,False,2.588,1.414,0.0043,True,Red,All-rounder,True,False,3
+PP Chawla,PBKS,False,1.456,1.388,0.0043,True,Green,,True,True,2
+Ashutosh Sharma,PBKS,False,1.816,1.372,0.0042,True,Amber,Finisher,True,True,2
+Suryansh Shedge,PBKS,True,1.899,1.899,0.0058,True,,,True,True,1
+YBK Jaiswal,PBKS,False,1.354,1.354,0.0042,True,Green,,False,True,3
+Rashid Khan,PBKS,False,1.741,1.311,0.004,True,Amber,Finisher,False,False,2
+M Tiwari,PBKS,False,1.301,1.301,0.004,True,,,True,True,4
+Mukesh Choudhary,PBKS,False,1.614,1.244,0.0038,True,Amber,Powerplay pacer,True,True,1
+DL Chahar,PBKS,False,1.575,1.212,0.0037,True,Amber,Powerplay pacer,False,True,1
+JA Duffy,PBKS,False,1.564,1.202,0.0037,True,Amber,Powerplay pacer,True,False,1
+R Sai Kishore,PBKS,False,1.217,1.158,0.0035,True,Green,,True,True,4
+KK Ahmed,PBKS,False,1.491,1.142,0.0035,True,Amber,Powerplay pacer,False,True,1
+JD Unadkat,PBKS,False,1.478,1.132,0.0035,True,Amber,Powerplay pacer,True,True,1
+AR Patel,PBKS,False,1.962,1.023,0.0031,True,Red,All-rounder,False,True,3
+Arshdeep Singh,PBKS,True,1.833,1.54,0.0047,True,Amber,Death pacer,True,True,1
+PP Hinge,PBKS,False,1.288,0.996,0.0031,True,Amber,Death pacer,True,True,5
+WG Jacks,PBKS,False,1.041,0.987,0.003,True,Green,,False,False,4
+RA Jadeja,PBKS,False,1.881,0.972,0.003,True,Red,All-rounder,False,True,3
+J Fraser-McGurk,PBKS,False,0.958,0.958,0.0029,True,Green,,False,False,3
+Yash Raj Punja,PBKS,False,1.003,0.951,0.0029,True,Green,,True,True,3
+SN Khan,PBKS,False,0.922,0.922,0.0028,True,,,True,True,3
+KR Sen,PBKS,False,0.885,0.885,0.0027,True,,,True,True,3
+D Padikkal,PBKS,False,0.884,0.884,0.0027,True,Green,,True,True,4
+Dhruv Jurel,PBKS,False,0.877,0.877,0.0027,True,Green,,False,True,6
+A Raghuvanshi,PBKS,False,0.877,0.877,0.0027,True,Green,,True,True,5
+MK Pandey,PBKS,False,0.877,0.877,0.0027,True,Green,,True,True,4
+SE Rutherford,PBKS,False,1.192,0.865,0.0027,True,Amber,Finisher,True,False,2
+MK Lomror,PBKS,False,0.85,0.85,0.0026,True,,,True,True,3
+A Kamboj,PBKS,False,1.122,0.836,0.0026,True,Amber,Powerplay pacer,True,True,1
+M Shahrukh Khan,PBKS,False,0.821,0.821,0.0025,True,Green,,True,True,4
+AS Roy,PBKS,False,0.849,0.802,0.0025,True,Green,,True,True,3
+KV Sharma,PBKS,False,0.831,0.784,0.0024,True,Green,,True,True,2
+D Brevis,PBKS,False,0.748,0.748,0.0023,True,Green,,True,False,4
+MP Stoinis,PBKS,True,1.556,1.289,0.004,True,Amber,Powerplay pacer,True,True,1
+Mohammed Shami,PBKS,False,0.977,0.716,0.0022,True,Amber,Powerplay pacer,False,True,1
+Rasikh Salam,PBKS,False,0.95,0.712,0.0022,True,Amber,Death pacer,True,True,3
+VG Arora,PBKS,False,0.927,0.675,0.0021,True,Amber,Powerplay pacer,True,True,1
+M Siddharth,PBKS,False,0.711,0.668,0.002,True,Green,,True,True,3
+RG Sharma,PBKS,False,0.66,0.66,0.002,True,Green,,False,True,3
+YS Chahal,PBKS,True,1.236,1.194,0.0037,True,Green,,True,True,1
+Aniket Verma,PBKS,False,0.869,0.603,0.0018,True,Amber,Finisher,True,True,2
+RK Singh,PBKS,False,0.862,0.598,0.0018,True,Amber,Finisher,False,True,2
+PP Shaw,PBKS,False,0.595,0.595,0.0018,True,Green,,True,True,4
+Urvil Patel,PBKS,False,0.504,0.504,0.0015,True,Green,,True,True,3
+UT Yadav,PBKS,False,0.71,0.495,0.0015,True,Amber,Powerplay pacer,True,True,1
+Yash Dayal,PBKS,False,0.701,0.488,0.0015,True,Amber,Powerplay pacer,True,True,1
+S Dube,PBKS,False,0.724,0.485,0.0015,True,Amber,Finisher,False,True,2
+S Arora,PBKS,False,0.484,0.484,0.0015,True,,,True,True,3
+Kartik Tyagi,PBKS,False,0.66,0.468,0.0014,True,Amber,Death pacer,True,True,3
+Tilak Varma,PBKS,False,0.457,0.457,0.0014,True,Green,,False,True,4
+T Stubbs,PBKS,False,0.671,0.443,0.0014,True,Amber,Finisher,False,False,2
+Ravi Bishnoi,PBKS,False,0.441,0.408,0.0013,True,Green,,False,True,2
+Sameer Rizvi,PBKS,False,0.376,0.376,0.0012,True,Green,,True,True,4
+Naman Dhir,PBKS,False,0.571,0.361,0.0011,True,Amber,Finisher,True,True,2
+PHKD Mendis,PBKS,False,0.33,0.33,0.001,True,,,True,False,3
+DA Miller,PBKS,False,0.527,0.325,0.001,True,Amber,Finisher,True,False,2
+SB Dubey,PBKS,False,0.525,0.324,0.001,True,Amber,Finisher,True,True,2
+PWH de Silva,PBKS,False,0.342,0.313,0.001,True,Green,,True,False,3
+Naveen-ul-Haq,PBKS,False,0.468,0.307,0.0009,True,Amber,Death pacer,True,False,3
+MS Dhoni,PBKS,False,0.488,0.294,0.0009,True,Amber,Finisher,True,True,2
+Azmatullah Omarzai,PBKS,True,1.004,0.832,0.0025,True,Amber,Powerplay pacer,True,True,1
+R Tewatia,PBKS,False,0.48,0.288,0.0009,True,Amber,Finisher,True,True,2
+GJ Maxwell,PBKS,False,0.3,0.271,0.0008,True,Green,,True,False,3
+Arshad Khan,PBKS,False,0.438,0.27,0.0008,True,Amber,Powerplay pacer,True,True,1
+R Powell,PBKS,False,0.422,0.24,0.0007,True,Amber,Finisher,True,False,2
+A Badoni,PBKS,False,0.217,0.217,0.0007,True,Green,,True,True,4
+P Nissanka,PBKS,False,0.191,0.191,0.0006,True,Green,,True,False,4
+Abdul Samad,PBKS,False,0.332,0.168,0.0005,True,Amber,Finisher,True,True,2
+Raghu Sharma,PBKS,False,0.152,0.152,0.0005,True,,,True,True,3
+RJ Gleeson,PBKS,False,0.15,0.15,0.0005,True,,,True,True,3
+PR Veer,PBKS,False,0.061,0.061,0.0002,True,,,True,True,3
+MA Starc,PBKS,False,0.155,0.035,0.0001,True,Amber,Powerplay pacer,False,False,2
+Washington Sundar,PBKS,False,0.048,0.028,0.0001,True,Green,,True,True,4
+Sandeep Sharma,PBKS,False,0.116,0.011,0.0,True,Amber,Death pacer,True,True,2
+TA Boult,PBKS,False,0.124,0.01,0.0,True,Amber,Powerplay pacer,False,False,1
+N Wadhera,PBKS,True,0.543,0.543,0.0017,True,Green,,True,True,1
+V Nigam,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,8
+JM Sharma,PBKS,False,0.102,0.0,0.0,True,Amber,Finisher,False,True,2
+DJ Mitchell,PBKS,False,0.0,0.0,0.0,False,Green,,False,False,7
+Ramandeep Singh,PBKS,False,0.06,0.0,0.0,True,Amber,Finisher,True,True,2
+Harsh Dubey,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,8
+Kartik Sharma,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+MD Choudhary,PBKS,False,0.0,0.0,0.0,False,Amber,Finisher,True,True,7
+MD Shanaka,PBKS,False,0.0,0.0,0.0,False,,,True,True,7
+Gurjapneet Singh,PBKS,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,7
+Himmat Singh,PBKS,False,0.0,0.0,0.0,False,,,True,True,7
+Suyash Sharma,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+MA Agarwal,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+Nithish Kumar Reddy,PBKS,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,7
+RR Pant,PBKS,False,0.0,0.0,0.0,False,Green,,False,True,7
+V Viyaskanth,PBKS,False,0.0,0.0,0.0,False,,,True,True,7
+Rahmanullah Gurbaz,PBKS,False,0.0,0.0,0.0,False,Green,,True,False,7
+N Rana,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+RD Chahar,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+KK Nair,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+Yudhvir Singh,PBKS,False,0.0,0.0,0.0,False,,,True,True,7
+Mohammad Nabi,PBKS,False,0.0,0.0,0.0,False,,,True,False,7
+Q de Kock,PBKS,False,0.0,0.0,0.0,False,Green,,True,False,7
+Anuj Rawat,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+V Shankar,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+SD Hope,PBKS,False,0.0,0.0,0.0,False,Green,,True,False,7
+C Green,PBKS,False,0.0,0.0,0.0,False,Red,All-rounder,False,False,7
+SO Hetmyer,PBKS,False,0.0,0.0,0.0,False,Amber,Finisher,False,False,7
+Brijesh Sharma,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,7
+KA Jamieson,PBKS,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,False,7
+W O'Rourke,PBKS,False,0.0,0.0,0.0,False,,,True,True,7
+A Manohar,PBKS,False,0.0,0.0,0.0,False,,,True,True,7
+LS Livingstone,PBKS,False,0.0,0.0,0.0,False,Amber,Finisher,False,False,7
+DS Rathi,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+M Theekshana,PBKS,False,0.0,0.0,0.0,False,Green,,True,False,7
+G Coetzee,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,False,7
+HV Patel,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,7
+I Sharma,PBKS,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,7
+Abishek Porel,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+F du Plessis,PBKS,False,0.0,0.0,0.0,False,Green,,True,False,7
+DJ Hooda,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+AK Markram,PBKS,False,0.0,0.0,0.0,False,Green,,True,False,7
+KT Maphaka,PBKS,False,0.0,0.0,0.0,False,,,True,False,7
+AM Rahane,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+PVD Chameera,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,False,7
+SN Thakur,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,7
+R Shepherd,PBKS,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,False,7
+JG Bethell,PBKS,False,0.0,0.0,0.0,False,,,True,False,7
+RD Gaikwad,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+Mayank Dagar,PBKS,False,0.0,0.0,0.0,False,,,True,True,7
+LH Ferguson,PBKS,True,0.0,0.0,0.0,False,Amber,Death pacer,True,True,7
+Shivang Kumar,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+Yash Thakur,PBKS,True,0.0,0.0,0.0,False,Amber,Death pacer,True,True,7
+R Ravindra,PBKS,False,0.0,0.0,0.0,False,Green,,True,False,7
+T Natarajan,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,7
+RA Tripathi,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+Simarjeet Singh,PBKS,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,7
+Vijaykumar Vyshak,PBKS,True,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,7
+Mukesh Kumar,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,7
+Zeeshan Ansari,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+Shahbaz Ahmed,PBKS,False,0.0,0.0,0.0,False,Amber,Finisher,True,True,7
+DA Warner,PBKS,False,0.0,0.0,0.0,False,Green,,True,False,7
+Avesh Khan,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,7
+SH Johnson,PBKS,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,False,7
+A Nortje,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,False,7
+M Markande,PBKS,False,0.0,0.0,0.0,False,Green,,True,True,7
+Akash Madhwal,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,7
+RJW Topley,PBKS,False,0.0,0.0,0.0,False,,,True,False,7
+M Jansen,PBKS,True,0.0,0.0,0.0,False,Amber,Finisher,True,True,7
+TU Deshpande,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,7
+DP Conway,PBKS,False,0.0,0.0,0.0,False,Green,,True,False,7
+HH Pandya,PBKS,False,0.0,0.0,0.0,False,Red,All-rounder,True,True,7
+MW Short,PBKS,False,0.0,0.0,0.0,False,,,True,False,7
+Ashok Sharma,PBKS,False,0.0,0.0,0.0,False,Amber,Death pacer,True,True,7
+MP Yadav,PBKS,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,7
+SK Rasheed,PBKS,False,0.0,0.0,0.0,False,,,True,True,7
+XC Bartlett,PBKS,True,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,7
+MJ Henry,PBKS,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,False,7
+SM Curran,PBKS,False,0.0,0.0,0.0,False,Red,All-rounder,True,False,7
+Akash Deep,PBKS,False,0.0,0.0,0.0,False,Amber,Powerplay pacer,True,True,7
+Auqib Nabi,PBKS,False,0.0,0.0,0.0,False,,,True,True,7
+Fazalhaq Farooqi,PBKS,False,0.0,0.0,0.0,False,,,True,False,7
+V Suryavanshi,RR,True,9.684,9.701,0.0297,True,Green,,True,True,7
+SP Narine,RR,False,6.725,6.607,0.0202,True,Green,,False,False,8
+B Kumar,RR,False,6.45,6.453,0.0198,True,Green,,False,True,7
+JP Inglis,RR,False,6.912,5.353,0.0164,True,Amber,Wicketkeeper,False,False,3
+JJ Bumrah,RR,False,5.105,5.11,0.0157,True,Green,,False,True,8
+JO Holder,RR,False,4.861,4.985,0.0153,True,Green,,False,False,7
+V Kohli,RR,False,4.811,4.828,0.0148,True,Green,,False,True,7
+Abhishek Sharma,RR,False,4.725,4.642,0.0142,True,Green,,False,True,8
+B Sai Sudharsan,RR,False,4.483,4.5,0.0138,True,Green,,False,True,7
+Mohsin Khan,RR,False,3.983,4.091,0.0125,True,Green,,True,True,7
+H Klaasen,RR,False,5.331,4.088,0.0125,True,Amber,Wicketkeeper,False,False,4
+Shubman Gill,RR,False,3.993,4.01,0.0123,True,Green,,False,True,7
+AJ Hosein,RR,False,4.024,3.953,0.0121,True,Green,,True,False,7
+JR Hazlewood,RR,False,3.605,3.706,0.0114,True,Green,,False,False,7
+SR Dubey,RR,False,3.672,3.689,0.0113,True,,,True,True,6
+JC Archer,RR,True,3.627,3.727,0.0114,True,Green,,True,True,6
+MR Marsh,RR,False,3.539,3.556,0.0109,True,Green,,True,False,7
+KL Rahul,RR,False,4.65,3.543,0.0109,True,Amber,Wicketkeeper,False,True,3
+RM Patidar,RR,False,3.458,3.475,0.0106,True,Green,,False,True,7
+L Ngidi,RR,False,3.386,3.395,0.0104,True,Green,,True,False,7
+SS Iyer,RR,False,3.325,3.342,0.0102,True,Green,,False,True,7
+CV Varun,RR,False,3.331,3.273,0.01,True,Green,,False,True,8
+Mustafizur Rahman,RR,False,3.26,3.269,0.01,True,Green,,False,False,7
+FH Allen,RR,False,3.977,3.005,0.0092,True,Amber,Wicketkeeper,True,False,3
+C Connolly,RR,False,2.924,2.941,0.009,True,Green,,True,False,7
+Noor Ahmad,RR,False,2.98,2.928,0.009,True,Green,,False,False,8
+RD Rickelton,RR,False,3.744,2.819,0.0086,True,Amber,Wicketkeeper,True,False,3
+Mohammed Siraj,RR,False,2.684,2.768,0.0085,True,Green,,False,True,7
+N Thushara,RR,False,2.741,2.75,0.0084,True,Green,,True,False,7
+P Simran Singh,RR,False,3.656,2.749,0.0084,True,Amber,Wicketkeeper,True,True,4
+Ishan Kishan,RR,False,3.492,2.618,0.008,True,Amber,Wicketkeeper,False,True,3
+Swapnil Singh,RR,False,2.524,2.541,0.0078,True,,,True,True,6
+E Malinga,RR,False,2.409,2.419,0.0074,True,Green,,True,False,7
+Harpreet Brar,RR,False,2.421,2.378,0.0073,True,Green,,True,True,7
+PD Salt,RR,False,3.167,2.357,0.0072,True,Amber,Wicketkeeper,False,False,3
+JM Bairstow,RR,False,3.127,2.325,0.0071,True,Amber,Wicketkeeper,True,False,3
+C Bosch,RR,False,2.234,2.245,0.0069,True,Green,,True,False,8
+AM Ghazanfar,RR,False,2.1,2.063,0.0063,True,Green,,True,False,8
+K Rabada,RR,False,1.968,2.039,0.0062,True,Green,,True,False,7
+S Sandeep Warrier,RR,False,2.0,2.017,0.0062,True,,,True,True,6
+JC Buttler,RR,False,2.704,1.987,0.0061,True,Amber,Wicketkeeper,False,False,3
+Priyansh Arya,RR,False,1.94,1.957,0.006,True,Green,,True,True,7
+SA Yadav,RR,False,1.921,1.939,0.0059,True,Green,,False,True,8
+TM Head,RR,False,1.895,1.912,0.0059,True,Green,,False,False,7
+Prince Yadav,RR,False,1.801,1.813,0.0056,True,Green,,True,True,7
+A Mhatre,RR,False,1.791,1.809,0.0055,True,Green,,True,True,7
+KH Pandya,RR,False,1.835,1.797,0.0055,True,Green,,True,True,7
+V Puthur,RR,True,1.862,1.879,0.0058,True,,,True,True,6
+Akash Singh,RR,False,1.775,1.792,0.0055,True,,,True,True,6
+M Prasidh Krishna,RR,False,1.64,1.705,0.0052,True,Green,,True,True,7
+RR Rossouw,RR,False,1.674,1.691,0.0052,True,,,True,False,6
+Sakib Hussain,RR,False,1.638,1.65,0.0051,True,Green,,True,True,7
+TH David,RR,False,1.654,1.62,0.005,True,Green,,True,False,7
+N Pooran,RR,False,2.242,1.617,0.005,True,Amber,Wicketkeeper,False,False,3
+R Parag,RR,True,1.583,1.556,0.0048,True,Green,,True,True,7
+VR Iyer,RR,False,1.388,1.405,0.0043,True,Green,,True,True,7
+M Pathirana,RR,False,1.374,1.387,0.0042,True,Green,,False,False,7
+MJ Santner,RR,False,1.41,1.386,0.0042,True,Green,,True,False,8
+MM Ali,RR,False,1.332,1.308,0.004,True,Green,,True,False,7
+PJ Cummins,RR,False,1.288,1.261,0.0039,True,Green,,False,False,7
+SV Samson,RR,False,1.733,1.21,0.0037,True,Amber,Wicketkeeper,True,True,3
+Ashwani Kumar,RR,False,1.098,1.153,0.0035,True,Green,,True,True,7
+Harshit Rana,RR,False,1.055,1.109,0.0034,True,Green,,True,True,7
+Shashank Singh,RR,False,1.109,1.085,0.0033,True,Green,,True,True,7
+D Ferreira,RR,True,1.637,1.15,0.0035,True,Amber,Wicketkeeper,True,True,4
+N Burger,RR,True,1.088,1.142,0.0035,True,Green,,True,True,6
+Kuldeep Yadav,RR,False,1.069,1.05,0.0032,True,Green,,True,True,8
+J Overton,RR,False,0.993,1.006,0.0031,True,Green,,True,False,7
+PP Chawla,RR,False,0.998,0.98,0.003,True,Green,,True,True,8
+Ashutosh Sharma,RR,False,0.985,0.964,0.003,True,Green,,True,True,7
+Suryansh Shedge,RR,False,0.931,0.948,0.0029,True,,,True,True,6
+YBK Jaiswal,RR,True,1.013,1.03,0.0032,True,Green,,True,True,7
+Rashid Khan,RR,False,0.923,0.903,0.0028,True,Green,,True,False,8
+M Tiwari,RR,False,0.876,0.893,0.0027,True,,,True,True,6
+Mukesh Choudhary,RR,False,0.787,0.836,0.0026,True,Green,,True,True,8
+DL Chahar,RR,False,0.755,0.804,0.0025,True,Green,,True,True,7
+JA Duffy,RR,False,0.746,0.794,0.0024,True,Green,,True,False,7
+R Sai Kishore,RR,False,0.763,0.75,0.0023,True,Green,,True,True,7
+KK Ahmed,RR,False,0.687,0.735,0.0023,True,Green,,True,True,8
+JD Unadkat,RR,False,0.676,0.724,0.0022,True,Green,,True,True,7
+AR Patel,RR,False,0.626,0.615,0.0019,True,Green,,True,True,8
+Arshdeep Singh,RR,False,0.575,0.589,0.0018,True,Green,,True,True,7
+PP Hinge,RR,False,0.574,0.588,0.0018,True,Green,,True,True,7
+WG Jacks,RR,False,0.59,0.579,0.0018,True,Green,,True,False,8
+RA Jadeja,RR,True,0.661,0.648,0.002,True,Green,,True,True,7
+J Fraser-McGurk,RR,False,0.533,0.55,0.0017,True,Green,,True,False,7
+Yash Raj Punja,RR,True,0.636,0.627,0.0019,True,Green,,True,True,6
+SN Khan,RR,False,0.497,0.514,0.0016,True,,,True,True,6
+KR Sen,RR,True,0.544,0.562,0.0017,True,,,True,True,6
+D Padikkal,RR,False,0.458,0.476,0.0015,True,Green,,True,True,7
+Dhruv Jurel,RR,True,0.891,0.553,0.0017,True,Amber,Wicketkeeper,True,True,3
+A Raghuvanshi,RR,False,0.806,0.469,0.0014,True,Amber,Wicketkeeper,True,True,6
+MK Pandey,RR,False,0.451,0.469,0.0014,True,Green,,True,True,7
+SE Rutherford,RR,False,0.468,0.457,0.0014,True,Green,,True,False,8
+MK Lomror,RR,False,0.425,0.442,0.0014,True,,,True,True,6
+A Kamboj,RR,False,0.386,0.428,0.0013,True,Green,,True,True,6
+M Shahrukh Khan,RR,False,0.396,0.413,0.0013,True,Green,,True,True,7
+AS Roy,RR,False,0.401,0.394,0.0012,True,Green,,True,True,7
+KV Sharma,RR,False,0.383,0.376,0.0012,True,Green,,True,True,8
+D Brevis,RR,False,0.323,0.34,0.001,True,Green,,True,False,7
+MP Stoinis,RR,False,0.321,0.338,0.001,True,Green,,True,False,7
+Mohammed Shami,RR,False,0.269,0.308,0.0009,True,Green,,True,True,6
+Rasikh Salam,RR,False,0.289,0.304,0.0009,True,Green,,True,True,7
+VG Arora,RR,False,0.228,0.267,0.0008,True,Green,,True,True,6
+M Siddharth,RR,False,0.265,0.26,0.0008,True,Green,,True,True,7
+RG Sharma,RR,False,0.235,0.252,0.0008,True,Green,,True,True,8
+YS Chahal,RR,False,0.248,0.244,0.0007,True,Green,,True,True,8
+Aniket Verma,RR,False,0.201,0.195,0.0006,True,Green,,True,True,7
+RK Singh,RR,False,0.195,0.19,0.0006,True,Green,,True,True,7
+PP Shaw,RR,False,0.17,0.187,0.0006,True,Green,,True,True,7
+Urvil Patel,RR,False,0.34,0.096,0.0003,True,Amber,Wicketkeeper,True,True,6
+UT Yadav,RR,False,0.051,0.087,0.0003,True,Green,,True,True,6
+Yash Dayal,RR,False,0.044,0.08,0.0002,True,Green,,True,True,6
+S Dube,RR,False,0.081,0.077,0.0002,True,Green,,True,True,7
+S Arora,RR,False,0.059,0.076,0.0002,True,,,True,True,6
+Kartik Tyagi,RR,False,0.045,0.06,0.0002,True,Green,,True,True,7
+Tilak Varma,RR,False,0.032,0.049,0.0002,True,Green,,True,True,8
+T Stubbs,RR,False,0.264,0.035,0.0001,True,Amber,Wicketkeeper,True,False,6
+Ravi Bishnoi,RR,True,0.084,0.084,0.0003,True,Green,,True,True,7
+Sameer Rizvi,RR,False,0.0,0.0,0.0,False,Green,,True,True,9
+Naman Dhir,RR,False,0.0,0.0,0.0,False,Green,,True,True,9
+PHKD Mendis,RR,False,0.0,0.0,0.0,False,,,True,False,9
+DA Miller,RR,False,0.0,0.0,0.0,False,Green,,True,False,9
+SB Dubey,RR,True,0.0,0.0,0.0,False,Green,,True,True,9
+PWH de Silva,RR,False,0.0,0.0,0.0,False,Green,,True,False,9
+Naveen-ul-Haq,RR,False,0.0,0.0,0.0,False,Green,,True,False,9
+MS Dhoni,RR,False,0.078,0.0,0.0,True,Amber,Wicketkeeper,True,True,6
+Azmatullah Omarzai,RR,False,0.0,0.0,0.0,False,Green,,True,False,9
+R Tewatia,RR,False,0.0,0.0,0.0,False,Green,,True,True,9
+GJ Maxwell,RR,False,0.0,0.0,0.0,False,Green,,True,False,9
+Arshad Khan,RR,False,0.0,0.0,0.0,False,Green,,True,True,9
+R Powell,RR,False,0.0,0.0,0.0,False,Green,,True,False,9
+A Badoni,RR,False,0.0,0.0,0.0,False,Green,,True,True,9
+P Nissanka,RR,False,0.0,0.0,0.0,False,Green,,True,False,9
+Abdul Samad,RR,False,0.0,0.0,0.0,False,Green,,True,True,9
+Raghu Sharma,RR,False,0.0,0.0,0.0,False,,,True,True,9
+RJ Gleeson,RR,False,0.0,0.0,0.0,False,,,True,True,9
+PR Veer,RR,False,0.0,0.0,0.0,False,,,True,True,9
+MA Starc,RR,False,0.0,0.0,0.0,False,Green,,True,False,9
+Washington Sundar,RR,False,0.0,0.0,0.0,False,Green,,True,True,9
+Sandeep Sharma,RR,True,0.0,0.0,0.0,False,Green,,True,True,9
+TA Boult,RR,False,0.0,0.0,0.0,False,Green,,True,False,9
+N Wadhera,RR,False,0.0,0.0,0.0,False,Green,,True,True,9
+V Nigam,RR,False,0.0,0.0,0.0,False,Green,,True,True,9
+JM Sharma,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,8
+DJ Mitchell,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+Ramandeep Singh,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Harsh Dubey,RR,False,0.0,0.0,0.0,False,Green,,True,True,9
+Kartik Sharma,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,8
+MD Choudhary,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,8
+MD Shanaka,RR,False,0.0,0.0,0.0,False,,,True,True,8
+Gurjapneet Singh,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Himmat Singh,RR,False,0.0,0.0,0.0,False,,,True,True,8
+Suyash Sharma,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+MA Agarwal,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Nithish Kumar Reddy,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,8
+RR Pant,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,8
+V Viyaskanth,RR,False,0.0,0.0,0.0,False,,,True,True,8
+Rahmanullah Gurbaz,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,False,8
+N Rana,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+RD Chahar,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+KK Nair,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Yudhvir Singh,RR,True,0.0,0.0,0.0,False,,,True,True,8
+Mohammad Nabi,RR,False,0.0,0.0,0.0,False,,,True,False,8
+Q de Kock,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,False,8
+Anuj Rawat,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,8
+V Shankar,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+SD Hope,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,False,8
+C Green,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+SO Hetmyer,RR,True,0.0,0.0,0.0,False,Green,,True,True,8
+Brijesh Sharma,RR,True,0.0,0.0,0.0,False,Green,,True,True,8
+KA Jamieson,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+W O'Rourke,RR,False,0.0,0.0,0.0,False,,,True,True,8
+A Manohar,RR,False,0.0,0.0,0.0,False,,,True,True,8
+LS Livingstone,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+DS Rathi,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+M Theekshana,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+G Coetzee,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+HV Patel,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+I Sharma,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Abishek Porel,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,8
+F du Plessis,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+DJ Hooda,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+AK Markram,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+KT Maphaka,RR,True,0.0,0.0,0.0,False,,,True,True,8
+AM Rahane,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+PVD Chameera,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+SN Thakur,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+R Shepherd,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+JG Bethell,RR,False,0.0,0.0,0.0,False,,,True,False,8
+RD Gaikwad,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,True,8
+Mayank Dagar,RR,False,0.0,0.0,0.0,False,,,True,True,8
+LH Ferguson,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+Shivang Kumar,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Yash Thakur,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+R Ravindra,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+T Natarajan,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+RA Tripathi,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Simarjeet Singh,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Vijaykumar Vyshak,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Mukesh Kumar,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Zeeshan Ansari,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Shahbaz Ahmed,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+DA Warner,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+Avesh Khan,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+SH Johnson,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+A Nortje,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+M Markande,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Akash Madhwal,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+RJW Topley,RR,False,0.0,0.0,0.0,False,,,True,False,8
+M Jansen,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+TU Deshpande,RR,True,0.0,0.0,0.0,False,Green,,True,True,8
+DP Conway,RR,False,0.0,0.0,0.0,False,Amber,Wicketkeeper,True,False,8
+HH Pandya,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+MW Short,RR,False,0.0,0.0,0.0,False,,,True,False,8
+Ashok Sharma,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+MP Yadav,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+SK Rasheed,RR,False,0.0,0.0,0.0,False,,,True,True,8
+XC Bartlett,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+MJ Henry,RR,False,0.0,0.0,0.0,False,Green,,True,False,8
+SM Curran,RR,True,0.0,0.0,0.0,False,Green,,True,True,8
+Akash Deep,RR,False,0.0,0.0,0.0,False,Green,,True,True,8
+Auqib Nabi,RR,False,0.0,0.0,0.0,False,,,True,True,8
+Fazalhaq Farooqi,RR,False,0.0,0.0,0.0,False,,,True,False,8
+V Suryavanshi,RCB,False,9.142,9.142,0.028,True,Green,,False,True,10
+SP Narine,RCB,False,6.131,6.131,0.0188,True,Green,,False,False,10
+B Kumar,RCB,True,6.278,6.149,0.0188,True,Green,,True,True,9
+JP Inglis,RCB,False,4.877,4.877,0.0149,True,Green,,False,False,10
+JJ Bumrah,RCB,False,4.762,4.634,0.0142,True,Green,,False,True,10
+JO Holder,RCB,False,4.574,4.509,0.0138,True,Green,,False,False,10
+V Kohli,RCB,True,4.498,4.524,0.0139,True,Green,,True,True,10
+Abhishek Sharma,RCB,False,4.166,4.166,0.0128,True,Green,,False,True,10
+B Sai Sudharsan,RCB,False,4.025,4.025,0.0123,True,Green,,False,True,10
+Mohsin Khan,RCB,False,3.67,3.615,0.0111,True,Green,,False,True,10
+H Klaasen,RCB,False,6.636,3.613,0.0111,True,Red,Middle-order,False,False,1
+Shubman Gill,RCB,False,3.534,3.534,0.0108,True,Green,,False,True,10
+AJ Hosein,RCB,False,3.424,3.478,0.0107,True,Green,,False,False,10
+JR Hazlewood,RCB,True,3.427,3.402,0.0104,True,Green,,True,True,9
+SR Dubey,RCB,False,3.213,3.213,0.0098,True,,,False,True,10
+JC Archer,RCB,False,3.218,3.167,0.0097,True,Green,,False,False,10
+MR Marsh,RCB,False,3.081,3.081,0.0094,True,Green,,False,False,10
+KL Rahul,RCB,False,3.068,3.068,0.0094,True,Green,,False,True,10
+RM Patidar,RCB,True,3.145,3.171,0.0097,True,Green,,True,True,10
+L Ngidi,RCB,False,3.011,2.919,0.0089,True,Green,,False,False,10
+SS Iyer,RCB,False,2.866,2.866,0.0088,True,Green,,False,True,10
+CV Varun,RCB,False,3.794,2.797,0.0086,True,Amber,Wrist spinner,False,True,4
+Mustafizur Rahman,RCB,False,2.882,2.794,0.0086,True,Green,,False,False,10
+FH Allen,RCB,False,2.529,2.529,0.0077,True,Green,,False,False,10
+C Connolly,RCB,False,2.466,2.466,0.0076,True,Green,,False,False,10
+Noor Ahmad,RCB,False,3.367,2.452,0.0075,True,Amber,Wrist spinner,False,False,4
+RD Rickelton,RCB,False,2.343,2.343,0.0072,True,Green,,False,False,10
+Mohammed Siraj,RCB,False,2.333,2.292,0.007,True,Green,,False,True,10
+N Thushara,RCB,True,2.498,2.446,0.0075,True,Green,,True,True,10
+P Simran Singh,RCB,False,2.273,2.273,0.007,True,Green,,False,True,10
+Ishan Kishan,RCB,False,2.142,2.142,0.0066,True,Green,,False,True,10
+Swapnil Singh,RCB,True,2.211,2.237,0.0069,True,,,True,True,10
+E Malinga,RCB,False,2.014,1.943,0.006,True,Green,,False,False,10
+Harpreet Brar,RCB,False,1.866,1.902,0.0058,True,Green,,False,True,10
+PD Salt,RCB,True,2.027,2.053,0.0063,True,Green,,True,True,10
+JM Bairstow,RCB,False,1.849,1.849,0.0057,True,Green,,False,False,10
+C Bosch,RCB,False,1.836,1.769,0.0054,True,Green,,False,False,10
+AM Ghazanfar,RCB,False,1.554,1.587,0.0049,True,Green,,False,False,10
+K Rabada,RCB,False,1.596,1.563,0.0048,True,Green,,False,False,10
+S Sandeep Warrier,RCB,False,1.541,1.541,0.0047,True,,,False,True,10
+JC Buttler,RCB,False,1.511,1.511,0.0046,True,Green,,False,False,10
+Priyansh Arya,RCB,False,1.481,1.481,0.0045,True,Green,,False,True,10
+SA Yadav,RCB,False,1.463,1.463,0.0045,True,Green,,False,True,10
+TM Head,RCB,False,1.436,1.436,0.0044,True,Green,,False,False,10
+Prince Yadav,RCB,False,1.395,1.337,0.0041,True,Green,,False,True,10
+A Mhatre,RCB,False,1.333,1.333,0.0041,True,Green,,False,True,10
+KH Pandya,RCB,True,1.494,1.493,0.0046,True,Green,,True,True,10
+V Puthur,RCB,False,1.32,1.32,0.004,True,,,False,True,10
+Akash Singh,RCB,False,1.316,1.316,0.004,True,,,False,True,10
+M Prasidh Krishna,RCB,False,1.258,1.229,0.0038,True,Green,,False,True,10
+RR Rossouw,RCB,False,1.215,1.215,0.0037,True,,,False,False,10
+Sakib Hussain,RCB,False,1.229,1.175,0.0036,True,Green,,False,True,10
+TH David,RCB,True,1.316,1.316,0.004,True,Green,,True,True,10
+N Pooran,RCB,False,1.142,1.142,0.0035,True,Green,,False,False,10
+R Parag,RCB,False,0.997,0.997,0.0031,True,Green,,False,True,10
+VR Iyer,RCB,True,1.075,1.101,0.0034,True,Green,,True,True,10
+M Pathirana,RCB,False,0.96,0.911,0.0028,True,Green,,False,False,10
+MJ Santner,RCB,False,0.884,0.91,0.0028,True,Green,,False,False,10
+MM Ali,RCB,False,0.808,0.833,0.0026,True,Green,,False,False,10
+PJ Cummins,RCB,False,0.81,0.786,0.0024,True,Green,,False,False,10
+SV Samson,RCB,False,0.734,0.734,0.0023,True,Green,,False,True,10
+Ashwani Kumar,RCB,False,0.701,0.678,0.0021,True,Green,,False,True,10
+Harshit Rana,RCB,False,0.656,0.633,0.0019,True,Green,,False,True,10
+Shashank Singh,RCB,False,0.63,0.609,0.0019,True,Green,,False,True,10
+D Ferreira,RCB,False,0.61,0.59,0.0018,True,Green,,False,False,10
+N Burger,RCB,False,0.604,0.582,0.0018,True,Green,,False,False,10
+Kuldeep Yadav,RCB,False,1.046,0.574,0.0018,True,Amber,Wrist spinner,False,True,9
+J Overton,RCB,False,0.572,0.531,0.0016,True,Green,,False,False,10
+PP Chawla,RCB,False,0.96,0.505,0.0015,True,Amber,Wrist spinner,False,True,9
+Ashutosh Sharma,RCB,False,0.507,0.488,0.0015,True,Green,,False,True,10
+Suryansh Shedge,RCB,False,0.473,0.473,0.0014,True,,,False,True,10
+YBK Jaiswal,RCB,False,0.471,0.471,0.0014,True,Green,,False,True,10
+Rashid Khan,RCB,False,0.865,0.427,0.0013,True,Amber,Wrist spinner,False,False,9
+M Tiwari,RCB,False,0.418,0.418,0.0013,True,,,False,True,10
+Mukesh Choudhary,RCB,False,0.381,0.361,0.0011,True,Green,,False,True,10
+DL Chahar,RCB,False,0.348,0.328,0.001,True,Green,,False,True,10
+JA Duffy,RCB,True,0.483,0.49,0.0015,True,Green,,True,True,10
+R Sai Kishore,RCB,False,0.256,0.274,0.0008,True,Green,,False,True,10
+KK Ahmed,RCB,False,0.277,0.259,0.0008,True,Green,,False,True,10
+JD Unadkat,RCB,False,0.266,0.248,0.0008,True,Green,,False,True,10
+AR Patel,RCB,False,1.078,0.139,0.0004,True,Red,Middle-order,False,True,6
+Arshdeep Singh,RCB,False,0.146,0.114,0.0003,True,Green,,False,True,10
+PP Hinge,RCB,False,0.144,0.112,0.0003,True,Green,,False,True,10
+WG Jacks,RCB,False,0.104,0.104,0.0003,True,Green,,False,False,10
+RA Jadeja,RCB,False,0.104,0.088,0.0003,True,Green,,False,True,10
+J Fraser-McGurk,RCB,False,0.075,0.075,0.0002,True,Green,,False,False,10
+Yash Raj Punja,RCB,False,0.051,0.067,0.0002,True,Green,,False,True,10
+SN Khan,RCB,False,0.038,0.038,0.0001,True,,,False,True,10
+KR Sen,RCB,False,0.002,0.002,0.0,True,,,False,True,10
+D Padikkal,RCB,True,0.145,0.172,0.0005,True,Green,,True,True,10
+Dhruv Jurel,RCB,False,0.845,0.0,0.0,True,Red,Middle-order,False,True,7
+A Raghuvanshi,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+MK Pandey,RCB,False,0.845,0.0,0.0,True,Red,Middle-order,False,True,5
+SE Rutherford,RCB,False,0.0,0.0,0.0,False,Green,,False,False,10
+MK Lomror,RCB,False,0.0,0.0,0.0,False,,,False,True,10
+A Kamboj,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+M Shahrukh Khan,RCB,False,0.755,0.0,0.0,True,Red,Middle-order,False,True,5
+AS Roy,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+KV Sharma,RCB,False,0.214,0.0,0.0,True,Amber,Wrist spinner,False,True,10
+D Brevis,RCB,False,0.638,0.0,0.0,True,Red,Middle-order,False,False,5
+MP Stoinis,RCB,False,0.636,0.0,0.0,True,Red,Middle-order,False,False,5
+Mohammed Shami,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+Rasikh Salam,RCB,True,0.0,0.0,0.0,False,Green,,True,True,10
+VG Arora,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+M Siddharth,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+RG Sharma,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+YS Chahal,RCB,False,0.05,0.0,0.0,True,Amber,Wrist spinner,False,True,10
+Aniket Verma,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+RK Singh,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+PP Shaw,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+Urvil Patel,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+UT Yadav,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+Yash Dayal,RCB,True,0.0,0.0,0.0,False,Green,,True,True,10
+S Dube,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+S Arora,RCB,False,0.0,0.0,0.0,False,,,False,True,10
+Kartik Tyagi,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+Tilak Varma,RCB,False,0.174,0.0,0.0,True,Red,Middle-order,False,True,6
+T Stubbs,RCB,False,0.0,0.0,0.0,False,Green,,False,False,10
+Ravi Bishnoi,RCB,False,0.0,0.0,0.0,False,Amber,Wrist spinner,False,True,10
+Sameer Rizvi,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+Naman Dhir,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+PHKD Mendis,RCB,False,0.0,0.0,0.0,False,,,False,False,10
+DA Miller,RCB,False,0.0,0.0,0.0,False,Green,,False,False,10
+SB Dubey,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+PWH de Silva,RCB,False,0.0,0.0,0.0,False,Amber,Wrist spinner,False,False,10
+Naveen-ul-Haq,RCB,False,0.0,0.0,0.0,False,Green,,False,False,10
+MS Dhoni,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+Azmatullah Omarzai,RCB,False,0.0,0.0,0.0,False,Green,,False,False,10
+R Tewatia,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+GJ Maxwell,RCB,False,0.0,0.0,0.0,False,Green,,False,False,10
+Arshad Khan,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+R Powell,RCB,False,0.0,0.0,0.0,False,Green,,False,False,10
+A Badoni,RCB,False,0.0,0.0,0.0,False,Red,Middle-order,False,True,10
+P Nissanka,RCB,False,0.0,0.0,0.0,False,Green,,False,False,10
+Abdul Samad,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+Raghu Sharma,RCB,False,0.0,0.0,0.0,False,,,False,True,10
+RJ Gleeson,RCB,False,0.0,0.0,0.0,False,,,False,True,10
+PR Veer,RCB,False,0.0,0.0,0.0,False,,,False,True,10
+MA Starc,RCB,False,0.0,0.0,0.0,False,Green,,False,False,10
+Washington Sundar,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+Sandeep Sharma,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+TA Boult,RCB,False,0.0,0.0,0.0,False,Green,,False,False,10
+N Wadhera,RCB,False,0.0,0.0,0.0,False,Red,Middle-order,False,True,10
+V Nigam,RCB,False,0.0,0.0,0.0,False,Amber,Wrist spinner,False,True,10
+JM Sharma,RCB,True,0.0,0.0,0.0,False,Green,,True,True,9
+DJ Mitchell,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+Ramandeep Singh,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Harsh Dubey,RCB,False,0.0,0.0,0.0,False,Green,,False,True,10
+Kartik Sharma,RCB,False,0.0,0.0,0.0,False,Red,Middle-order,False,True,9
+MD Choudhary,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+MD Shanaka,RCB,False,0.0,0.0,0.0,False,,,False,True,9
+Gurjapneet Singh,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Himmat Singh,RCB,False,0.0,0.0,0.0,False,,,False,True,9
+Suyash Sharma,RCB,True,0.0,0.0,0.0,False,Amber,Wrist spinner,True,True,9
+MA Agarwal,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Nithish Kumar Reddy,RCB,False,0.0,0.0,0.0,False,Red,Middle-order,False,True,9
+RR Pant,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+V Viyaskanth,RCB,False,0.0,0.0,0.0,False,,,False,True,9
+Rahmanullah Gurbaz,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+N Rana,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+RD Chahar,RCB,False,0.0,0.0,0.0,False,Amber,Wrist spinner,False,True,9
+KK Nair,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Yudhvir Singh,RCB,False,0.0,0.0,0.0,False,,,False,True,9
+Mohammad Nabi,RCB,False,0.0,0.0,0.0,False,,,False,False,9
+Q de Kock,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+Anuj Rawat,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+V Shankar,RCB,False,0.0,0.0,0.0,False,Red,Middle-order,False,True,9
+SD Hope,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+C Green,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+SO Hetmyer,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+Brijesh Sharma,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+KA Jamieson,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+W O'Rourke,RCB,False,0.0,0.0,0.0,False,,,False,True,9
+A Manohar,RCB,False,0.0,0.0,0.0,False,,,False,True,9
+LS Livingstone,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+DS Rathi,RCB,False,0.0,0.0,0.0,False,Amber,Wrist spinner,False,True,9
+M Theekshana,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+G Coetzee,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+HV Patel,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+I Sharma,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Abishek Porel,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+F du Plessis,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+DJ Hooda,RCB,False,0.0,0.0,0.0,False,Red,Middle-order,False,True,9
+AK Markram,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+KT Maphaka,RCB,False,0.0,0.0,0.0,False,,,False,False,9
+AM Rahane,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+PVD Chameera,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+SN Thakur,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+R Shepherd,RCB,True,0.0,0.0,0.0,False,Green,,True,True,9
+JG Bethell,RCB,True,0.0,0.0,0.0,False,,,True,True,9
+RD Gaikwad,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Mayank Dagar,RCB,False,0.0,0.0,0.0,False,,,False,True,9
+LH Ferguson,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+Shivang Kumar,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Yash Thakur,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+R Ravindra,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+T Natarajan,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+RA Tripathi,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Simarjeet Singh,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Vijaykumar Vyshak,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Mukesh Kumar,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Zeeshan Ansari,RCB,False,0.0,0.0,0.0,False,Amber,Wrist spinner,False,True,9
+Shahbaz Ahmed,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+DA Warner,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+Avesh Khan,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+SH Johnson,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+A Nortje,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+M Markande,RCB,False,0.0,0.0,0.0,False,Amber,Wrist spinner,False,True,9
+Akash Madhwal,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+RJW Topley,RCB,False,0.0,0.0,0.0,False,,,False,False,9
+M Jansen,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+TU Deshpande,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+DP Conway,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+HH Pandya,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+MW Short,RCB,False,0.0,0.0,0.0,False,,,False,False,9
+Ashok Sharma,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+MP Yadav,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+SK Rasheed,RCB,False,0.0,0.0,0.0,False,,,False,True,9
+XC Bartlett,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+MJ Henry,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+SM Curran,RCB,False,0.0,0.0,0.0,False,Green,,False,False,9
+Akash Deep,RCB,False,0.0,0.0,0.0,False,Green,,False,True,9
+Auqib Nabi,RCB,False,0.0,0.0,0.0,False,,,False,True,9
+Fazalhaq Farooqi,RCB,False,0.0,0.0,0.0,False,,,False,False,9
+V Suryavanshi,SRH,False,10.034,10.113,0.031,True,Green,,False,True,3
+SP Narine,SRH,False,11.558,7.103,0.0218,True,Red,All-rounder,False,False,2
+B Kumar,SRH,False,7.321,6.949,0.0213,True,Green,,False,True,6
+JP Inglis,SRH,False,5.77,5.849,0.0179,True,Green,,False,False,7
+JJ Bumrah,SRH,False,5.897,5.606,0.0172,True,Green,,False,True,6
+JO Holder,SRH,False,5.788,5.481,0.0168,True,Green,,False,False,3
+V Kohli,SRH,False,5.245,5.324,0.0163,True,Green,,False,True,3
+Abhishek Sharma,SRH,True,6.248,5.295,0.0162,True,Amber,Finger spinner,True,True,2
+B Sai Sudharsan,SRH,False,4.917,4.996,0.0153,True,Green,,False,True,3
+Mohsin Khan,SRH,False,4.835,4.587,0.0141,True,Green,,True,True,3
+H Klaasen,SRH,True,4.722,4.741,0.0145,True,Green,,True,True,6
+Shubman Gill,SRH,False,4.427,4.506,0.0138,True,Green,,False,True,3
+AJ Hosein,SRH,False,5.224,4.449,0.0136,True,Amber,Finger spinner,True,False,2
+JR Hazlewood,SRH,False,4.426,4.202,0.0129,True,Green,,False,False,3
+SR Dubey,SRH,False,4.106,4.185,0.0128,True,,,True,True,2
+JC Archer,SRH,False,4.358,4.139,0.0127,True,Green,,False,False,3
+MR Marsh,SRH,False,3.973,4.052,0.0124,True,Green,,False,False,3
+KL Rahul,SRH,False,3.96,4.039,0.0124,True,Green,,False,True,5
+RM Patidar,SRH,False,3.892,3.971,0.0122,True,Green,,False,True,4
+L Ngidi,SRH,False,4.077,3.891,0.0119,True,Green,,True,False,6
+SS Iyer,SRH,False,3.759,3.838,0.0118,True,Green,,False,True,5
+CV Varun,SRH,False,4.424,3.769,0.0115,True,Amber,Wrist spinner,False,True,1
+Mustafizur Rahman,SRH,False,3.944,3.765,0.0115,True,Green,,False,False,6
+FH Allen,SRH,False,3.422,3.501,0.0107,True,Green,,True,False,5
+C Connolly,SRH,False,3.358,3.437,0.0105,True,Green,,True,False,5
+Noor Ahmad,SRH,False,4.02,3.424,0.0105,True,Amber,Wrist spinner,False,False,1
+RD Rickelton,SRH,False,3.236,3.315,0.0102,True,Green,,True,False,5
+Mohammed Siraj,SRH,False,3.426,3.264,0.01,True,Green,,False,True,3
+N Thushara,SRH,False,3.393,3.247,0.0099,True,Green,,True,False,6
+P Simran Singh,SRH,False,3.166,3.245,0.0099,True,Green,,True,True,6
+Ishan Kishan,SRH,True,3.251,3.27,0.01,True,Green,,True,True,6
+Swapnil Singh,SRH,False,2.959,3.038,0.0093,True,,,True,True,2
+E Malinga,SRH,True,3.258,3.072,0.0094,True,Green,,True,True,6
+Harpreet Brar,SRH,False,3.374,2.874,0.0088,True,Amber,Finger spinner,True,True,3
+PD Salt,SRH,False,2.774,2.853,0.0087,True,Green,,False,False,5
+JM Bairstow,SRH,False,2.742,2.821,0.0086,True,Green,,False,False,5
+C Bosch,SRH,False,4.579,2.741,0.0084,True,Red,All-rounder,True,False,2
+AM Ghazanfar,SRH,False,3.004,2.559,0.0078,True,Amber,Finger spinner,True,False,2
+K Rabada,SRH,False,2.65,2.535,0.0078,True,Green,,False,False,3
+S Sandeep Warrier,SRH,False,2.434,2.513,0.0077,True,,,True,True,2
+JC Buttler,SRH,False,2.404,2.483,0.0076,True,Green,,False,False,7
+Priyansh Arya,SRH,False,2.374,2.453,0.0075,True,Green,,True,True,4
+SA Yadav,SRH,False,2.356,2.435,0.0075,True,Green,,False,True,4
+TM Head,SRH,True,2.545,2.564,0.0079,True,Green,,True,True,2
+Prince Yadav,SRH,False,2.399,2.309,0.0071,True,Green,,True,True,6
+A Mhatre,SRH,False,2.226,2.305,0.0071,True,Green,,True,True,4
+KH Pandya,SRH,False,3.863,2.293,0.007,True,Red,All-rounder,True,True,2
+V Puthur,SRH,False,2.212,2.291,0.007,True,,,True,True,2
+Akash Singh,SRH,False,2.209,2.288,0.007,True,,,True,True,2
+M Prasidh Krishna,SRH,False,2.294,2.201,0.0067,True,Green,,False,True,3
+RR Rossouw,SRH,False,2.108,2.187,0.0067,True,,,False,False,2
+Sakib Hussain,SRH,True,2.442,2.303,0.0071,True,Green,,True,True,6
+TH David,SRH,False,2.029,2.116,0.0065,True,Green,,True,False,4
+N Pooran,SRH,False,2.034,2.114,0.0065,True,Green,,False,False,7
+R Parag,SRH,False,2.311,1.968,0.006,True,Amber,Finger spinner,False,True,3
+VR Iyer,SRH,False,1.822,1.901,0.0058,True,Green,,True,True,4
+M Pathirana,SRH,False,1.946,1.883,0.0058,True,Green,,False,False,6
+MJ Santner,SRH,False,2.209,1.882,0.0058,True,Amber,Finger spinner,True,False,2
+MM Ali,SRH,False,2.118,1.804,0.0055,True,Amber,Finger spinner,True,False,2
+PJ Cummins,SRH,True,2.038,1.914,0.0059,True,Green,,True,True,3
+SV Samson,SRH,False,1.627,1.706,0.0052,True,Green,,False,True,5
+Ashwani Kumar,SRH,False,1.707,1.65,0.0051,True,Green,,True,True,3
+Harshit Rana,SRH,False,1.66,1.605,0.0049,True,Green,,True,True,3
+Shashank Singh,SRH,False,1.496,1.581,0.0048,True,Green,,True,True,4
+D Ferreira,SRH,False,1.483,1.562,0.0048,True,Green,,True,False,6
+N Burger,SRH,False,1.605,1.554,0.0048,True,Green,,True,False,3
+Kuldeep Yadav,SRH,False,1.815,1.546,0.0047,True,Amber,Wrist spinner,False,True,1
+J Overton,SRH,False,2.597,1.502,0.0046,True,Red,All-rounder,True,False,2
+PP Chawla,SRH,False,1.733,1.476,0.0045,True,Amber,Wrist spinner,True,True,1
+Ashutosh Sharma,SRH,False,1.375,1.46,0.0045,True,Green,,True,True,5
+Suryansh Shedge,SRH,False,1.365,1.444,0.0044,True,,,True,True,3
+YBK Jaiswal,SRH,False,1.363,1.443,0.0044,True,Green,,False,True,2
+Rashid Khan,SRH,False,1.642,1.399,0.0043,True,Amber,Wrist spinner,False,False,3
+M Tiwari,SRH,False,1.31,1.389,0.0043,True,,,True,True,2
+Mukesh Choudhary,SRH,False,1.37,1.333,0.0041,True,Green,,True,True,3
+DL Chahar,SRH,False,1.335,1.3,0.004,True,Green,,True,True,3
+JA Duffy,SRH,False,1.325,1.291,0.004,True,Green,,True,False,3
+R Sai Kishore,SRH,False,1.463,1.246,0.0038,True,Amber,Finger spinner,True,True,2
+KK Ahmed,SRH,False,1.261,1.231,0.0038,True,Green,,True,True,3
+JD Unadkat,SRH,True,1.466,1.376,0.0042,True,Green,,True,True,2
+AR Patel,SRH,False,1.971,1.111,0.0034,True,Red,All-rounder,True,True,2
+Arshdeep Singh,SRH,False,1.1,1.086,0.0033,True,Green,,False,True,6
+PP Hinge,SRH,True,1.315,1.24,0.0038,True,Green,,True,True,3
+WG Jacks,SRH,False,1.262,1.075,0.0033,True,Amber,Finger spinner,True,False,3
+RA Jadeja,SRH,False,1.89,1.06,0.0032,True,Red,All-rounder,True,True,2
+J Fraser-McGurk,SRH,False,0.967,1.046,0.0032,True,Green,,True,False,2
+Yash Raj Punja,SRH,False,1.22,1.039,0.0032,True,Amber,Finger spinner,True,True,2
+SN Khan,SRH,False,0.931,1.01,0.0031,True,,,True,True,2
+KR Sen,SRH,False,0.895,0.974,0.003,True,,,True,True,2
+D Padikkal,SRH,False,0.893,0.972,0.003,True,Green,,True,True,3
+Dhruv Jurel,SRH,False,0.886,0.965,0.003,True,Green,,True,True,5
+A Raghuvanshi,SRH,False,0.886,0.965,0.003,True,Green,,True,True,4
+MK Pandey,SRH,False,0.886,0.965,0.003,True,Green,,True,True,3
+SE Rutherford,SRH,False,0.87,0.953,0.0029,True,Green,,True,False,3
+MK Lomror,SRH,False,0.859,0.938,0.0029,True,,,True,True,2
+A Kamboj,SRH,False,0.935,0.924,0.0028,True,Green,,True,True,3
+M Shahrukh Khan,SRH,False,0.83,0.909,0.0028,True,Green,,True,True,3
+AS Roy,SRH,False,1.045,0.89,0.0027,True,Amber,Finger spinner,True,True,2
+KV Sharma,SRH,False,1.024,0.872,0.0027,True,Amber,Wrist spinner,True,True,1
+D Brevis,SRH,False,0.757,0.836,0.0026,True,Green,,True,False,3
+MP Stoinis,SRH,False,0.839,0.835,0.0026,True,Green,,True,False,3
+Mohammed Shami,SRH,False,0.807,0.805,0.0025,True,Green,,True,True,4
+Rasikh Salam,SRH,False,0.798,0.8,0.0025,True,Green,,True,True,6
+VG Arora,SRH,False,0.763,0.763,0.0023,True,Green,,True,True,3
+M Siddharth,SRH,False,0.888,0.757,0.0023,True,Amber,Finger spinner,True,True,2
+RG Sharma,SRH,False,0.669,0.748,0.0023,True,Green,,True,True,2
+YS Chahal,SRH,False,0.868,0.74,0.0023,True,Amber,Wrist spinner,True,True,2
+Aniket Verma,SRH,True,0.825,0.848,0.0026,True,Green,,True,True,3
+RK Singh,SRH,False,0.603,0.686,0.0021,True,Green,,True,True,3
+PP Shaw,SRH,False,0.604,0.684,0.0021,True,Green,,True,True,2
+Urvil Patel,SRH,False,0.513,0.592,0.0018,True,Green,,True,True,2
+UT Yadav,SRH,False,0.571,0.583,0.0018,True,Green,,True,True,2
+Yash Dayal,SRH,False,0.564,0.576,0.0018,True,Green,,True,True,2
+S Dube,SRH,False,0.491,0.573,0.0018,True,Green,,True,True,3
+S Arora,SRH,False,0.493,0.572,0.0018,True,,,True,True,2
+Kartik Tyagi,SRH,False,0.539,0.556,0.0017,True,Green,,True,True,5
+Tilak Varma,SRH,False,0.466,0.546,0.0017,True,Green,,True,True,3
+T Stubbs,SRH,False,0.452,0.531,0.0016,True,Green,,True,False,4
+Ravi Bishnoi,SRH,False,0.582,0.496,0.0015,True,Amber,Wrist spinner,True,True,1
+Sameer Rizvi,SRH,False,0.385,0.464,0.0014,True,Green,,True,True,3
+Naman Dhir,SRH,False,0.367,0.449,0.0014,True,Green,,True,True,3
+PHKD Mendis,SRH,True,0.555,0.574,0.0018,True,,,True,True,1
+DA Miller,SRH,False,0.332,0.414,0.0013,True,Green,,True,False,4
+SB Dubey,SRH,False,0.33,0.412,0.0013,True,Green,,True,True,3
+PWH de Silva,SRH,False,0.47,0.401,0.0012,True,Amber,Wrist spinner,True,False,1
+Naveen-ul-Haq,SRH,False,0.368,0.395,0.0012,True,Green,,True,False,5
+MS Dhoni,SRH,False,0.303,0.382,0.0012,True,Green,,True,True,3
+Azmatullah Omarzai,SRH,False,0.353,0.378,0.0012,True,Green,,True,False,2
+R Tewatia,SRH,False,0.294,0.376,0.0012,True,Green,,True,True,3
+GJ Maxwell,SRH,False,0.422,0.359,0.0011,True,Amber,Finger spinner,True,False,2
+Arshad Khan,SRH,False,0.331,0.358,0.0011,True,Green,,True,True,2
+R Powell,SRH,False,0.247,0.328,0.001,True,Green,,True,False,3
+A Badoni,SRH,False,0.226,0.305,0.0009,True,Green,,True,True,3
+P Nissanka,SRH,False,0.2,0.279,0.0009,True,Green,,True,False,2
+Abdul Samad,SRH,False,0.174,0.256,0.0008,True,Green,,True,True,3
+Raghu Sharma,SRH,False,0.161,0.24,0.0007,True,,,True,True,2
+RJ Gleeson,SRH,False,0.159,0.238,0.0007,True,,,True,True,2
+PR Veer,SRH,False,0.07,0.149,0.0005,True,,,True,True,2
+MA Starc,SRH,False,0.082,0.124,0.0004,True,Green,,True,False,3
+Washington Sundar,SRH,False,0.137,0.117,0.0004,True,Amber,Finger spinner,True,True,3
+Sandeep Sharma,SRH,False,0.054,0.099,0.0003,True,Green,,True,True,4
+TA Boult,SRH,False,0.055,0.098,0.0003,True,Green,,True,False,2
+N Wadhera,SRH,False,0.009,0.088,0.0003,True,Green,,True,True,3
+V Nigam,SRH,False,0.081,0.069,0.0002,True,Amber,Wrist spinner,True,True,1
+JM Sharma,SRH,False,0.0,0.069,0.0002,False,Green,,True,True,10
+DJ Mitchell,SRH,False,0.0,0.067,0.0002,False,Green,,True,False,10
+Ramandeep Singh,SRH,False,0.0,0.034,0.0001,False,Green,,True,True,10
+Harsh Dubey,SRH,True,0.216,0.157,0.0005,True,Amber,Finger spinner,True,True,1
+Kartik Sharma,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+MD Choudhary,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+MD Shanaka,SRH,False,0.0,0.0,0.0,False,,,True,True,10
+Gurjapneet Singh,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+Himmat Singh,SRH,False,0.0,0.0,0.0,False,,,True,True,10
+Suyash Sharma,SRH,False,0.0,0.0,0.0,False,Amber,Wrist spinner,True,True,10
+MA Agarwal,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+Nithish Kumar Reddy,SRH,True,0.0,0.0,0.0,False,Green,,True,True,10
+RR Pant,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+V Viyaskanth,SRH,False,0.0,0.0,0.0,False,,,True,True,10
+Rahmanullah Gurbaz,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+N Rana,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+RD Chahar,SRH,False,0.0,0.0,0.0,False,Amber,Wrist spinner,True,True,10
+KK Nair,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+Yudhvir Singh,SRH,False,0.0,0.0,0.0,False,,,True,True,10
+Mohammad Nabi,SRH,False,0.0,0.0,0.0,False,,,True,False,10
+Q de Kock,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+Anuj Rawat,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+V Shankar,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+SD Hope,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+C Green,SRH,False,0.0,0.0,0.0,False,Red,All-rounder,True,False,10
+SO Hetmyer,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+Brijesh Sharma,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+KA Jamieson,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+W O'Rourke,SRH,False,0.0,0.0,0.0,False,,,True,True,10
+A Manohar,SRH,False,0.0,0.0,0.0,False,,,True,True,10
+LS Livingstone,SRH,True,0.0,0.0,0.0,False,Amber,Finger spinner,True,True,10
+DS Rathi,SRH,False,0.0,0.0,0.0,False,Amber,Wrist spinner,True,True,10
+M Theekshana,SRH,False,0.0,0.0,0.0,False,Amber,Finger spinner,True,False,10
+G Coetzee,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+HV Patel,SRH,True,0.0,0.0,0.0,False,Green,,True,True,10
+I Sharma,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+Abishek Porel,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+F du Plessis,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+DJ Hooda,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+AK Markram,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+KT Maphaka,SRH,False,0.0,0.0,0.0,False,,,True,False,10
+AM Rahane,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+PVD Chameera,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+SN Thakur,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+R Shepherd,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+JG Bethell,SRH,False,0.0,0.0,0.0,False,,,True,False,10
+RD Gaikwad,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+Mayank Dagar,SRH,False,0.0,0.0,0.0,False,,,True,True,10
+LH Ferguson,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+Shivang Kumar,SRH,True,0.0,0.0,0.0,False,Amber,Finger spinner,True,True,10
+Yash Thakur,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+R Ravindra,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+T Natarajan,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+RA Tripathi,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+Simarjeet Singh,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+Vijaykumar Vyshak,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+Mukesh Kumar,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+Zeeshan Ansari,SRH,True,0.0,0.0,0.0,False,Amber,Wrist spinner,True,True,10
+Shahbaz Ahmed,SRH,False,0.0,0.0,0.0,False,Amber,Finger spinner,True,True,10
+DA Warner,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+Avesh Khan,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+SH Johnson,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+A Nortje,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+M Markande,SRH,False,0.0,0.0,0.0,False,Amber,Wrist spinner,True,True,10
+Akash Madhwal,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+RJW Topley,SRH,False,0.0,0.0,0.0,False,,,True,False,10
+M Jansen,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+TU Deshpande,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+DP Conway,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+HH Pandya,SRH,False,0.0,0.0,0.0,False,Red,All-rounder,True,True,10
+MW Short,SRH,False,0.0,0.0,0.0,False,,,True,False,10
+Ashok Sharma,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+MP Yadav,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+SK Rasheed,SRH,False,0.0,0.0,0.0,False,,,True,True,10
+XC Bartlett,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+MJ Henry,SRH,False,0.0,0.0,0.0,False,Green,,True,False,10
+SM Curran,SRH,False,0.0,0.0,0.0,False,Red,All-rounder,True,False,10
+Akash Deep,SRH,False,0.0,0.0,0.0,False,Green,,True,True,10
+Auqib Nabi,SRH,False,0.0,0.0,0.0,False,,,True,True,10
+Fazalhaq Farooqi,SRH,False,0.0,0.0,0.0,False,,,True,False,10

@@ -1,0 +1,11 @@
+team,played,wins,no_result,points,position,made_playoffs,champion
+SRH,14,9,0,18,1,True,False
+RCB,14,9,0,18,2,True,True
+GT,14,9,0,18,3,True,False
+RR,14,8,0,16,4,True,False
+PBKS,14,7,1,15,5,False,False
+DC,14,7,0,14,6,False,False
+KKR,14,6,1,13,7,False,False
+CSK,14,6,0,12,8,False,False
+MI,14,4,0,8,9,False,False
+LSG,14,4,0,8,10,False,False

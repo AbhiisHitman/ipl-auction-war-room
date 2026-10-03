@@ -1,0 +1,1202 @@
+season,player_name,wiki_title,team,role,nationality,capped,base_price_lakh,sold_price_lakh,status,ipl_matches,set_name,overseas,mega_auction
+2022,Ravindra Jadeja,Ravindra Jadeja,CSK,,IND,,,1600.0,retained,,retained,False,True
+2022,MS Dhoni,MS Dhoni,CSK,,IND,,,1200.0,retained,,retained,False,True
+2022,Moeen Ali,Moeen Ali,CSK,,ENG,,,800.0,retained,,retained,True,True
+2022,Ruturaj Gaikwad,Ruturaj Gaikwad,CSK,,IND,,,600.0,retained,,retained,False,True
+2022,Rishabh Pant,Rishabh Pant,DC,Batter,IND,,,1600.0,retained,,retained,False,True
+2022,Axar Patel,Axar Patel,DC,,IND,,,900.0,retained,,retained,False,True
+2022,Prithvi Shaw,Prithvi Shaw,DC,Batter,IND,,,750.0,retained,,retained,False,True
+2022,Anrich Nortje,Anrich Nortje,DC,Fast bowler,SA,,,650.0,retained,,retained,True,True
+2022,Hardik Pandya,Hardik Pandya,GT,,IND,,,1500.0,retained,,retained,False,True
+2022,Rashid Khan,Rashid Khan,GT,,AFG,,,1500.0,retained,,retained,True,True
+2022,Shubman Gill,Shubman Gill,GT,,IND,,,800.0,retained,,retained,False,True
+2022,Andre Russell,Andre Russell,KKR,,WIN,,,1200.0,retained,,retained,True,True
+2022,Varun Chakravarthy,Varun Chakravarthy,KKR,,IND,,,800.0,retained,,retained,False,True
+2022,Venkatesh Iyer,Venkatesh Iyer,KKR,All-rounder,IND,,,800.0,retained,,retained,False,True
+2022,Sunil Narine,Sunil Narine,KKR,,WIN,,,600.0,retained,,retained,True,True
+2022,KL Rahul,KL Rahul,LSG,Wicket-keeper,IND,,,1700.0,retained,,retained,False,True
+2022,Marcus Stoinis,Marcus Stoinis,LSG,All-rounder,AUS,,,919.9999999999999,retained,,retained,True,True
+2022,Ravi Bishnoi,Ravi Bishnoi,LSG,Spin bowler,IND,,,400.0,retained,,retained,False,True
+2022,Rohit Sharma,Rohit Sharma,MI,,IND,,,1600.0,retained,,retained,False,True
+2022,Jasprit Bumrah,Jasprit Bumrah,MI,,IND,,,1200.0,retained,,retained,False,True
+2022,Suryakumar Yadav,Suryakumar Yadav,MI,,IND,,,800.0,retained,,retained,False,True
+2022,Kieron Pollard,Kieron Pollard,MI,,WIN,,,600.0,retained,,retained,True,True
+2022,Mayank Agarwal,Mayank Agarwal,PBKS,Batter,IND,,,1200.0,retained,,retained,False,True
+2022,Arshdeep Singh,Arshdeep Singh (cricketer),PBKS,Fast bowler,IND,,,400.0,retained,,retained,False,True
+2022,Sanju Samson,Sanju Samson,RR,,IND,,,1400.0,retained,,retained,False,True
+2022,Jos Buttler,Jos Buttler,RR,Wicket-keeper,ENG,,,1000.0,retained,,retained,True,True
+2022,Yashasvi Jaiswal,Yashasvi Jaiswal,RR,,IND,,,400.0,retained,,retained,False,True
+2022,Virat Kohli,Virat Kohli,RCB,,IND,,,1500.0,retained,,retained,False,True
+2022,Glenn Maxwell,Glenn Maxwell,RCB,All-rounder,AUS,,,1100.0,retained,,retained,True,True
+2022,Mohammed Siraj,Mohammed Siraj,RCB,Fast bowler,IND,,,700.0,retained,,retained,False,True
+2022,Kane Williamson,Kane Williamson,SRH,Batter,NZ,,,1400.0,retained,,retained,True,True
+2022,Abdul Samad,Abdul Samad (Indian cricketer),SRH,All-rounder,IND,,,400.0,retained,,retained,False,True
+2022,Umran Malik,Umran Malik,SRH,Fast bowler,IND,,,400.0,retained,,retained,False,True
+2022,Shikhar Dhawan,Shikhar Dhawan,PBKS,Batter,IND,True,200.0,825.0,sold,192.0,,False,True
+2022,Ravichandran Ashwin,Ravichandran Ashwin,RR,All-rounder,IND,True,200.0,500.0,sold,167.0,,False,True
+2022,Pat Cummins,Pat Cummins,KKR,All-rounder,AUS,True,200.0,725.0,sold,37.0,,True,True
+2022,Kagiso Rabada,Kagiso Rabada,PBKS,Fast bowler,SA,True,200.0,925.0,sold,50.0,,True,True
+2022,Trent Boult,Trent Boult,RR,Fast bowler,NZ,True,200.0,800.0,sold,62.0,,True,True
+2022,Shreyas Iyer,Shreyas Iyer,KKR,Batter,IND,True,200.0,1225.0,sold,87.0,,False,True
+2022,Mohammed Shami,Mohammed Shami,GT,Fast bowler,IND,True,200.0,625.0,sold,77.0,,False,True
+2022,Faf du Plessis,Faf du Plessis,RCB,Batter,SA,True,200.0,700.0,sold,100.0,,True,True
+2022,Quinton de Kock,Quinton de Kock,LSG,Wicket-keeper,SA,True,200.0,675.0,sold,77.0,,True,True
+2022,David Warner,David Warner (cricketer),DC,Batter,AUS,True,200.0,625.0,sold,150.0,,True,True
+2022,Manish Pandey,Manish Pandey,LSG,Batter,IND,True,150.0,460.0,sold,154.0,,False,True
+2022,Shimron Hetmyer,Shimron Hetmyer,RR,Batter,WIN,True,150.0,850.0,sold,31.0,,True,True
+2022,Robin Uthappa,Robin Uthappa,CSK,Batter,IND,True,200.0,200.0,sold,193.0,,False,True
+2022,Jason Roy,Jason Roy,GT,Batter,ENG,True,200.0,200.0,sold,13.0,,True,True
+2022,Devdutt Padikkal,Devdutt Padikkal,RR,Batter,IND,True,150.0,775.0,sold,332.0,,False,True
+2022,Dwayne Bravo,Dwayne Bravo,CSK,All-rounder,WIN,True,150.0,440.0,sold,151.0,,True,True
+2022,Nitish Rana,Nitish Rana,KKR,All-rounder,IND,True,150.0,800.0,sold,77.0,,False,True
+2022,Jason Holder,Jason Holder,LSG,All-rounder,WIN,True,150.0,875.0,sold,26.0,,True,True
+2022,Harshal Patel,Harshal Patel,RCB,All-rounder,IND,True,150.0,1075.0,sold,63.0,,False,True
+2022,Deepak Hooda,Deepak Hooda,LSG,All-rounder,IND,True,75.0,575.0,sold,80.0,,False,True
+2022,Wanindu Hasaranga,Wanindu Hasaranga,RCB,Batter,SL,True,100.0,1075.0,sold,2.0,,True,True
+2022,Washington Sundar,Washington Sundar,SRH,All-rounder,IND,True,150.0,875.0,sold,42.0,,False,True
+2022,Krunal Pandya,Krunal Pandya,LSG,All-rounder,IND,True,200.0,825.0,sold,84.0,,False,True
+2022,Mitchell Marsh,Mitchell Marsh,DC,All-rounder,AUS,True,200.0,650.0,sold,21.0,,True,True
+2022,Ambati Rayudu,Ambati Rayudu,CSK,Wicket-keeper,IND,True,200.0,675.0,sold,175.0,,False,True
+2022,Ishan Kishan,Ishan Kishan,MI,Wicket-keeper,IND,True,150.0,1525.0,sold,61.0,,False,True
+2022,Jonny Bairstow,Jonny Bairstow,PBKS,Wicket-keeper,ENG,True,100.0,675.0,sold,28.0,,True,True
+2022,Dinesh Karthik,Dinesh Karthik,RCB,Wicket-keeper,IND,True,200.0,550.0,sold,213.0,,False,True
+2022,Nicholas Pooran,Nicholas Pooran,SRH,Wicket-keeper,WIN,True,150.0,1075.0,sold,33.0,,True,True
+2022,T. Natarajan,T. Natarajan,SRH,Fast bowler,IND,True,100.0,400.0,sold,24.0,,False,True
+2022,Deepak Chahar,Deepak Chahar,CSK,Fast bowler,IND,True,200.0,1400.0,sold,63.0,,False,True
+2022,Prasidh Krishna,Prasidh Krishna,RR,Fast bowler,IND,True,100.0,1000.0,sold,34.0,,False,True
+2022,Lockie Ferguson,Lockie Ferguson,GT,Fast bowler,NZ,True,200.0,1000.0,sold,22.0,,True,True
+2022,Josh Hazlewood,Josh Hazlewood,RCB,Fast bowler,AUS,True,150.0,775.0,sold,12.0,,True,True
+2022,Mark Wood,Mark Wood (cricketer),LSG,Fast bowler,ENG,True,200.0,750.0,sold,1.0,,True,True
+2022,Bhuvneshwar Kumar,Bhuvneshwar Kumar,SRH,Fast bowler,IND,True,200.0,420.0,sold,132.0,,False,True
+2022,Shardul Thakur,Shardul Thakur,DC,Fast bowler,IND,True,200.0,1075.0,sold,61.0,,False,True
+2022,Mustafizur Rahman,Mustafizur Rahman,DC,Fast bowler,BAN,True,200.0,200.0,sold,38.0,,True,True
+2022,Kuldeep Yadav,Kuldeep Yadav,DC,Fast bowler,IND,True,100.0,200.0,sold,45.0,,False,True
+2022,Rahul Chahar,Rahul Chahar,PBKS,Fast bowler,IND,True,75.0,525.0,sold,42.0,,False,True
+2022,Yuzvendra Chahal,Yuzvendra Chahal,RR,Fast bowler,IND,True,200.0,650.0,sold,114.0,,False,True
+2022,Priyam Garg,Priyam Garg,SRH,Batter,IND,False,20.0,20.0,sold,19.0,,False,True
+2022,Abhinav Manohar Sadarangani,Abhinav Manohar,GT,Batter,IND,False,20.0,260.0,sold,,,False,True
+2022,Dewald Brevis,Dewald Brevis,MI,Batter,SA,False,20.0,300.0,sold,,,True,True
+2022,Ashwin Hebbar,Ashwin Hebbar,DC,Batter,IND,False,20.0,20.0,sold,,,False,True
+2022,Rahul Tripathi,Rahul Tripathi,SRH,Batter,IND,False,40.0,850.0,sold,62.0,,False,True
+2022,Riyan Parag,Riyan Parag,RR,All-rounder,IND,False,30.0,380.0,sold,30.0,,False,True
+2022,Abhishek Sharma,"Abhishek Sharma (cricketer, born 2000)",SRH,All-rounder,IND,False,20.0,650.0,sold,22.0,,False,True
+2022,Sarfaraz Khan,Sarfaraz Khan (cricketer),DC,All-rounder,IND,False,20.0,20.0,sold,40.0,,False,True
+2022,M. Shahrukh Khan,Shahrukh Khan (cricketer),PBKS,All-rounder,IND,False,40.0,900.0,sold,11.0,,False,True
+2022,Shivam Mavi,Shivam Mavi,KKR,All-rounder,IND,False,40.0,725.0,sold,26.0,,False,True
+2022,Rahul Tewatia,Rahul Tewatia,GT,All-rounder,IND,False,40.0,900.0,sold,48.0,,False,True
+2022,Kamlesh Nagarkoti,Kamlesh Nagarkoti,DC,All-rounder,IND,False,40.0,110.0,sold,11.0,,False,True
+2022,Harpreet Brar,Harpreet Brar,PBKS,All-rounder,IND,False,20.0,380.0,sold,10.0,,False,True
+2022,Shahbaz Ahmed,Shahbaz Ahmed (cricketer),RCB,All-rounder,IND,False,30.0,240.0,sold,13.0,,False,True
+2022,K. S. Bharat,K. S. Bharat,DC,Wicket-keeper,IND,False,20.0,200.0,sold,8.0,,False,True
+2022,Anuj Rawat,Anuj Rawat,RCB,Wicket-keeper,IND,False,20.0,340.0,sold,2.0,,False,True
+2022,Prabhsimran Singh,Prabhsimran Singh,PBKS,Wicket-keeper,IND,False,20.0,60.0,sold,5.0,,False,True
+2022,Sheldon Jackson,Sheldon Jackson (cricketer),KKR,Wicket-keeper,IND,False,30.0,60.0,sold,4.0,,False,True
+2022,Jitesh Sharma,Jitesh Sharma,PBKS,Wicket-keeper,IND,False,20.0,20.0,sold,,,False,True
+2022,Basil Thampi,Basil Thampi,MI,Fast bowler,IND,False,30.0,30.0,sold,20.0,,False,True
+2022,Kartik Tyagi,Kartik Tyagi,SRH,Fast bowler,IND,False,20.0,400.0,sold,14.0,,False,True
+2022,Akash Deep,Akash Deep,RCB,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,KM Asif,KM Asif,CSK,Fast bowler,IND,False,20.0,20.0,sold,3.0,,False,True
+2022,Avesh Khan,Avesh Khan,LSG,Fast bowler,IND,False,20.0,1000.0,sold,25.0,,False,True
+2022,Ishan Porel,Ishan Porel,PBKS,Fast bowler,IND,False,20.0,25.0,sold,1.0,,False,True
+2022,Tushar Deshpande,Tushar Deshpande,CSK,Fast bowler,IND,False,20.0,20.0,sold,5.0,,False,True
+2022,Ankit Rajpoot,Ankit Rajpoot,LSG,Fast bowler,IND,False,20.0,50.0,sold,29.0,,False,True
+2022,Noor Ahmad,Noor Ahmad,GT,Fast bowler,AFG,False,30.0,30.0,sold,,,True,True
+2022,Murugan Ashwin,Murugan Ashwin,MI,Fast bowler,IND,False,20.0,160.0,sold,34.0,,False,True
+2022,K. C. Cariappa,K. C. Cariappa (cricketer),RR,Fast bowler,IND,False,20.0,30.0,sold,11.0,,False,True
+2022,Shreyas Gopal,Shreyas Gopal,SRH,Fast bowler,IND,False,20.0,75.0,sold,48.0,,False,True
+2022,Jagadeesha Suchith,Jagadeesha Suchith,SRH,Fast bowler,IND,False,20.0,20.0,sold,17.0,,False,True
+2022,Ravisrinivasan Sai Kishore,Ravisrinivasan Sai Kishore,GT,Fast bowler,IND,False,20.0,300.0,sold,,,False,True
+2022,Aiden Markram,Aiden Markram,SRH,Batter,SA,True,100.0,260.0,sold,6.0,,True,True
+2022,Ajinkya Rahane,Ajinkya Rahane,KKR,Batter,IND,True,100.0,100.0,sold,151.0,,False,True
+2022,Mandeep Singh,Mandeep Singh,DC,Batter,IND,True,50.0,110.0,sold,105.0,,False,True
+2022,Liam Livingstone,Liam Livingstone,PBKS,All-rounder,ENG,True,100.0,1150.0,sold,9.0,,True,True
+2022,Dominic Drakes,Dominic Drakes,GT,All-rounder,WIN,True,75.0,110.0,sold,,,True,True
+2022,Jayant Yadav,Jayant Yadav,GT,All-rounder,IND,True,100.0,170.0,sold,19.0,,False,True
+2022,Vijay Shankar,Vijay Shankar (cricketer),GT,All-rounder,IND,True,50.0,140.0,sold,47.0,,False,True
+2022,Odean Smith,Odean Smith,PBKS,All-rounder,WIN,True,100.0,600.0,sold,,,True,True
+2022,Marco Jansen,Marco Jansen,SRH,All-rounder,SA,True,50.0,420.0,sold,2.0,,True,True
+2022,Shivam Dube,Shivam Dube,CSK,All-rounder,IND,True,50.0,400.0,sold,24.0,,False,True
+2022,Krishnappa Gowtham,Krishnappa Gowtham,LSG,All-rounder,IND,True,50.0,90.0,sold,24.0,,False,True
+2022,Khaleel Ahmed,Khaleel Ahmed,DC,Fast bowler,IND,True,50.0,525.0,sold,24.0,,False,True
+2022,Dushmantha Chameera,Dushmantha Chameera,LSG,Fast bowler,SL,True,50.0,200.0,sold,,,True,True
+2022,Chetan Sakariya,Chetan Sakariya,DC,Fast bowler,IND,True,50.0,420.0,sold,14.0,,False,True
+2022,Sandeep Sharma,Sandeep Sharma,PBKS,Fast bowler,IND,True,50.0,50.0,sold,99.0,,False,True
+2022,Navdeep Saini,Navdeep Saini,RR,Fast bowler,IND,True,75.0,260.0,sold,28.0,,False,True
+2022,Jaydev Unadkat,Jaydev Unadkat,MI,Fast bowler,IND,True,75.0,130.0,sold,86.0,,False,True
+2022,Mayank Markande,Mayank Markande,MI,Fast bowler,IND,True,50.0,65.0,sold,18.0,,False,True
+2022,Shahbaz Nadeem,Shahbaz Nadeem,LSG,Fast bowler,IND,True,50.0,50.0,sold,72.0,,False,True
+2022,Maheesh Theekshana,Maheesh Theekshana,CSK,Fast bowler,SL,True,50.0,70.0,sold,,,True,True
+2022,Rinku Singh,Rinku Singh (cricketer),KKR,Batter,IND,False,20.0,55.0,sold,11.0,,False,True
+2022,Manan Vohra,Manan Vohra,LSG,Batter,IND,False,20.0,20.0,sold,53.0,,False,True
+2022,Lalit Yadav,Lalit Yadav (Delhi cricketer),DC,All-rounder,IND,False,20.0,65.0,sold,7.0,,False,True
+2022,Ripal Patel,Ripal Patel,DC,All-rounder,IND,False,20.0,20.0,sold,2.0,,False,True
+2022,Yash Dhull,Yash Dhull,DC,All-rounder,IND,False,20.0,50.0,sold,,,False,True
+2022,Tilak Varma,Tilak Varma,MI,All-rounder,IND,False,20.0,170.0,sold,,,False,True
+2022,Mahipal Lomror,Mahipal Lomror,RCB,All-rounder,IND,False,40.0,95.0,sold,11.0,,False,True
+2022,Anukul Roy,Anukul Roy,KKR,All-rounder,IND,False,20.0,20.0,sold,1.0,,False,True
+2022,Darshan Nalkande,Darshan Nalkande,GT,All-rounder,IND,False,20.0,20.0,sold,,,False,True
+2022,R. Sanjay Yadav,Sanjay Yadav (cricketer),MI,All-rounder,IND,False,20.0,50.0,sold,,,False,True
+2022,Raj Bawa,Raj Angad Bawa,PBKS,All-rounder,IND,False,20.0,200.0,sold,,,False,True
+2022,Rajvardhan Hangargekar,Rajvardhan Hangargekar,CSK,All-rounder,IND,False,30.0,150.0,sold,,,False,True
+2022,Yash Dayal,Yash Dayal,GT,Fast bowler,IND,False,20.0,320.0,sold,,,False,True
+2022,Simarjeet Singh,Simarjeet Singh,CSK,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,Finn Allen,Finn Allen,RCB,Batter,NZ,True,50.0,80.0,sold,,,True,True
+2022,Devon Conway,Devon Conway,CSK,Batter,NZ,True,100.0,100.0,sold,,,True,True
+2022,Rovman Powell,Rovman Powell,DC,Batter,WIN,True,75.0,280.0,sold,,,True,True
+2022,Jofra Archer,Jofra Archer,MI,All-rounder,ENG,True,200.0,800.0,sold,35.0,,True,True
+2022,Rishi Dhawan,Rishi Dhawan,PBKS,All-rounder,IND,True,50.0,55.0,sold,26.0,,False,True
+2022,Dwaine Pretorius,Dwaine Pretorius,CSK,All-rounder,SA,True,50.0,50.0,sold,,,True,True
+2022,Sherfane Rutherford,Sherfane Rutherford,RCB,All-rounder,WIN,True,100.0,100.0,sold,7.0,,True,True
+2022,Daniel Sams,Daniel Sams (cricketer),MI,All-rounder,AUS,True,100.0,260.0,sold,5.0,,True,True
+2022,Mitchell Santner,Mitchell Santner,CSK,All-rounder,NZ,True,100.0,190.0,sold,6.0,,True,True
+2022,Romario Shepherd,Romario Shepherd,SRH,All-rounder,WIN,True,75.0,775.0,sold,,,True,True
+2022,Jason Behrendorff,Jason Behrendorff,RCB,Fast bowler,AUS,True,75.0,75.0,sold,5.0,,True,True
+2022,Obed McCoy,Obed McCoy,RR,Fast bowler,WIN,True,75.0,75.0,sold,,,True,True
+2022,Tymal Mills,Tymal Mills,MI,Fast bowler,ENG,True,100.0,150.0,sold,5.0,,True,True
+2022,Adam Milne,Adam Milne,CSK,Fast bowler,NZ,True,150.0,190.0,sold,9.0,,True,True
+2022,Subhranshu Senapati,Subhranshu Senapati,CSK,Batter,IND,False,20.0,20.0,sold,,,False,True
+2022,Tim David,Tim David,MI,Batter,AUS,True,40.0,825.0,sold,1.0,,True,True
+2022,Pravin Dubey,Pravin Dubey,DC,All-rounder,IND,False,20.0,50.0,sold,3.0,,False,True
+2022,Prerak Mankad,Prerak Mankad,PBKS,All-rounder,IND,False,20.0,20.0,sold,,,False,True
+2022,Suyash Prabhudessai,Suyash Prabhudessai,RCB,All-rounder,IND,False,20.0,30.0,sold,,,False,True
+2022,Vaibhav Arora,Vaibhav Arora,PBKS,Fast bowler,IND,False,20.0,200.0,sold,,,False,True
+2022,Mukesh Choudhary,Mukesh Choudhary (cricketer),CSK,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,Rasikh Salam Dar,Rasikh Salam,KKR,Fast bowler,IND,False,20.0,20.0,sold,1.0,,False,True
+2022,Mohsin Khan,Mohsin Khan (Indian cricketer),LSG,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,Chama Milind,Chama Milind,RCB,Fast bowler,IND,False,20.0,25.0,sold,,,False,True
+2022,Prashant Solanki,Prashant Solanki,CSK,Fast bowler,IND,False,20.0,120.0,sold,,,False,True
+2022,Sean Abbott,Sean Abbott,SRH,All-rounder,AUS,True,20.0,240.0,sold,2.0,,True,True
+2022,Alzarri Joseph,Alzarri Joseph,GT,Fast bowler,WIN,True,75.0,240.0,sold,3.0,,True,True
+2022,Riley Meredith,Riley Meredith,MI,Fast bowler,AUS,True,100.0,100.0,sold,5.0,,True,True
+2022,Ayush Badoni,Ayush Badoni,LSG,Batter,IND,False,20.0,20.0,sold,,,False,True
+2022,Aneeshwar Gautam,,RCB,All-rounder,IND,False,100.0,100.0,sold,,,False,True
+2022,Baba Indrajith,Baba Indrajith,KKR,Wicket-keeper,IND,False,20.0,20.0,sold,,,False,True
+2022,Chamika Karunaratne,Chamika Karunaratne,KKR,All-rounder,SL,True,50.0,50.0,sold,,,True,True
+2022,Ravikumar Samarth,Ravikumar Samarth,SRH,Batter,IND,False,20.0,20.0,sold,,,False,True
+2022,Abhijeet Tomar,Abhijeet Tomar,KKR,Batter,IND,False,20.0,40.0,sold,,,False,True
+2022,Pradeep Sangwan,Pradeep Sangwan,GT,Fast bowler,IND,False,20.0,20.0,sold,39.0,,False,True
+2022,Writtick Chatterjee,Writtick Chatterjee,PBKS,All-rounder,IND,False,20.0,20.0,sold,,,False,True
+2022,Pratham Singh,Pratham Singh,KKR,Batter,IND,False,20.0,20.0,sold,,,False,True
+2022,Shashank Singh,Shashank Singh,SRH,All-rounder,IND,False,20.0,20.0,sold,,,False,True
+2022,Kyle Mayers,Kyle Mayers,LSG,All-rounder,WIN,True,50.0,50.0,sold,,,True,True
+2022,Karan Sharma,"Karan Sharma (cricketer, born 1998)",LSG,All-rounder,IND,False,20.0,20.0,sold,,,False,True
+2022,Baltej Singh,Baltej Singh,PBKS,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,Saurabh Dubey,Saurabh Dubey (Maharashtra cricketer),SRH,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,Mohammed Arshad Khan,Arshad Khan (Indian cricketer),MI,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,Ansh Patel,,PBKS,All-rounder,IND,False,20.0,20.0,sold,,,False,True
+2022,Ashok Sharma,,KKR,Fast bowler,IND,False,20.0,50.0,sold,,,False,True
+2022,Anunay Singh,Anunay Singh,RR,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,David Miller,David Miller (South African cricketer),GT,Batter,SA,True,100.0,300.0,sold,89.0,,True,True
+2022,Sam Billings,Sam Billings,KKR,Wicket-keeper,ENG,True,200.0,200.0,sold,22.0,,True,True
+2022,Wriddhiman Saha,Wriddhiman Saha,GT,Wicket-keeper,IND,True,100.0,190.0,sold,133.0,,False,True
+2022,Matthew Wade,Matthew Wade,GT,Wicket-keeper,AUS,True,200.0,240.0,sold,3.0,,True,True
+2022,C. Hari Nishanth,Chezhian Harinishanth,CSK,Batter,IND,False,20.0,20.0,sold,,,False,True
+2022,Anmolpreet Singh,Anmolpreet Singh,MI,Batter,IND,False,20.0,20.0,sold,1.0,,False,True
+2022,Narayan Jagadeesan,Narayan Jagadeesan,CSK,Wicket-keeper,IND,False,20.0,20.0,sold,5.0,,False,True
+2022,Vishnu Vinod,Vishnu Vinod,SRH,Wicket-keeper,IND,False,20.0,50.0,sold,3.0,,False,True
+2022,Chris Jordan,Chris Jordan (cricketer),CSK,Fast bowler,ENG,True,200.0,360.0,sold,24.0,,True,True
+2022,Lungi Ngidi,Lungi Ngidi,DC,Fast bowler,SA,True,50.0,50.0,sold,14.0,,True,True
+2022,Karn Sharma,Karn Sharma,RCB,Fast bowler,IND,True,50.0,50.0,sold,68.0,,False,True
+2022,Kuldeep Sen,Kuldeep Sen,RR,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,Alex Hales,Alex Hales,KKR,Batter,ENG,True,150.0,150.0,sold,6.0,,True,True
+2022,Evin Lewis,Evin Lewis,LSG,Batter,WIN,True,200.0,200.0,sold,21.0,,True,True
+2022,Karun Nair,Karun Nair,RR,Batter,IND,True,50.0,140.0,sold,73.0,,False,True
+2022,Glenn Phillips,Glenn Phillips (cricketer),SRH,Wicket-keeper,NZ,True,150.0,150.0,sold,3.0,,True,True
+2022,Tim Seifert,Tim Seifert,DC,Wicket-keeper,NZ,True,50.0,50.0,sold,1.0,,True,True
+2022,Nathan Ellis,Nathan Ellis,PBKS,Fast bowler,AUS,True,75.0,75.0,sold,3.0,,True,True
+2022,Fazalhaq Farooqi,Fazalhaq Farooqi,SRH,Fast bowler,AFG,True,50.0,50.0,sold,,,True,True
+2022,Ramandeep Singh,Ramandeep Singh (cricketer),MI,Batter,IND,False,20.0,20.0,sold,,,False,True
+2022,Atharva Taide,Atharva Taide,PBKS,All-rounder,IND,False,20.0,20.0,sold,,,False,True
+2022,Dhruv Jurel,Dhruv Jurel,RR,Wicket-keeper,IND,False,20.0,20.0,sold,,,False,True
+2022,Mayank Yadav,,LSG,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,Tejas Baroka,Tejas Baroka,RR,Fast bowler,IND,False,20.0,20.0,sold,1.0,,False,True
+2022,Bhanuka Rajapaksa,Bhanuka Rajapaksa,PBKS,Batter,SL,True,50.0,50.0,sold,,,True,True
+2022,Gurkeerat Singh,Gurkeerat Singh,GT,Batter,IND,True,50.0,50.0,sold,41.0,,False,True
+2022,Tim Southee,Tim Southee,KKR,Fast bowler,NZ,True,150.0,150.0,sold,43.0,,True,True
+2022,Rahul Buddhi,Rahul Buddhi,MI,Batter,IND,False,20.0,20.0,sold,,,False,True
+2022,Benny Howell,Benny Howell,PBKS,All-rounder,ENG,False,40.0,40.0,sold,,,True,True
+2022,Kuldip Yadav,Kuldip Yadav,RR,Fast bowler,IND,False,20.0,20.0,sold,1.0,,False,True
+2022,Varun Aaron,Varun Aaron,GT,Fast bowler,IND,True,50.0,50.0,sold,50.0,,False,True
+2022,Ramesh Kumar,Ramesh Kumar (cricketer),KKR,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,Hrithik Shokeen,Hrithik Shokeen,MI,All-rounder,IND,False,20.0,20.0,sold,,,False,True
+2022,K. Bhagath Varma,Bhagath Varma,CSK,All-rounder,IND,False,20.0,20.0,sold,,,False,True
+2022,Arjun Tendulkar,Arjun Tendulkar,MI,All-rounder,IND,False,20.0,30.0,sold,,,False,True
+2022,Shubham Garhwal,,RR,All-rounder,IND,False,20.0,20.0,sold,,,False,True
+2022,Mohammad Nabi,Mohammad Nabi,KKR,All-rounder,AFG,True,100.0,100.0,sold,17.0,,True,True
+2022,Umesh Yadav,Umesh Yadav,KKR,Fast bowler,IND,True,200.0,200.0,sold,121.0,,False,True
+2022,James Neesham,James Neesham,RR,All-rounder,NZ,True,150.0,150.0,sold,12.0,,True,True
+2022,Nathan Coulter-Nile,Nathan Coulter-Nile,RR,All-rounder,AUS,True,200.0,200.0,sold,38.0,,True,True
+2022,Vicky Ostwal,,DC,Fast bowler,IND,False,20.0,20.0,sold,,,False,True
+2022,Rassie van der Dussen,Rassie van der Dussen,RR,Batter,SA,True,100.0,100.0,sold,,,True,True
+2022,Daryl Mitchell,Daryl Mitchell (New Zealand cricketer),RR,All-rounder,NZ,True,75.0,75.0,sold,,,True,True
+2022,Siddharth Kaul,Siddarth Kaul,RCB,Fast bowler,IND,True,75.0,75.0,sold,54.0,,False,True
+2022,B. Sai Sudharshan,Sai Sudharshan,GT,Batter,IND,False,20.0,20.0,sold,,,False,True
+2022,Aryan Juyal,Aryan Juyal,MI,Wicket-keeper,IND,False,20.0,20.0,sold,,,False,True
+2022,Luvnith Sisodia,Luvnith Sisodia,RCB,Wicket-keeper,IND,False,20.0,20.0,sold,,,False,True
+2022,Fabian Allen,Fabian Allen,MI,All-rounder,WIN,True,75.0,75.0,sold,4.0,,True,True
+2022,David Willey,David Willey (cricketer),RCB,All-rounder,ENG,True,200.0,200.0,sold,3.0,,True,True
+2022,Aman Khan,Aman Khan,KKR,All-rounder,IND,False,20.0,20.0,sold,,,False,True
+2023,Ravindra Jadeja,Ravindra Jadeja,CSK,,IND,,,1600.0,retained,,retained,False,False
+2023,Deepak Chahar,Deepak Chahar,CSK,Fast bowler,IND,,,1400.0,retained,,retained,False,False
+2023,MS Dhoni,MS Dhoni,CSK,,IND,,,1200.0,retained,,retained,False,False
+2023,Moeen Ali,Moeen Ali,CSK,,ENG,,,800.0,retained,,retained,True,False
+2023,Ambati Rayudu,Ambati Rayudu,CSK,Wicket-keeper,IND,,,675.0,retained,,retained,False,False
+2023,Ruturaj Gaikwad,Ruturaj Gaikwad,CSK,,IND,,,600.0,retained,,retained,False,False
+2023,Shivam Dube,Shivam Dube,CSK,All-rounder,IND,,,400.0,retained,,retained,False,False
+2023,Mitchell Santner,Mitchell Santner,CSK,All-rounder,NZ,,,190.0,retained,,retained,True,False
+2023,Rajvardhan Hangargekar,Rajvardhan Hangargekar,CSK,All-rounder,IND,,,150.0,retained,,retained,False,False
+2023,Prashant Solanki,Prashant Solanki,CSK,Spin bowler,IND,,,120.0,retained,,retained,False,False
+2023,Devon Conway,Devon Conway,CSK,Batter,NZ,,,100.0,retained,,retained,True,False
+2023,Maheesh Theekshana,Maheesh Theekshana,CSK,Spin bowler,SL,,,70.0,retained,,retained,True,False
+2023,Dwaine Pretorius,Dwaine Pretorius,CSK,All-rounder,SA,,,50.0,retained,,retained,True,False
+2023,Matheesha Pathirana,Matheesha Pathirana,CSK,Fast bowler,SL,,,20.0,retained,,retained,True,False
+2023,Mukesh Choudhary,Mukesh Choudhary,CSK,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2023,Simarjeet Singh,Simarjeet Singh,CSK,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2023,Subhranshu Senapati,Subhranshu Senapati,CSK,Batter,IND,,,20.0,retained,,retained,False,False
+2023,Tushar Deshpande,Tushar Deshpande,CSK,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2023,Rishabh Pant,Rishabh Pant,DC,Batter,IND,,,1600.0,retained,,retained,False,False
+2023,Axar Patel,Axar Patel,DC,,IND,,,900.0,retained,,retained,False,False
+2023,Prithvi Shaw,Prithvi Shaw,DC,Batter,IND,,,750.0,retained,,retained,False,False
+2023,Anrich Nortje,Anrich Nortje,DC,Fast bowler,SA,,,650.0,retained,,retained,True,False
+2023,Mitchell Marsh,Mitchell Marsh,DC,All-rounder,AUS,,,650.0,retained,,retained,True,False
+2023,David Warner,David Warner (cricketer),DC,Batter,AUS,,,625.0,retained,,retained,True,False
+2023,Khaleel Ahmed,Khaleel Ahmed,DC,Fast bowler,IND,,,525.0,retained,,retained,False,False
+2023,Chetan Sakariya,Chetan Sakariya,DC,Fast bowler,IND,,,420.0,retained,,retained,False,False
+2023,Rovman Powell,Rovman Powell,DC,Batter,WIN,,,280.0,retained,,retained,True,False
+2023,Kuldeep Yadav,Kuldeep Yadav,DC,Fast bowler,IND,,,200.0,retained,,retained,False,False
+2023,Mustafizur Rahman,Mustafizur Rahman,DC,Fast bowler,BAN,,,200.0,retained,,retained,True,False
+2023,Kamlesh Nagarkoti,Kamlesh Nagarkoti,DC,All-rounder,IND,,,110.00000000000001,retained,,retained,False,False
+2023,Lalit Yadav,Lalit Yadav (Delhi cricketer),DC,All-rounder,IND,,,65.0,retained,,retained,False,False
+2023,Lungi Ngidi,Lungi Ngidi,DC,Fast bowler,SA,,,50.0,retained,,retained,True,False
+2023,Praveen Dubey,Praveen Dubey,DC,Fast bowler,IND,,,50.0,retained,,retained,False,False
+2023,Yash Dhull,Yash Dhull,DC,All-rounder,IND,,,50.0,retained,,retained,False,False
+2023,Aman Hakim Khan,Aman Hakim Khan,DC,,IND,,,20.0,retained,,retained,False,False
+2023,Ripal Patel,Ripal Patel,DC,All-rounder,IND,,,20.0,retained,,retained,False,False
+2023,Sarfaraz Khan,Sarfaraz Khan (cricketer),DC,Batter,IND,,,20.0,retained,,retained,False,False
+2023,Vicky Ostwal,Vicky Ostwal,DC,All-rounder,IND,,,20.0,retained,,retained,False,False
+2023,Hardik Pandya,Hardik Pandya,GT,,IND,,,1500.0,retained,,retained,False,False
+2023,Rashid Khan,Rashid Khan,GT,,AFG,,,1500.0,retained,,retained,True,False
+2023,Rahul Tewatia,Rahul Tewatia,GT,All-rounder,IND,,,900.0,retained,,retained,False,False
+2023,Shubman Gill,Shubman Gill,GT,,IND,,,800.0,retained,,retained,False,False
+2023,Mohammed Shami,Mohammed Shami,GT,Fast bowler,IND,,,625.0,retained,,retained,False,False
+2023,Yash Dayal,Yash Dayal,GT,Fast bowler,IND,,,320.0,retained,,retained,False,False
+2023,David Miller,David Miller (South African cricketer),GT,Batter,SA,,,300.0,retained,,retained,True,False
+2023,Ravisrinivasan Sai Kishore,Ravisrinivasan Sai Kishore,GT,Fast bowler,IND,,,300.0,retained,,retained,False,False
+2023,Abhinav Manohar,Abhinav Manohar,GT,Batter,IND,,,260.0,retained,,retained,False,False
+2023,Alzarri Joseph,Alzarri Joseph,GT,Fast bowler,WIN,,,240.0,retained,,retained,True,False
+2023,Matthew Wade,Matthew Wade,GT,Wicket-keeper,AUS,,,240.0,retained,,retained,True,False
+2023,Wriddhiman Saha,Wriddhiman Saha,GT,Wicket-keeper,IND,,,190.0,retained,,retained,False,False
+2023,Jayant Yadav,Jayant Yadav,GT,All-rounder,IND,,,170.0,retained,,retained,False,False
+2023,Vijay Shankar,Vijay Shankar,GT,All-rounder,IND,,,140.0,retained,,retained,False,False
+2023,Noor Ahmad,Noor Ahmad,GT,Spin bowler,AFG,,,30.0,retained,,retained,True,False
+2023,Darshan Nalkande,Darshan Nalkande,GT,All-rounder,IND,,,20.0,retained,,retained,False,False
+2023,Pradeep Sangwan,Pradeep Sangwan,GT,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2023,Sai Sudharshan,Sai Sudharshan,GT,,IND,,,20.0,retained,,retained,False,False
+2023,Andre Russell,Andre Russell,KKR,,WIN,,,1200.0,retained,,retained,True,False
+2023,Shreyas Iyer,Shreyas Iyer,KKR,Batter,IND,,,1225.0,retained,,retained,False,False
+2023,Varun Chakravarthy,Varun Chakravarthy,KKR,,IND,,,800.0,retained,,retained,False,False
+2023,Shardul Thakur,Shardul Thakur,KKR,All-rounder,IND,,,1075.0,retained,,retained,False,False
+2023,Lockie Ferguson,Lockie Ferguson,KKR,Fast bowler,NZ,,,1000.0,retained,,retained,True,False
+2023,Nitish Rana,Nitish Rana,KKR,All-rounder,IND,,,800.0,retained,,retained,False,False
+2023,Venkatesh Iyer,Venkatesh Iyer,KKR,All-rounder,IND,,,800.0,retained,,retained,False,False
+2023,Sunil Narine,Sunil Narine,KKR,,WIN,,,600.0,retained,,retained,True,False
+2023,Umesh Yadav,Umesh Yadav,KKR,Fast bowler,IND,,,200.0,retained,,retained,False,False
+2023,Tim Southee,Tim Southee,KKR,Fast bowler,NZ,,,150.0,retained,,retained,True,False
+2023,Rinku Singh,Rinku Singh (cricketer),KKR,Batter,IND,,,55.0,retained,,retained,False,False
+2023,Rahmanullah Gurbaz,Rahmanullah Gurbaz,KKR,Wicket-keeper,AFG,,,50.0,retained,,retained,True,False
+2023,Anukul Roy,Anukul Roy,KKR,All-rounder,IND,,,20.0,retained,,retained,False,False
+2023,Harshit Rana,Harshit Rana,KKR,,IND,,,20.0,retained,,retained,False,False
+2023,KL Rahul,KL Rahul,LSG,Wicket-keeper,IND,,,1700.0,retained,,retained,False,False
+2023,Avesh Khan,Avesh Khan,LSG,Fast bowler,IND,,,1000.0,retained,,retained,False,False
+2023,Marcus Stoinis,Marcus Stoinis,LSG,All-rounder,AUS,,,919.9999999999999,retained,,retained,True,False
+2023,Krunal Pandya,Krunal Pandya,LSG,All-rounder,IND,,,825.0,retained,,retained,False,False
+2023,Mark Wood,Mark Wood (cricketer),LSG,Fast bowler,ENG,,,750.0,retained,,retained,True,False
+2023,Quinton de Kock,Quinton de Kock,LSG,Wicket-keeper,SA,,,675.0,retained,,retained,True,False
+2023,Deepak Hooda,Deepak Hooda,LSG,All-rounder,IND,,,575.0,retained,,retained,False,False
+2023,Ravi Bishnoi,Ravi Bishnoi,LSG,Spin bowler,IND,,,400.0,retained,,retained,False,False
+2023,Krishnappa Gowtham,Krishnappa Gowtham,LSG,All-rounder,IND,,,90.0,retained,,retained,False,False
+2023,Kyle Mayers,Kyle Mayers,LSG,All-rounder,WIN,,,50.0,retained,,retained,True,False
+2023,Ayush Badoni,Ayush Badoni,LSG,Batter,IND,,,20.0,retained,,retained,False,False
+2023,Karan Sharma,"Karan Sharma (cricketer, born 1998)",LSG,All-rounder,IND,,,20.0,retained,,retained,False,False
+2023,Manan Vohra,Manan Vohra,LSG,Batter,IND,,,20.0,retained,,retained,False,False
+2023,Mayank Yadav,Mayank Yadav,LSG,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2023,Mohsin Khan,Mohsin Khan (Indian cricketer),LSG,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2023,Rohit Sharma,Rohit Sharma,MI,,IND,,,1600.0,retained,,retained,False,False
+2023,Ishan Kishan,Ishan Kishan,MI,Wicket-keeper,IND,,,1525.0,retained,,retained,False,False
+2023,Jasprit Bumrah,Jasprit Bumrah,MI,,IND,,,1200.0,retained,,retained,False,False
+2023,Tim David,Tim David,MI,All-rounder,AUS,,,825.0,retained,,retained,True,False
+2023,Jofra Archer,Jofra Archer,MI,Fast bowler,ENG,,,800.0,retained,,retained,True,False
+2023,Suryakumar Yadav,Suryakumar Yadav,MI,,IND,,,800.0,retained,,retained,False,False
+2023,Dewald Brevis,Dewald Brevis,MI,Batter,SA,,,300.0,retained,,retained,True,False
+2023,Tilak Varma,Tilak Varma,MI,All-rounder,IND,,,170.0,retained,,retained,False,False
+2023,Jason Behrendorff,Jason Behrendorff,MI,Fast bowler,AUS,,,75.0,retained,,retained,True,False
+2023,Arjun Tendulkar,Arjun Tendulkar,MI,Fast bowler,IND,,,30.0,retained,,retained,False,False
+2023,Akash Madhwal,Akash Madhwal,MI,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2023,Hrithik Shokeen,Hrithik Shokeen,MI,All-rounder,IND,,,20.0,retained,,retained,False,False
+2023,Kumar Kartikeya Singh,Kumar Kartikeya,MI,,IND,,,20.0,retained,,retained,False,False
+2023,Mohd Arshad Khan,Arshad Khan (Indian cricketer),MI,,IND,,,20.0,retained,,retained,False,False
+2023,Ramandeep Singh,Ramandeep Singh (cricketer),MI,All-rounder,IND,,,20.0,retained,,retained,False,False
+2023,Tristan Stubbs,Tristan Stubbs,MI,Wicket-keeper,SA,,,20.0,retained,,retained,True,False
+2023,Liam Livingstone,Liam Livingstone,PBKS,All-rounder,ENG,,,1150.0,retained,,retained,True,False
+2023,Kagiso Rabada,Kagiso Rabada,PBKS,Fast bowler,SA,,,925.0,retained,,retained,True,False
+2023,Shahrukh Khan,Shahrukh Khan (cricketer),PBKS,All-rounder,IND,,,900.0,retained,,retained,False,False
+2023,Shikhar Dhawan,Shikhar Dhawan,PBKS,Batter,IND,,,825.0,retained,,retained,False,False
+2023,Jonny Bairstow,Jonny Bairstow,PBKS,Wicket-keeper,ENG,,,675.0,retained,,retained,True,False
+2023,Rahul Chahar,Rahul Chahar,PBKS,Spin bowler,IND,,,525.0,retained,,retained,False,False
+2023,Arshdeep Singh,Arshdeep Singh (cricketer),PBKS,Fast bowler,IND,,,400.0,retained,,retained,False,False
+2023,Harpreet Brar,Harpreet Brar,PBKS,All-rounder,IND,,,380.0,retained,,retained,False,False
+2023,Raj Bawa,Raj Angad Bawa,PBKS,All-rounder,IND,,,200.0,retained,,retained,False,False
+2023,Nathan Ellis,Nathan Ellis,PBKS,Fast bowler,AUS,,,75.0,retained,,retained,True,False
+2023,Prabhsimran Singh,Prabhsimran Singh,PBKS,Wicket-keeper,IND,,,60.0,retained,,retained,False,False
+2023,Rishi Dhawan,Rishi Dhawan,PBKS,All-rounder,IND,,,55.0,retained,,retained,False,False
+2023,Bhanuka Rajapaksa,Bhanuka Rajapaksa,PBKS,Batter,SL,,,50.0,retained,,retained,True,False
+2023,Atharva Taide,Atharva Taide,PBKS,Batter,IND,,,20.0,retained,,retained,False,False
+2023,Baltej Dhanda,Baltej Dhanda,PBKS,,IND,,,20.0,retained,,retained,False,False
+2023,Jitesh Sharma,Jitesh Sharma,PBKS,Wicket-keeper,IND,,,20.0,retained,,retained,False,False
+2023,Sanju Samson,Sanju Samson,RR,,IND,,,1400.0,retained,,retained,False,False
+2023,Jos Buttler,Jos Buttler,RR,Wicket-keeper,ENG,,,1000.0,retained,,retained,True,False
+2023,Prasidh Krishna,Prasidh Krishna,RR,Fast bowler,IND,,,1000.0,retained,,retained,False,False
+2023,Shimron Hetmyer,Shimron Hetmyer,RR,Batter,WIN,,,850.0,retained,,retained,True,False
+2023,Trent Boult,Trent Boult,RR,Fast bowler,NZ,,,800.0,retained,,retained,True,False
+2023,Devdutt Padikkal,Devdutt Padikkal,RR,Batter,IND,,,775.0,retained,,retained,False,False
+2023,Yuzvendra Chahal,Yuzvendra Chahal,RR,Fast bowler,IND,,,650.0,retained,,retained,False,False
+2023,Ravichandran Ashwin,Ravichandran Ashwin,RR,All-rounder,IND,,,500.0,retained,,retained,False,False
+2023,Yashasvi Jaiswal,Yashasvi Jaiswal,RR,,IND,,,400.0,retained,,retained,False,False
+2023,Riyan Parag,Riyan Parag,RR,All-rounder,IND,,,380.0,retained,,retained,False,False
+2023,Navdeep Saini,Navdeep Saini,RR,Fast bowler,IND,,,260.0,retained,,retained,False,False
+2023,Obed McCoy,Obed McCoy,RR,Fast bowler,WIN,,,75.0,retained,,retained,True,False
+2023,K.C.Cariappa,K. C. Cariappa (cricketer),RR,,IND,,,30.0,retained,,retained,False,False
+2023,Dhruv Jurel,Dhruv Jurel,RR,Wicket-keeper,IND,,,20.0,retained,,retained,False,False
+2023,Kuldeep Sen,Kuldeep Sen,RR,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2023,Kuldip Yadav,Kuldip Yadav,RR,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2023,Virat Kohli,Virat Kohli,RCB,,IND,,,1500.0,retained,,retained,False,False
+2023,Glenn Maxwell,Glenn Maxwell,RCB,All-rounder,AUS,,,1100.0,retained,,retained,True,False
+2023,Harshal Patel,Harshal Patel,RCB,All-rounder,IND,,,1075.0,retained,,retained,False,False
+2023,Wanindu Hasaranga,Wanindu Hasaranga,RCB,All-rounder,SL,,,1075.0,retained,,retained,True,False
+2023,Josh Hazlewood,Josh Hazlewood,RCB,Fast bowler,AUS,,,775.0,retained,,retained,True,False
+2023,Faf du Plessis,Faf du Plessis,RCB,Batter,SA,,,700.0,retained,,retained,True,False
+2023,Mohammed Siraj,Mohammed Siraj,RCB,Fast bowler,IND,,,700.0,retained,,retained,False,False
+2023,Dinesh Karthik,Dinesh Karthik,RCB,Wicket-keeper,IND,,,550.0,retained,,retained,False,False
+2023,Anuj Rawat,Anuj Rawat,RCB,Wicket-keeper,IND,,,340.0,retained,,retained,False,False
+2023,Shahbaz Ahmed,Shahbaz Ahmed (cricketer),RCB,All-rounder,IND,,,240.0,retained,,retained,False,False
+2023,David Willey,David Willey (cricketer),RCB,All-rounder,ENG,,,200.0,retained,,retained,True,False
+2023,Mahipal Lomror,Mahipal Lomror,RCB,All-rounder,IND,,,95.0,retained,,retained,False,False
+2023,Finn Allen,Finn Allen,RCB,Wicket-keeper,NZ,,,80.0,retained,,retained,True,False
+2023,Siddarth Kaul,Siddarth Kaul,RCB,,IND,,,75.0,retained,,retained,False,False
+2023,Karn Sharma,Karn Sharma,RCB,Spin bowler,IND,,,50.0,retained,,retained,False,False
+2023,Suyash Prabhudessai,Suyash Prabhudessai,RCB,All-rounder,IND,,,30.0,retained,,retained,False,False
+2023,Akash Deep,Akash Deep,RCB,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2023,Rajat Patidar,Rajat Patidar,RCB,,IND,,,20.0,retained,,retained,False,False
+2023,Washington Sundar,Washington Sundar,SRH,All-rounder,IND,,,875.0,retained,,retained,False,False
+2023,Rahul Tripathi,Rahul Tripathi,SRH,Batter,IND,,,850.0,retained,,retained,False,False
+2023,Abhishek Sharma,"Abhishek Sharma (cricketer, born 2000)",SRH,All-rounder,IND,,,650.0,retained,,retained,False,False
+2023,Bhuvneshwar Kumar,Bhuvneshwar Kumar,SRH,Fast bowler,IND,,,420.0,retained,,retained,False,False
+2023,Marco Jansen,Marco Jansen,SRH,All-rounder,SA,,,420.0,retained,,retained,True,False
+2023,Abdul Samad,Abdul Samad (Indian cricketer),SRH,All-rounder,IND,,,400.0,retained,,retained,False,False
+2023,Kartik Tyagi,Kartik Tyagi,SRH,Fast bowler,IND,,,400.0,retained,,retained,False,False
+2023,T. Natarajan,T. Natarajan,SRH,Fast bowler,IND,,,400.0,retained,,retained,False,False
+2023,Umran Malik,Umran Malik,SRH,Fast bowler,IND,,,400.0,retained,,retained,False,False
+2023,Aiden Markram,Aiden Markram,SRH,Batter,SA,,,260.0,retained,,retained,True,False
+2023,Glenn Phillips,Glenn Phillips (cricketer),SRH,Batter,NZ,,,150.0,retained,,retained,True,False
+2023,Fazalhaq Farooqi,Fazalhaq Farooqi,SRH,Fast bowler,AFG,,,50.0,retained,,retained,True,False
+2023,Kane Williamson,Kane Williamson,GT,Batter,NZ,True,200.0,200.0,sold,76.0,,True,False
+2023,Harry Brook,Harry Brook,SRH,Batter,ENG,True,150.0,1325.0,sold,0.0,,True,False
+2023,Mayank Agarwal,Mayank Agarwal,SRH,Batter,IND,True,100.0,825.0,sold,113.0,,False,False
+2023,Ajinkya Rahane,Ajinkya Rahane,CSK,Batter,IND,True,50.0,50.0,sold,158.0,,False,False
+2023,Sam Curran,Sam Curran,PBKS,All-rounder,ENG,True,200.0,1850.0,sold,32.0,,True,False
+2023,Odean Smith,Odean Smith,GT,All-rounder,WIN,True,50.0,50.0,sold,6.0,,True,False
+2023,Sikandar Raza,Sikandar Raza,PBKS,All-rounder,ZIM,True,50.0,50.0,sold,0.0,,True,False
+2023,Jason Holder,Jason Holder,RR,All-rounder,WIN,True,200.0,575.0,sold,38.0,,True,False
+2023,Cameron Green,Cameron Green,MI,All-rounder,AUS,True,200.0,1750.0,sold,0.0,,True,False
+2023,Ben Stokes,Ben Stokes,CSK,All-rounder,ENG,True,200.0,1625.0,sold,43.0,,True,False
+2023,Nicholas Pooran,Nicholas Pooran,LSG,Wicket-keeper,WIN,True,200.0,1600.0,sold,47.0,,True,False
+2023,Heinrich Klaasen,Heinrich Klaasen,SRH,Wicket-keeper,SA,True,100.0,525.0,sold,7.0,,True,False
+2023,Phil Salt,Phil Salt,DC,Wicket-keeper,ENG,True,200.0,200.0,sold,0.0,,True,False
+2023,Reece Topley,Reece Topley,RCB,Fast bowler,ENG,True,75.0,190.0,sold,0.0,,True,False
+2023,Jaydev Unadkat,Jaydev Unadkat,LSG,Fast bowler,IND,True,50.0,50.0,sold,91.0,,False,False
+2023,Jhye Richardson,Jhye Richardson,MI,Fast bowler,AUS,True,150.0,150.0,sold,3.0,,True,False
+2023,Ishant Sharma,Ishant Sharma,DC,Fast bowler,IND,True,50.0,50.0,sold,93.0,,False,False
+2023,Adil Rashid,Adil Rashid,SRH,Fast bowler,ENG,True,200.0,200.0,sold,0.0,,True,False
+2023,Mayank Markande,Mayank Markande,SRH,Fast bowler,IND,True,50.0,50.0,sold,20.0,,False,False
+2023,Shaik Rasheed,Shaik Rasheed,CSK,Batter,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Vivrant Sharma,Vivrant Sharma,SRH,All-rounder,IND,False,20.0,260.0,sold,0.0,,False,False
+2023,Samarth Vyas,Samarth Vyas,SRH,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Sanvir Singh,Sanvir Singh,SRH,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Nishant Sindhu,Nishant Sindhu,CSK,All-rounder,IND,False,20.0,60.0,sold,0.0,,False,False
+2023,N Jagadeesan,N Jagadeesan,KKR,Wicket-keeper,IND,False,20.0,90.0,sold,7.0,,False,False
+2023,K. S. Bharat,K. S. Bharat,GT,Wicket-keeper,IND,False,20.0,120.0,sold,10.0,,False,False
+2023,Upendra Yadav,Upendra Yadav (cricketer),SRH,Wicket-keeper,IND,False,20.0,25.0,sold,0.0,,False,False
+2023,Vaibhav Arora,Vaibhav Arora,KKR,Fast bowler,IND,False,20.0,60.0,sold,5.0,,False,False
+2023,Yash Thakur,Yash Thakur,LSG,Fast bowler,IND,False,20.0,45.0,sold,0.0,,False,False
+2023,Shivam Mavi,Shivam Mavi,GT,Fast bowler,IND,False,40.0,600.0,sold,32.0,,False,False
+2023,Mukesh Kumar,Mukesh Kumar (cricketer),DC,Fast bowler,IND,False,20.0,550.0,sold,0.0,,False,False
+2023,Himanshu Sharma,Himanshu Sharma (cricketer),RCB,Fast bowler,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Manish Pandey,Manish Pandey,DC,Batter,IND,True,100.0,240.0,sold,160.0,,False,False
+2023,Will Jacks,Will Jacks,RCB,Batter,ENG,True,150.0,320.0,sold,0.0,,True,False
+2023,Romario Shepherd,Romario Shepherd,LSG,All-rounder,WIN,True,50.0,50.0,sold,3.0,,True,False
+2023,Daniel Sams,Daniel Sams,LSG,All-rounder,AUS,True,75.0,75.0,sold,16.0,,True,False
+2023,Kyle Jamieson,Kyle Jamieson,CSK,Fast bowler,NZ,True,100.0,100.0,sold,9.0,,True,False
+2023,Piyush Chawla,Piyush Chawla,MI,Fast bowler,IND,True,50.0,50.0,sold,165.0,,False,False
+2023,Amit Mishra,Amit Mishra,LSG,Fast bowler,IND,True,50.0,50.0,sold,154.0,,False,False
+2023,Harpreet Singh Bhatia,Harpreet Singh Bhatia,PBKS,Batter,IND,False,20.0,40.0,sold,4.0,,False,False
+2023,Manoj Bhandage,Manoj Bhandage,RCB,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Mayank Dagar,Mayank Dagar,SRH,All-rounder,IND,False,20.0,180.0,sold,0.0,,False,False
+2023,Duan Jansen,Duan Jansen,MI,All-rounder,SA,False,20.0,20.0,sold,0.0,,True,False
+2023,Prerak Mankad,Prerak Mankad,LSG,All-rounder,IND,False,20.0,180.0,sold,0.0,,False,False
+2023,Donavon Ferreira,Donavon Ferreira,RR,Wicket-keeper,SA,False,20.0,20.0,sold,0.0,,True,False
+2023,Urvil Patel,Urvil Patel,GT,Wicket-keeper,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Vishnu Vinod,Vishnu Vinod,MI,Wicket-keeper,IND,False,20.0,20.0,sold,3.0,,False,False
+2023,Vidwath Kaverappa,,PBKS,Fast bowler,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Rajan Kumar,,RCB,Fast bowler,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Suyash Sharma,Suyash Sharma,KKR,Fast bowler,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Josh Little,Josh Little,GT,Fast bowler,IRE,True,50.0,440.0,sold,0.0,,True,False
+2023,Mohit Sharma,Mohit Sharma,GT,Fast bowler,IND,True,50.0,50.0,sold,86.0,,False,False
+2023,Shams Mulani,Shams Mulani,MI,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Swapnil Singh,Swapnil Singh,LSG,All-rounder,IND,False,20.0,20.0,sold,5.0,,False,False
+2023,David Wiese,David Wiese,KKR,All-rounder,NAM,True,100.0,100.0,sold,15.0,,True,False
+2023,Nitish Kumar Reddy,Nitish Kumar Reddy,SRH,Wicket-keeper,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Avinash Singh,,RCB,Fast bowler,IND,False,20.0,60.0,sold,0.0,,False,False
+2023,Kunal Rathore,Kunal Rathore,RR,Wicket-keeper,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Sonu Yadav,Sonu Yadav,RCB,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Kulwant Khejroliya,Kulwant Khejroliya,KKR,Fast bowler,IND,False,20.0,20.0,sold,5.0,,False,False
+2023,Ajay Mandal,Ajay Mandal,CSK,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Mohit Rathee,,PBKS,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Nehal Wadhera,Nehal Wadhera,MI,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Bhagath Varma,Bhagath Varma,CSK,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Shivam Singh,,PBKS,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Rilee Rossouw,Rilee Rossouw,DC,Batter,SA,True,200.0,460.0,sold,5.0,,True,False
+2023,Litton Das,Litton Das,KKR,Wicket-keeper,BAN,True,50.0,50.0,sold,0.0,,True,False
+2023,Akeal Hosein,Akeal Hosein,SRH,Fast bowler,WIN,True,100.0,100.0,sold,0.0,,True,False
+2023,Adam Zampa,Adam Zampa,RR,Fast bowler,AUS,True,150.0,150.0,sold,14.0,,True,False
+2023,Anmolpreet Singh,Anmolpreet Singh,SRH,Batter,IND,False,20.0,20.0,sold,3.0,,False,False
+2023,KM Asif,KM Asif,RR,Fast bowler,IND,False,20.0,30.0,sold,3.0,,False,False
+2023,Murugan Ashwin,Murugan Ashwin,RR,Fast bowler,IND,False,20.0,20.0,sold,42.0,,False,False
+2023,Mandeep Singh,Mandeep Singh,KKR,Batter,IND,True,50.0,50.0,sold,108.0,,False,False
+2023,Akash Vasisht,Akash Vasisht,RR,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Naveen-ul-Haq,Naveen-ul-Haq,LSG,Fast bowler,AFG,True,50.0,50.0,sold,0.0,,True,False
+2023,Yudhvir Singh Charak,Yudhvir Singh (cricketer),LSG,Fast bowler,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Raghav Goyal,,MI,Fast bowler,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Abdul Basith,,RR,All-rounder,IND,False,20.0,20.0,sold,0.0,,False,False
+2023,Joe Root,Joe Root,RR,Batter,ENG,True,100.0,100.0,sold,0.0,,True,False
+2023,Shakib al Hasan,Shakib al Hasan,KKR,All-rounder,BAN,True,150.0,150.0,sold,71.0,,True,False
+2024,Ravindra Jadeja,Ravindra Jadeja,CSK,,IND,,,1600.0,retained,,retained,False,False
+2024,Deepak Chahar,Deepak Chahar,CSK,Fast bowler,IND,,,1400.0,retained,,retained,False,False
+2024,MS Dhoni,MS Dhoni,CSK,,IND,,,1200.0,retained,,retained,False,False
+2024,Moeen Ali,Moeen Ali,CSK,,ENG,,,800.0,retained,,retained,True,False
+2024,Ruturaj Gaikwad,Ruturaj Gaikwad,CSK,,IND,,,600.0,retained,,retained,False,False
+2024,Shivam Dube,Shivam Dube,CSK,All-rounder,IND,,,400.0,retained,,retained,False,False
+2024,Mitchell Santner,Mitchell Santner,CSK,All-rounder,NZ,,,190.0,retained,,retained,True,False
+2024,Rajvardhan Hangargekar,Rajvardhan Hangargekar,CSK,All-rounder,IND,,,150.0,retained,,retained,False,False
+2024,Prashant Solanki,Prashant Solanki,CSK,Spin bowler,IND,,,120.0,retained,,retained,False,False
+2024,Devon Conway,Devon Conway,CSK,Batter,NZ,,,100.0,retained,,retained,True,False
+2024,Maheesh Theekshana,Maheesh Theekshana,CSK,Spin bowler,SL,,,70.0,retained,,retained,True,False
+2024,Nishant Sindhu,Nishant Sindhu,CSK,All-rounder,IND,,,60.0,retained,,retained,False,False
+2024,Ajinkya Rahane,Ajinkya Rahane,CSK,Batter,IND,,,50.0,retained,,retained,False,False
+2024,Ajay Mandal,Ajay Mandal,CSK,All-rounder,IND,,,20.0,retained,,retained,False,False
+2024,Matheesha Pathirana,Matheesha Pathirana,CSK,Fast bowler,SL,,,20.0,retained,,retained,True,False
+2024,Mukesh Choudhary,Mukesh Choudhary,CSK,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2024,Shaik Rasheed,Shaik Rasheed,CSK,Batter,IND,,,20.0,retained,,retained,False,False
+2024,Simarjeet Singh,Simarjeet Singh,CSK,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2024,Tushar Deshpande,Tushar Deshpande,CSK,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2024,Rishabh Pant,Rishabh Pant,DC,Batter,IND,,,1600.0,retained,,retained,False,False
+2024,Axar Patel,Axar Patel,DC,,IND,,,1200.0,retained,,retained,False,False
+2024,Prithvi Shaw,Prithvi Shaw,DC,Batter,IND,,,800.0,retained,,retained,False,False
+2024,Anrich Nortje,Anrich Nortje,DC,Fast bowler,SA,,,650.0,retained,,retained,True,False
+2024,Mitchell Marsh,Mitchell Marsh,DC,All-rounder,AUS,,,650.0,retained,,retained,True,False
+2024,David Warner,David Warner (cricketer),DC,Batter,AUS,,,625.0,retained,,retained,True,False
+2024,Mukesh Kumar,Mukesh Kumar (cricketer),DC,Fast bowler,IND,,,550.0,retained,,retained,False,False
+2024,Khaleel Ahmed,Khaleel Ahmed,DC,Fast bowler,IND,,,525.0,retained,,retained,False,False
+2024,Kuldeep Yadav,Kuldeep Yadav,DC,Fast bowler,IND,,,200.0,retained,,retained,False,False
+2024,Lalit Yadav,Lalit Yadav (Delhi cricketer),DC,All-rounder,IND,,,65.0,retained,,retained,False,False
+2024,Pravin Dubey,Pravin Dubey,DC,All-rounder,IND,,,50.0,retained,,retained,False,False
+2024,Lungi Ngidi,Lungi Ngidi,DC,Fast bowler,SA,,,50.0,retained,,retained,True,False
+2024,Yash Dhull,Yash Dhull,DC,All-rounder,IND,,,50.0,retained,,retained,False,False
+2024,Ishant Sharma,Ishant Sharma,DC,Fast bowler,IND,,,50.0,retained,,retained,False,False
+2024,Vicky Ostwal,Vicky Ostwal,DC,All-rounder,IND,,,20.0,retained,,retained,False,False
+2024,Abishek Porel,,DC,,IND,,,20.0,retained,,retained,False,False
+2024,Rashid Khan,Rashid Khan,GT,,AFG,,,1500.0,retained,,retained,True,False
+2024,Rahul Tewatia,Rahul Tewatia,GT,All-rounder,IND,,,900.0,retained,,retained,False,False
+2024,Shubman Gill,Shubman Gill,GT,,IND,,,700.0,retained,,retained,False,False
+2024,Mohammed Shami,Mohammed Shami,GT,Fast bowler,IND,,,625.0,retained,,retained,False,False
+2024,Josh Little,Josh Little,GT,Fast bowler,IRE,,,440.00000000000006,retained,,retained,True,False
+2024,David Miller,David Miller (South African cricketer),GT,Batter,SA,,,300.0,retained,,retained,True,False
+2024,R Sai Kishore,R Sai Kishore,GT,,IND,,,300.0,retained,,retained,False,False
+2024,Abhinav Manohar,Abhinav Manohar,GT,Batter,IND,,,260.0,retained,,retained,False,False
+2024,Matthew Wade,Matthew Wade,GT,Wicket-keeper,AUS,,,240.0,retained,,retained,True,False
+2024,Kane Williamson,Kane Williamson,GT,Batter,NZ,,,200.0,retained,,retained,True,False
+2024,Wriddhiman Saha,Wriddhiman Saha,GT,Wicket-keeper,IND,,,190.0,retained,,retained,False,False
+2024,Jayant Yadav,Jayant Yadav,GT,All-rounder,IND,,,170.0,retained,,retained,False,False
+2024,Vijay Shankar,Vijay Shankar,GT,All-rounder,IND,,,140.0,retained,,retained,False,False
+2024,Mohit Sharma,Mohit Sharma,GT,Fast bowler,IND,,,50.0,retained,,retained,False,False
+2024,Noor Ahmad,Noor Ahmad,GT,Spin bowler,AFG,,,30.0,retained,,retained,True,False
+2024,Darshan Nalkande,Darshan Nalkande,GT,All-rounder,IND,,,20.0,retained,,retained,False,False
+2024,Sai Sudarshan,Sai Sudarshan,GT,,IND,,,20.0,retained,,retained,False,False
+2024,Andre Russell,Andre Russell,KKR,,WIN,,,1400.0,retained,,retained,True,False
+2024,Shreyas Iyer,Shreyas Iyer,KKR,Batter,IND,,,1225.0,retained,,retained,False,False
+2024,Varun Chakaravarthy,Varun Chakaravarthy,KKR,,IND,,,1200.0,retained,,retained,False,False
+2024,Venkatesh Iyer,Venkatesh Iyer,KKR,All-rounder,IND,,,800.0,retained,,retained,False,False
+2024,Nitish Rana,Nitish Rana,KKR,All-rounder,IND,,,800.0,retained,,retained,False,False
+2024,Sunil Narine,Sunil Narine,KKR,,WIN,,,600.0,retained,,retained,True,False
+2024,Harshit Rana,Harshit Rana,KKR,,IND,,,200.0,retained,,retained,False,False
+2024,Jason Roy,Jason Roy,KKR,Batter,ENG,,,150.0,retained,,retained,True,False
+2024,Vaibhav Arora,Vaibhav Arora,KKR,Fast bowler,IND,,,60.0,retained,,retained,False,False
+2024,Rinku Singh,Rinku Singh (cricketer),KKR,Batter,IND,,,55.0,retained,,retained,False,False
+2024,Rahmanullah Gurbaz,Rahmanullah Gurbaz,KKR,Wicket-keeper,AFG,,,50.0,retained,,retained,True,False
+2024,Anukul Roy,Anukul Roy,KKR,All-rounder,IND,,,20.0,retained,,retained,False,False
+2024,Suyash Sharma,Suyash Sharma,KKR,Spin bowler,IND,,,20.0,retained,,retained,False,False
+2024,KL Rahul,KL Rahul,LSG,Wicket-keeper,IND,,,1700.0,retained,,retained,False,False
+2024,Nicholas Pooran,Nicholas Pooran,LSG,Wicket-keeper,WIN,,,1600.0,retained,,retained,True,False
+2024,Marcus Stoinis,Marcus Stoinis,LSG,All-rounder,AUS,,,1100.0,retained,,retained,True,False
+2024,Krunal Pandya,Krunal Pandya,LSG,All-rounder,IND,,,825.0,retained,,retained,False,False
+2024,Devdutt Padikkal,Devdutt Padikkal,LSG,Batter,IND,,,7.75,retained,,retained,False,False
+2024,Mark Wood,Mark Wood (cricketer),LSG,Fast bowler,ENG,,,750.0,retained,,retained,True,False
+2024,Quinton de Kock,Quinton de Kock,LSG,Wicket-keeper,SA,,,675.0,retained,,retained,True,False
+2024,Deepak Hooda,Deepak Hooda,LSG,All-rounder,IND,,,575.0,retained,,retained,False,False
+2024,Ravi Bishnoi,Ravi Bishnoi,LSG,Spin bowler,IND,,,400.0,retained,,retained,False,False
+2024,Krishnappa Gowtham,Krishnappa Gowtham,LSG,All-rounder,IND,,,90.0,retained,,retained,False,False
+2024,Kyle Mayers,Kyle Mayers,LSG,All-rounder,WIN,,,50.0,retained,,retained,True,False
+2024,Amit Mishra,Amit Mishra,LSG,Fast bowler,IND,,,50.0,retained,,retained,False,False
+2024,Naveen-ul-Haq,Naveen-ul-Haq,LSG,Fast bowler,AFG,,,50.0,retained,,retained,True,False
+2024,Yash Thakur,Yash Thakur,LSG,Fast bowler,IND,,,45.0,retained,,retained,False,False
+2024,Mayank Yadav,Mayank Yadav,LSG,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2024,Ayush Badoni,Ayush Badoni,LSG,Batter,IND,,,20.0,retained,,retained,False,False
+2024,Yudhvir Singh,Yudhvir Singh,LSG,All-rounder,IND,,,20.0,retained,,retained,False,False
+2024,Prerak Mankad,Prerak Mankad,LSG,All-rounder,IND,,,20.0,retained,,retained,False,False
+2024,Mohsin Khan,Mohsin Khan (Indian cricketer),LSG,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2024,Rohit Sharma,Rohit Sharma,MI,,IND,,,1600.0,retained,,retained,False,False
+2024,Ishan Kishan,Ishan Kishan,MI,Wicket-keeper,IND,,,1525.0,retained,,retained,False,False
+2024,Hardik Pandya,Hardik Pandya,MI,,IND,,,1500.0,retained,,retained,False,False
+2024,Jasprit Bumrah,Jasprit Bumrah,MI,,IND,,,1200.0,retained,,retained,False,False
+2024,Tim David,Tim David,MI,All-rounder,AUS,,,825.0,retained,,retained,True,False
+2024,Suryakumar Yadav,Suryakumar Yadav,MI,,IND,,,800.0,retained,,retained,False,False
+2024,Dewald Brevis,Dewald Brevis,MI,Batter,SA,,,300.0,retained,,retained,True,False
+2024,Tilak Varma,Tilak Varma,MI,All-rounder,IND,,,170.0,retained,,retained,False,False
+2024,Jason Behrendorff,Jason Behrendorff,MI,Fast bowler,AUS,,,75.0,retained,,retained,True,False
+2024,Piyush Chawla,Piyush Chawla,MI,Fast bowler,IND,,,50.0,retained,,retained,False,False
+2024,Romario Shepherd,Romario Shepherd,MI,All-rounder,WIN,,,50.0,retained,,retained,True,False
+2024,Arjun Tendulkar,Arjun Tendulkar,MI,Fast bowler,IND,,,30.0,retained,,retained,False,False
+2024,Akash Madhwal,Akash Madhwal,MI,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2024,Kumar Kartikeya,Kumar Kartikeya,MI,Spin bowler,IND,,,20.0,retained,,retained,False,False
+2024,Nehal Wadhera,Nehal Wadhera,MI,Batter,IND,,,20.0,retained,,retained,False,False
+2024,Shams Mulani,Shams Mulani,MI,All-rounder,IND,,,20.0,retained,,retained,False,False
+2024,Vishnu Vinod,Vishnu Vinod,MI,Wicket-keeper,IND,,,20.0,retained,,retained,False,False
+2024,Sam Curran,Sam Curran,PBKS,All-rounder,ENG,,,1850.0,retained,,retained,True,False
+2024,Liam Livingstone,Liam Livingstone,PBKS,All-rounder,ENG,,,1150.0,retained,,retained,True,False
+2024,Kagiso Rabada,Kagiso Rabada,PBKS,Fast bowler,SA,,,925.0,retained,,retained,True,False
+2024,Shikhar Dhawan,Shikhar Dhawan,PBKS,Batter,IND,,,825.0,retained,,retained,False,False
+2024,Jonny Bairstow,Jonny Bairstow,PBKS,Wicket-keeper,ENG,,,675.0,retained,,retained,True,False
+2024,Rahul Chahar,Rahul Chahar,PBKS,Spin bowler,IND,,,525.0,retained,,retained,False,False
+2024,Arshdeep Singh,Arshdeep Singh (cricketer),PBKS,Fast bowler,IND,,,400.0,retained,,retained,False,False
+2024,Harpreet Brar,Harpreet Brar,PBKS,All-rounder,IND,,,380.0,retained,,retained,False,False
+2024,Nathan Ellis,Nathan Ellis,PBKS,Fast bowler,AUS,,,75.0,retained,,retained,True,False
+2024,Prabhsimran Singh,Prabhsimran Singh,PBKS,Wicket-keeper,IND,,,60.0,retained,,retained,False,False
+2024,Rishi Dhawan,Rishi Dhawan,PBKS,All-rounder,IND,,,55.0,retained,,retained,False,False
+2024,Sikandar Raza,Sikandar Raza,PBKS,All-rounder,ZIM,,,50.0,retained,,retained,True,False
+2024,Harpreet Singh Bhatia,Harpreet Singh Bhatia,PBKS,Batter,IND,,,40.0,retained,,retained,False,False
+2024,Atharva Taide,Atharva Taide,PBKS,Batter,IND,,,20.0,retained,,retained,False,False
+2024,Jitesh Sharma,Jitesh Sharma,PBKS,Wicket-keeper,IND,,,20.0,retained,,retained,False,False
+2024,Shivam Singh,,PBKS,All-rounder,IND,,,20.0,retained,,retained,False,False
+2024,Vidwath Kaverappa,Vidwath Kaverappa,PBKS,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2024,Sanju Samson,Sanju Samson,RR,,IND,,,1400.0,retained,,retained,False,False
+2024,Avesh Khan,Avesh Khan,RR,Fast bowler,IND,,,1000.0,retained,,retained,False,False
+2024,Jos Buttler,Jos Buttler,RR,Wicket-keeper,ENG,,,1000.0,retained,,retained,True,False
+2024,Prasidh Krishna,Prasidh Krishna,RR,Fast bowler,IND,,,1000.0,retained,,retained,False,False
+2024,Shimron Hetmyer,Shimron Hetmyer,RR,Batter,WIN,,,850.0,retained,,retained,True,False
+2024,Trent Boult,Trent Boult,RR,Fast bowler,NZ,,,800.0,retained,,retained,True,False
+2024,Yuzvendra Chahal,Yuzvendra Chahal,RR,Fast bowler,IND,,,650.0,retained,,retained,False,False
+2024,Ravichandran Ashwin,Ravichandran Ashwin,RR,All-rounder,IND,,,500.0,retained,,retained,False,False
+2024,Yashasvi Jaiswal,Yashasvi Jaiswal,RR,,IND,,,400.0,retained,,retained,False,False
+2024,Riyan Parag,Riyan Parag,RR,All-rounder,IND,,,380.0,retained,,retained,False,False
+2024,Navdeep Saini,Navdeep Saini,RR,Fast bowler,IND,,,260.0,retained,,retained,False,False
+2024,Adam Zampa,Adam Zampa,RR,Spin bowler,AUS,,,150.0,retained,,retained,True,False
+2024,Donovan Ferreira,Donovan Ferreira,RR,Wicket-keeper,SA,,,50.0,retained,,retained,True,False
+2024,Sandeep Sharma,Sandeep Sharma,RR,Fast bowler,IND,,,50.0,retained,,retained,False,False
+2024,Dhruv Jurel,Dhruv Jurel,RR,Wicket-keeper,IND,,,20.0,retained,,retained,False,False
+2024,Kuldeep Sen,Kuldeep Sen,RR,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2024,Kunal Singh Rathore,Kunal Singh Rathore,RR,,IND,,,20.0,retained,,retained,False,False
+2024,Cameron Green,Cameron Green,RCB,Batter,AUS,,,1750.0,retained,,retained,True,False
+2024,Virat Kohli,Virat Kohli,RCB,,IND,,,1500.0,retained,,retained,False,False
+2024,Glenn Maxwell,Glenn Maxwell,RCB,All-rounder,AUS,,,1100.0,retained,,retained,True,False
+2024,Faf du Plessis,Faf du Plessis,RCB,Batter,SA,,,700.0,retained,,retained,True,False
+2024,Mohammed Siraj,Mohammed Siraj,RCB,Fast bowler,IND,,,700.0,retained,,retained,False,False
+2024,Dinesh Karthik,Dinesh Karthik,RCB,Wicket-keeper,IND,,,550.0,retained,,retained,False,False
+2024,Anuj Rawat,Anuj Rawat,RCB,Wicket-keeper,IND,,,340.0,retained,,retained,False,False
+2024,Will Jacks,Will Jacks,RCB,All-rounder,ENG,,,320.0,retained,,retained,True,False
+2024,Reece Topley,Reece Topley,RCB,Fast bowler,ENG,,,190.0,retained,,retained,True,False
+2024,Mayank Dagar,Mayank Dagar,RCB,All-rounder,IND,,,180.0,retained,,retained,False,False
+2024,Mahipal Lomror,Mahipal Lomror,RCB,All-rounder,IND,,,95.0,retained,,retained,False,False
+2024,Rajan Kumar,,RCB,Fast bowler,IND,,,70.0,retained,,retained,False,False
+2024,Karn Sharma,Karn Sharma,RCB,Spin bowler,IND,,,50.0,retained,,retained,False,False
+2024,Suyash Prabhudessai,Suyash Prabhudessai,RCB,All-rounder,IND,,,30.0,retained,,retained,False,False
+2024,Akash Deep,Akash Deep,RCB,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2024,Himanshu Sharma,Himanshu Sharma (cricketer),RCB,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2024,Manoj Bhandage,Manoj Bhandage,RCB,All-rounder,IND,,,20.0,retained,,retained,False,False
+2024,Rajat Patidar,Rajat Patidar,RCB,,IND,,,20.0,retained,,retained,False,False
+2024,Vijaykumar Vyshak,Vijaykumar Vyshak,RCB,Fast bowler,IND,,,20.0,retained,,retained,False,False
+2024,Washington Sundar,Washington Sundar,SRH,All-rounder,IND,,,875.0,retained,,retained,False,False
+2024,Rahul Tripathi,Rahul Tripathi,SRH,Batter,IND,,,850.0,retained,,retained,False,False
+2024,Mayank Agarwal,Mayank Agarwal,SRH,Batter,IND,,,825.0,retained,,retained,False,False
+2024,Abhishek Sharma,"Abhishek Sharma (cricketer, born 2000)",SRH,All-rounder,IND,,,650.0,retained,,retained,False,False
+2024,Heinrich Klaasen,Heinrich Klaasen,SRH,Wicket-keeper,SA,,,525.0,retained,,retained,True,False
+2024,Bhuvneshwar Kumar,Bhuvneshwar Kumar,SRH,Fast bowler,IND,,,420.0,retained,,retained,False,False
+2024,Marco Jansen,Marco Jansen,SRH,All-rounder,SA,,,420.0,retained,,retained,True,False
+2024,Abdul Samad,Abdul Samad (Indian cricketer),SRH,All-rounder,IND,,,400.0,retained,,retained,False,False
+2024,T Natarajan,T Natarajan,SRH,,IND,,,400.0,retained,,retained,False,False
+2024,Umran Malik,Umran Malik,SRH,Fast bowler,IND,,,400.0,retained,,retained,False,False
+2024,Aiden Markram,Aiden Markram,SRH,Batter,SA,,,260.0,retained,,retained,True,False
+2024,Shahbaz Ahmed,Shahbaz Ahmed (cricketer),SRH,All-rounder,IND,,,240.0,retained,,retained,False,False
+2024,Glenn Phillips,Glenn Phillips (cricketer),SRH,Batter,NZ,,,150.0,retained,,retained,True,False
+2024,Fazalhaq Farooqi,Fazalhaq Farooqi,SRH,Fast bowler,AFG,,,50.0,retained,,retained,True,False
+2024,Mayank Markande,Mayank Markande,SRH,Spin bowler,IND,,,50.0,retained,,retained,False,False
+2024,Upendra Yadav,Upendra Yadav (cricketer),SRH,Wicket-keeper,IND,,,25.0,retained,,retained,False,False
+2024,Anmolpreet Singh,Anmolpreet Singh,SRH,Batter,IND,,,20.0,retained,,retained,False,False
+2024,Nitish Kumar Reddy,Nitish Kumar Reddy,SRH,Wicket-keeper,IND,,,20.0,retained,,retained,False,False
+2024,Sanvir Singh,Sanvir Singh,SRH,All-rounder,IND,,,20.0,retained,,retained,False,False
+2024,Harry Brook,Harry Brook,DC,Batter,ENG,True,200.0,400.0,sold,11.0,Set 1: Capped Batters,True,False
+2024,Travis Head,Travis Head,SRH,Batter,AUS,True,200.0,680.0,sold,10.0,Set 1: Capped Batters,True,False
+2024,Rovman Powell,Rovman Powell,RR,Batter,WIN,True,100.0,740.0,sold,17.0,Set 1: Capped Batters,True,False
+2024,Wanindu Hasaranga,Wanindu Hasaranga,SRH,All-rounder,SL,True,150.0,150.0,sold,26.0,Set 2: Capped All-Rounders,True,False
+2024,Rachin Ravindra,Rachin Ravindra,CSK,All-rounder,NZ,True,50.0,180.0,sold,0.0,Set 2: Capped All-Rounders,True,False
+2024,Shardul Thakur,Shardul Thakur,CSK,All-rounder,IND,True,200.0,400.0,sold,86.0,Set 2: Capped All-Rounders,False,False
+2024,Azmatullah Omarzai,Azmatullah Omarzai,GT,All-rounder,AFG,True,50.0,50.0,sold,0.0,Set 2: Capped All-Rounders,True,False
+2024,Pat Cummins,Pat Cummins,SRH,All-rounder,AUS,True,200.0,2050.0,sold,42.0,Set 2: Capped All-Rounders,True,False
+2024,Gerald Coetzee,Gerald Coetzee,MI,All-rounder,SA,True,200.0,500.0,sold,0.0,Set 2: Capped All-Rounders,True,False
+2024,Harshal Patel,Harshal Patel,PBKS,All-rounder,IND,True,200.0,1175.0,sold,92.0,Set 2: Capped All-Rounders,False,False
+2024,Daryl Mitchell,Daryl Mitchell (New Zealand cricketer),CSK,All-rounder,NZ,True,100.0,1400.0,sold,2.0,Set 2: Capped All-Rounders,True,False
+2024,Chris Woakes,Chris Woakes,PBKS,All-rounder,ENG,True,200.0,420.0,sold,21.0,Set 2: Capped All-Rounders,True,False
+2024,Tristan Stubbs,Tristan Stubbs,DC,Wicket-keeper,SA,True,50.0,50.0,sold,4.0,Set 3: Capped Wicket-Keepers,True,False
+2024,K. S. Bharat,K. S. Bharat,KKR,Wicket-keeper,IND,True,50.0,50.0,sold,10.0,Set 3: Capped Wicket-Keepers,False,False
+2024,Chetan Sakariya,Chetan Sakariya,KKR,Fast bowler,IND,True,50.0,50.0,sold,19.0,Set 4: Capped Fast Bowlers,False,False
+2024,Alzarri Joseph,Alzarri Joseph,RCB,Fast bowler,WIN,True,100.0,1150.0,sold,19.0,Set 4: Capped Fast Bowlers,True,False
+2024,Umesh Yadav,Umesh Yadav,GT,Fast bowler,IND,True,200.0,580.0,sold,141.0,Set 4: Capped Fast Bowlers,False,False
+2024,Shivam Mavi,Shivam Mavi,LSG,Fast bowler,IND,True,50.0,640.0,sold,32.0,Set 4: Capped Fast Bowlers,False,False
+2024,Mitchell Starc,Mitchell Starc,KKR,Fast bowler,AUS,True,200.0,2475.0,sold,27.0,Set 4: Capped Fast Bowlers,True,False
+2024,Jaydev Unadkat,Jaydev Unadkat,SRH,Fast bowler,IND,True,50.0,160.0,sold,94.0,Set 4: Capped Fast Bowlers,False,False
+2024,Dilshan Madushanka,Dilshan Madushanka,MI,Fast bowler,SL,True,50.0,460.0,sold,,Set 4: Capped Fast Bowlers,True,False
+2024,Shubham Dubey,Shubham Dubey,RR,Batter,IND,False,20.0,580.0,sold,,Set 6: Uncapped Batters,False,False
+2024,Sameer Rizvi,Sameer Rizvi,CSK,Batter,IND,False,20.0,840.0,sold,,Set 6: Uncapped Batters,False,False
+2024,Angkrish Raghuvanshi,Angkrish Raghuvanshi,KKR,Batter,IND,False,20.0,20.0,sold,,Set 6: Uncapped Batters,False,False
+2024,Arshin Kulkarni,Arshin Kulkarni,LSG,All-rounder,IND,False,20.0,20.0,sold,,Set 7: Uncapped All-Ronders,False,False
+2024,Shahrukh Khan,Shahrukh Khan (cricketer),GT,All-rounder,IND,False,20.0,740.0,sold,33.0,Set 7: Uncapped All-Ronders,False,False
+2024,Ramandeep Singh,Ramandeep Singh (cricketer),KKR,All-rounder,IND,False,20.0,20.0,sold,5.0,Set 7: Uncapped All-Ronders,False,False
+2024,Tom Kohler-Cadmore,Tom Kohler-Cadmore,RR,Wicket-keeper,ENG,False,40.0,40.0,sold,,Set 8: Uncapped Wicket-Keepers,True,False
+2024,Ricky Bhui,Ricky Bhui,DC,Wicket-keeper,IND,False,20.0,20.0,sold,2.0,Set 8: Uncapped Wicket-Keepers,False,False
+2024,Kumar Kushagra,Kumar Kushagra,DC,Wicket-keeper,IND,False,20.0,720.0,sold,,Set 8: Uncapped Wicket-Keepers,False,False
+2024,Yash Dayal,Yash Dayal,RCB,Fast bowler,IND,False,20.0,500.0,sold,14.0,Set 9: Uncapped Fast Bowlers,False,False
+2024,Sushant Mishra,Sushant Mishra,GT,Fast bowler,IND,False,20.0,220.0,sold,,Set 9: Uncapped Fast Bowlers,False,False
+2024,Kartik Tyagi,Kartik Tyagi,GT,Fast bowler,IND,False,20.0,500.0,sold,19.0,Set 9: Uncapped Fast Bowlers,False,False
+2024,Rasikh Dar,Rasikh Salam,DC,Fast bowler,IND,False,20.0,20.0,sold,3.0,Set 9: Uncapped Fast Bowlers,False,False
+2024,Akash Singh,"Akash Singh (cricketer, born 2002)",SRH,Fast bowler,IND,False,20.0,20.0,sold,7.0,Set 9: Uncapped Fast Bowlers,False,False
+2024,Manav Suthar,Manav Suthar,GT,Fast bowler,IND,False,20.0,20.0,sold,,Set 10: Uncapped Spinners,False,False
+2024,Manimaran Siddharth,Manimaran Siddharth,LSG,Fast bowler,IND,False,20.0,240.0,sold,,Set 10: Uncapped Spinners,False,False
+2024,Shreyas Gopal,Shreyas Gopal,MI,Fast bowler,IND,False,20.0,20.0,sold,49.0,Set 10: Uncapped Spinners,False,False
+2024,Sherfane Rutherford,Sherfane Rutherford,KKR,Batter,WIN,True,150.0,150.0,sold,10.0,Accelerated Round 1,True,False
+2024,Ashton Turner,Ashton Turner,LSG,Batter,AUS,True,100.0,100.0,sold,4.0,Accelerated Round 1,True,False
+2024,Tom Curran,Tom Curran (cricketer),RCB,All-rounder,ENG,True,150.0,150.0,sold,13.0,Accelerated Round 1,True,False
+2024,David Willey,David Willey (cricketer),LSG,All-rounder,ENG,True,200.0,200.0,sold,11.0,Accelerated Round 1,True,False
+2024,Spencer Johnson,Spencer Johnson (cricketer),GT,Fast bowler,AUS,True,50.0,1000.0,sold,,Accelerated Round 1,True,False
+2024,Mustafizur Rahman,Mustafizur Rahman,CSK,Fast bowler,BAN,True,200.0,200.0,sold,48.0,Accelerated Round 1,True,False
+2024,Jhye Richardson,Jhye Richardson,DC,Fast bowler,AUS,True,150.0,500.0,sold,3.0,Accelerated Round 1,True,False
+2024,Nuwan Thushara,Nuwan Thushara,MI,Fast bowler,SL,True,50.0,480.0,sold,,Accelerated Round 1,True,False
+2024,Naman Dhir,Naman Dhir,MI,All-rounder,IND,False,20.0,20.0,sold,,Accelerated Round 1,False,False
+2024,Anshul Kamboj,Anshul Kamboj,MI,All-rounder,IND,False,20.0,20.0,sold,,Accelerated Round 1,False,False
+2024,Sumit Kumar,,DC,All-rounder,IND,False,20.0,100.0,sold,,Accelerated Round 1,False,False
+2024,Ashutosh Sharma,Ashutosh Sharma (cricketer),PBKS,All-rounder,IND,False,20.0,20.0,sold,,Accelerated Round 1,False,False
+2024,Vishwanath Singh,,PBKS,All-rounder,IND,False,20.0,20.0,sold,,Accelerated Round 1,False,False
+2024,Shashank Singh,Shashank Singh,PBKS,All-rounder,IND,False,20.0,20.0,sold,10.0,Accelerated Round 1,False,False
+2024,Tanay Thyagarajan,Tanay Thyagarajan,PBKS,All-rounder,IND,False,20.0,20.0,sold,,Accelerated Round 1,False,False
+2024,Robin Minz,,GT,Wicket-keeper,IND,False,20.0,360.0,sold,,Accelerated Round 1,False,False
+2024,Prince Choudary,,PBKS,Fast bowler,IND,False,20.0,20.0,sold,,Accelerated Round 1,False,False
+2024,Jhathavedh Subramanyan,Jhathavedh Subramanyan,SRH,Fast bowler,IND,False,20.0,20.0,sold,,Accelerated Round 1,False,False
+2024,Manish Pandey,Manish Pandey,KKR,Batter,IND,True,50.0,50.0,sold,170.0,Accelerated Round 2,False,False
+2024,Rilee Rossouw,Rilee Rossouw,PBKS,Batter,SA,True,200.0,800.0,sold,14.0,Accelerated Round 2,True,False
+2024,Lockie Ferguson,Lockie Ferguson,RCB,Fast bowler,NZ,True,200.0,200.0,sold,38.0,Accelerated Round 2,True,False
+2024,Mujeeb Ur Rahman,Mujeeb Ur Rahman,KKR,Fast bowler,AFG,True,200.0,200.0,sold,19.0,Accelerated Round 2,True,False
+2024,Arshad Khan,Arshad Khan (Indian cricketer),LSG,All-rounder,IND,False,20.0,20.0,sold,6.0,Accelerated Round 2,False,False
+2024,Mohammad Nabi,Mohammad Nabi,MI,All-rounder,AFG,True,150.0,150.0,sold,17.0,Accelerated Round 2,True,False
+2024,Shai Hope,Shai Hope,DC,Wicket-keeper,WIN,True,75.0,75.0,sold,,Accelerated Round 2,True,False
+2024,Gus Atkinson,Gus Atkinson,KKR,Fast bowler,ENG,True,100.0,100.0,sold,,Accelerated Round 2,True,False
+2024,Swastik Chhikara,,DC,Batter,IND,False,20.0,20.0,sold,,Accelerated Round 2,False,False
+2024,Abid Mushtaq,Abid Mushtaq,RR,All-rounder,IND,False,20.0,20.0,sold,,Accelerated Round 2,False,False
+2024,Shivalik Sharma,Shivalik Sharma,MI,All-rounder,IND,False,20.0,20.0,sold,,Accelerated Round 2,False,False
+2024,Swapnil Singh,Swapnil Singh,RCB,All-rounder,IND,False,20.0,20.0,sold,7.0,Accelerated Round 2,False,False
+2024,Avanish Rao Aravelly,,CSK,Wicket-keeper,IND,False,20.0,20.0,sold,,Accelerated Round 2,False,False
+2024,Nandre Burger,Nandre Burger,RR,Fast bowler,SA,True,50.0,50.0,sold,,Accelerated Round 2,True,False
+2024,Sakib Hussain,,KKR,Fast bowler,IND,False,20.0,20.0,sold,,Accelerated Round 2,False,False
+2024,Saurav Chauhan,,RCB,Batter,IND,False,20.0,20.0,sold,,Accelerated Round 2,False,False
+2025,Ruturaj Gaikwad,Ruturaj Gaikwad,CSK,,IND,,,1800.0,retained,,retained,False,True
+2025,Ravindra Jadeja,Ravindra Jadeja,CSK,,IND,,,1800.0,retained,,retained,False,True
+2025,Matheesha Pathirana,Matheesha Pathirana,CSK,Fast bowler,SL,,,1300.0,retained,,retained,True,True
+2025,Shivam Dube,Shivam Dube,CSK,All-rounder,IND,,,1200.0,retained,,retained,False,True
+2025,MS Dhoni,MS Dhoni,CSK,,IND,,,400.0,retained,,retained,False,True
+2025,Axar Patel,Axar Patel,DC,,IND,,,1650.0,retained,,retained,False,True
+2025,Kuldeep Yadav,Kuldeep Yadav,DC,Fast bowler,IND,,,1325.0,retained,,retained,False,True
+2025,Tristan Stubbs,Tristan Stubbs,DC,Wicket-keeper,SA,,,1000.0,retained,,retained,True,True
+2025,Abhishek Porel,Abhishek Porel,DC,,IND,,,400.0,retained,,retained,False,True
+2025,Rashid Khan,Rashid Khan,GT,,AFG,,,1800.0,retained,,retained,True,True
+2025,Shubman Gill,Shubman Gill,GT,,IND,,,1650.0,retained,,retained,False,True
+2025,Sai Sudharsan,Sai Sudharsan,GT,,IND,,,850.0,retained,,retained,False,True
+2025,Rahul Tewatia,Rahul Tewatia,GT,All-rounder,IND,,,400.0,retained,,retained,False,True
+2025,Shahrukh Khan,Shahrukh Khan (cricketer),GT,All-rounder,IND,,,400.0,retained,,retained,False,True
+2025,Rinku Singh,Rinku Singh (cricketer),KKR,Batter,IND,,,1300.0,retained,,retained,False,True
+2025,Varun Chakravarthy,Varun Chakravarthy,KKR,,IND,,,1200.0,retained,,retained,False,True
+2025,Sunil Narine,Sunil Narine,KKR,,WIN,,,1200.0,retained,,retained,True,True
+2025,Andre Russell,Andre Russell,KKR,,WIN,,,1200.0,retained,,retained,True,True
+2025,Ramandeep Singh,Ramandeep Singh (cricketer),KKR,All-rounder,IND,,,400.0,retained,,retained,False,True
+2025,Harshit Rana,Harshit Rana,KKR,,IND,,,400.0,retained,,retained,False,True
+2025,Nicholas Pooran,Nicholas Pooran,LSG,Wicket-keeper,WIN,,,2100.0,retained,,retained,True,True
+2025,Ravi Bishnoi,Ravi Bishnoi,LSG,Spin bowler,IND,,,1100.0,retained,,retained,False,True
+2025,Mayank Yadav,Mayank Yadav,LSG,Fast bowler,IND,,,1100.0,retained,,retained,False,True
+2025,Mohsin Khan,Mohsin Khan (Indian cricketer),LSG,Fast bowler,IND,,,400.0,retained,,retained,False,True
+2025,Ayush Badoni,Ayush Badoni,LSG,Batter,IND,,,400.0,retained,,retained,False,True
+2025,Jasprit Bumrah,Jasprit Bumrah,MI,,IND,,,1800.0,retained,,retained,False,True
+2025,Suryakumar Yadav,Suryakumar Yadav,MI,,IND,,,1635.0000000000002,retained,,retained,False,True
+2025,Hardik Pandya,Hardik Pandya,MI,,IND,,,1635.0000000000002,retained,,retained,False,True
+2025,Rohit Sharma,Rohit Sharma,MI,,IND,,,1630.0,retained,,retained,False,True
+2025,Tilak Varma,Tilak Varma,MI,All-rounder,IND,,,800.0,retained,,retained,False,True
+2025,Shashank Singh,Shashank Singh,PBKS,All-rounder,IND,,,550.0,retained,,retained,False,True
+2025,Prabhsimran Singh,Prabhsimran Singh,PBKS,Wicket-keeper,IND,,,400.0,retained,,retained,False,True
+2025,Sanju Samson,Sanju Samson,RR,,IND,,,1800.0,retained,,retained,False,True
+2025,Yashasvi Jaiswal,Yashasvi Jaiswal,RR,,IND,,,1800.0,retained,,retained,False,True
+2025,Dhruv Jurel,Dhruv Jurel,RR,Wicket-keeper,IND,,,1400.0,retained,,retained,False,True
+2025,Riyan Parag,Riyan Parag,RR,All-rounder,IND,,,1400.0,retained,,retained,False,True
+2025,Shimron Hetmyer,Shimron Hetmyer,RR,Batter,WIN,,,1100.0,retained,,retained,True,True
+2025,Sandeep Sharma,Sandeep Sharma,RR,Fast bowler,IND,,,400.0,retained,,retained,False,True
+2025,Virat Kohli,Virat Kohli,RCB,,IND,,,2100.0,retained,,retained,False,True
+2025,Rajat Patidar,Rajat Patidar,RCB,,IND,,,1100.0,retained,,retained,False,True
+2025,Yash Dayal,Yash Dayal,RCB,Fast bowler,IND,,,500.0,retained,,retained,False,True
+2025,Heinrich Klaasen,Heinrich Klaasen,SRH,Wicket-keeper,SA,,,2300.0,retained,,retained,True,True
+2025,Pat Cummins,Pat Cummins,SRH,All-rounder,AUS,,,1800.0,retained,,retained,True,True
+2025,Abhishek Sharma,Abhishek Sharma,SRH,All-rounder,IND,,,1400.0,retained,,retained,False,True
+2025,Travis Head,Travis Head,SRH,Batter,AUS,,,1400.0,retained,,retained,True,True
+2025,Nitish Kumar Reddy,Nitish Kumar Reddy,SRH,Wicket-keeper,IND,,,600.0,retained,,retained,False,True
+2025,Jos Buttler,Jos Buttler,GT,Wicket-keeper,ENG,True,200.0,1575.0,sold,107.0,Set 1: marquee players (M1),True,True
+2025,Shreyas Iyer,Shreyas Iyer,PBKS,Batter,IND,True,200.0,2675.0,sold,116.0,Set 1: marquee players (M1),False,True
+2025,Rishabh Pant,Rishabh Pant,LSG,Batter,IND,True,200.0,2700.0,sold,111.0,Set 1: marquee players (M1),False,True
+2025,Kagiso Rabada,Kagiso Rabada,GT,Fast bowler,SA,True,200.0,1075.0,sold,80.0,Set 1: marquee players (M1),True,True
+2025,Arshdeep Singh,Arshdeep Singh (cricketer),PBKS,Fast bowler,IND,True,200.0,1800.0,sold,65.0,Set 1: marquee players (M1),False,True
+2025,Mitchell Starc,Mitchell Starc,DC,Fast bowler,AUS,True,200.0,1175.0,sold,41.0,Set 1: marquee players (M1),True,True
+2025,Yuzvendra Chahal,Yuzvendra Chahal,PBKS,Fast bowler,IND,True,200.0,1800.0,sold,160.0,Set 2: marquee players (M2),False,True
+2025,Liam Livingstone,Liam Livingstone,RCB,All-rounder,ENG,True,200.0,875.0,sold,39.0,Set 2: marquee players (M2),True,True
+2025,David Miller,David Miller (South African cricketer),LSG,Batter,SA,True,150.0,750.0,sold,130.0,Set 2: marquee players (M2),True,True
+2025,KL Rahul,KL Rahul,DC,Wicket-keeper,IND,True,200.0,1400.0,sold,132.0,Set 2: marquee players (M2),False,True
+2025,Mohammed Shami,Mohammed Shami,SRH,Fast bowler,IND,True,200.0,1000.0,sold,110.0,Set 2: marquee players (M2),False,True
+2025,Mohammed Siraj,Mohammed Siraj,GT,Fast bowler,IND,True,200.0,1225.0,sold,93.0,Set 2: marquee players (M2),False,True
+2025,Harry Brook,Harry Brook,DC,Batter,ENG,True,200.0,625.0,sold,11.0,Set 3: capped batters (BA1),True,True
+2025,Devon Conway,Devon Conway,CSK,Batter,NZ,True,200.0,625.0,sold,23.0,Set 3: capped batters (BA1),True,True
+2025,Jake Fraser-McGurk,Jake Fraser-McGurk,DC,Batter,AUS,True,200.0,900.0,sold,9.0,Set 3: capped batters (BA1),True,True
+2025,Aiden Markram,Aiden Markram,LSG,Batter,SA,True,200.0,200.0,sold,44.0,Set 3: capped batters (BA1),True,True
+2025,Devdutt Padikkal,Devdutt Padikkal,RCB,Batter,IND,True,200.0,200.0,sold,64.0,Set 3: capped batters (BA1),False,True
+2025,Rahul Tripathi,Rahul Tripathi,CSK,Batter,IND,True,75.0,340.0,sold,95.0,Set 3: capped batters (BA1),False,True
+2025,Ravichandran Ashwin,Ravichandran Ashwin,CSK,All-rounder,IND,True,200.0,975.0,sold,212.0,Set 4: capped all-rounders (AL1),False,True
+2025,Venkatesh Iyer,Venkatesh Iyer,KKR,All-rounder,IND,True,200.0,2375.0,sold,51.0,Set 4: capped all-rounders (AL1),False,True
+2025,Mitchell Marsh,Mitchell Marsh,LSG,All-rounder,AUS,True,200.0,340.0,sold,42.0,Set 4: capped all-rounders (AL1),True,True
+2025,Glenn Maxwell,Glenn Maxwell,PBKS,All-rounder,AUS,True,200.0,420.0,sold,134.0,Set 4: capped all-rounders (AL1),True,True
+2025,Harshal Patel,Harshal Patel,SRH,All-rounder,IND,True,200.0,800.0,sold,106.0,Set 4: capped all-rounders (AL1),False,True
+2025,Rachin Ravindra,Rachin Ravindra,CSK,All-rounder,NZ,True,150.0,400.0,sold,10.0,Set 4: capped all-rounders (AL1),True,True
+2025,Marcus Stoinis,Marcus Stoinis,PBKS,All-rounder,AUS,True,200.0,1100.0,sold,96.0,Set 4: capped all-rounders (AL1),True,True
+2025,Quinton de Kock,Quinton de Kock,KKR,Wicket-keeper,SA,True,200.0,360.0,sold,107.0,Set 5: capped wicket-keepers (WK1),True,True
+2025,Rahmanullah Gurbaz,Rahmanullah Gurbaz,KKR,Wicket-keeper,AFG,True,200.0,200.0,sold,14.0,Set 5: capped wicket-keepers (WK1),True,True
+2025,Ishan Kishan,Ishan Kishan,SRH,Wicket-keeper,IND,True,200.0,1125.0,sold,104.0,Set 5: capped wicket-keepers (WK1),False,True
+2025,Phil Salt,Phil Salt,RCB,Wicket-keeper,ENG,True,200.0,1150.0,sold,21.0,Set 5: capped wicket-keepers (WK1),True,True
+2025,Jitesh Sharma,Jitesh Sharma,RCB,Wicket-keeper,IND,True,100.0,1100.0,sold,40.0,Set 5: capped wicket-keepers (WK1),False,True
+2025,Khaleel Ahmed,Khaleel Ahmed,CSK,Fast bowler,IND,True,200.0,480.0,sold,57.0,Set 6: capped fast bowlers (FA1),False,True
+2025,Jofra Archer,Jofra Archer,RR,Fast bowler,ENG,True,200.0,1250.0,sold,40.0,Set 6: capped fast bowlers (FA1),True,True
+2025,Trent Boult,Trent Boult,MI,Fast bowler,NZ,True,200.0,1250.0,sold,104.0,Set 6: capped fast bowlers (FA1),True,True
+2025,Josh Hazlewood,Josh Hazlewood,RCB,Fast bowler,AUS,True,200.0,1250.0,sold,27.0,Set 6: capped fast bowlers (FA1),True,True
+2025,Avesh Khan,Avesh Khan,LSG,Fast bowler,IND,True,200.0,975.0,sold,63.0,Set 6: capped fast bowlers (FA1),False,True
+2025,Prasidh Krishna,Prasidh Krishna,GT,Fast bowler,IND,True,200.0,950.0,sold,51.0,Set 6: capped fast bowlers (FA1),False,True
+2025,T. Natarajan,T. Natarajan,DC,Fast bowler,IND,True,200.0,1075.0,sold,61.0,Set 6: capped fast bowlers (FA1),False,True
+2025,Anrich Nortje,Anrich Nortje,KKR,Fast bowler,SA,True,200.0,650.0,sold,46.0,Set 6: capped fast bowlers (FA1),True,True
+2025,Noor Ahmad,Noor Ahmad,CSK,Spin bowler,AFG,True,200.0,1000.0,sold,23.0,Set 7: capped spin bowlers (SP1),True,True
+2025,Rahul Chahar,Rahul Chahar,SRH,Spin bowler,IND,True,100.0,320.0,sold,78.0,Set 7: capped spin bowlers (SP1),False,True
+2025,Wanindu Hasaranga,Wanindu Hasaranga,RR,Spin bowler,SL,True,200.0,525.0,sold,26.0,Set 7: capped spin bowlers (SP1),True,True
+2025,Maheesh Theekshana,Maheesh Theekshana,RR,Spin bowler,SL,True,200.0,440.0,sold,27.0,Set 7: capped spin bowlers (SP1),True,True
+2025,Adam Zampa,Adam Zampa,SRH,Spin bowler,AUS,True,200.0,240.0,sold,20.0,Set 7: capped spin bowlers (SP1),True,True
+2025,Abhinav Manohar,Abhinav Manohar,SRH,Batter,IND,False,30.0,320.0,sold,18.0,Set 8: uncapped batters (UBA1),False,True
+2025,Karun Nair,Karun Nair,DC,Batter,IND,False,30.0,50.0,sold,76.0,Set 8: uncapped batters (UBA1),False,True
+2025,Angkrish Raghuvanshi,Angkrish Raghuvanshi,KKR,Batter,IND,False,30.0,300.0,sold,10.0,Set 8: uncapped batters (UBA1),False,True
+2025,Atharva Taide,Atharva Taide,SRH,Batter,IND,False,30.0,30.0,sold,9.0,Set 8: uncapped batters (UBA1),False,True
+2025,Nehal Wadhera,Nehal Wadhera,PBKS,Batter,IND,False,30.0,420.0,sold,20.0,Set 8: uncapped batters (UBA1),False,True
+2025,Harpreet Brar,Harpreet Brar,PBKS,All-rounder,IND,False,30.0,150.0,sold,41.0,Set 9: uncapped all-rounders (UAL1),False,True
+2025,Naman Dhir,Naman Dhir,MI,All-rounder,IND,False,30.0,525.0,sold,7.0,Set 9: uncapped all-rounders (UAL1),False,True
+2025,Mahipal Lomror,Mahipal Lomror,GT,All-rounder,IND,False,30.0,170.0,sold,40.0,Set 9: uncapped all-rounders (UAL1),False,True
+2025,Sameer Rizvi,Sameer Rizvi,DC,All-rounder,IND,False,30.0,95.0,sold,9.0,Set 9: uncapped all-rounders (UAL1),False,True
+2025,Abdul Samad,Abdul Samad,LSG,All-rounder,IND,False,30.0,420.0,sold,50.0,Set 9: uncapped all-rounders (UAL1),False,True
+2025,Vijay Shankar,Vijay Shankar,CSK,All-rounder,IND,False,30.0,120.0,sold,72.0,Set 9: uncapped all-rounders (UAL1),False,True
+2025,Ashutosh Sharma,Ashutosh Sharma (cricketer),DC,All-rounder,IND,False,30.0,380.0,sold,11.0,Set 9: uncapped all-rounders (UAL1),False,True
+2025,Nishant Sindhu,Nishant Sindhu,GT,All-rounder,IND,False,30.0,30.0,sold,,Set 9: uncapped all-rounders (UAL1),False,True
+2025,Aryan Juyal,Aryan Juyal,LSG,Wicket-keeper,IND,False,30.0,30.0,sold,,Set 10: uncapped wicket-keepers (UWK1),False,True
+2025,Kumar Kushagra,Kumar Kushagra,GT,Wicket-keeper,IND,False,30.0,65.0,sold,,Set 10: uncapped wicket-keepers (UWK1),False,True
+2025,Robin Minz,Robin Minz,MI,Wicket-keeper,IND,False,30.0,65.0,sold,,Set 10: uncapped wicket-keepers (UWK1),False,True
+2025,Anuj Rawat,Anuj Rawat,GT,Wicket-keeper,IND,False,30.0,30.0,sold,24.0,Set 10: uncapped wicket-keepers (UWK1),False,True
+2025,Luvnith Sisodia,Luvnith Sisodia,KKR,Wicket-keeper,IND,False,30.0,30.0,sold,,Set 10: uncapped wicket-keepers (UWK1),False,True
+2025,Vishnu Vinod,Vishnu Vinod,PBKS,Wicket-keeper,IND,False,30.0,95.0,sold,6.0,Set 10: uncapped wicket-keepers (UWK1),False,True
+2025,Vaibhav Arora,Vaibhav Arora,KKR,Fast bowler,IND,False,30.0,180.0,sold,20.0,Set 11: uncapped fast bowlers (UFA1),False,True
+2025,Rasikh Salam Dar,Rasikh Salam Dar,RCB,Fast bowler,IND,False,30.0,600.0,sold,11.0,Set 11: uncapped fast bowlers (UFA1),False,True
+2025,Akash Madhwal,Akash Madhwal,RR,Fast bowler,IND,False,30.0,120.0,sold,12.0,Set 11: uncapped fast bowlers (UFA1),False,True
+2025,Mohit Sharma,Mohit Sharma,DC,Fast bowler,IND,False,50.0,220.0,sold,111.0,Set 11: uncapped fast bowlers (UFA1),False,True
+2025,Simarjeet Singh,Simarjeet Singh,SRH,Fast bowler,IND,False,30.0,150.0,sold,10.0,Set 11: uncapped fast bowlers (UFA1),False,True
+2025,Yash Thakur,Yash Thakur,PBKS,Fast bowler,IND,False,30.0,160.0,sold,19.0,Set 11: uncapped fast bowlers (UFA1),False,True
+2025,Vijaykumar Vyshak,Vijaykumar Vyshak,PBKS,Fast bowler,IND,False,30.0,180.0,sold,11.0,Set 11: uncapped fast bowlers (UFA1),False,True
+2025,Shreyas Gopal,Shreyas Gopal,CSK,Spin bowler,IND,False,30.0,30.0,sold,52.0,Set 12: uncapped spin bowlers (USP1),False,True
+2025,Mayank Markande,Mayank Markande,KKR,Spin bowler,IND,False,30.0,30.0,sold,37.0,Set 12: uncapped spin bowlers (USP1),False,True
+2025,Suyash Sharma,Suyash Sharma,RCB,Spin bowler,IND,False,30.0,260.0,sold,13.0,Set 12: uncapped spin bowlers (USP1),False,True
+2025,Karn Sharma,Karn Sharma,MI,Spin bowler,IND,False,50.0,50.0,sold,84.0,Set 12: uncapped spin bowlers (USP1),False,True
+2025,Kumar Kartikeya,Kumar Kartikeya,RR,Spin bowler,IND,False,30.0,30.0,sold,12.0,Set 12: uncapped spin bowlers (USP1),False,True
+2025,Manav Suthar,Manav Suthar,GT,Spin bowler,IND,False,30.0,30.0,sold,,Set 12: uncapped spin bowlers (USP1),False,True
+2025,Faf du Plessis,Faf du Plessis,DC,Batter,SA,True,200.0,200.0,sold,145.0,Set 13: capped batters (BA2),True,True
+2025,Glenn Phillips,Glenn Phillips (cricketer),GT,Batter,NZ,True,200.0,200.0,sold,8.0,Set 13: capped batters (BA2),True,True
+2025,Rovman Powell,Rovman Powell,KKR,Batter,WIN,True,150.0,150.0,sold,27.0,Set 13: capped batters (BA2),True,True
+2025,Ajinkya Rahane,Ajinkya Rahane,KKR,Batter,IND,True,150.0,150.0,sold,185.0,Set 13: capped batters (BA2),False,True
+2025,Sam Curran,Sam Curran,CSK,All-rounder,ENG,True,200.0,240.0,sold,59.0,Set 14: capped all-rounders (AL2),True,True
+2025,Marco Jansen,Marco Jansen,PBKS,All-rounder,SA,True,125.0,700.0,sold,21.0,Set 14: capped all-rounders (AL2),True,True
+2025,Krunal Pandya,Krunal Pandya,RCB,All-rounder,IND,True,200.0,575.0,sold,127.0,Set 14: capped all-rounders (AL2),False,True
+2025,Nitish Rana,Nitish Rana,RR,All-rounder,IND,True,150.0,420.0,sold,107.0,Set 14: capped all-rounders (AL2),False,True
+2025,Washington Sundar,Washington Sundar,GT,All-rounder,IND,True,200.0,320.0,sold,61.0,Set 14: capped all-rounders (AL2),False,True
+2025,Donovan Ferreira,Donovan Ferreira,DC,Wicket-keeper,SA,True,75.0,75.0,sold,2.0,Set 15: capped wicket-keepers (WK2),True,True
+2025,Josh Inglis,Josh Inglis,PBKS,Wicket-keeper,AUS,True,200.0,260.0,sold,,Set 15: capped wicket-keepers (WK2),True,True
+2025,Ryan Rickelton,Ryan Rickelton,MI,Wicket-keeper,SA,True,100.0,100.0,sold,,Set 15: capped wicket-keepers (WK2),True,True
+2025,Deepak Chahar,Deepak Chahar,MI,Fast bowler,IND,True,200.0,925.0,sold,81.0,Set 16: capped fast bowlers (FA2),False,True
+2025,Gerald Coetzee,Gerald Coetzee,GT,Fast bowler,SA,True,125.0,240.0,sold,10.0,Set 16: capped fast bowlers (FA2),True,True
+2025,Akash Deep,Akash Deep,LSG,Fast bowler,IND,True,100.0,800.0,sold,8.0,Set 16: capped fast bowlers (FA2),False,True
+2025,Tushar Deshpande,Tushar Deshpande,RR,Fast bowler,IND,True,100.0,650.0,sold,36.0,Set 16: capped fast bowlers (FA2),False,True
+2025,Lockie Ferguson,Lockie Ferguson,PBKS,Fast bowler,NZ,True,200.0,200.0,sold,45.0,Set 16: capped fast bowlers (FA2),True,True
+2025,Bhuvneshwar Kumar,Bhuvneshwar Kumar,RCB,Fast bowler,IND,True,200.0,1075.0,sold,176.0,Set 16: capped fast bowlers (FA2),False,True
+2025,Mukesh Kumar,Mukesh Kumar (cricketer),DC,Fast bowler,IND,True,200.0,800.0,sold,20.0,Set 16: capped fast bowlers (FA2),False,True
+2025,Allah Ghazanfar,Allah Ghazanfar,MI,Spin bowler,AFG,True,75.0,480.0,sold,,Set 17: capped spin bowlers (SP2),True,True
+2025,Swastik Chikara,Swastik Chikara,RCB,Batter,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Shubham Dubey,Shubham Dubey,RR,Batter,IND,False,30.0,80.0,sold,4.0,Accelerated round,False,True
+2025,Shaik Rasheed,Shaik Rasheed,CSK,Batter,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Himmat Singh,Himmat Singh (cricketer),LSG,Batter,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Anshul Kamboj,Anshul Kamboj,CSK,All-rounder,IND,False,30.0,340.0,sold,3.0,Accelerated round,False,True
+2025,Arshad Khan,Arshad Khan (Indian cricketer),GT,All-rounder,IND,False,30.0,130.0,sold,10.0,Accelerated round,False,True
+2025,Darshan Nalkande,Darshan Nalkande,DC,All-rounder,IND,False,30.0,30.0,sold,5.0,Accelerated round,False,True
+2025,Anukul Roy,Anukul Roy,KKR,All-rounder,IND,False,30.0,40.0,sold,11.0,Accelerated round,False,True
+2025,Swapnil Singh,Swapnil Singh,RCB,All-rounder,IND,False,30.0,50.0,sold,14.0,Accelerated round,False,True
+2025,Vansh Bedi,Vansh Bedi,CSK,Wicket-keeper,IND,False,30.0,55.0,sold,,Accelerated round,False,True
+2025,Kunal Rathore,Kunal Rathore,RR,Wicket-keeper,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Gurnoor Brar,Gurnoor Brar,GT,Fast bowler,IND,False,30.0,130.0,sold,1.0,Accelerated round,False,True
+2025,Mukesh Choudhary,Mukesh Choudhary,CSK,Fast bowler,IND,False,30.0,30.0,sold,14.0,Accelerated round,False,True
+2025,Arjun Tendulkar,Arjun Tendulkar,MI,Fast bowler,IND,False,30.0,30.0,sold,5.0,Accelerated round,False,True
+2025,Zeeshan Ansari,Zeeshan Ansari,SRH,Fast bowler,IND,False,30.0,40.0,sold,,Accelerated round,False,True
+2025,Manimaran Siddharth,Manimaran Siddharth,LSG,Fast bowler,IND,False,30.0,75.0,sold,3.0,Accelerated round,False,True
+2025,Digvesh Singh,Digvesh Singh,LSG,Fast bowler,IND,False,30.0,30.0,sold,3.0,Accelerated round,False,True
+2025,Manish Pandey,Manish Pandey,KKR,Batter,IND,True,75.0,75.0,sold,171.0,Accelerated round,False,True
+2025,Sherfane Rutherford,Sherfane Rutherford,GT,Batter,WIN,True,150.0,260.0,sold,10.0,Accelerated round,True,True
+2025,Shahbaz Ahmed,Shahbaz Ahmed (cricketer),LSG,All-rounder,IND,True,100.0,240.0,sold,55.0,Accelerated round,False,True
+2025,Tim David,Tim David,RCB,All-rounder,AUS,True,200.0,300.0,sold,38.0,Accelerated round,True,True
+2025,Deepak Hooda,Deepak Hooda,CSK,All-rounder,IND,True,75.0,170.0,sold,118.0,Accelerated round,False,True
+2025,Will Jacks,Will Jacks,MI,All-rounder,ENG,True,200.0,525.0,sold,8.0,Accelerated round,True,True
+2025,Azmatullah Omarzai,Azmatullah Omarzai,PBKS,All-rounder,AFG,True,150.0,240.0,sold,7.0,Accelerated round,True,True
+2025,Sai Kishore,Sai Kishore,GT,All-rounder,IND,True,75.0,200.0,sold,10.0,Accelerated round,False,True
+2025,Romario Shepherd,Romario Shepherd,RCB,All-rounder,WIN,True,150.0,150.0,sold,10.0,Accelerated round,True,True
+2025,Spencer Johnson,Spencer Johnson (cricketer),KKR,Fast bowler,AUS,True,200.0,280.0,sold,5.0,Accelerated round,True,True
+2025,Umran Malik,Umran Malik,KKR,Fast bowler,IND,True,75.0,75.0,sold,26.0,Accelerated round,False,True
+2025,Ishant Sharma,Ishant Sharma,GT,Fast bowler,IND,True,75.0,75.0,sold,109.0,Accelerated round,False,True
+2025,Nuwan Thushara,Nuwan Thushara,RCB,Fast bowler,SL,True,75.0,160.0,sold,7.0,Accelerated round,True,True
+2025,Jaydev Unadkat,Jaydev Unadkat,SRH,Fast bowler,IND,True,100.0,100.0,sold,105.0,Accelerated round,False,True
+2025,Sachin Baby,Sachin Baby,SRH,Batter,IND,False,30.0,30.0,sold,19.0,Accelerated round,False,True
+2025,Harnoor Singh,Harnoor Singh,PBKS,Batter,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Andre Siddarth,Andre Siddarth,CSK,Batter,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Yudhvir Singh,Yudhvir Singh (cricketer),RR,All-rounder,IND,False,30.0,35.0,sold,5.0,Accelerated round,False,True
+2025,Rajvardhan Hangargekar,Rajvardhan Hangargekar,LSG,All-rounder,IND,False,30.0,30.0,sold,2.0,Accelerated round,False,True
+2025,Arshin Kulkarni,Arshin Kulkarni,LSG,All-rounder,IND,False,30.0,30.0,sold,2.0,Accelerated round,False,True
+2025,Ashwani Kumar,Ashwani Kumar (cricketer),MI,Fast bowler,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Akash Singh,"Akash Singh (cricketer, born 2002)",LSG,Fast bowler,IND,False,30.0,30.0,sold,7.0,Accelerated round,False,True
+2025,Gurjapneet Singh,Gurjapneet Singh,CSK,Fast bowler,IND,False,30.0,220.0,sold,2.0,Accelerated round,False,True
+2025,Matthew Breetzke,Matthew Breetzke,LSG,Batter,SA,True,,75.0,sold,,Accelerated round,True,True
+2025,Mitchell Santner,Mitchell Santner,MI,All-rounder,NZ,True,200.0,200.0,sold,18.0,Accelerated round,True,True
+2025,Jayant Yadav,Jayant Yadav,GT,All-rounder,IND,True,75.0,75.0,sold,20.0,Accelerated round,False,True
+2025,Fazalhaq Farooqi,Fazalhaq Farooqi,RR,Fast bowler,AFG,True,200.0,200.0,sold,7.0,Accelerated round,True,True
+2025,Kwena Maphaka,Kwena Maphaka,RR,Fast bowler,SA,True,75.0,150.0,sold,2.0,Accelerated round,True,True
+2025,Kuldeep Sen,Kuldeep Sen,PBKS,Fast bowler,IND,True,75.0,80.0,sold,12.0,Accelerated round,False,True
+2025,Reece Topley,Reece Topley,MI,Fast bowler,ENG,True,75.0,75.0,sold,5.0,Accelerated round,True,True
+2025,Lizaad Williams,Lizaad Williams,MI,Fast bowler,SA,True,75.0,75.0,sold,2.0,Accelerated round,True,True
+2025,Priyansh Arya,Priyansh Arya,PBKS,All-rounder,IND,False,30.0,380.0,sold,,Accelerated round,False,True
+2025,Manoj Bhandage,Manoj Bhandage,RCB,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Praveen Dubey,Praveen Dubey,PBKS,All-rounder,IND,False,30.0,30.0,sold,4.0,Accelerated round,False,True
+2025,Ajay Mandal,Ajay Mandal,DC,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Vipraj Nigam,Vipraj Nigam,DC,All-rounder,IND,False,30.0,50.0,sold,,Accelerated round,False,True
+2025,Krishnan Shrijith,Krishnan Shrijith,MI,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Mohit Rathee,Mohit Rathee,RCB,Fast bowler,IND,False,30.0,30.0,sold,1.0,Accelerated round,False,True
+2025,Jacob Bethell,Jacob Bethell,RCB,All-rounder,ENG,True,125.0,260.0,sold,,Accelerated round,True,True
+2025,Brydon Carse,Brydon Carse,SRH,All-rounder,ENG,True,100.0,100.0,sold,,Accelerated round,True,True
+2025,Aaron Hardie,Aaron Hardie,PBKS,All-rounder,AUS,True,125.0,125.0,sold,,Accelerated round,True,True
+2025,Kamindu Mendis,Kamindu Mendis,SRH,All-rounder,SL,True,75.0,75.0,sold,,Accelerated round,True,True
+2025,Dushmantha Chameera,Dushmantha Chameera,DC,Fast bowler,SL,True,75.0,75.0,sold,13.0,Accelerated round,True,True
+2025,Nathan Ellis,Nathan Ellis,CSK,Fast bowler,AUS,True,100.0,200.0,sold,16.0,Accelerated round,True,True
+2025,Shamar Joseph,Shamar Joseph,LSG,Fast bowler,WIN,True,75.0,75.0,sold,1.0,Accelerated round,True,True
+2025,Aniket Verma,Aniket Verma,SRH,Batter,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Raj Angad Bawa,Raj Angad Bawa,MI,All-rounder,IND,False,30.0,30.0,sold,2.0,Accelerated round,False,True
+2025,Musheer Khan,Musheer Khan,PBKS,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Manvanth Kumar L,Manvanth Kumar L,DC,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Suryansh Shedge,Suryansh Shedge,PBKS,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Kulwant Khejroliya,Kulwant Khejroliya,GT,Fast bowler,IND,False,30.0,30.0,sold,7.0,Accelerated round,False,True
+2025,Prince Yadav,Prince Yadav,LSG,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Jamie Overton,Jamie Overton,CSK,All-rounder,ENG,True,150.0,150.0,sold,,Accelerated round,True,True
+2025,Xavier Bartlett,Xavier Bartlett,PBKS,Fast bowler,AUS,True,75.0,80.0,sold,,Accelerated round,True,True
+2025,Lungi Ngidi,Lungi Ngidi,RCB,Fast bowler,SA,True,30.0,100.0,sold,,Accelerated round,True,True
+2025,Yuvraj Chaudhary,Yuvraj Chaudhary,LSG,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Kamlesh Nagarkoti,Kamlesh Nagarkoti,CSK,All-rounder,IND,False,30.0,30.0,sold,12.0,Accelerated round,False,True
+2025,Abhinandan Singh,Abhinandan Singh,RCB,Fast bowler,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Karim Janat,Karim Janat,GT,All-rounder,AFG,True,30.0,75.0,sold,,Accelerated round,True,True
+2025,Pyla Avinash,Pyla Avinash,PBKS,Batter,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Ramakrishna Ghosh,Ramakrishna Ghosh,CSK,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Bevon Jacobs,Bevon Jacobs,MI,Batter,NZ,False,30.0,30.0,sold,,Accelerated round,True,True
+2025,Ashok Sharma,Ashok Sharma (cricketer),RR,Fast bowler,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Vaibhav Sooryavanshi,Vaibhav Sooryavanshi,RR,Batter,IND,False,30.0,110.0,sold,,Accelerated round,False,True
+2025,Eshan Malinga,Eshan Malinga,SRH,Fast bowler,SL,False,30.0,120.0,sold,,Accelerated round,True,True
+2025,Tripurana Vijay,Tripurana Vijay,DC,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2025,Madhav Tiwari,Madhav Tiwari,DC,All-rounder,IND,False,30.0,40.0,sold,,Accelerated round,False,True
+2025,Vignesh Puthur,Vignesh Puthur,MI,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,True
+2026,Ruturaj Gaikwad,Ruturaj Gaikwad,CSK,,IND,,,1800.0,retained,,retained,False,False
+2026,Sanju Samson,Sanju Samson,CSK,,IND,,,1800.0,retained,,retained,False,False
+2026,Shivam Dube,Shivam Dube,CSK,All-rounder,IND,,,1200.0,retained,,retained,False,False
+2026,Noor Ahmad,Noor Ahmad,CSK,Spin bowler,AFG,,,1000.0,retained,,retained,True,False
+2026,Khaleel Ahmed,Khaleel Ahmed,CSK,Fast bowler,IND,,,480.0,retained,,retained,False,False
+2026,MS Dhoni,MS Dhoni,CSK,,IND,,,400.0,retained,,retained,False,False
+2026,Anshul Kamboj,Anshul Kamboj,CSK,All-rounder,IND,,,340.0,retained,,retained,False,False
+2026,Dewald Brevis,Dewald Brevis,CSK,Batter,SA,,,220.00000000000003,retained,,retained,True,False
+2026,Gurjapneet Singh,Gurjapneet Singh,CSK,Fast bowler,IND,,,220.00000000000003,retained,,retained,False,False
+2026,Nathan Ellis,Nathan Ellis,CSK,Fast bowler,AUS,,,200.0,retained,,retained,True,False
+2026,Jamie Overton,Jamie Overton,CSK,All-rounder,ENG,,,150.0,retained,,retained,True,False
+2026,Mukesh Choudhary,Mukesh Choudhary,CSK,Fast bowler,IND,,,30.0,retained,,retained,False,False
+2026,Ramakrishna Ghosh,Ramakrishna Ghosh,CSK,All-rounder,IND,,,30.0,retained,,retained,False,False
+2026,Shreyas Gopal,Shreyas Gopal,CSK,Spin bowler,IND,,,30.0,retained,,retained,False,False
+2026,Ayush Mhatre,Ayush Mhatre,CSK,,IND,,,30.0,retained,,retained,False,False
+2026,Urvil Patel,Urvil Patel,CSK,Wicket-keeper,IND,,,30.0,retained,,retained,False,False
+2026,Axar Patel,Axar Patel,DC,,IND,,,1650.0,retained,,retained,False,False
+2026,KL Rahul,KL Rahul,DC,Wicket-keeper,IND,,,1400.0,retained,,retained,False,False
+2026,Kuldeep Yadav,Kuldeep Yadav,DC,Fast bowler,IND,,,1325.0,retained,,retained,False,False
+2026,Mitchell Starc,Mitchell Starc,DC,Fast bowler,AUS,,,1175.0,retained,,retained,True,False
+2026,T. Natarajan,T. Natarajan,DC,Fast bowler,IND,,,1075.0,retained,,retained,False,False
+2026,Tristan Stubbs,Tristan Stubbs,DC,Wicket-keeper,SA,,,1000.0,retained,,retained,True,False
+2026,Mukesh Kumar,Mukesh Kumar (cricketer),DC,Fast bowler,IND,,,800.0,retained,,retained,False,False
+2026,Nitish Rana,Nitish Rana,DC,All-rounder,IND,,,420.0,retained,,retained,False,False
+2026,Abhishek Porel,Abhishek Porel,DC,,IND,,,400.0,retained,,retained,False,False
+2026,Ashutosh Sharma,Ashutosh Sharma (cricketer),DC,All-rounder,IND,,,380.0,retained,,retained,False,False
+2026,Sameer Rizvi,Sameer Rizvi,DC,All-rounder,IND,,,95.0,retained,,retained,False,False
+2026,Dushmantha Chameera,Dushmantha Chameera,DC,Fast bowler,SL,,,75.0,retained,,retained,True,False
+2026,Karun Nair,Karun Nair,DC,Batter,IND,,,50.0,retained,,retained,False,False
+2026,Madhav Tiwari,Madhav Tiwari,DC,All-rounder,IND,,,40.0,retained,,retained,False,False
+2026,Ajay Mandal,Ajay Mandal,DC,All-rounder,IND,,,30.0,retained,,retained,False,False
+2026,Tripurana Vijay,Tripurana Vijay,DC,All-rounder,IND,,,30.0,retained,,retained,False,False
+2026,Vipraj Nigam,Vipraj Nigam,DC,All-rounder,IND,,,30.0,retained,,retained,False,False
+2026,Rashid Khan,Rashid Khan,GT,,AFG,,,1800.0,retained,,retained,True,False
+2026,Shubman Gill,Shubman Gill,GT,,IND,,,1650.0,retained,,retained,False,False
+2026,Jos Buttler,Jos Buttler,GT,Wicket-keeper,ENG,,,1575.0,retained,,retained,True,False
+2026,Mohammed Siraj,Mohammed Siraj,GT,Fast bowler,IND,,,1225.0,retained,,retained,False,False
+2026,Kagiso Rabada,Kagiso Rabada,GT,Fast bowler,SA,,,1075.0,retained,,retained,True,False
+2026,Prasidh Krishna,Prasidh Krishna,GT,Fast bowler,IND,,,950.0,retained,,retained,False,False
+2026,Sai Sudharsan,Sai Sudharsan,GT,,IND,,,850.0,retained,,retained,False,False
+2026,Rahul Tewatia,Rahul Tewatia,GT,All-rounder,IND,,,400.0,retained,,retained,False,False
+2026,Shahrukh Khan,Shahrukh Khan (cricketer),GT,All-rounder,IND,,,400.0,retained,,retained,False,False
+2026,Washington Sundar,Washington Sundar,GT,All-rounder,IND,,,320.0,retained,,retained,False,False
+2026,Sai Kishore,Sai Kishore,GT,All-rounder,IND,,,200.0,retained,,retained,False,False
+2026,Glenn Phillips,Glenn Phillips (cricketer),GT,Batter,NZ,,,200.0,retained,,retained,True,False
+2026,Arshad Khan,Arshad Khan (Indian cricketer),GT,All-rounder,IND,,,130.0,retained,,retained,False,False
+2026,Gurnoor Brar,Gurnoor Brar,GT,Fast bowler,IND,,,130.0,retained,,retained,False,False
+2026,Ishant Sharma,Ishant Sharma,GT,Fast bowler,IND,,,75.0,retained,,retained,False,False
+2026,Jayant Yadav,Jayant Yadav,GT,All-rounder,IND,,,75.0,retained,,retained,False,False
+2026,Kumar Kushagra,Kumar Kushagra,GT,Wicket-keeper,IND,,,65.0,retained,,retained,False,False
+2026,Anuj Rawat,Anuj Rawat,GT,Wicket-keeper,IND,,,30.0,retained,,retained,False,False
+2026,Manav Suthar,Manav Suthar,GT,Spin bowler,IND,,,30.0,retained,,retained,False,False
+2026,Nishant Sindhu,Nishant Sindhu,GT,All-rounder,IND,,,30.0,retained,,retained,False,False
+2026,Rinku Singh,Rinku Singh (cricketer),KKR,Batter,IND,,,1300.0,retained,,retained,False,False
+2026,Sunil Narine,Sunil Narine,KKR,,WIN,,,1200.0,retained,,retained,True,False
+2026,Varun Chakravarthy,Varun Chakravarthy,KKR,,IND,,,1200.0,retained,,retained,False,False
+2026,Harshit Rana,Harshit Rana,KKR,,IND,,,400.0,retained,,retained,False,False
+2026,Ramandeep Singh,Ramandeep Singh (cricketer),KKR,All-rounder,IND,,,400.0,retained,,retained,False,False
+2026,Angkrish Raghuvanshi,Angkrish Raghuvanshi,KKR,Batter,IND,,,300.0,retained,,retained,False,False
+2026,Vaibhav Arora,Vaibhav Arora,KKR,Fast bowler,IND,,,180.0,retained,,retained,False,False
+2026,Ajinkya Rahane,Ajinkya Rahane,KKR,Batter,IND,,,150.0,retained,,retained,False,False
+2026,Rovman Powell,Rovman Powell,KKR,Batter,WIN,,,150.0,retained,,retained,True,False
+2026,Manish Pandey,Manish Pandey,KKR,Batter,IND,,,75.0,retained,,retained,False,False
+2026,Umran Malik,Umran Malik,KKR,Fast bowler,IND,,,75.0,retained,,retained,False,False
+2026,Anukul Roy,Anukul Roy,KKR,All-rounder,IND,,,40.0,retained,,retained,False,False
+2026,Rishabh Pant,Rishabh Pant,LSG,Batter,IND,,,2700.0,retained,,retained,False,False
+2026,Nicholas Pooran,Nicholas Pooran,LSG,Wicket-keeper,WIN,,,2100.0,retained,,retained,True,False
+2026,Mayank Yadav,Mayank Yadav,LSG,Fast bowler,IND,,,1100.0,retained,,retained,False,False
+2026,Mohammed Shami,Mohammed Shami,LSG,Fast bowler,IND,,,1000.0,retained,,retained,False,False
+2026,Avesh Khan,Avesh Khan,LSG,Fast bowler,IND,,,975.0,retained,,retained,False,False
+2026,Abdul Samad,Abdul Samad (Indian cricketer),LSG,All-rounder,IND,,,420.0,retained,,retained,False,False
+2026,Ayush Badoni,Ayush Badoni,LSG,Batter,IND,,,400.0,retained,,retained,False,False
+2026,Mohsin Khan,Mohsin Khan (Indian cricketer),LSG,Fast bowler,IND,,,400.0,retained,,retained,False,False
+2026,Mitchell Marsh,Mitchell Marsh,LSG,All-rounder,AUS,,,340.0,retained,,retained,True,False
+2026,Shahbaz Ahmed,Shahbaz Ahmed (cricketer),LSG,All-rounder,IND,,,240.0,retained,,retained,False,False
+2026,Aiden Markram,Aiden Markram,LSG,Batter,SA,,,200.0,retained,,retained,True,False
+2026,Manimaran Siddharth,Manimaran Siddharth,LSG,Fast bowler,IND,,,75.0,retained,,retained,False,False
+2026,Matthew Breetzke,Matthew Breetzke,LSG,Batter,SA,,,75.0,retained,,retained,True,False
+2026,Akash Singh,"Akash Singh (cricketer, born 2002)",LSG,Fast bowler,IND,,,30.0,retained,,retained,False,False
+2026,Arjun Tendulkar,Arjun Tendulkar,LSG,Fast bowler,IND,,,30.0,retained,,retained,False,False
+2026,Arshin Kulkarni,Arshin Kulkarni,LSG,All-rounder,IND,,,30.0,retained,,retained,False,False
+2026,Himmat Singh,Himmat Singh (cricketer),LSG,Batter,IND,,,30.0,retained,,retained,False,False
+2026,Digvesh Rathi,Digvesh Rathi,LSG,,IND,,,30.0,retained,,retained,False,False
+2026,Prince Yadav,Prince Yadav,LSG,All-rounder,IND,,,30.0,retained,,retained,False,False
+2026,Jasprit Bumrah,Jasprit Bumrah,MI,,IND,,,1800.0,retained,,retained,False,False
+2026,Hardik Pandya,Hardik Pandya,MI,,IND,,,1635.0000000000002,retained,,retained,False,False
+2026,Suryakumar Yadav,Suryakumar Yadav,MI,,IND,,,1635.0000000000002,retained,,retained,False,False
+2026,Rohit Sharma,Rohit Sharma,MI,,IND,,,1630.0,retained,,retained,False,False
+2026,Trent Boult,Trent Boult,MI,Fast bowler,NZ,,,1250.0,retained,,retained,True,False
+2026,Deepak Chahar,Deepak Chahar,MI,Fast bowler,IND,,,925.0,retained,,retained,False,False
+2026,Tilak Varma,Tilak Varma,MI,All-rounder,IND,,,800.0,retained,,retained,False,False
+2026,Will Jacks,Will Jacks,MI,All-rounder,ENG,,,525.0,retained,,retained,True,False
+2026,Naman Dhir,Naman Dhir,MI,All-rounder,IND,,,525.0,retained,,retained,False,False
+2026,Allah Ghazanfar,Allah Ghazanfar,MI,Spin bowler,AFG,,,480.0,retained,,retained,True,False
+2026,Sherfane Rutherford,Sherfane Rutherford,MI,Batter,WIN,,,260.0,retained,,retained,True,False
+2026,Shardul Thakur,Shardul Thakur,MI,All-rounder,IND,,,200.0,retained,,retained,False,False
+2026,Mitchell Santner,Mitchell Santner,MI,All-rounder,NZ,,,200.0,retained,,retained,True,False
+2026,Ryan Rickelton,Ryan Rickelton,MI,Wicket-keeper,SA,,,100.0,retained,,retained,True,False
+2026,Corbin Bosch,Corbin Bosch,MI,,SA,,,75.0,retained,,retained,True,False
+2026,Robin Minz,Robin Minz,MI,Wicket-keeper,IND,,,65.0,retained,,retained,False,False
+2026,Raj Angad Bawa,Raj Angad Bawa,MI,All-rounder,IND,,,30.0,retained,,retained,False,False
+2026,Ashwani Kumar,Ashwani Kumar (cricketer),MI,Fast bowler,IND,,,30.0,retained,,retained,False,False
+2026,Raghu Sharma,Raghu Sharma (cricketer),MI,,IND,,,30.0,retained,,retained,False,False
+2026,Mayank Markande,Mayank Markande,MI,Spin bowler,IND,,,30.0,retained,,retained,False,False
+2026,Shreyas Iyer,Shreyas Iyer,PBKS,Batter,IND,,,2675.0,retained,,retained,False,False
+2026,Arshdeep Singh,Arshdeep Singh,PBKS,Fast bowler,IND,,,1800.0,retained,,retained,False,False
+2026,Yuzvendra Chahal,Yuzvendra Chahal,PBKS,Fast bowler,IND,,,1800.0,retained,,retained,False,False
+2026,Marcus Stoinis,Marcus Stoinis,PBKS,All-rounder,AUS,,,1100.0,retained,,retained,True,False
+2026,Marco Jansen,Marco Jansen,PBKS,All-rounder,SA,,,700.0,retained,,retained,True,False
+2026,Shashank Singh,Shashank Singh,PBKS,All-rounder,IND,,,550.0,retained,,retained,False,False
+2026,Nehal Wadhera,Nehal Wadhera,PBKS,Batter,IND,,,420.0,retained,,retained,False,False
+2026,Prabhsimran Singh,Prabhsimran Singh,PBKS,Wicket-keeper,IND,,,400.0,retained,,retained,False,False
+2026,Priyansh Arya,Priyansh Arya,PBKS,All-rounder,IND,,,380.0,retained,,retained,False,False
+2026,Mitchell Owen,Mitchell Owen,PBKS,,AUS,,,300.0,retained,,retained,True,False
+2026,Azmatullah Omarzai,Azmatullah Omarzai,PBKS,All-rounder,AFG,,,240.0,retained,,retained,True,False
+2026,Lockie Ferguson,Lockie Ferguson,PBKS,Fast bowler,NZ,,,200.0,retained,,retained,True,False
+2026,Vijaykumar Vyshak,Vijaykumar Vyshak,PBKS,Fast bowler,IND,,,180.0,retained,,retained,False,False
+2026,Yash Thakur,Yash Thakur,PBKS,Fast bowler,IND,,,160.0,retained,,retained,False,False
+2026,Harpreet Brar,Harpreet Brar,PBKS,All-rounder,IND,,,150.0,retained,,retained,False,False
+2026,Vishnu Vinod,Vishnu Vinod,PBKS,Wicket-keeper,IND,,,95.0,retained,,retained,False,False
+2026,Xavier Bartlett,Xavier Bartlett,PBKS,Fast bowler,AUS,,,80.0,retained,,retained,True,False
+2026,Pyla Avinash,Pyla Avinash,PBKS,Batter,IND,,,30.0,retained,,retained,False,False
+2026,Harnoor Pannu,Harnoor Pannu,PBKS,,IND,,,30.0,retained,,retained,False,False
+2026,Musheer Khan,Musheer Khan,PBKS,All-rounder,IND,,,30.0,retained,,retained,False,False
+2026,Suryansh Shedge,Suryansh Shedge,PBKS,All-rounder,IND,,,30.0,retained,,retained,False,False
+2026,Yashasvi Jaiswal,Yashasvi Jaiswal,RR,,IND,,,1800.0,retained,,retained,False,False
+2026,Riyan Parag,Riyan Parag,RR,All-rounder,IND,,,1400.0,retained,,retained,False,False
+2026,Ravindra Jadeja,Ravindra Jadeja,RR,,IND,,,1400.0,retained,,retained,False,False
+2026,Dhruv Jurel,Dhruv Jurel,RR,Wicket-keeper,IND,,,1400.0,retained,,retained,False,False
+2026,Jofra Archer,Jofra Archer,RR,Fast bowler,ENG,,,1250.0,retained,,retained,True,False
+2026,Shimron Hetmyer,Shimron Hetmyer,RR,Batter,WIN,,,1100.0,retained,,retained,True,False
+2026,Tushar Deshpande,Tushar Deshpande,RR,Fast bowler,IND,,,650.0,retained,,retained,False,False
+2026,Sandeep Sharma,Sandeep Sharma,RR,Fast bowler,IND,,,400.0,retained,,retained,False,False
+2026,Nandre Burger,Nandre Burger,RR,Fast bowler,SA,,,350.0,retained,,retained,True,False
+2026,Sam Curran,Sam Curran,RR,All-rounder,ENG,,,240.0,retained,,retained,True,False
+2026,Kwena Maphaka,Kwena Maphaka,RR,Fast bowler,SA,,,150.0,retained,,retained,True,False
+2026,Vaibhav Sooryavanshi,Vaibhav Sooryavanshi,RR,Batter,IND,,,110.00000000000001,retained,,retained,False,False
+2026,Donovan Ferreira,Donovan Ferreira,RR,Wicket-keeper,SA,,,100.0,retained,,retained,True,False
+2026,Shubham Dubey,Shubham Dubey,RR,Batter,IND,,,80.0,retained,,retained,False,False
+2026,Yudhvir Singh,Yudhvir Singh (cricketer),RR,All-rounder,IND,,,35.0,retained,,retained,False,False
+2026,Lhuan-dre Pretorius,Lhuan-dre Pretorius,RR,,SA,,,30.0,retained,,retained,True,False
+2026,Virat Kohli,Virat Kohli,RCB,,IND,,,2100.0,retained,,retained,False,False
+2026,Josh Hazlewood,Josh Hazlewood,RCB,Fast bowler,AUS,,,1250.0,retained,,retained,True,False
+2026,Phil Salt,Phil Salt,RCB,Wicket-keeper,ENG,,,1150.0,retained,,retained,True,False
+2026,Rajat Patidar,Rajat Patidar,RCB,,IND,,,1100.0,retained,,retained,False,False
+2026,Jitesh Sharma,Jitesh Sharma,RCB,Wicket-keeper,IND,,,1100.0,retained,,retained,False,False
+2026,Bhuvneshwar Kumar,Bhuvneshwar Kumar,RCB,Fast bowler,IND,,,1075.0,retained,,retained,False,False
+2026,Rasikh Salam,Rasikh Salam,RCB,,IND,,,600.0,retained,,retained,False,False
+2026,Krunal Pandya,Krunal Pandya,RCB,All-rounder,IND,,,575.0,retained,,retained,False,False
+2026,Yash Dayal,Yash Dayal,RCB,Fast bowler,IND,,,500.0,retained,,retained,False,False
+2026,Tim David,Tim David,RCB,All-rounder,AUS,,,300.0,retained,,retained,True,False
+2026,Suyash Sharma,Suyash Sharma,RCB,Spin bowler,IND,,,260.0,retained,,retained,False,False
+2026,Jacob Bethell,Jacob Bethell,RCB,All-rounder,ENG,,,260.0,retained,,retained,True,False
+2026,Devdutt Padikkal,Devdutt Padikkal,RCB,Batter,IND,,,200.0,retained,,retained,False,False
+2026,Nuwan Thushara,Nuwan Thushara,RCB,Fast bowler,SL,,,160.0,retained,,retained,True,False
+2026,Romario Shepherd,Romario Shepherd,RCB,All-rounder,WIN,,,150.0,retained,,retained,True,False
+2026,Swapnil Singh,Swapnil Singh,RCB,All-rounder,IND,,,50.0,retained,,retained,False,False
+2026,Abhinandan Singh,Abhinandan Singh,RCB,Fast bowler,IND,,,30.0,retained,,retained,False,False
+2026,Heinrich Klaasen,Heinrich Klaasen,SRH,Wicket-keeper,SA,,,2300.0,retained,,retained,True,False
+2026,Pat Cummins,Pat Cummins,SRH,All-rounder,AUS,,,1800.0,retained,,retained,True,False
+2026,Travis Head,Travis Head,SRH,Batter,AUS,,,1400.0,retained,,retained,True,False
+2026,Abhishek Sharma,Abhishek Sharma,SRH,All-rounder,IND,,,1400.0,retained,,retained,False,False
+2026,Ishan Kishan,Ishan Kishan,SRH,Wicket-keeper,IND,,,1125.0,retained,,retained,False,False
+2026,Harshal Patel,Harshal Patel,SRH,All-rounder,IND,,,800.0,retained,,retained,False,False
+2026,Nitish Kumar Reddy,Nitish Kumar Reddy,SRH,Wicket-keeper,IND,,,600.0,retained,,retained,False,False
+2026,Eshan Malinga,Eshan Malinga,SRH,Fast bowler,SL,,,120.0,retained,,retained,True,False
+2026,Brydon Carse,Brydon Carse,SRH,All-rounder,ENG,,,100.0,retained,,retained,True,False
+2026,Jaydev Unadkat,Jaydev Unadkat,SRH,Fast bowler,IND,,,100.0,retained,,retained,False,False
+2026,Kamindu Mendis,Kamindu Mendis,SRH,All-rounder,SL,,,75.0,retained,,retained,True,False
+2026,Zeeshan Ansari,Zeeshan Ansari,SRH,Fast bowler,IND,,,40.0,retained,,retained,False,False
+2026,Smaran Ravichandran,Smaran Ravichandran,SRH,,IND,,,30.0,retained,,retained,False,False
+2026,Aniket Verma,Aniket Verma,SRH,Batter,IND,,,30.0,retained,,retained,False,False
+2026,Harsh Dubey,Harsh Dubey,SRH,,IND,,,30.0,retained,,retained,False,False
+2026,Cameron Green,Cameron Green,KKR,Batter,AUS,True,200.0,2520.0,sold,29.0,Set 1: capped batters (BA1),True,False
+2026,Sarfaraz Khan,Sarfaraz Khan (cricketer),CSK,Batter,IND,True,75.0,75.0,sold,50.0,Set 1: capped batters (BA1),False,False
+2026,David Miller,David Miller (South African cricketer),DC,Batter,SA,True,200.0,200.0,sold,141.0,Set 1: capped batters (BA1),True,False
+2026,Prithvi Shaw,Prithvi Shaw,DC,Batter,IND,True,75.0,75.0,sold,79.0,Set 1: capped batters (BA1),False,False
+2026,Wanindu Hasaranga,Wanindu Hasaranga,LSG,All-rounder,SL,True,200.0,200.0,sold,37.0,Set 2: capped all-rounders (AL1),True,False
+2026,Venkatesh Iyer,Venkatesh Iyer,RCB,All-rounder,IND,True,200.0,700.0,sold,62.0,Set 2: capped all-rounders (AL1),False,False
+2026,Liam Livingstone,Liam Livingstone,SRH,All-rounder,ENG,True,200.0,1300.0,sold,49.0,Set 2: capped all-rounders (AL1),True,False
+2026,Rachin Ravindra,Rachin Ravindra,KKR,All-rounder,NZ,True,200.0,200.0,sold,18.0,Set 2: capped all-rounders (AL1),True,False
+2026,Finn Allen,Finn Allen,KKR,Wicket-keeper,NZ,True,200.0,200.0,sold,0.0,Set 3: capped wicket-keepers (WK1),True,False
+2026,Quinton de Kock,Quinton de Kock,MI,Wicket-keeper,SA,True,100.0,100.0,sold,115.0,Set 3: capped wicket-keepers (WK1),True,False
+2026,Ben Duckett,Ben Duckett,DC,Wicket-keeper,ENG,True,200.0,200.0,sold,,Set 3: capped wicket-keepers (WK1),True,False
+2026,Akash Deep,Akash Deep,KKR,Fast bowler,IND,True,100.0,100.0,sold,14.0,Set 4: capped fast bowlers (FA1),False,False
+2026,Jacob Duffy,Jacob Duffy,RCB,Fast bowler,NZ,True,200.0,200.0,sold,,Set 4: capped fast bowlers (FA1),True,False
+2026,Matt Henry,Matt Henry (cricketer),CSK,Fast bowler,NZ,True,200.0,200.0,sold,6.0,Set 4: capped fast bowlers (FA1),True,False
+2026,Shivam Mavi,Shivam Mavi,SRH,Fast bowler,IND,True,75.0,75.0,sold,32.0,Set 4: capped fast bowlers (FA1),False,False
+2026,Anrich Nortje,Anrich Nortje,LSG,Fast bowler,SA,True,200.0,200.0,sold,48.0,Set 4: capped fast bowlers (FA1),True,False
+2026,Matheesha Pathirana,Matheesha Pathirana,KKR,Fast bowler,SL,True,200.0,1800.0,sold,32.0,Set 4: capped fast bowlers (FA1),True,False
+2026,Ravi Bishnoi,Ravi Bishnoi,RR,Spin bowler,IND,True,200.0,720.0,sold,77.0,Set 5: capped spin bowlers (SP1),False,False
+2026,Rahul Chahar,Rahul Chahar,CSK,Spin bowler,IND,True,100.0,520.0,sold,80.0,Set 5: capped spin bowlers (SP1),False,False
+2026,Akeal Hosein,Akeal Hosein,CSK,Spin bowler,WIN,True,200.0,200.0,sold,1.0,Set 5: capped spin bowlers (SP1),True,False
+2026,Auqib Nabi,Auqib Nabi,DC,All-rounder,IND,False,30.0,840.0,sold,0.0,Set 7: uncapped all-rounders (UAL1),False,False
+2026,Shivang Kumar,Shivang Kumar,SRH,All-rounder,IND,False,30.0,30.0,sold,0.0,Set 7: uncapped all-rounders (UAL1),False,False
+2026,Prashant Veer,Prashant Veer,CSK,All-rounder,IND,False,30.0,1420.0,sold,0.0,Set 7: uncapped all-rounders (UAL1),False,False
+2026,Mukul Choudhary,Mukul Choudhary,LSG,Wicket-keeper,IND,False,30.0,260.0,sold,,Set 8: uncapped wicket-keepers (UWK1),False,False
+2026,Kartik Sharma,Kartik Sharma,CSK,Wicket-keeper,IND,False,30.0,1420.0,sold,,Set 8: uncapped wicket-keepers (UWK1),False,False
+2026,Tejasvi Singh,Tejasvi Singh,KKR,Wicket-keeper,IND,False,30.0,300.0,sold,,Set 8: uncapped wicket-keepers (UWK1),False,False
+2026,Sushant Mishra,Sushant Mishra,RR,Fast bowler,IND,False,30.0,90.0,sold,,Set 9: uncapped fast bowlers (UFA1),False,False
+2026,Ashok Sharma,Ashok Sharma (cricketer),GT,Fast bowler,IND,False,30.0,90.0,sold,,Set 9: uncapped fast bowlers (UFA1),False,False
+2026,Naman Tiwari,Naman Tiwari,LSG,Fast bowler,IND,False,30.0,100.0,sold,,Set 9: uncapped fast bowlers (UFA1),False,False
+2026,Kartik Tyagi,Kartik Tyagi,KKR,Fast bowler,IND,False,30.0,30.0,sold,20.0,Set 9: uncapped fast bowlers (UFA1),False,False
+2026,Yash Raj Punja,Yash Raj Punja,RR,Spin bowler,IND,False,30.0,30.0,sold,,Set 10: uncapped spin bowlers (USP1),False,False
+2026,Vignesh Puthur,Vignesh Puthur,RR,Spin bowler,IND,False,30.0,30.0,sold,5.0,Set 10: uncapped spin bowlers (USP1),False,False
+2026,Prashant Solanki,Prashant Solanki,KKR,Spin bowler,IND,False,30.0,30.0,sold,2.0,Set 10: uncapped spin bowlers (USP1),False,False
+2026,Pathum Nissanka,Pathum Nissanka,DC,Batter,SL,True,75.0,400.0,sold,,Accelerated round,True,False
+2026,Rahul Tripathi,Rahul Tripathi,KKR,Batter,IND,True,75.0,75.0,sold,100.0,Accelerated round,False,False
+2026,Ben Dwarshuis,Ben Dwarshuis,PBKS,All-rounder,AUS,True,100.0,440.0,sold,,Accelerated round,True,False
+2026,Zak Foulkes,Zak Foulkes,CSK,All-rounder,NZ,True,75.0,75.0,sold,,Accelerated round,True,False
+2026,Jason Holder,Jason Holder,GT,All-rounder,WIN,True,200.0,700.0,sold,46.0,Accelerated round,True,False
+2026,Matthew Short,Matthew Short,CSK,All-rounder,AUS,True,150.0,150.0,sold,6.0,Accelerated round,True,False
+2026,Tom Banton,Tom Banton,GT,Wicket-keeper,ENG,True,200.0,200.0,sold,2.0,Accelerated round,True,False
+2026,Jordan Cox,Jordan Cox (cricketer),RCB,Wicket-keeper,ENG,True,75.0,75.0,sold,,Accelerated round,True,False
+2026,Josh Inglis,Josh Inglis,LSG,Wicket-keeper,AUS,True,200.0,860.0,sold,11.0,Accelerated round,True,False
+2026,Tim Seifert,Tim Seifert,KKR,Wicket-keeper,NZ,True,150.0,150.0,sold,3.0,Accelerated round,True,False
+2026,Kyle Jamieson,Kyle Jamieson,DC,Fast bowler,NZ,True,200.0,200.0,sold,13.0,Accelerated round,True,False
+2026,Adam Milne,Adam Milne,RR,Fast bowler,NZ,True,200.0,240.0,sold,10.0,Accelerated round,True,False
+2026,Lungi Ngidi,Lungi Ngidi,DC,Fast bowler,SA,True,200.0,200.0,sold,16.0,Accelerated round,True,False
+2026,Mustafizur Rahman,Mustafizur Rahman,KKR,Fast bowler,BAN,True,200.0,920.0,sold,60.0,Accelerated round,True,False
+2026,Kuldeep Sen,Kuldeep Sen,RR,Fast bowler,IND,True,75.0,75.0,sold,12.0,Accelerated round,False,False
+2026,Danish Malewar,Danish Malewar,MI,Batter,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Aman Rao,"Aman Rao (cricketer, born 2004)",RR,Batter,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Akshat Raghuwanshi,Akshat Raghuwanshi,LSG,Batter,IND,False,30.0,220.0,sold,,Accelerated round,False,False
+2026,Satvik Deswal,Satvik Deswal,RCB,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Aman Khan,Aman Khan,CSK,All-rounder,IND,False,30.0,40.0,sold,12.0,Accelerated round,False,False
+2026,Vicky Ostwal,Vicky Ostwal,RCB,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Mayank Rawat,Mayank Rawat,MI,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Mangesh Yadav,Mangesh Yadav,RCB,All-rounder,IND,False,30.0,520.0,sold,,Accelerated round,False,False
+2026,Salil Arora,Salil Arora,SRH,Wicket-keeper,IND,False,30.0,150.0,sold,,Accelerated round,False,False
+2026,Ravi Singh,"Ravi Singh (cricketer, born 2001)",RR,Wicket-keeper,IND,False,30.0,95.0,sold,,Accelerated round,False,False
+2026,Sakib Hussain,Sakib Hussain,SRH,Fast bowler,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Mohammad Izhar,Mohammad Izhar,MI,Fast bowler,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Onkar Tarmale,Onkar Tarmale,SRH,Fast bowler,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Prithvi Raj,Prithvi Raj (cricketer),GT,Fast bowler,IND,False,30.0,30.0,sold,2.0,Accelerated round,False,False
+2026,Praveen Dubey,Praveen Dubey,PBKS,Fast bowler,IND,False,30.0,30.0,sold,5.0,Accelerated round,False,False
+2026,Cooper Connolly,Cooper Connolly,PBKS,All-rounder,AUS,True,200.0,300.0,sold,,Accelerated round,True,False
+2026,Luke Wood,Luke Wood (cricketer),GT,Fast bowler,ENG,True,75.0,75.0,sold,2.0,Accelerated round,True,False
+2026,Sahil Parekh,Sahil Parekh (cricketer),DC,Batter,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Amit Kumar,"Amit Kumar (cricketer, born 2002)",SRH,Fast bowler,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Vishal Nishad,Vishal Nishad,PBKS,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Atharva Ankolekar,Atharva Ankolekar,MI,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Praful Hinge,Praful Hinge,SRH,Fast bowler,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Krains Fuletra,Krains Fuletra,SRH,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Vihaan Malhotra,Vihaan Malhotra,RCB,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Sarthak Ranjan,Sarthak Ranjan,KKR,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Brijesh Sharma,Brijesh Sharma,RR,Fast bowler,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Kanishk Chouhan,Kanishk Chouhan,RCB,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Daksh Kamra,Daksh Kamra,KKR,All-rounder,IND,False,30.0,30.0,sold,,Accelerated round,False,False
+2026,Jack Edwards,"Jack Edwards (cricketer, born 2000)",SRH,All-rounder,AUS,False,50.0,300.0,sold,,Accelerated round,True,False

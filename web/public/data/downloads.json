@@ -1,0 +1,502 @@
+{
+ "CSK": {
+  "files": [
+   {
+    "label": "Strategy deck",
+    "type": "PowerPoint",
+    "file": "/downloads/CSK/auction_war_room_CSK.pptx",
+    "bytes": 109837
+   },
+   {
+    "label": "Strategy deck",
+    "type": "PDF",
+    "file": "/downloads/CSK/auction_war_room_CSK.pdf",
+    "bytes": 398415
+   },
+   {
+    "label": "Squad optimiser (Excel Solver)",
+    "type": "Excel",
+    "file": "/downloads/CSK/squad_optimiser_CSK.xlsx",
+    "bytes": 13878
+   },
+   {
+    "label": "Franchise P&L model",
+    "type": "Excel",
+    "file": "/downloads/CSK/franchise_model.xlsx",
+    "bytes": 18483
+   },
+   {
+    "label": "Buy / Retain / Release table",
+    "type": "CSV",
+    "file": "/downloads/CSK/recommendations_CSK.csv",
+    "bytes": 23484
+   }
+  ],
+  "slides": [
+   "/downloads/CSK/slides/slide-01.jpg",
+   "/downloads/CSK/slides/slide-02.jpg",
+   "/downloads/CSK/slides/slide-03.jpg",
+   "/downloads/CSK/slides/slide-04.jpg",
+   "/downloads/CSK/slides/slide-05.jpg",
+   "/downloads/CSK/slides/slide-06.jpg",
+   "/downloads/CSK/slides/slide-07.jpg",
+   "/downloads/CSK/slides/slide-08.jpg",
+   "/downloads/CSK/slides/slide-09.jpg",
+   "/downloads/CSK/slides/slide-10.jpg",
+   "/downloads/CSK/slides/slide-11.jpg",
+   "/downloads/CSK/slides/slide-12.jpg",
+   "/downloads/CSK/slides/slide-13.jpg",
+   "/downloads/CSK/slides/slide-14.jpg"
+  ]
+ },
+ "DC": {
+  "files": [
+   {
+    "label": "Strategy deck",
+    "type": "PowerPoint",
+    "file": "/downloads/DC/auction_war_room_DC.pptx",
+    "bytes": 109876
+   },
+   {
+    "label": "Strategy deck",
+    "type": "PDF",
+    "file": "/downloads/DC/auction_war_room_DC.pdf",
+    "bytes": 395297
+   },
+   {
+    "label": "Squad optimiser (Excel Solver)",
+    "type": "Excel",
+    "file": "/downloads/DC/squad_optimiser_DC.xlsx",
+    "bytes": 14288
+   },
+   {
+    "label": "Franchise P&L model",
+    "type": "Excel",
+    "file": "/downloads/DC/franchise_model.xlsx",
+    "bytes": 18483
+   },
+   {
+    "label": "Buy / Retain / Release table",
+    "type": "CSV",
+    "file": "/downloads/DC/recommendations_DC.csv",
+    "bytes": 24950
+   }
+  ],
+  "slides": [
+   "/downloads/DC/slides/slide-01.jpg",
+   "/downloads/DC/slides/slide-02.jpg",
+   "/downloads/DC/slides/slide-03.jpg",
+   "/downloads/DC/slides/slide-04.jpg",
+   "/downloads/DC/slides/slide-05.jpg",
+   "/downloads/DC/slides/slide-06.jpg",
+   "/downloads/DC/slides/slide-07.jpg",
+   "/downloads/DC/slides/slide-08.jpg",
+   "/downloads/DC/slides/slide-09.jpg",
+   "/downloads/DC/slides/slide-10.jpg",
+   "/downloads/DC/slides/slide-11.jpg",
+   "/downloads/DC/slides/slide-12.jpg",
+   "/downloads/DC/slides/slide-13.jpg",
+   "/downloads/DC/slides/slide-14.jpg"
+  ]
+ },
+ "GT": {
+  "files": [
+   {
+    "label": "Strategy deck",
+    "type": "PowerPoint",
+    "file": "/downloads/GT/auction_war_room_GT.pptx",
+    "bytes": 109841
+   },
+   {
+    "label": "Strategy deck",
+    "type": "PDF",
+    "file": "/downloads/GT/auction_war_room_GT.pdf",
+    "bytes": 394829
+   },
+   {
+    "label": "Squad optimiser (Excel Solver)",
+    "type": "Excel",
+    "file": "/downloads/GT/squad_optimiser_GT.xlsx",
+    "bytes": 14232
+   },
+   {
+    "label": "Franchise P&L model",
+    "type": "Excel",
+    "file": "/downloads/GT/franchise_model.xlsx",
+    "bytes": 18483
+   },
+   {
+    "label": "Buy / Retain / Release table",
+    "type": "CSV",
+    "file": "/downloads/GT/recommendations_GT.csv",
+    "bytes": 23610
+   }
+  ],
+  "slides": [
+   "/downloads/GT/slides/slide-01.jpg",
+   "/downloads/GT/slides/slide-02.jpg",
+   "/downloads/GT/slides/slide-03.jpg",
+   "/downloads/GT/slides/slide-04.jpg",
+   "/downloads/GT/slides/slide-05.jpg",
+   "/downloads/GT/slides/slide-06.jpg",
+   "/downloads/GT/slides/slide-07.jpg",
+   "/downloads/GT/slides/slide-08.jpg",
+   "/downloads/GT/slides/slide-09.jpg",
+   "/downloads/GT/slides/slide-10.jpg",
+   "/downloads/GT/slides/slide-11.jpg",
+   "/downloads/GT/slides/slide-12.jpg",
+   "/downloads/GT/slides/slide-13.jpg",
+   "/downloads/GT/slides/slide-14.jpg"
+  ]
+ },
+ "KKR": {
+  "files": [
+   {
+    "label": "Strategy deck",
+    "type": "PowerPoint",
+    "file": "/downloads/KKR/auction_war_room_KKR.pptx",
+    "bytes": 109791
+   },
+   {
+    "label": "Strategy deck",
+    "type": "PDF",
+    "file": "/downloads/KKR/auction_war_room_KKR.pdf",
+    "bytes": 398534
+   },
+   {
+    "label": "Squad optimiser (Excel Solver)",
+    "type": "Excel",
+    "file": "/downloads/KKR/squad_optimiser_KKR.xlsx",
+    "bytes": 14209
+   },
+   {
+    "label": "Franchise P&L model",
+    "type": "Excel",
+    "file": "/downloads/KKR/franchise_model.xlsx",
+    "bytes": 18483
+   },
+   {
+    "label": "Buy / Retain / Release table",
+    "type": "CSV",
+    "file": "/downloads/KKR/recommendations_KKR.csv",
+    "bytes": 22882
+   }
+  ],
+  "slides": [
+   "/downloads/KKR/slides/slide-01.jpg",
+   "/downloads/KKR/slides/slide-02.jpg",
+   "/downloads/KKR/slides/slide-03.jpg",
+   "/downloads/KKR/slides/slide-04.jpg",
+   "/downloads/KKR/slides/slide-05.jpg",
+   "/downloads/KKR/slides/slide-06.jpg",
+   "/downloads/KKR/slides/slide-07.jpg",
+   "/downloads/KKR/slides/slide-08.jpg",
+   "/downloads/KKR/slides/slide-09.jpg",
+   "/downloads/KKR/slides/slide-10.jpg",
+   "/downloads/KKR/slides/slide-11.jpg",
+   "/downloads/KKR/slides/slide-12.jpg",
+   "/downloads/KKR/slides/slide-13.jpg",
+   "/downloads/KKR/slides/slide-14.jpg"
+  ]
+ },
+ "LSG": {
+  "files": [
+   {
+    "label": "Strategy deck",
+    "type": "PowerPoint",
+    "file": "/downloads/LSG/auction_war_room_LSG.pptx",
+    "bytes": 109899
+   },
+   {
+    "label": "Strategy deck",
+    "type": "PDF",
+    "file": "/downloads/LSG/auction_war_room_LSG.pdf",
+    "bytes": 397551
+   },
+   {
+    "label": "Squad optimiser (Excel Solver)",
+    "type": "Excel",
+    "file": "/downloads/LSG/squad_optimiser_LSG.xlsx",
+    "bytes": 14376
+   },
+   {
+    "label": "Franchise P&L model",
+    "type": "Excel",
+    "file": "/downloads/LSG/franchise_model.xlsx",
+    "bytes": 18483
+   },
+   {
+    "label": "Buy / Retain / Release table",
+    "type": "CSV",
+    "file": "/downloads/LSG/recommendations_LSG.csv",
+    "bytes": 24683
+   }
+  ],
+  "slides": [
+   "/downloads/LSG/slides/slide-01.jpg",
+   "/downloads/LSG/slides/slide-02.jpg",
+   "/downloads/LSG/slides/slide-03.jpg",
+   "/downloads/LSG/slides/slide-04.jpg",
+   "/downloads/LSG/slides/slide-05.jpg",
+   "/downloads/LSG/slides/slide-06.jpg",
+   "/downloads/LSG/slides/slide-07.jpg",
+   "/downloads/LSG/slides/slide-08.jpg",
+   "/downloads/LSG/slides/slide-09.jpg",
+   "/downloads/LSG/slides/slide-10.jpg",
+   "/downloads/LSG/slides/slide-11.jpg",
+   "/downloads/LSG/slides/slide-12.jpg",
+   "/downloads/LSG/slides/slide-13.jpg",
+   "/downloads/LSG/slides/slide-14.jpg"
+  ]
+ },
+ "MI": {
+  "files": [
+   {
+    "label": "Strategy deck",
+    "type": "PowerPoint",
+    "file": "/downloads/MI/auction_war_room_MI.pptx",
+    "bytes": 109799
+   },
+   {
+    "label": "Strategy deck",
+    "type": "PDF",
+    "file": "/downloads/MI/auction_war_room_MI.pdf",
+    "bytes": 396465
+   },
+   {
+    "label": "Squad optimiser (Excel Solver)",
+    "type": "Excel",
+    "file": "/downloads/MI/squad_optimiser_MI.xlsx",
+    "bytes": 14247
+   },
+   {
+    "label": "Franchise P&L model",
+    "type": "Excel",
+    "file": "/downloads/MI/franchise_model.xlsx",
+    "bytes": 18483
+   },
+   {
+    "label": "Buy / Retain / Release table",
+    "type": "CSV",
+    "file": "/downloads/MI/recommendations_MI.csv",
+    "bytes": 23225
+   }
+  ],
+  "slides": [
+   "/downloads/MI/slides/slide-01.jpg",
+   "/downloads/MI/slides/slide-02.jpg",
+   "/downloads/MI/slides/slide-03.jpg",
+   "/downloads/MI/slides/slide-04.jpg",
+   "/downloads/MI/slides/slide-05.jpg",
+   "/downloads/MI/slides/slide-06.jpg",
+   "/downloads/MI/slides/slide-07.jpg",
+   "/downloads/MI/slides/slide-08.jpg",
+   "/downloads/MI/slides/slide-09.jpg",
+   "/downloads/MI/slides/slide-10.jpg",
+   "/downloads/MI/slides/slide-11.jpg",
+   "/downloads/MI/slides/slide-12.jpg",
+   "/downloads/MI/slides/slide-13.jpg",
+   "/downloads/MI/slides/slide-14.jpg"
+  ]
+ },
+ "PBKS": {
+  "files": [
+   {
+    "label": "Strategy deck",
+    "type": "PowerPoint",
+    "file": "/downloads/PBKS/auction_war_room_PBKS.pptx",
+    "bytes": 109883
+   },
+   {
+    "label": "Strategy deck",
+    "type": "PDF",
+    "file": "/downloads/PBKS/auction_war_room_PBKS.pdf",
+    "bytes": 397581
+   },
+   {
+    "label": "Squad optimiser (Excel Solver)",
+    "type": "Excel",
+    "file": "/downloads/PBKS/squad_optimiser_PBKS.xlsx",
+    "bytes": 14278
+   },
+   {
+    "label": "Franchise P&L model",
+    "type": "Excel",
+    "file": "/downloads/PBKS/franchise_model.xlsx",
+    "bytes": 18483
+   },
+   {
+    "label": "Buy / Retain / Release table",
+    "type": "CSV",
+    "file": "/downloads/PBKS/recommendations_PBKS.csv",
+    "bytes": 23522
+   }
+  ],
+  "slides": [
+   "/downloads/PBKS/slides/slide-01.jpg",
+   "/downloads/PBKS/slides/slide-02.jpg",
+   "/downloads/PBKS/slides/slide-03.jpg",
+   "/downloads/PBKS/slides/slide-04.jpg",
+   "/downloads/PBKS/slides/slide-05.jpg",
+   "/downloads/PBKS/slides/slide-06.jpg",
+   "/downloads/PBKS/slides/slide-07.jpg",
+   "/downloads/PBKS/slides/slide-08.jpg",
+   "/downloads/PBKS/slides/slide-09.jpg",
+   "/downloads/PBKS/slides/slide-10.jpg",
+   "/downloads/PBKS/slides/slide-11.jpg",
+   "/downloads/PBKS/slides/slide-12.jpg",
+   "/downloads/PBKS/slides/slide-13.jpg",
+   "/downloads/PBKS/slides/slide-14.jpg"
+  ]
+ },
+ "RR": {
+  "files": [
+   {
+    "label": "Strategy deck",
+    "type": "PowerPoint",
+    "file": "/downloads/RR/auction_war_room_RR.pptx",
+    "bytes": 109803
+   },
+   {
+    "label": "Strategy deck",
+    "type": "PDF",
+    "file": "/downloads/RR/auction_war_room_RR.pdf",
+    "bytes": 395020
+   },
+   {
+    "label": "Squad optimiser (Excel Solver)",
+    "type": "Excel",
+    "file": "/downloads/RR/squad_optimiser_RR.xlsx",
+    "bytes": 14272
+   },
+   {
+    "label": "Franchise P&L model",
+    "type": "Excel",
+    "file": "/downloads/RR/franchise_model.xlsx",
+    "bytes": 18483
+   },
+   {
+    "label": "Buy / Retain / Release table",
+    "type": "CSV",
+    "file": "/downloads/RR/recommendations_RR.csv",
+    "bytes": 22628
+   }
+  ],
+  "slides": [
+   "/downloads/RR/slides/slide-01.jpg",
+   "/downloads/RR/slides/slide-02.jpg",
+   "/downloads/RR/slides/slide-03.jpg",
+   "/downloads/RR/slides/slide-04.jpg",
+   "/downloads/RR/slides/slide-05.jpg",
+   "/downloads/RR/slides/slide-06.jpg",
+   "/downloads/RR/slides/slide-07.jpg",
+   "/downloads/RR/slides/slide-08.jpg",
+   "/downloads/RR/slides/slide-09.jpg",
+   "/downloads/RR/slides/slide-10.jpg",
+   "/downloads/RR/slides/slide-11.jpg",
+   "/downloads/RR/slides/slide-12.jpg",
+   "/downloads/RR/slides/slide-13.jpg",
+   "/downloads/RR/slides/slide-14.jpg"
+  ]
+ },
+ "RCB": {
+  "files": [
+   {
+    "label": "Strategy deck",
+    "type": "PowerPoint",
+    "file": "/downloads/RCB/auction_war_room_RCB.pptx",
+    "bytes": 109803
+   },
+   {
+    "label": "Strategy deck",
+    "type": "PDF",
+    "file": "/downloads/RCB/auction_war_room_RCB.pdf",
+    "bytes": 396606
+   },
+   {
+    "label": "Squad optimiser (Excel Solver)",
+    "type": "Excel",
+    "file": "/downloads/RCB/squad_optimiser_RCB.xlsx",
+    "bytes": 13843
+   },
+   {
+    "label": "Franchise P&L model",
+    "type": "Excel",
+    "file": "/downloads/RCB/franchise_model.xlsx",
+    "bytes": 18483
+   },
+   {
+    "label": "Buy / Retain / Release table",
+    "type": "CSV",
+    "file": "/downloads/RCB/recommendations_RCB.csv",
+    "bytes": 20167
+   }
+  ],
+  "slides": [
+   "/downloads/RCB/slides/slide-01.jpg",
+   "/downloads/RCB/slides/slide-02.jpg",
+   "/downloads/RCB/slides/slide-03.jpg",
+   "/downloads/RCB/slides/slide-04.jpg",
+   "/downloads/RCB/slides/slide-05.jpg",
+   "/downloads/RCB/slides/slide-06.jpg",
+   "/downloads/RCB/slides/slide-07.jpg",
+   "/downloads/RCB/slides/slide-08.jpg",
+   "/downloads/RCB/slides/slide-09.jpg",
+   "/downloads/RCB/slides/slide-10.jpg",
+   "/downloads/RCB/slides/slide-11.jpg",
+   "/downloads/RCB/slides/slide-12.jpg",
+   "/downloads/RCB/slides/slide-13.jpg",
+   "/downloads/RCB/slides/slide-14.jpg"
+  ]
+ },
+ "SRH": {
+  "files": [
+   {
+    "label": "Strategy deck",
+    "type": "PowerPoint",
+    "file": "/downloads/SRH/auction_war_room_SRH.pptx",
+    "bytes": 109826
+   },
+   {
+    "label": "Strategy deck",
+    "type": "PDF",
+    "file": "/downloads/SRH/auction_war_room_SRH.pdf",
+    "bytes": 396702
+   },
+   {
+    "label": "Squad optimiser (Excel Solver)",
+    "type": "Excel",
+    "file": "/downloads/SRH/squad_optimiser_SRH.xlsx",
+    "bytes": 14177
+   },
+   {
+    "label": "Franchise P&L model",
+    "type": "Excel",
+    "file": "/downloads/SRH/franchise_model.xlsx",
+    "bytes": 18483
+   },
+   {
+    "label": "Buy / Retain / Release table",
+    "type": "CSV",
+    "file": "/downloads/SRH/recommendations_SRH.csv",
+    "bytes": 24289
+   }
+  ],
+  "slides": [
+   "/downloads/SRH/slides/slide-01.jpg",
+   "/downloads/SRH/slides/slide-02.jpg",
+   "/downloads/SRH/slides/slide-03.jpg",
+   "/downloads/SRH/slides/slide-04.jpg",
+   "/downloads/SRH/slides/slide-05.jpg",
+   "/downloads/SRH/slides/slide-06.jpg",
+   "/downloads/SRH/slides/slide-07.jpg",
+   "/downloads/SRH/slides/slide-08.jpg",
+   "/downloads/SRH/slides/slide-09.jpg",
+   "/downloads/SRH/slides/slide-10.jpg",
+   "/downloads/SRH/slides/slide-11.jpg",
+   "/downloads/SRH/slides/slide-12.jpg",
+   "/downloads/SRH/slides/slide-13.jpg",
+   "/downloads/SRH/slides/slide-14.jpg"
+  ]
+ }
+}

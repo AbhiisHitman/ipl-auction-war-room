@@ -1,0 +1,31 @@
+# Tunable parameters for the Impact Score (src/valuation.py).
+# Units: runs. A score of +10 means "10 runs per match better than a
+# league-average player in the same phase and season".
+
+phases:
+  Powerplay: [1, 6]
+  Middle: [7, 15]
+  Death: [16, 20]
+
+# Seasons used to estimate wicket value (runs a wicket costs the batting side).
+# 2023+ is the Impact Player era, which changed scoring rates; mixing eras
+# would understate today's scoring.
+wicket_value_seasons: [2023, 2024, 2025, 2026]
+
+# Small-sample shrinkage: adjusted = raw * n / (n + k), n = balls faced/bowled.
+# k = 120 means a player needs ~120 balls (20 overs) before we trust half of
+# his raw rate.
+shrinkage_k_bat: 120
+shrinkage_k_bowl: 120
+
+# Recency weights for the last 3 seasons (most recent first). If a player
+# missed a season the weights of the seasons he did play are re-normalised.
+recency_weights: [0.5, 0.3, 0.2]
+# Win-Now scenario leans harder on the latest season.
+recency_weights_win_now: [0.7, 0.2, 0.1]
+
+# Minimum balls in the 3-season window for a player to receive an Impact Score.
+min_balls_total: 60
+
+# Exclude rain-affected (D/L, reduced overs, no result) matches from baselines.
+exclude_rain_affected_from_baseline: true

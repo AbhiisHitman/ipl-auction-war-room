@@ -1,0 +1,2781 @@
+{{short description|none}}
+{{Use Indian English|date=December 2022}}
+{{Use dmy dates|date=October 2022}}
+{{Infobox sports draft
+| name        = 2023 Indian Premier League Auction
+| logo        = 
+| logosize    =
+| logoalt     = 
+| image       = 
+| imagesize   = 
+| alt         = 
+| caption     = 
+| sport       = Cricket
+| date        = 23 December 2022
+| time        = 2:30 PM
+| location    = [[Kochi]]
+| network     =
+*[[Star Sports (Indian TV network)|Star Sports]] (TV)
+*[[JioCinema]] (Internet)
+| sponsor     = [[Tata Group|Tata]]
+| league      = [[Indian Premier League]]
+| teams       = 10
+| territorial =
+| first       = 
+| first_round =
+| fewest      = 
+| most        = 
+| overall     = 
+| prev        = [[List of 2022 Indian Premier League personnel changes|2022]]
+| next        = [[List of 2024 Indian Premier League personnel changes|2024]]
+}}
+This is a list of all personnel changes for [[2023 Indian Premier League]] (IPL).
+
+==Retirement==
+{| class="wikitable"
+!Date
+!Name
+![[2022 Indian Premier League|2022]] Team
+!Age
+!Ref.
+|-
+| 14 September 2022 |||  [[Robin Uthappa]]|| [[Chennai Super Kings]] || align=center|36 || <ref>{{Cite web |date=15 September 2022 |title=Robin Uthappa Retirement: 2007 T20 WC Winner Announced Retirement from all Forms of Indian Cricket |url=https://www.timesofsports.com/cricket/news/uthappa-announced-retirement/ |access-date=15 September 2022 |website=Times of Sports |language=en-US}}</ref>
+|-
+| 15 November 2022 |||  [[Kieron Pollard]] || [[Mumbai Indians]] || align=center|35 ||<ref>{{Cite web |date=15 November 2022 |title=Kieron Pollard calls time on IPL career, stays with Mumbai Indians as batting coach|url=https://www.espncricinfo.com/story/ipl-2023-mumbai-indians-release-kieron-pollard-retain-him-as-batting-coach-1344949 |access-date=15 November 2022 |work=ESPNcricinfo}}</ref>
+|-
+| 2 December 2022 |||  [[Dwayne Bravo]] || [[Chennai Super Kings]] || align=center|39 ||<ref>{{Cite web |date=2 December 2022 |title=Bravo retires from IPL, takes over as Chennai Super Kings' bowling coach |url=https://www.espncricinfo.com/story/ipl-2023-csk-news-dwayne-bravo-retires-from-ipl-takes-over-as-chennai-super-kings-bowling-coach-1347818 |access-date=2 December 2022 |work=ESPNcricinfo}}</ref>
+|}
+
+== Pre-auction ==
+The [[Board of Control for Cricket in India]] set the deadline of 15 November 2022 5 pm IST for the list of retained and released players of IPL franchise teams before the mini auction.<ref>{{cite web|title=IPL auction set for December 23 in Kochi|work=ESPNcricinfo|access-date=15 November 2022|url=https://www.espncricinfo.com/story/ipl-auction-set-for-december-23-in-kochi-1344093}}</ref>
+
+===Transfers===
+{| class="wikitable"
+|-
+!Player
+!Nationality
+!Salary
+!From
+!To
+!Date
+!Ref
+|-
+|[[Jason Behrendorff]]
+|{{cr|AUS}}
+|{{INRConvert|75|l|lk=on}}
+|[[Royal Challengers Bangalore]]
+|[[Mumbai Indians]]
+|12 November 2022
+|<ref>{{Cite web |title= Jason Behrendorff traded from Royal Challengers Bangalore to Mumbai Indians |url=https://www.iplt20.com/news/3846/jason-behrendorff-traded-from-royal-challengers-bangalore-to-mumbai-indians|access-date=2022-11-12 |website=www.iplt20.com |language=en}}</ref>
+|-
+|[[Lockie Ferguson]]
+|{{cr|NZ}}
+|{{INRConvert|10|c|lk=on}}
+|rowspan="2"|[[Gujarat Titans]]
+|rowspan="3"|[[Kolkata Knight Riders]]
+| rowspan="2" |13 November 2022
+|<ref name=":0">{{Cite web |title=Lockie Ferguson and Rahmanullah Gurbaz traded from Gujarat Titans to Kolkata Knight Riders |url=https://www.iplt20.com/news/3847/lockie-ferguson-and-rahmanullah-gurbaz-traded-from-gujarat-titans-to-kolkata-knight-riders |access-date=2022-11-13 |website=www.iplt20.com |language=en}}</ref>
+|-
+|[[Rahmanullah Gurbaz]]
+|{{cr|AFG|variant=2013}}
+|{{INRConvert|50|l|lk=on}}
+|<ref name=":0" />
+|-
+|[[Shardul Thakur]]
+|{{cr|IND}}
+|{{INRConvert|10.75|c|lk=on}}
+|[[Delhi Capitals]]
+| rowspan="2" |14 November 2022
+|<ref name=":1">{{Cite web |title=Delhi Capitals Trade Shardul Thakur For Aman Khan With Kolkata Knight Riders|url=https://www.iplt20.com/news/3848/delhi-capitals-trade-shardul-thakur-for-aman-khan-with-kolkata-knight-riders/
+|website=www.iplt20.com |language=en}}</ref>
+|-
+|[[Aman Khan]]
+|{{cr|IND}}
+|{{INRConvert|20|l|lk=on}}
+|[[Kolkata Knight Riders]]
+|[[Delhi Capitals]]
+|<ref name=":1" />
+|}
+
+===Released players===
+{| class="wikitable collapsible"
+|-
+!Player
+!Nationality
+!Salary
+|-
+! colspan="3" |'''[[Chennai Super Kings]]'''
+|-
+|[[Dwayne Bravo]]{{efn|name=Ret1|Player retired after the 2022 IPL}}
+|{{cr|WIN}}
+|₹4.40 crore
+|-
+|[[Chris Jordan (cricketer)|Chris Jordan]]
+|{{cr|ENG}}
+|₹3.60 crore
+|-
+|[[Robin Uthappa]]{{efn|name=Ret1|Player retired after the 2022 IPL}}
+|{{cr|IND}}
+|₹2 crore
+|-
+|[[Adam Milne]]
+|{{cr|NZ}}
+|₹1.90 crore
+|-
+|[[Bhagath Varma]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Chezhian Harinishanth]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[KM Asif]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Narayan Jagadeesan]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Delhi Capitals]]'''
+|-
+|[[K. S. Bharat]]
+|{{cr|IND}}
+|₹2 crore
+|-
+|[[Mandeep Singh]]
+|{{cr|IND}}
+|₹1.10 crore
+|-
+|[[Tim Seifert]]
+|{{cr|NZ}}
+|₹50 lakh
+|-
+|[[Ashwin Hebbar]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |[[Gujarat Titans]]
+|-
+|[[Jason Roy]]
+|{{cr|ENG}}
+|₹2 crore
+|-
+|[[Dominic Drakes]]
+|{{cr|WIN}}
+|₹1.10 crore
+|-
+|[[Gurkeerat Singh]]
+|{{cr|IND}}
+|₹50 lakh
+|-
+|[[Varun Aaron]]
+|{{cr|IND}}
+|₹50 lakh
+|-
+! colspan="3" |'''[[Kolkata Knight Riders]]'''
+|-
+|[[Pat Cummins]]
+|{{cr|AUS}}
+|₹7.25 crore
+|-
+|[[Shivam Mavi]] 
+|{{cr|IND}}
+|₹7.25 crore
+|-
+|[[Sam Billings]]
+|{{cr|ENG}}
+|₹2 crore
+|-
+|[[Aaron Finch]] (REP)
+|{{cr|AUS}}
+|₹1.50 crore
+|-
+|[[Alex Hales]] (*)
+|{{cr|ENG}}
+|₹1.50 crore
+|-
+|[[Ajinkya Rahane]]
+|{{cr|IND}}
+|₹1 crore
+|-
+|[[Mohammad Nabi]]
+|{{cr|AFG|variant=2013}}
+|₹1 crore
+|- 
+|[[Sheldon Jackson (cricketer)|Sheldon Jackson]]
+|{{cr|IND}}
+|₹60 lakh
+|-
+|Ashok Sharma<ref>{{Cite web |title=Ashok Sharma Profile |url=https://kingofcricketnews.com/ashok-sharma-prfile-2023-ipl/ |website=King of Cricket News |access-date=9 January 2023 |archive-date=9 January 2023 |archive-url=https://web.archive.org/web/20230109194515/https://kingofcricketnews.com/ashok-sharma-prfile-2023-ipl/ |url-status=dead }}</ref>
+|{{cr|IND}}
+|₹55 lakh
+|-
+|[[Chamika Karunaratne]]
+|{{cr|SL}}
+|₹50 lakh
+|-
+|[[Abhijeet Tomar]]
+|{{cr|IND}}
+|₹40 lakh
+|-
+|[[Baba Indrajith]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Pratham Singh]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Ramesh Kumar (cricketer)|Ramesh Kumar]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Rasikh Salam Dar]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Lucknow Super Giants]]'''
+|- 
+|[[Jason Holder]]
+|{{cr|WIN}}
+|₹8.75 crore
+|-
+|[[Manish Pandey]]
+|{{cr|IND}}
+|₹4.60 crore
+|-
+|[[Dushmanta Chameera]]
+|{{cr|SL}}
+|₹2 crore
+|-
+|[[Evin Lewis]]
+|{{cr|WIN}}
+|₹2 crore
+|-
+|[[Andrew Tye]] (REP)
+|{{cr|AUS}}
+|₹1.50 crore
+|-
+|[[Ankit Rajpoot|Ankit Singh Rajpoot]]
+|{{cr|IND}}
+|₹50 lakh
+|-
+|[[Shahbaz Nadeem]]
+|{{cr|IND}}
+|₹50 lakh
+|-
+! colspan="3" |'''[[Mumbai Indians]]'''
+|-
+|[[Kieron Pollard]]{{efn|name=Ret1|Player retired after the 2022 IPL}}
+|{{cr|WIN}}
+|₹6 crore
+|-
+|[[Daniel Sams]]
+|{{cr|AUS}}
+|₹2.60 crore
+|-
+|[[Murugan Ashwin]]
+|{{cr|IND}}
+|₹1.60 crore
+|-
+|[[Tymal Mills]]
+|{{cr|ENG}}
+|₹1.50 crore
+|-
+|[[Jaydev Unadkat]]
+|{{cr|IND}}
+|₹1.30 crore
+|-
+|[[Riley Meredith]]
+|{{cr|AUS}}
+|₹1 crore
+|-
+|[[Fabian Allen]]
+|{{cr|WIN}}
+|₹75 lakh
+|-
+|[[Mayank Markande]]
+|{{cr|IND}}
+|₹65 lakh
+|-
+|[[Sanjay Yadav (cricketer)|Sanjay Yadav]]
+|{{cr|IND}}
+|₹50 lakh
+|-
+|[[Basil Thampi]]
+|{{cr|IND}}
+|₹30 lakh
+|-
+|[[Anmolpreet Singh]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Aryan Juyal]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Rahul Buddhi]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Punjab Kings]]'''
+|-
+|[[Mayank Agarwal]]
+|{{cr|IND}}
+|₹14 crore
+|-
+|[[Odean Smith]] 
+|{{cr|WIN}}
+|₹6 crore
+|-
+|[[Vaibhav Arora]]
+|{{cr|IND}}
+|₹2 crore
+|-
+|[[Sandeep Sharma]]
+|{{cr|IND}}
+|₹50 lakh
+|-
+|[[Benny Howell]]
+||{{cr|ENG}}
+|₹40 lakh
+|-
+|[[Ishan Porel]]
+|{{cr|IND}}
+|₹25 lakh
+|-
+|[[Ansh Patel]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Prerak Mankad]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Writtick Chatterjee]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Rajasthan Royals]]'''
+|-
+|[[Nathan Coulter-Nile]]
+|{{cr|AUS}}
+|₹2 crore
+|-
+|[[James Neesham]]
+|{{cr|NZ}}
+|₹1.50 crore
+|-
+|[[Rassie van der Dussen]]
+|{{cr|SA}}
+|₹1 crore
+|-
+|[[Daryl Mitchell (New Zealand cricketer)|Daryl Mitchell]]
+|{{cr|NZ}}
+|₹75 lakh
+|- 
+|[[Karun Nair]]
+|{{cr|IND}}
+|₹50 lakh
+|-
+|[[Anunay Singh]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Corbin Bosch]] (REP)
+|{{cr|SA}}
+|₹20 lakh
+|-
+|[[Shubham Garhwal]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Tejas Baroka]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Royal Challengers Bangalore]]'''
+|-
+|[[Aneeshwar Gautam]]
+|{{cr|IND}}
+|₹1 crore
+|- 
+|[[Sherfane Rutherford]]
+|{{cr|WIN}}
+|₹1 crore
+|-
+|[[Chama Milind]] 
+|{{cr|IND}}
+|₹25 lakh
+|-
+|[[Luvnith Sisodia]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Sunrisers Hyderabad]]'''
+|-
+|[[Kane Williamson]]
+|{{cr|NZ}}
+|₹14 crore 
+|-
+|[[Nicholas Pooran]]
+|{{cr|WIN}}
+|₹10.75 crore 
+|-
+|[[Romario Shepherd]]
+|{{cr|WIN}}
+|₹7.75 crore
+|-
+|[[Sean Abbott]]
+|{{cr|AUS}}
+|₹2.40 crore
+|-
+|[[Shreyas Gopal]]
+|{{cr|IND}}
+|₹75 lakh
+|-
+|[[Vishnu Vinod]]
+|{{cr|IND}}
+|₹50 lakh
+|-
+|[[Jagadeesha Suchith]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Priyam Garg]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Ravikumar Samarth]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Saurabh Dubey (cricketer, born 1998)|Saurabh Dubey]] (*)
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Shashank Singh]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Sushant Mishra]] (REP)
+|{{cr|IND}}
+|₹20 lakh
+|}
+
+:{{note label|rounding|REP|REP}} '''REP''': Players who were unsold originally in the 2022 auction but were later signed up as a replacement player.
+{{notelist}}
+
+===Retained players===
+The team retentions were announced on 15 November 2022.<ref name="Ret">{{cite web|url=https://www.espncricinfo.com/story/ipl-2023-pollard-williamson-bravo-mayank-released-how-the-squads-stack-up-after-releasing-players-1344956|title=Pollard, Williamson, Bravo, Mayank released: How the IPL teams stack up ahead of the 2023 player auction|work=ESPNcricinfo|date=15 November 2022|access-date=16 November 2022}}</ref><ref name="Ret1">{{cite web|url=https://www.iplt20.com/news/3849/tata-ipl-2023-player-retentions-list|title=TATA IPL 2023 Player Retentions List|publisher=IPT20.com|date=15 November 2022|access-date=16 November 2022}}</ref>
+{| class="wikitable collapsible"
+|-
+!Player
+!Nationality
+!Salary
+|-
+! colspan="3" |'''[[Chennai Super Kings]]'''
+|-
+|[[Ravindra Jadeja]] 
+|{{cr|IND}}
+|₹16 crore
+|-
+|[[Deepak Chahar]] 
+|{{cr|IND}}
+|₹14 crore
+|-
+|[[MS Dhoni]]
+|{{cr|IND}}
+|₹12 crore
+|-
+|[[Moeen Ali]] 
+|{{cr|ENG}}
+|₹8 crore
+|-
+|[[Ambati Rayudu]]
+|{{cr|IND}}
+|₹6.75 crore
+|-
+|[[Ruturaj Gaikwad]] 
+|{{cr|IND}}
+|₹6 crore
+|-
+|[[Shivam Dube]] 
+|{{cr|IND}}
+|₹4 crore
+|-
+|[[Mitchell Santner]]
+|{{cr|NZ}}
+|₹1.9 crore
+|-
+|[[Rajvardhan Hangargekar]] 
+|{{cr|IND}}
+|₹1.5 crore
+|-
+|[[Prashant Solanki]] 
+|{{cr|IND}}
+|₹1.2 crore
+|-
+|[[Devon Conway]] 
+|{{cr|NZ}}
+|₹1 crore
+|-
+|[[Maheesh Theekshana]] 
+|{{cr|SL}}
+|₹70 lakh
+|-
+|[[Dwaine Pretorius]]
+|{{cr|RSA}}
+|₹50 lakh
+|-
+|[[Matheesha Pathirana]] (REP)
+|{{cr|SL}}
+|₹20 lakh
+|-
+|[[Mukesh Choudhary]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Simarjeet Singh]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Subhranshu Senapati]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Tushar Deshpande]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Delhi Capitals]]'''
+|-
+|[[Rishabh Pant]] 
+|{{cr|IND}}
+|₹16 crore
+|-
+|[[Axar Patel]] 
+|{{cr|IND}}
+|₹9 crore
+|-
+|[[Prithvi Shaw]]
+|{{cr|IND}}
+|₹7.5 crore
+|-
+|[[Anrich Nortje]] 
+|{{cr|RSA}}
+|₹6.5 crore
+|-
+|[[Mitchell Marsh]] 
+|{{cr|AUS}}
+|₹6.5 crore
+|-
+|[[David Warner (cricketer)|David Warner]] 
+|{{cr|AUS}}
+|₹6.25 crore
+|-
+|[[Khaleel Ahmed]]
+|{{cr|IND}}
+|₹5.25 crore
+|-
+|[[Chetan Sakariya]] 
+|{{cr|IND}}
+|₹4.2 crore
+|-
+|[[Rovman Powell]] 
+|{{cr|WIN}}
+|₹2.8 crore
+|-
+|[[Kuldeep Yadav]] 
+|{{cr|IND}}
+|₹2 crore
+|-
+|[[Mustafizur Rahman]] 
+|{{cr|BAN}}
+|₹2 crore
+|-
+|[[Kamlesh Nagarkoti]] 
+|{{cr|IND}}
+|₹1.1 crore
+|-
+|[[Lalit Yadav (Delhi cricketer)|Lalit Yadav]] 
+|{{cr|IND}}
+|₹65 lakh
+|-
+|[[Lungi Ngidi]] 
+|{{cr|RSA}}
+|₹50 lakh
+|-
+|[[Praveen Dubey]] 
+|{{cr|IND}}
+|₹50 lakh
+|-
+|[[Yash Dhull]]
+|{{cr|IND}}
+|₹50 lakh
+|-
+|[[Aman Hakim Khan]] (T)
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Ripal Patel]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Sarfaraz Khan (cricketer)|Sarfaraz Khan]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Vicky Ostwal]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Gujarat Titans]]'''
+|-
+|[[Hardik Pandya]]
+|{{cr|IND}}
+|₹15 crore
+|-
+|[[Rashid Khan]] 
+|{{cr|AFG|variant=2013}}
+|₹15 crore
+|-
+|[[Rahul Tewatia]] 
+|{{cr|IND}}
+|₹9 crore
+|-
+|[[Shubman Gill]] 
+|{{cr|IND}}
+|₹8 crore
+|-
+|[[Mohammed Shami]] 
+|{{cr|IND}}
+|₹6.25 crore
+|-
+|[[Yash Dayal]]
+|{{cr|IND}}
+|₹3.2 crore
+|-
+|[[David Miller (South African cricketer)|David Miller]]
+|{{cr|RSA}}
+|₹3 crore
+|-
+|[[Ravisrinivasan Sai Kishore]]
+|{{cr|IND}}
+|₹3 crore
+|-
+|[[Abhinav Manohar]] 
+|{{cr|IND}}
+|₹2.6 crore
+|-
+|[[Alzarri Joseph]] 
+|{{cr|WIN}}
+|₹2.4 crore
+|-
+|[[Matthew Wade]] 
+|{{cr|AUS}}
+|₹2.4 crore
+|-
+|[[Wriddhiman Saha]] 
+|{{cr|IND}}
+|₹1.9 crore
+|-
+|[[Jayant Yadav]] 
+|{{cr|IND}}
+|₹1.7 crore
+|-
+|[[Vijay Shankar]] 
+|{{cr|IND}}
+|₹1.4 crore
+|-
+|[[Noor Ahmad]] 
+|{{cr|AFG|variant=2013}}
+|₹30 lakh
+|-
+|[[Darshan Nalkande]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Pradeep Sangwan]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Sai Sudharshan]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Kolkata Knight Riders]]'''
+|-
+|[[Andre Russell]] 
+|{{cr|WIN}}
+|₹12 crore
+|-
+|[[Shreyas Iyer]] 
+|{{cr|IND}}
+|₹12.25 crore
+|-
+|[[Varun Chakravarthy]] 
+|{{cr|IND}}
+|₹8
+ crore
+|-
+|[[Shardul Thakur]] (T)
+|{{cr|IND}}
+|₹10.75 crore
+|-
+|[[Lockie Ferguson]] (T)
+|{{cr|NZ}}
+|₹10 crore
+|-
+|[[Nitish Rana]] 
+|{{cr|IND}}
+|₹8 crore
+|-
+|[[Venkatesh Iyer]]
+|{{cr|IND}}
+|₹8 crore
+|-
+|[[Sunil Narine]] 
+|{{cr|WIN}}
+|₹6 crore
+|-
+|[[Umesh Yadav]] 
+|{{cr|IND}}
+|₹2 crore
+|-
+|[[Tim Southee]] 
+|{{cr|NZ}}
+|₹1.5 crore
+|-
+|[[Rinku Singh (cricketer)|Rinku Singh]] 
+|{{cr|IND}}
+|₹55 lakh
+|-
+|[[Rahmanullah Gurbaz]] (T)
+|{{cr|AFG|variant=2013}}
+|₹50 lakh
+|-
+|[[Anukul Roy]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Harshit Rana]] (REP)
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Lucknow Super Giants]]'''
+|- 
+|[[KL Rahul]] 
+|{{cr|IND}}
+|₹17 crore
+|-
+|[[Avesh Khan]]
+|{{cr|IND}}
+|₹10 crore
+|-
+|[[Marcus Stoinis]] 
+|{{cr|AUS}} 
+|₹9.2 crore
+|-
+|[[Krunal Pandya]] 
+|{{cr|IND}}
+|₹8.25 crore
+|-
+|[[Mark Wood (cricketer)|Mark Wood]] 
+|{{cr|ENG}}
+|₹7.5 crore
+|-
+|[[Quinton de Kock]] 
+|{{cr|RSA}}
+|₹6.75 crore
+|-
+|[[Deepak Hooda]]
+|{{cr|IND}}
+|₹5.75 crore
+|- 
+|[[Ravi Bishnoi]] 
+|{{cr|IND}}
+|₹4 crore
+|-
+|[[Krishnappa Gowtham]]
+|{{cr|IND}}
+|₹90 lakh
+|-
+|[[Kyle Mayers]] 
+|{{cr|WIN}}
+|₹50 lakh
+|-
+|[[Ayush Badoni]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Karan Sharma (cricketer, born 1998)|Karan Sharma]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Manan Vohra]] 
+| {{cr|IND}} 
+|₹20 lakh
+|- 
+|[[Mayank Yadav]] 
+|{{cr|IND}} 
+|₹20 lakh
+|-
+|[[Mohsin Khan (Indian cricketer)|Mohsin Khan]] 
+|{{cr|IND}} 
+|₹20 lakh
+|-
+! colspan="3" |'''[[Mumbai Indians]]'''
+|-
+|[[Rohit Sharma]]
+|{{cr|IND}}
+|₹16 crore
+|-
+|[[Ishan Kishan]]
+|{{cr|IND}}
+|₹15.25 crore
+|-
+|[[Jasprit Bumrah]] 
+|{{cr|IND}}
+|₹12 crore
+|-
+|[[Tim David]]
+|{{cr|AUS}}
+|₹8.25 crore
+|-
+|[[Jofra Archer]]
+|{{cr|ENG}}
+|₹8 crore
+|-
+|[[Suryakumar Yadav]]
+|{{cr|IND}}
+|₹8 crore
+|-
+|[[Dewald Brevis]]
+|{{cr|RSA}}
+|₹3 crore
+|-
+|[[Tilak Varma]] 
+|{{cr|IND}}
+|₹1.7 crore
+|-
+|[[Jason Behrendorff]] (T)
+|{{cr|AUS}}
+|₹75 lakh
+|-
+|[[Arjun Tendulkar]]
+|{{cr|IND}}
+|₹30 lakh
+|-
+|[[Akash Madhwal]] (REP)
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Hrithik Shokeen]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Kumar Kartikeya|Kumar Kartikeya Singh]] (REP)
+|{{cr|IND}} 
+|₹20 lakh
+|-
+|[[Arshad Khan (Indian cricketer)|Mohd Arshad Khan]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Ramandeep Singh (cricketer)|Ramandeep Singh]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Tristan Stubbs]] (REP)
+|{{cr|RSA}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Punjab Kings]]'''
+|-
+|[[Liam Livingstone]]
+|{{cr|ENG}}
+|₹11.5 crore
+|-
+|[[Kagiso Rabada]] 
+|{{cr|RSA}}
+|₹9.25 crore
+|-
+|[[Shahrukh Khan (cricketer)|Shahrukh Khan]] 
+|{{cr|IND}}
+|₹9 crore
+|-
+|[[Shikhar Dhawan]]
+|{{cr|IND}}
+|₹8.25 crore
+|-
+|[[Jonny Bairstow]]
+|{{cr|ENG}}
+|₹6.75 crore
+|-
+|[[Rahul Chahar]] 
+|{{cr|IND}}
+|₹5.25 crore
+|-
+|[[Arshdeep Singh (cricketer)|Arshdeep Singh]] 
+|{{cr|IND}}
+|₹4 crore
+|-
+|[[Harpreet Brar]] 
+|{{cr|IND}}
+|₹3.8 crore
+|-
+|[[Raj Angad Bawa|Raj Bawa]] 
+|{{cr|IND}}
+|₹2 crore
+|-
+|[[Nathan Ellis]] 
+|{{cr|AUS}}
+|₹75 lakh
+|-
+|[[Prabhsimran Singh]] 
+|{{cr|IND}}
+|₹60 lakh
+|-
+|[[Rishi Dhawan]] 
+|{{cr|IND}}
+|₹55 lakh
+|-
+|[[Bhanuka Rajapaksa]] 
+|{{cr|SL}}
+|₹50 lakh
+|-
+|[[Atharva Taide]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Baltej Dhanda]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Jitesh Sharma]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Rajasthan Royals]]'''
+|-
+|[[Sanju Samson]]
+|{{cr|IND}}
+|₹14 crore
+|-
+|[[Jos Buttler]] 
+|{{cr|ENG}}
+|₹10 crore
+|-
+|[[Prasidh Krishna]] 
+|{{cr|IND}}
+|₹10 crore
+|-
+|[[Shimron Hetmyer]] 
+|{{cr|WIN}}
+|₹8.5 crore
+|-
+|[[Trent Boult]] 
+|{{cr|NZ}}
+|₹8 crore
+|-
+|[[Devdutt Padikkal]] 
+|{{cr|IND}}
+|₹7.75 crore
+|-
+|[[Yuzvendra Chahal]]
+|{{cr|IND}}
+|₹6.5 crore
+|-
+|[[Ravichandran Ashwin]] 
+|{{cr|IND}}
+|₹5 crore
+|-
+|[[Yashasvi Jaiswal]] 
+|{{cr|IND}}
+|₹4 crore
+|-
+|[[Riyan Parag]] 
+|{{cr|IND}}
+|₹3.8 crore
+|-
+|[[Navdeep Saini]] 
+|{{cr|IND}}
+|₹2.6 crore
+|-
+|[[Obed McCoy]] 
+|{{cr|WIN}}
+|₹75 lakh
+|-
+|[[K. C. Cariappa (cricketer)|K.C.Cariappa]] 
+|{{cr|IND}}
+|₹30 lakh
+|-
+|[[Dhruv Jurel]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Kuldeep Sen]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Kuldip Yadav]] 
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Royal Challengers Bangalore]]'''
+|-
+|[[Virat Kohli]] 
+|{{cr|IND}}
+|₹15 crore
+|-
+|[[Glenn Maxwell]]
+|{{cr|AUS}}
+|₹11 crore
+|-
+|[[Harshal Patel]]
+|{{cr|IND}}
+|₹10.75 crore
+|-
+|[[Wanindu Hasaranga]]
+|{{cr|SL}}
+|₹10.75 crore
+|-
+|[[Josh Hazlewood]] 
+|{{cr|AUS}}
+|₹7.75 crore
+|-
+|[[Faf du Plessis]] 
+|{{cr|RSA}}
+|₹7 crore
+|-
+|[[Mohammed Siraj]] 
+|{{cr|IND}}
+|₹7 crore
+|-
+|[[Dinesh Karthik]]
+|{{cr|IND}}
+|₹5.5 crore
+|-
+|[[Anuj Rawat]] 
+|{{cr|IND}}
+|₹3.4 crore
+|-
+|[[Shahbaz Ahmed (cricketer)|Shahbaz Ahmed]] 
+|{{cr|IND}}
+|₹2.4 crore
+|-
+|[[David Willey (cricketer)|David Willey]]
+|{{cr|ENG}}
+|₹2 crore
+|-
+|[[Mahipal Lomror]] 
+|{{cr|IND}}
+|₹95 lakh
+|-
+|[[Finn Allen]]
+|{{cr|NZ}}
+|₹80 lakh
+|-
+|[[Siddarth Kaul]] 
+|{{cr|IND}}
+|₹75 lakh
+|-
+|[[Karn Sharma]] 
+|{{cr|IND}}
+|₹50 lakh
+|-
+|[[Suyash Prabhudessai]] 
+|{{cr|IND}}
+|₹30 lakh
+|-
+|[[Akash Deep]]
+|{{cr|IND}}
+|₹20 lakh
+|-
+|[[Rajat Patidar]] (REP)
+|{{cr|IND}}
+|₹20 lakh
+|-
+! colspan="3" |'''[[Sunrisers Hyderabad]]'''
+|- 
+|[[Washington Sundar]]
+|{{cr|IND}}
+|₹8.75 crore
+|-
+|[[Rahul Tripathi]] 
+|{{cr|IND}}
+|₹8.5 crore
+|-
+|[[Abhishek Sharma (cricketer, born 2000)|Abhishek Sharma]] 
+|{{cr|IND}}
+|₹6.5 crore
+|-
+|[[Bhuvneshwar Kumar]] 
+|{{cr|IND}}
+|₹4.2 crore
+|-
+|[[Marco Jansen]] 
+|{{cr|RSA}}
+|₹4.2 crore
+|-
+|[[Abdul Samad (Indian cricketer)|Abdul Samad]] 
+|{{cr|IND}}
+|₹4 crore
+|-
+|[[Kartik Tyagi]] 
+|{{cr|IND}}
+|₹4 crore
+|-
+|[[T. Natarajan]]
+|{{cr|IND}}
+|₹4 crore
+|-
+|[[Umran Malik]]
+|{{cr|IND}}
+|₹4 crore 
+|-
+|[[Aiden Markram]]
+|{{cr|RSA}}
+|₹2.6 crore
+|-
+|[[Glenn Phillips (cricketer)|Glenn Phillips]] 
+|{{cr|NZ}}
+|₹1.5 crore
+|-
+|[[Fazalhaq Farooqi]]
+|{{cr|AFG|variant=2013}}
+|₹50 lakh
+
+|}
+
+== Auction ==
+The IPL 2023 auction was conducted on 23 December 2022 in [[Kochi]].<ref name=DNA1312>[https://www.dnaindia.com/cricket/report-ipl-2023-auction-list-released-273-indian-132-overseas-players-check-full-list-here-3010451 IPL 2023: Auction list RELEASED, 273 Indian, 132 overseas players; check full list here.] DNA India. 13 December 2022.</ref> A total of 405 players were available for auction including 273 Indian and 132 foreign players.<ref name=DNA1312/> 87 places were available to be filled across the ten teams.<ref>[https://www.wionews.com/sports/ipl-auction-2023-live-news-updates-405-players-go-under-the-hammer-know-where-to-catch-the-live-action-csk-mi-rr-545369 Live Coverage | IPL Auction 2023: minute by minute updates.] WION. 23 December 2022.</ref> The first three Indian players in the lists released on 13 December were [[Mayank Agarwal]], [[Ajinkya Rahane]] and [[Ishant Sharma]]. The first three foreign players were [[Harry Brook]], [[Joe Root]] and [[Rilee Rossouw]].<ref name=DNA1312/> It was, however, expected that [[Ben Stokes]] would be the main attraction.<ref>[https://gulfnews.com/sport/cricket/ipl/ipl-2023-ben-stokes-to-be-the-top-attraction-in-player-auction-1.92813295 IPL 2023: Ben Stokes to be the top attraction in player auction]. ''Gulf News'', 20 December 2022.</ref> In the event, the top bid was made for [[Sam Curran]], bought by [[Punjab Kings]] for 1,850 lakh, who surpassed [[Rajasthan Royals]]'s 1,625 lakh bid for [[Chris Morris (cricketer)|Chris Morris]] in the [[List of 2021 Indian Premier League personnel changes|2021 auction]], effectively making Curran the most expensive player in the history of the IPL.
+
+===Sold players===
+
+{| class="wikitable sortable"
+! S.No.
+! Set No.
+! Set
+! Name
+! Country
+! Playing Role
+! IPL Matches
+! Capped / Uncapped / Associate
+! Base Price<br>(in {{INR}} Lacs)
+! [[2023 Indian Premier League|IPL 2023]] Team
+! Auctioned Price<br>(in {{INR}} Lacs)
+! [[IPL 2022]] Team
+! Previous IPL Team(s)
+|-
+| 6
+| 1
+| BA1
+| [[Kane Williamson]]
+| {{cr|NZ}}
+| Batsman
+| 76
+| Capped
+| 200
+| [[Gujarat Titans]]
+| 200
+| [[Sunrisers Hyderabad]]
+|
+|-
+| 2
+| 1
+| BA1
+| [[Harry Brook]]
+| {{cr|ENG}}
+| Batsman
+|0
+| Capped
+| 150
+| [[Sunrisers Hyderabad]]
+| 1,325
+|
+|
+|-
+| 1
+| 1
+| BA1
+| [[Mayank Agarwal]]
+| {{cr|IND}}
+| Batsman
+|113
+| Capped
+| 100
+| [[Sunrisers Hyderabad]]
+| 825
+| [[Punjab Kings]]
+| [[Rising Pune Supergiant]]<br>[[Delhi Daredevils]]<br>[[Royal Challengers Bangalore]]
+|-
+| 3
+| 1
+| BA1
+| [[Ajinkya Rahane]]
+| {{Cr|IND}}
+| Batsman
+|158
+| Capped
+| 50
+| [[Chennai Super Kings]]
+| 50
+| [[Kolkata Knight Riders]]
+| [[Delhi Capitals]]<br>[[Rajasthan Royals]]<br>[[Rising Pune Supergiant]]<br>[[Mumbai Indians]]
+|-
+| 7
+| 2
+| AL1
+| [[Sam Curran]]
+| {{cr|ENG}}
+| All-rounder
+|32
+| Capped
+| 200
+| [[Punjab Kings]]
+| 1,850
+| 
+| [[Chennai Super Kings]]<br>[[Kings XI Punjab]]
+|-
+| 12
+| 2
+| AL1
+| [[Odean Smith]]
+| {{cr|WIN}}
+| All-rounder
+|6
+| Capped
+| 50
+| [[Gujarat Titans]]
+| 50
+| [[Punjab Kings]]
+|
+|-
+|11
+| 2
+| AL1
+| [[Sikandar Raza]]
+| {{cr|ZIM}}
+| All-rounder
+|0
+| Capped
+| 50
+| [[Punjab Kings]]
+| 50
+|
+|
+|-
+|10
+| 2
+| AL1
+| [[Jason Holder]]
+| {{cr|WIN}}
+| All-rounder
+|38
+| Capped
+| 200
+| [[Rajasthan Royals in 2022|Rajasthan Royals]]
+| 575
+| [[Lucknow Super Giants]]
+| [[Chennai Super Kings]]<br>[[Kolkata Knight Riders]]<br>[[Sunrisers Hyderabad]]
+|-
+| 8
+| 2
+| AL1
+| [[Cameron Green]]
+| {{cr|AUS}}
+| All-rounder
+|0
+| Capped
+| 200
+| [[Mumbai Indians]]
+| 1,750
+|
+|
+|-
+| 13
+| 2
+| AL1
+| [[Ben Stokes]]
+| {{cr|ENG}}
+| All-rounder
+|43
+| Capped
+| 200
+| [[Chennai Super Kings]]
+| 1,625
+| 
+| [[Rajasthan Royals]]<br>[[Rising Pune Supergiant]]
+|-
+|18
+|3
+| WK1
+| [[Nicholas Pooran]]
+| {{cr|WIN}}
+| Wicket-keeper
+|47
+| Capped
+| 200
+| [[Lucknow Super Giants]]
+| 1,600
+| [[Sunrisers Hyderabad]]
+| [[Mumbai Indians]]<br>[[Punjab Kings]]
+|-
+|16
+|3
+| WK1
+| [[Heinrich Klaasen]]
+| {{cr|SA}}
+| Wicket-keeper
+|7
+| Capped
+| 100
+| [[Sunrisers Hyderabad]]
+| 525
+|
+| [[Rajasthan Royals]]<br> [[Royal Challengers Bangalore]]
+|-
+|19
+|3
+| WK1
+| [[Phil Salt]]
+| {{cr|ENG}}
+| Wicket-keeper
+| 0
+| Capped
+| 200
+| [[Delhi Capitals]]
+| 200
+| 
+|
+|-
+|24
+|4
+|FA1
+|[[Reece Topley]]
+| {{cr|ENG}}
+| Bowler
+|0
+|Capped
+|75
+|[[Royal Challengers Bangalore]]
+|190
+|
+|
+|-
+|25
+|4
+|FA1
+|[[Jaydev Unadkat]]
+| {{cr|IND}}
+| Bowler
+|91
+|Capped
+|50
+|[[Lucknow Super Giants]]
+|50
+| [[Mumbai Indians]]
+|[[Rising Pune Supergiants]]<br>[[Kolkata Knight Riders]]<br>[[Royal Challengers Bangalore]]<br>[[Delhi Daredevils]]<br>[[Rajasthan Royals]]
+|-
+|22
+|4
+|FA1
+|[[Jhye Richardson]]
+| {{cr|AUS}}
+| Bowler
+|3
+|Capped
+|150
+|[[Mumbai Indians]]
+|150
+| 
+|[[Punjab Kings]]
+|-
+|23
+|4
+|FA1
+|[[Ishant Sharma]]
+| {{cr|IND}}
+| Bowler
+|93
+|Capped
+|50
+|[[Delhi Capitals]]
+|50
+|
+|[[Kolkata Knight Riders]]<br>[[Deccan Chargers]]<br>[[Sunrisers Hyderabad]]<br>[[Rising Pune Supergiants]]<br>[[Kings XI Punjab]]
+|-
+|29
+|5
+|SP1
+|[[Adil Rashid]]
+|{{cr|ENG}}
+|Bowler
+|0
+|Capped
+|200
+|[[Sunrisers Hyderabad]]
+|200
+|
+|[[Punjab Kings]]
+|-
+|27
+|5
+|SP1
+|[[Mayank Markande]]
+|{{cr|IND}}
+|Bowler
+|20
+|Capped
+|50
+|[[Sunrisers Hyderabad]]
+|50
+|[[Mumbai Indians]]
+|[[Rajasthan Royals]]
+|-
+|35
+|6
+|UBA1
+|[[Shaik Rasheed]]
+|{{cr|IND}}
+|Batsman
+|0
+|Uncapped
+|20
+|[[Chennai Super Kings]]
+|20
+|
+|
+|-
+|41
+|7
+|UAL1
+|[[Vivrant Sharma]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Sunrisers Hyderabad]]
+|260
+|
+|
+|-
+|45
+|7
+|UAL1
+|[[Samarth Vyas]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Sunrisers Hyderabad]]
+|20
+|
+|
+|-
+|43
+|7
+|UAL1
+|[[Sanvir Singh]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Sunrisers Hyderabad]]
+|20
+|
+|
+|-
+|42
+|7
+|UAL1
+|[[Nishant Sindhu]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Chennai Super Kings]]
+|60
+|
+|
+|-
+|50
+|8
+|UWK1
+|[[N Jagadeesan]]
+|{{cr|IND}}
+|Wicket-keeper
+|7
+|Uncapped
+|20
+|[[Kolkata Knight Riders]]
+|90
+|[[Chennai Super Kings]]
+|
+|-
+|46
+|8
+|UWK1
+|[[K. S. Bharat]]
+|{{cr|IND}}
+|Wicket-keeper
+|10
+|Uncapped
+|20
+|[[Gujarat Titans]]
+|120
+|[[Delhi Capitals]]
+|[[Royal Challengers Bangalore]]
+|-
+|52
+|8
+|UWK1
+|[[Upendra Yadav (cricketer)|Upendra Yadav]]
+|{{cr|IND}}
+|Wicket-keeper
+|0
+|Uncapped
+|20
+|[[Sunrisers Hyderabad]]
+|25
+|
+|
+|-
+|53
+|9
+|UFA1
+|[[Vaibhav Arora]]
+|{{cr|IND}}
+|Bowler
+|5
+|Uncapped
+|20
+|[[Kolkata Knight Riders]]
+|60
+|[[Punjab Kings]]
+|[[Kolkata Knight Riders]]
+|-
+|58
+|9
+|UFA1
+|[[Yash Thakur]]
+|{{cr|IND}}
+|Bowler
+|0
+|Uncapped
+|20
+|[[Lucknow Super Giants]]
+|45
+|
+|
+|-
+|56
+|9
+|UFA1
+|[[Shivam Mavi]]
+|{{cr|IND}}
+|Bowler
+|32
+|Uncapped
+|40
+|[[Gujarat Titans]]
+|600
+|[[Kolkata Knight Riders]]
+|
+|-
+|55
+|9
+|UFA1
+|[[Mukesh Kumar (cricketer)|Mukesh Kumar]]
+|{{cr|IND}}
+|Bowler
+|0
+|Uncapped
+|20
+|[[Delhi Capitals]]
+|550
+|
+|
+|-
+|65
+|10
+|USP1
+|[[Himanshu Sharma (cricketer)|Himanshu Sharma]]
+|{{cr|IND}}
+|Bowler
+|0
+|Uncapped
+|20
+|[[Royal Challengers Bangalore]]
+|20
+|
+|
+|-
+|69
+|11
+|BA2
+|[[Manish Pandey]]
+|{{cr|IND}}
+|Batsman
+|160
+|Capped
+|100
+|[[Delhi Capitals]]
+|240
+|[[Lucknow Super Giants]]
+|[[Mumbai Indians]]<br>[[Royal Challengers Bangalore]]<br>[[Pune Warriors India]]<br>[[Kolkata Knight Riders]]<br>[[Sunrisers Hyderabad]]
+|-
+|67
+|11
+|BA2
+|[[Will Jacks]]
+|{{cr|ENG}}
+|Batsman
+|0
+|Capped
+|150
+|[[Royal Challengers Bangalore]]
+|320
+|
+|
+|-
+|80
+|12
+|AL2
+|[[Romario Shepherd]]
+|{{Cr|WIN}}
+|All-rounder
+|3
+|Capped
+|50
+|[[Lucknow Super Giants]]
+|50
+|[[Sunrisers Hyderabad]]
+|
+|-
+|78
+|12
+|AL2
+|[[Daniel Sams]]
+|{{cr|AUS}}
+|All-rounder
+|16
+|Capped
+|75
+|[[Lucknow Super Giants]]
+|75
+|[[Mumbai Indians]]
+|[[Delhi Capitals]]<br>[[Royal Challengers Bangalore]]
+|-
+|83
+|13
+|FA2
+|[[Kyle Jamieson]]
+|{{cr|NZ}}
+|Bowler
+|9
+|Capped
+|100
+|[[Chennai Super Kings]]
+|100
+|[[Royal Challengers Bangalore]]
+|
+|-
+|94
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Piyush Chawla]]
+|{{cr|IND}}
+|Bowler
+|165
+|Capped
+|50
+|[[Mumbai Indians]]
+|50
+|
+|[[Kings XI Punjab]]<br>[[Kolkata Knight Riders]]<br>[[Chennai Super Kings]]<br>[[Mumbai Indians]]
+|-
+|95
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Amit Mishra]]
+|{{cr|IND}}
+|Bowler
+|154
+|Capped
+|50
+|[[Lucknow Super Giants]]
+|50
+|
+|[[Deccan Chargers]]<br>[[Sunrisers Hyderabad]]<br>[[Delhi Capitals]]
+|-
+|99
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Harpreet Singh Bhatia]]
+|{{cr|IND}}
+|Batsman
+|4
+|Uncapped
+|20
+|[[Punjab Kings]]
+|40
+|
+|[[Kolkata Knight Riders]]<br>[[Pune Warriors India]]<br>[[Royal Challengers Bangalore]]
+|-
+|108
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Manoj Bhandage]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Royal Challengers Bangalore]]
+|20
+|
+|
+|-
+|110
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Mayank Dagar]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Sunrisers Hyderabad]]
+|180
+|
+|[[Kings XI Punjab]]
+|-
+|111
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Duan Jansen]]
+|{{cr|SA}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Mumbai Indians]]
+|20
+|
+|
+|-
+|113
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Prerak Mankad]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Lucknow Super Giants]]
+|180
+|[[Punjab Kings]]
+|
+|-
+|119
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Donavon Ferreira]]
+|{{cr|SA}}
+|Wicket-Keeper
+|0
+|Uncapped
+|20
+|[[Rajasthan Royals]]
+|20
+|
+|
+|-
+|123
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Urvil Patel]]
+|{{cr|IND}}
+|Wicket-Keeper
+|0
+|Uncapped
+|20
+|[[Gujarat Titans]]
+|20
+|
+|
+|-
+|126
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Vishnu Vinod]]
+|{{cr|IND}}
+|Wicket-Keeper
+|3
+|Uncapped
+|20
+|[[Mumbai Indians]]
+|20
+|[[Sunrisers Hyderabad]]
+|[[Royal Challengers Bangalore]]<br>[[Delhi Capitals]]
+|-
+|129
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|Vidwath Kaverappa
+|{{cr|IND}}
+|Bowler
+|0
+|Uncapped
+|20
+|[[Punjab Kings]]
+|20
+|
+|
+|-
+|130
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|Rajan Kumar
+|{{cr|IND}}
+|Bowler
+|0
+|Uncapped
+|20
+|[[Royal Challengers Bangalore]]
+|20
+|
+|
+|-
+|145
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Suyash Sharma]]
+|{{cr|IND}}
+|Bowler
+|0
+|Uncapped
+|20
+|[[Kolkata Knight Riders]]
+|20
+|
+|
+|-
+|170
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Josh Little]]
+|{{cr|Ireland|Cricket}}
+|Bowler
+|0
+|Capped
+|50
+|[[Gujarat Titans]]
+|440
+|
+|
+|-
+|172
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Mohit Sharma]]
+|{{cr|IND}}
+|Bowler
+|86
+|Capped
+|50
+|[[Gujarat Titans]]
+|50
+|
+|[[Kings XI Punjab]]<br>[[Chennai Super Kings]]<br>[[Delhi Capitals]]
+|-
+|189
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Shams Mulani]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Mumbai Indians]]
+|20
+|
+|[[Delhi Capitals]]
+|-
+|193
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Swapnil Singh]]
+|{{cr|IND}}
+|All-rounder
+|5
+|Uncapped
+|20
+|[[Lucknow Super Giants]]
+|20
+|
+|[[Mumbai Indians]]<br>[[Kings XI Punjab]]
+|-
+|196
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[David Wiese]]
+|{{cr|Namibia}}
+|All-rounder
+|15
+|Associate
+|100
+|[[Kolkata Knight Riders]]
+|100
+|
+|[[Royal Challengers Bangalore]]
+|-
+|208
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Nitish Kumar Reddy]]
+|{{cr|IND}}
+|Wicket-Keeper
+|0
+|Uncapped
+|20
+|[[Sunrisers Hyderabad]]
+|20
+|
+|
+|-
+|221
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|Avinash Singh
+|{{cr|IND}}
+|Bowler
+|0
+|Uncapped
+|20
+|[[Royal Challengers Bangalore]]
+|60
+|
+|
+|-
+|284
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Kunal Rathore]]
+|{{cr|IND}}
+|Wicket-Keeper
+|0
+|Uncapped
+|20
+|[[Rajasthan Royals]]
+|20
+|
+|
+|-
+|321
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Sonu Yadav]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Royal Challengers Bangalore]]
+|20
+|
+|
+|-
+|324
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Kulwant Khejroliya]]
+|{{cr|IND}}
+|Bowler
+|5
+|Uncapped
+|20
+|[[Kolkata Knight Riders]]
+|20
+|
+|[[Mumbai Indians]]<br>[[Royal Challengers Bangalore]]
+|-
+|339
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Ajay Mandal]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Chennai Super Kings]]
+|20
+|
+|
+|-
+|389
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|Mohit Rathee
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Punjab Kings]]
+|20
+|
+|
+|-
+|392
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Nehal Wadhera]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Mumbai Indians]]
+|20
+|
+|
+|-
+|405
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|[[Bhagath Varma]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Chennai Super Kings]]
+|20
+|[[Chennai Super Kings]]
+|
+|-
+|406
+| colspan="2" |{{ref label|rounding|ACC-1|ACC}}
+|Shivam Singh
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Punjab Kings]]
+|20
+|
+|
+|-
+|5
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|[[Rilee Rossouw]]
+|{{cr|SA}}
+|Batsman
+|5
+|Capped
+|200
+|[[Delhi Capitals]]
+|460
+|
+|[[Royal Challengers Bangalore]]
+|-
+|15
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|[[Litton Das]]
+|{{cr|BAN}}
+|Wicket-Keeper
+|0
+|Capped
+|50
+|[[Kolkata Knight Riders]]
+|50
+|
+|
+|-
+|26
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|[[Akeal Hosein]]
+|{{Cr|WIN}}
+|Bowler
+|0
+|Capped
+|100
+|[[Sunrisers Hyderabad]]
+|100
+|
+|
+|-
+|31
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|[[Adam Zampa]]
+|{{cr|AUS}}
+|Bowler
+|14
+|Capped
+|150
+|[[Rajasthan Royals]]
+|150
+|
+|[[Rising Pune Supergiant]]<br>[[Royal Challengers Bangalore]]
+|-
+|36
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|[[Anmolpreet Singh]]
+|{{cr|IND}}
+|Batsman
+|3
+|Uncapped
+|20
+|[[Sunrisers Hyderabad]]
+|20
+|[[Mumbai Indians]]
+|
+|-
+|54
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|[[KM Asif]]
+|{{cr|IND}}
+|Bowler
+|3
+|Uncapped
+|20
+|[[Rajasthan Royals]]
+|30
+|[[Chennai Super Kings]]
+|
+|-
+|60
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|[[Murugan Ashwin]]
+|{{cr|IND}}
+|Bowler
+|42
+|Uncapped
+|20
+|[[Rajasthan Royals]]
+|20
+|[[Mumbai Indians]]
+|[[Rising Pune Supergiant]]<br>[[Delhi Daredevils]]<br>[[Royal Challengers Bangalore]]<br>[[Punjab Kings]]
+|-
+|71
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|[[Mandeep Singh]]
+|{{cr|IND}}
+|Batsman
+|108
+|Capped
+|50
+|[[Kolkata Knight Riders]]
+|50
+|[[Delhi Capitals]]
+|[[Kolkata Knight Riders]]<br>[[Royal Challengers Bangalore]]<br>[[Punjab Kings]]
+|-
+|117
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|[[Akash Vasisht]]
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Rajasthan Royals]]
+|20
+|
+|
+|-
+|168
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|[[Naveen-ul-Haq]]
+|{{cr|AFG}}
+|Bowler
+|0
+|Capped
+|50
+|[[Lucknow Super Giants]]
+|50
+|
+|
+|-
+|187
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|[[Yudhvir Singh (cricketer)|Yudhvir Singh Charak]]
+|{{cr|IND}}
+|Bowler
+|0
+|Uncapped
+|20
+|[[Lucknow Super Giants]]
+|20
+|
+|[[Mumbai Indians]]
+|-
+|227
+| colspan="2" | {{ref label|rounding|ACC-2|ACC}}
+|Raghav Goyal
+|{{cr|IND}}
+|Bowler
+|0
+|Uncapped
+|20
+|[[Mumbai Indians]]
+|20
+|
+|
+|-
+|340
+| colspan="2" |{{ref label|rounding|ACC-2|ACC}}
+|Abdul Basith
+|{{cr|IND}}
+|All-rounder
+|0
+|Uncapped
+|20
+|[[Rajasthan Royals]]
+|20
+|
+|
+|-
+|4
+| colspan="2" |{{ref label|rounding|ACC-3|ACC}}
+|[[Joe Root]]
+|{{cr|ENG}}
+|Batsman
+|0
+|Capped
+|100
+| [[Rajasthan Royals]]
+|100
+|
+|
+|-
+|9
+| colspan="2" | {{ref label|rounding|ACC-3|ACC}}
+|[[Shakib al Hasan]]
+|{{cr|BAN}}
+|All-rounder
+|71
+|Capped
+|150
+| [[Kolkata Knight Riders]]
+|150
+|
+| [[Kolkata Knight Riders]]<br>[[Sunrisers Hyderabad]]
+|}
+{{note label|rounding|ACC|ACC}}'''ACC-1/2/3''': Players who were part of accelerated bidding.
+
+==Withdrawn players==
+{| class="wikitable" style="font-size:85%;"
+|-
+! Player
+!Nationality
+! Team
+! Auctioned/retention price
+! Reason
+! Withdrawal announcement date
+! Replacement player
+!Nationality
+! Replacement player's price
+! Replacement player's base price
+! Signing date
+! {{Abbr|Ref.|Reference}}
+|-
+|  [[Rishabh Pant]]
+| rowspan="2" |{{cr|IND}}
+| [[Delhi Capitals]]
+| {{INRConvert|16|c|lk=on}}
+| Injury 
+| 11 January 2023
+|  Abhishek Porel
+| rowspan="2" |{{cr|IND}}
+| colspan="2" | {{INRConvert|20|l|lk=on}}
+| 31 March 2023 
+| <ref>{{cite web |access-date=11 January 2023 |title=Rishabh Pant will not be available for IPL, confirms Sourav Ganguly |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rishabh-pant-will-not-be-available-for-ipl-sourav-ganguly/articleshow/96907280.cms |website=Times of India}}</ref> 
+|- 
+|  [[Prasidh Krishna]]
+| [[Rajasthan Royals]]
+| {{INRConvert|10|c|lk=on}}
+| Stress fracture 
+| 17 February 2023
+| [[Sandeep Sharma]]
+| colspan="2" rowspan="3" | {{INRConvert|50|l|lk=on}}
+|27 March 2023
+| <ref>{{cite web |access-date=17 February 2023 |title=Prasidh Krishna ruled out of IPL 2023 with stress fracture |url=https://www.espncricinfo.com/story/prasidh-out-of-ipl-2023-for-rajasthan-royals-with-stress-fracture-1359449 |work=ESPNcricinfo}}</ref> 
+|-
+|  [[Kyle Jamieson]]
+|{{cr|NZ}}
+| [[Chennai Super Kings]]
+| {{INRConvert|1|c|lk=on}}
+| rowspan="2" | Back injury 
+| 20 February 2023
+| [[Sisanda Magala]]
+|{{cr|SA}}
+|19 March 2023
+| <ref>{{cite web |access-date=20 February 2023 |title= Setback for CSK, Kyle Jamieson likely to miss IPL 2023 after undergoing back surgery|url=https://indianexpress.com/article/sports/cricket/setback-for-csk-kyle-jamieson-likely-to-miss-ipl-2023-after-undergoing-back-surgery-8455566 |website=The Indian Express}}</ref>
+|-
+|  [[Jasprit Bumrah]]
+|{{cr|IND}}
+| rowspan="2" | [[Mumbai Indians]]
+| {{INRConvert|12|c|lk=on}}
+| 28 February 2023
+| [[Sandeep Warrier]]
+|{{cr|IND}}
+|31 March 2023
+| <ref>{{cite web |access-date=28 February 2023 |title=Bumrah set to miss IPL 2023 |url=https://www.espncricinfo.com/story/injured-jasprit-bumrah-set-to-miss-ipl-2023-placed-with-an-option-for-back-surgery-1361056 |work=ESPNcricinfo}}</ref>
+|-
+| [[Jhye Richardson]]
+|{{cr|AUS}}
+| rowspan="2" | {{INRConvert|1.5|c|lk=on}}
+| Hamstring injury 
+| 11 March 2023
+| [[Riley Meredith]]
+|{{cr|AUS}}
+| colspan="2" | {{INRConvert|1.50|c|lk=on}}
+|6 April 2023
+| <ref>{{cite web |access-date=11 March 2023 |title=Jhye Richardson out of IPL 2023, likely to miss Ashes too|url=https://www.espncricinfo.com/story/jhye-richardson-out-of-ipl-2023-likely-to-miss-ashes-too-1363009 |work=ESPNcricinfo}}</ref>
+|-
+| [[Will Jacks]]
+| rowspan="2" |{{cr|ENG}}
+| [[Royal Challengers Bangalore]]
+| Muscle Injury 
+| 15 March 2023
+|  [[Michael Bracewell (cricketer)|Michael Bracewell]]
+|{{cr|NZ}}
+| colspan="2" |{{INRConvert|1|c|lk=on}}
+| 18 March 2023
+| <ref>{{cite web |access-date=15 March 2023 |title=Royal Challengers' Will Jacks ruled out of IPL 2023 due to injury|url=https://www.espncricinfo.com/story/rcb-allrounder-will-jacks-ruled-out-of-ipl-2023-due-to-injury-1363679 |work=ESPNcricinfo}}</ref>
+|-
+|  [[Jonny Bairstow]]
+| [[Punjab Kings]]
+| {{INRConvert|6.75|c|lk=on}}
+| Foot injury 
+| 21 March 2023
+| [[Matthew Short]]
+|{{cr|AUS}}
+| colspan="2" rowspan="2" | {{INRConvert|20|l|lk=on}}
+| 27 March 2023
+|<ref>{{cite web |access-date=21 March 2023 |title=IPL 2023: Jonny Bairstow to be ruled out of Punjab Kings season for injury rehab - reports |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2023-jonny-bairstow-ruled-out-golf-injury-recovery-punjab-kings-squad-replacements/article66646048.ece |website=SportStar}}</ref>
+|-
+|  [[Mukesh Choudhary]]
+|{{cr|IND}}
+| [[Chennai Super Kings]]
+| {{INRConvert|20|l|lk=on}}
+| Back injury 
+| 30 March 2023
+|  [[Akash Singh (cricketer, born 2002)|Akash Singh]]
+|{{cr|IND}}
+| 30 March 2023
+| <ref>{{cite web |title=Mukesh Choudhary ruled out of IPL 2023 |url=https://www.crictracker.com/cricket-news/ipl-2023-csks-left-arm-pacer-mukesh-chowdhary-ruled-out-of-upcoming-season/ |website=Crictracker.com |access-date=30 March 2023}}</ref>
+|-
+|   [[Kane Williamson]]
+|{{cr|NZ}}
+| [[Gujarat Titans]]
+| {{INRConvert|2|c|lk=on}}
+| Knee Injury
+| 1 April 2023
+| [[Dasun Shanaka]]
+|{{cr|SL}}
+| colspan="2" | {{INRConvert|50|l|lk=on}}
+|4 April 2023
+|<ref>{{Cite web |date=4 April 2023 |title=Dasun Shanaka to join Gujarat Titans in IPL 2023 |url=https://www.cricbuzz.com/cricket-news/126162/dasun-shanaka-to-join-gujarat-titans-in-ipl-2023-kane-williamson-cricbuzzcom |access-date=7 April 2023 |website=Cricbuzz}}</ref>
+|- 
+|  [[Shakib Al Hasan]]
+|{{cr|BAN}}
+| [[Kolkata Knight Riders]]
+| {{INRConvert|1.5|c|lk=on}}
+| Personal reasons
+| 3 April 2023
+| Aarya Desai
+| rowspan="2" |{{cr|IND}}
+| colspan="2" rowspan="2" | {{INRConvert|20|l|lk=on}}
+| 14 April 2023
+|<ref>{{Cite web |date=14 Apr 2023 |title=IPL 2023: Aarya Desai joins Kolkata Knight Riders |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2023-aarya-desai-joins-kolkata-knight-riders/articleshow/99499201.cms?from=mdr |access-date=3 May 2023 |website=The Times of India}}</ref>
+|-
+|  [[Rajat Patidar]]
+| rowspan="3" |{{cr|IND}}
+|  [[Royal Challengers Bangalore]]
+|  {{INRConvert|20|l|lk=on}} 
+| Heel injury
+| rowspan="2" |  4 April 2023
+|[[Vijaykumar Vyshak]]
+| 7 April 2023
+|<ref name=":2">{{Cite web |date=7 April 2023 |title=IPL 2023: RCB Name Wayne Parnell, Vyshak Vijay Kumar As Replacements For Reece Topley, Rajat Patidar |url=https://www.outlookindia.com/sports/ipl-2023-rcb-name-wayne-parnell-vyshak-vijay-kumar-as-replacements-for-reece-topley-rajat-patidar-news-276639 |access-date=7 April 2023 |website=Outlook}}</ref>
+|-
+|  [[Shreyas Iyer]]
+|  [[Kolkata Knight Riders]]
+| {{INRConvert|12.25|c|lk=on}}
+| Back Injury 
+|[[Jason Roy]]
+|{{cr|ENG}}
+| {{INRConvert|2.8|c|lk=on}}
+|{{INRConvert|1.5|c|lk=on}}
+| rowspan="2" |5 April 2023
+|<ref>{{Cite web |date=5 April 2023 |title=Kolkata Knight Riders sign Jason Roy to replace Shreyas Iyer for IPL 2023 season |url=https://www.telegraphindia.com/sports/cricket/kolkata-knight-riders-sign-jason-roy-to-replace-shreyas-iyer-for-ipl-2023-season/cid/1927424 |access-date=7 April 2023 |website=The Telegraph}}</ref>
+|-
+|  [[Raj Angad Bawa|Raj Bawa]]
+|  [[Punjab Kings]]
+| {{INRConvert|2|c|lk=on}}
+| Left Shoulder Injury
+| 5 April 2023
+| [[Gurnoor Brar]]
+|{{cr|IND}}
+| colspan="2" |{{INRConvert|20|l|lk=on}}
+|<ref>{{cite web |title=Punjab Kings Sign Gurnoor Singh Brar |url=https://www.iplt20.com/news/3876/punjab-kings-sign-gurnoor-singh-brar |website=iplt20.com |access-date=5 April 2023}}</ref>
+|- 
+|  [[Reece Topley]]
+|{{cr|ENG}}
+| [[Royal Challengers Bangalore]]
+| {{INRConvert|1.9|c|lk=on}}
+| Shoulder injury 
+| 6 April 2023
+| [[Wayne Parnell]]
+|{{cr|SA}}
+| colspan="2" | {{INRConvert|75|l|lk=on}}
+| 7 April 2023
+|<ref name=":2" />
+|-
+|[[Mayank Yadav]]
+| rowspan="3" |{{cr|IND}}
+|[[Lucknow Super Giants]]
+| rowspan="2" |{{INRConvert|20|l|lk=on}}
+|Injury
+|15 April 2023
+|[[Arpit Guleria]]
+| rowspan="2" |{{cr|IND}}
+| colspan="2" rowspan="2" |{{INRConvert|20|l|lk=on}}
+|15 April 2023
+|<ref>{{Cite web |date=15 April 2023 |title=Mayank Yadav replaced by fast bowler Arpit Guleria in Lucknow Super Giants' squad |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mayank-yadav-replaced-by-fast-bowler-arpit-guleria-in-lucknow-super-giants-squad/articleshow/99508573.cms |access-date=16 April 2023 |website=The Times of India}}</ref>
+|-
+|  [[Kamlesh Nagarkoti]]
+| [[Delhi Capitals]]
+| Back Injury 
+| 21 April 2023
+| [[Priyam Garg]]
+| 23 April 2023
+|<ref>{{Cite web |date=23 Apr 2023 |title=IPL 2023: Delhi Capitals name Priyam Garg as replacement forinjured Kamlesh Nagarkoti |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2023-delhi-capitals-name-priyam-garg-as-replacement-for-injured-kamlesh-nagarkoti/articleshow/99712150.cms |access-date=25 Apr 2023 |website=The Times of India}}</ref>
+|-
+|[[Washington Sundar]]
+|[[Sunrisers Hyderabad]]
+|{{INRConvert|8.75|c|lk=on}}
+|Hamstring Injury
+|27 April 2023
+|
+|
+|
+|
+|
+|<ref>{{Cite web |date=27 Apr 2023 |title=Hamstring injury rules Washington Sundar out of IPL 2023 |url=https://www.espncricinfo.com/story/hamstring-injury-rules-washington-sundar-out-of-ipl-2023-1371621 |access-date=27 Apr 2023 |work=ESPNcricinfo}}</ref>
+|-
+|[[Litton Das]]
+|{{cr|BAN}}
+|[[Kolkata Knight Riders]]
+|{{INRConvert|50|l|lk=on}}
+|Personal Reasons
+|28 April 2023
+|[[Johnson Charles]]
+|{{Cr|WIN}}
+| colspan="2" |{{INRConvert|50|l|lk=on}}
+|4 May 2023
+|<ref>{{Cite web |date=4 May 2023 |title=IPL 2023: Kolkata Knight Riders name Johnson Charles as Litton Das' replacement |url=https://www.crictracker.com/cricket-press-release/ipl-2023-kolkata-knight-riders-name-johnson-charles-as-litton-das-replacement/ |access-date=4 May 2023 |website=CricTracker}}</ref>
+|-
+|  [[David Willey (cricketer)|David Willey]]
+|{{cr|ENG}}
+| [[Royal Challengers Bangalore]]
+| {{INRConvert|2|c|lk=on}}
+| Injury 
+| 1 May 2023
+|  [[Kedar Jadhav]]
+| rowspan="3" |{{cr|IND}}
+| {{INRConvert|1|c|lk=on}}
+|
+| 1 May 2023
+| <ref>{{cite web |date=1 May 2023 |title=IPL 2023: Kedar Jadhav joins RCB squad, replaces David Willey; know details |url=https://www.indiatvnews.com/sports/cricket/kedar-jadhav-joins-rcb-squad-replaces-david-willey-know-details-ipl-2023-royal-challengers-bangalore-rcb-vs-lsg-2023-05-01-868298 |access-date=3 May 2023 |website=India TV}}</ref>
+|-
+|[[Jaydev Unadkat]]
+| rowspan="2" |{{cr|IND}}
+| rowspan="3" |[[Lucknow Super Giants]]
+|{{INRConvert|50|l|lk=on}}
+|Left-Shoulder Injury
+| rowspan="2" |3 May 2023
+|Suryansh Shedge
+| colspan="2" |{{INRConvert|20|l|lk=on}}
+|18 May 2023
+|<ref>{{Cite web |date=18 May 2023 |title=IPL 2023: Lucknow Super Giants name Suryansh Shedge as replacement of injured Jaydev Unadkat |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2023-lucknow-super-giants-name-suryansh-shedge-as-replacement-of-injured-jaydev-unadkat/articleshow/100333229.cms |access-date=19 May 2023 |website=The Times of India}}</ref>
+|-
+|[[K. L. Rahul]]
+|{{INRConvert|17|c|lk=on}}
+|Hamstring Injury
+|[[Karun Nair]]
+| colspan="2" |{{INRConvert|50|l|lk=on}}
+|5 May 2023
+|<ref>{{Cite web |date=5 May 2023 |title=Karun Nair replaces injured KL Rahul at Lucknow Super Giants |url=https://www.espncricinfo.com/story/ipl-2023-karun-nair-replaces-injured-kl-rahul-at-lucknow-super-giants-1373634 |access-date=6 May 2023 |work=ESPNcricinfo}}</ref>
+|-
+|[[Mark Wood (cricketer)|Mark Wood]]
+| rowspan="2" |{{cr|ENG}}
+|{{INRConvert|7.5|c|lk=on}}
+|Personal Reasons
+|8 May 2023
+|
+|
+|
+|
+|
+|<ref>{{Cite web |date=8 May 2023 |title='You'll Be Missed': Mark Wood Leaves LSG Camp For Birth of His Child |url=https://www.news18.com/cricketnext/youll-be-missed-mark-wood-leaves-lsg-camp-for-birth-of-his-child-7750849.html |access-date=9 May 2023 |website=CNN-News18}}</ref>
+|-
+|[[Jofra Archer]]
+|[[Mumbai Indians]]
+|{{INRConvert|8|c|lk=on}}
+|Rehabilitation
+|9 May 2023
+|[[Chris Jordan (cricketer)|Chris Jordan]]
+|{{cr|ENG}}
+| colspan="2" |{{INRConvert|2|c|lk=on}}
+|30 April 2023<ref>{{Cite web |date=30 April 2023 |title=Chris Jordan joins Mumbai Indians for remainder of IPL 2023 |url=https://www.espncricinfo.com/story/chris-jordan-joins-mumbai-indians-for-remainder-of-ipl-2023-1372319 |access-date=12 May 2023 |work=ESPNcricinfo}}</ref>
+|<ref>{{Cite web |date=9 May 2023 |title=IPL 2023: Chris Jordan replaces injured Jofra Archer at Mumbai Indians |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2023-chris-jordan-replaces-injured-jofra-archer-at-mumbai-indians/articleshow/100096596.cms |access-date=12 May 2023 |website=The Times of India}}</ref>
+|-
+|[[Josh Hazlewood]]
+|{{cr|AUS}}
+|[[Royal Challengers Bangalore]]
+|{{INRConvert|7.75|c|lk=on}}
+|Injury
+|20 May 2023
+|
+|
+|
+|
+|
+|<ref>{{Cite web |date=20 May 2023 |title=RCB in Trouble; Josh Hazlewood to Fly Back Home before Crucial GT Clash |url=https://cricket.one/news/news-details/6468e8d0c7e48b9bd8ebddc7/rcb-in-trouble-josh-hazlewood-to-fly-back-home-before-crucial-gt-clash |access-date=21 May 2023 |website=OneCricket}}</ref>
+|-
+|[[Ben Stokes]]
+|{{cr|ENG}}
+|[[Chennai Super Kings]]
+|{{INRConvert|16.25|c|lk=on}}
+|International Duty
+|21 May 2023
+|
+|
+|
+|
+|
+|<ref>{{Cite web |date=21 May 2023 |title=IPL 2023: Ben Stokes leaves CSK camp to join national duty for England's one-off Test against Ireland |url=https://www.crictracker.com/social-tracker-cricket/ipl-2023-ben-stokes-leaves-csk-camp-to-join-national-duty-for-englands-one-off-test-against-ireland/ |access-date=21 May 2023 |website=CricTracker}}</ref>
+|}
+
+==Support staff changes==
+{| class="wikitable" style="font-size:85%;"
+! Team
+! Name
+! Change
+! Role
+! Notes
+! Ref
+|-
+| rowspan="2" |[[Chennai Super Kings]]
+| [[Lakshmipathy Balaji]]
+|Resigned
+|Bowling coach 
+|Replaced by [[Dwayne Bravo]]
+|{{citation needed|date=October 2025}}
+|-
+| [[Dwayne Bravo]]
+|Appointed
+|Bowling coach 
+|Replaced [[Lakshmipathy Balaji]]
+|{{citation needed|date=October 2025}}
+|-
+| [[Delhi Capitals]]
+| [[Sourav Ganguly]]
+|Appointed
+|Director of cricket
+|
+|{{citation needed|date=October 2025}}
+|-
+| [[Gujarat Titans]]
+| [[Naeem Amin]]
+|Appointed
+|Assistant coach
+|
+|{{citation needed|date=October 2025}}
+|-
+| rowspan="4" |[[Kolkata Knight Riders]]
+| [[Brendon McCullum]]
+| Resigned
+| Head coach
+| Replaced by [[Chandrakant Pandit]]
+| <ref name=KKR>{{cite news|title=KKR appoint Chandrakant Pandit as Head Coach|url= http://www.cricbuzz.com/cricket-news/123481/kkr-appoint-chandrakant-pandit-as-head-coach|work=Cricbuzz|access-date=11 November 2022}}</ref>
+|-
+| [[Chandrakant Pandit]] 
+|Appointed
+|Head coach
+|Replaced [[Brendon McCullum]]
+| <ref name=KKR/>
+|-
+| [[James Foster (cricketer, born 1980)|James Foster]]
+| Promoted as assistant coach 
+| Fielding coach 
+| Replaced by [[Ryan ten Doeschate]]
+| <ref name=KKR1>{{cite web|title=Ryan ten Doeschate to join KKR as fielding coach|url=http://www.cricbuzz.com/cricket-news/124453/ryan-ten-doeschate-to-join-kkr-as-fielding-coach|access-date=11 November 2022|work=Cricbuzz}}</ref>
+|-
+| [[Ryan ten Doeschate]]
+| Appointed
+| Fielding coach
+| Replaced [[James Foster (cricketer, born 1980)|James Foster]]
+| <ref name=KKR1/>
+|-
+| rowspan="6" | [[Lucknow Super Giants]]
+| [[Gautam Gambhir]]
+| Promoted as global mentor
+|
+|
+|
+|-
+| [[Andy Bichel]] 
+|Resigned
+|Bowling coach
+|Replaced by [[Morné Morkel]]
+|
+|-
+| [[Richard Halsall]] 
+|Resigned
+|Fielding coach
+|Replaced by [[Jonty Rhodes]]
+|
+|-
+| [[Morné Morkel]] 
+|Appointed
+|Fast Bowling coach
+|Replaced [[Andy Bichel]]
+|
+|-
+| [[Jonty Rhodes]] 
+|Appointed
+|Fielding coach
+|Replaced [[Richard Halsall]]
+|
+|-
+| [[Pravin Tambe]] 
+|Appointed
+|Spin Bowling coach
+|
+|
+|-
+| rowspan="7" |[[Mumbai Indians]]
+| [[Zaheer Khan]]
+|Promoted as global head of cricket development
+|Director of cricket operations
+|
+|
+|-
+| [[Mahela Jayawardene]] 
+|Promoted as global head of performance
+|Head coach
+|Replaced by [[Mark Boucher]]
+|
+|-
+| [[Mark Boucher]] 
+|Appointed
+|Head coach
+|Replaced [[Mahela Jayawardene]]
+|
+|-
+| [[Robin Singh (cricketer)|Robin Singh]] 
+|Resigned
+|Batting coach
+|Replaced by [[Kieron Pollard]]
+|
+|-
+| [[Kieron Pollard]] 
+|Appointed
+|Batting coach
+|Replaced [[Robin Singh (cricketer)|Robin Singh]]
+|
+|-
+| [[J. Arunkumar]]
+|Appointed
+|Assistant batting coach
+|
+|
+|-
+| [[Brad Hogg]]
+|Appointed
+|Spin bowling consultant
+|
+|
+|-
+| rowspan="9" | [[Punjab Kings]]
+| [[Anil Kumble]]
+|Resigned
+|Head coach and the director of cricket operations
+|Replaced by [[Trevor Bayliss]]
+| <ref name=PBKS>{{cite news|title=Trevor Bayliss named head coach of Punjab Kings|url=http://www.cricbuzz.com/cricket-news/123852/trevor-bayliss-named-head-coach-of-punjab-kings|work=Cricbuzz|access-date=11 November 2022}}</ref>
+|-
+| [[Jonty Rhodes]] 
+|Resigned 
+|Assistant coach
+|Replaced by [[Brad Haddin]]
+|<ref>{{cite web|url=https://www.thedailyjagran.com/cricket/brad-haddin-charl-langeveldt-to-join-punjab-kings-coaching-staff-10053353|work=Jagran Tv|title=Brad Haddin, Charl Langeveldt To Join Punjab Kings coaching Staff|access-date=11 November 2022}}</ref>
+|-
+| [[Damien Wright]]
+|Resigned 
+|Fast bowling coach 
+|Replaced by [[Charl Langeveldt]]
+|
+|-
+| [[Trevor Bayliss]]
+| Appointed
+|Head coach
+| Replaced [[Anil Kumble]]
+| <ref name=PBKS/>
+|-
+| [[Brad Haddin]]
+| Appointed
+|Assistant coach
+| Replaced [[Jonty Rhodes]]
+|
+|-
+| [[Julian Wood]] 
+|Resigned
+|Batting coach
+|Replaced by [[Wasim Jaffer]]
+|
+|-
+| [[Wasim Jaffer]]
+|Appointed
+|Batting coach
+|Replaced [[Julian Wood]]
+|
+|-
+| [[Charl Langeveldt]]
+| Appointed
+| Fast bowling coach
+| Replaced [[Damien Wright]]
+|
+|-
+| [[Sunil Joshi]]
+| Appointed
+| Spin bowling coach
+|
+|
+|-
+| rowspan="4" |[[Sunrisers Hyderabad]]
+| [[Tom Moody]]
+|Resigned
+|Head coach
+|Replaced by [[Brian Lara]]
+|<ref name=SRH>{{cite web|title='Wish them well' - Moody after being replaced by Lara as SRH head coach|url=http://www.cricbuzz.com/cricket-news/123696/wish-them-well-tom-moody-after-being-replaced-by-brian-lara-as-srh-head-coach|access-date=11 November 2022|work=Cricbuzz}}</ref>
+|-
+| [[Brian Lara]]
+|Promoted as head coach
+|Batting coach
+|Replaced [[Tom Moody]]
+|
+|-
+| [[Hemang Badani]]
+|Promoted as batting coach
+|Fielding coach
+|Replaced [[Brian Lara]]
+|
+|-
+| Ryan Cook
+|Appointed
+|Fielding coach
+|Replaced [[Hemang Badani]]
+|
+|}
+
+==See also==
+* [[Controversies involving the Indian Premier League]]
+
+==References==
+{{reflist}}18. {{2023 Indian Premier League}}
+{{Indian Premier League}}
+
+{{DEFAULTSORT:List of 2023 Indian Premier League personnel changes}}
+[[Category:Indian Premier League personnel changes]]
+[[Category:2023 Indian Premier League]]
+[[Category:Cricket player auction lists]]

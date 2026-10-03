@@ -1,0 +1,353 @@
+{
+  "CSK": {
+    "team": "CSK",
+    "stance": "Long-Term Build",
+    "stance_reason": "Finished #8 in 2026; rebuild around younger players.",
+    "home_venue": "MA Chidambaram Stadium, Chennai",
+    "finish_2026": 8,
+    "made_playoffs_2026": false,
+    "core_age": 28.3,
+    "purse_left_cr": 4.4,
+    "overseas_slots_left": 0,
+    "priorities": [
+      "Fix Death pacer (Red): Only 1 of 2 needed death pacer(s) in the squad.",
+      "Upgrade Opener (Amber): #2 opener ranks 27 of 29 in the league (starter level = top 20).",
+      "Upgrade Wicketkeeper (Amber): Best wicketkeeper ranks 13 of 32 in the league (starter level = top 10)."
+    ],
+    "role_weights": {
+      "Opener": 1.25,
+      "Anchor": 1.0,
+      "Middle-order": 1.0,
+      "Finisher": 0.961,
+      "Wicketkeeper": 1.25,
+      "Powerplay pacer": 0.995,
+      "Death pacer": 1.53,
+      "Wrist spinner": 1.005,
+      "Finger spinner": 1.005,
+      "All-rounder": 1.0
+    },
+    "red_roles": [
+      "Death pacer"
+    ],
+    "amber_roles": [
+      "Opener",
+      "Wicketkeeper"
+    ]
+  },
+  "DC": {
+    "team": "DC",
+    "stance": "Long-Term Build",
+    "stance_reason": "Missed the 2026 playoffs with an ageing core (avg age of top-12: 30.7).",
+    "home_venue": "Arun Jaitley Stadium, Delhi",
+    "finish_2026": 6,
+    "made_playoffs_2026": false,
+    "core_age": 30.7,
+    "purse_left_cr": 3.8,
+    "overseas_slots_left": 0,
+    "priorities": [
+      "Fix Anchor (Red): Best anchor ranks 16 of 26 in the league (starter level = top 10).",
+      "Upgrade Middle-order (Amber): Best middle-order ranks 12 of 14 in the league (starter level = top 10).",
+      "Upgrade Powerplay pacer (Amber): #2 powerplay pacer ranks 30 of 42 in the league (starter level = top 20).",
+      "Upgrade Death pacer (Amber): #2 death pacer ranks 23 of 33 in the league (starter level = top 20).",
+      "Death overs at Arun Jaitley Stadium, Delhi cost 7% more than the league average: value death bowling and finishing."
+    ],
+    "role_weights": {
+      "Opener": 1.0,
+      "Anchor": 1.6,
+      "Middle-order": 1.25,
+      "Finisher": 1.036,
+      "Wicketkeeper": 1.0,
+      "Powerplay pacer": 1.222,
+      "Death pacer": 1.266,
+      "Wrist spinner": 1.023,
+      "Finger spinner": 1.023,
+      "All-rounder": 1.0
+    },
+    "red_roles": [
+      "Anchor"
+    ],
+    "amber_roles": [
+      "Middle-order",
+      "Powerplay pacer",
+      "Death pacer"
+    ]
+  },
+  "GT": {
+    "team": "GT",
+    "stance": "Win Now",
+    "stance_reason": "Made the 2026 playoffs (finished #3); protect the window.",
+    "home_venue": "Narendra Modi Stadium, Ahmedabad",
+    "finish_2026": 3,
+    "made_playoffs_2026": true,
+    "core_age": 31.0,
+    "purse_left_cr": 1.95,
+    "overseas_slots_left": 1,
+    "priorities": [
+      "Fix Death pacer (Red): Only 1 of 2 needed death pacer(s) in the squad.",
+      "Fix All-rounder (Red): Only 0 of 1 needed all-rounder(s) in the squad.",
+      "Upgrade Wicketkeeper (Amber): Best wicketkeeper ranks 11 of 32 in the league (starter level = top 10).",
+      "Upgrade Finger spinner (Amber): Best finger spinner ranks 11 of 24 in the league (starter level = top 10).",
+      "Home ground (Narendra Modi Stadium, Ahmedabad) favours pace: spin goes 1.08x as expensive relative to the league, so pacers get a higher weight."
+    ],
+    "role_weights": {
+      "Opener": 1.0,
+      "Anchor": 1.0,
+      "Middle-order": 1.0,
+      "Finisher": 0.98,
+      "Wicketkeeper": 1.25,
+      "Powerplay pacer": 1.041,
+      "Death pacer": 1.633,
+      "Wrist spinner": 0.96,
+      "Finger spinner": 1.2,
+      "All-rounder": 1.6
+    },
+    "red_roles": [
+      "Death pacer",
+      "All-rounder"
+    ],
+    "amber_roles": [
+      "Wicketkeeper",
+      "Finger spinner"
+    ]
+  },
+  "KKR": {
+    "team": "KKR",
+    "stance": "Win Now",
+    "stance_reason": "Missed the playoffs narrowly (#7) with a young core (avg age 29.5).",
+    "home_venue": "Eden Gardens, Kolkata",
+    "finish_2026": 7,
+    "made_playoffs_2026": false,
+    "core_age": 29.5,
+    "purse_left_cr": 6.45,
+    "overseas_slots_left": 0,
+    "priorities": [
+      "Upgrade Anchor (Amber): Best anchor ranks 15 of 26 in the league (starter level = top 10).",
+      "Upgrade Finisher (Amber): #2 finisher ranks 21 of 30 in the league (starter level = top 20).",
+      "Home ground (Eden Gardens, Kolkata) favours spin: pace economy is 1.13x spin economy relative to the league, so spinners get a higher weight.",
+      "Death overs at Eden Gardens, Kolkata cost 6% more than the league average: value death bowling and finishing."
+    ],
+    "role_weights": {
+      "Opener": 1.0,
+      "Anchor": 1.25,
+      "Middle-order": 1.0,
+      "Finisher": 1.284,
+      "Wicketkeeper": 1.0,
+      "Powerplay pacer": 0.941,
+      "Death pacer": 0.967,
+      "Wrist spinner": 1.063,
+      "Finger spinner": 1.063,
+      "All-rounder": 1.0
+    },
+    "red_roles": [],
+    "amber_roles": [
+      "Anchor",
+      "Finisher"
+    ]
+  },
+  "LSG": {
+    "team": "LSG",
+    "stance": "Long-Term Build",
+    "stance_reason": "Finished #10 in 2026; rebuild around younger players.",
+    "home_venue": "Ekana Cricket Stadium, Lucknow",
+    "finish_2026": 10,
+    "made_playoffs_2026": false,
+    "core_age": 28.7,
+    "purse_left_cr": 4.55,
+    "overseas_slots_left": 1,
+    "priorities": [
+      "Fix Finger spinner (Red): Best finger spinner ranks 16 of 24 in the league (starter level = top 10).",
+      "Fix All-rounder (Red): Only 0 of 1 needed all-rounder(s) in the squad.",
+      "Upgrade Opener (Amber): #2 opener ranks 23 of 29 in the league (starter level = top 20).",
+      "Upgrade Finisher (Amber): #2 finisher ranks 23 of 30 in the league (starter level = top 20).",
+      "Upgrade Death pacer (Amber): #2 death pacer ranks 29 of 33 in the league (starter level = top 20)."
+    ],
+    "role_weights": {
+      "Opener": 1.25,
+      "Anchor": 1.0,
+      "Middle-order": 1.0,
+      "Finisher": 1.235,
+      "Wicketkeeper": 1.0,
+      "Powerplay pacer": 1.012,
+      "Death pacer": 1.249,
+      "Wrist spinner": 0.988,
+      "Finger spinner": 1.581,
+      "All-rounder": 1.6
+    },
+    "red_roles": [
+      "Finger spinner",
+      "All-rounder"
+    ],
+    "amber_roles": [
+      "Opener",
+      "Finisher",
+      "Death pacer"
+    ]
+  },
+  "MI": {
+    "team": "MI",
+    "stance": "Long-Term Build",
+    "stance_reason": "Missed the 2026 playoffs with an ageing core (avg age of top-12: 30.6).",
+    "home_venue": "Wankhede Stadium, Mumbai",
+    "finish_2026": 9,
+    "made_playoffs_2026": false,
+    "core_age": 30.6,
+    "purse_left_cr": 0.55,
+    "overseas_slots_left": 0,
+    "priorities": [
+      "Upgrade Wrist spinner (Amber): Best wrist spinner ranks 15 of 15 in the league (starter level = top 10)."
+    ],
+    "role_weights": {
+      "Opener": 1.0,
+      "Anchor": 1.0,
+      "Middle-order": 1.0,
+      "Finisher": 0.999,
+      "Wicketkeeper": 1.0,
+      "Powerplay pacer": 1.002,
+      "Death pacer": 1.001,
+      "Wrist spinner": 1.247,
+      "Finger spinner": 0.998,
+      "All-rounder": 1.0
+    },
+    "red_roles": [],
+    "amber_roles": [
+      "Wrist spinner"
+    ]
+  },
+  "PBKS": {
+    "team": "PBKS",
+    "stance": "Win Now",
+    "stance_reason": "Missed the playoffs narrowly (#5) with a young core (avg age 29.3).",
+    "home_venue": "Maharaja Yadavindra Singh Stadium, Mullanpur",
+    "finish_2026": 5,
+    "made_playoffs_2026": false,
+    "core_age": 29.3,
+    "purse_left_cr": 3.5,
+    "overseas_slots_left": 0,
+    "priorities": [
+      "Fix All-rounder (Red): Only 0 of 1 needed all-rounder(s) in the squad.",
+      "Upgrade Finisher (Amber): #2 finisher ranks 22 of 30 in the league (starter level = top 20).",
+      "Upgrade Powerplay pacer (Amber): #2 powerplay pacer ranks 27 of 42 in the league (starter level = top 20).",
+      "Upgrade Death pacer (Amber): #2 death pacer ranks 24 of 33 in the league (starter level = top 20).",
+      "Home ground (Maharaja Yadavindra Singh Stadium, Mullanpur) favours spin: pace economy is 1.07x spin economy relative to the league, so spinners get a higher weight."
+    ],
+    "role_weights": {
+      "Opener": 1.0,
+      "Anchor": 1.0,
+      "Middle-order": 1.0,
+      "Finisher": 1.232,
+      "Wicketkeeper": 1.0,
+      "Powerplay pacer": 1.207,
+      "Death pacer": 1.19,
+      "Wrist spinner": 1.035,
+      "Finger spinner": 1.035,
+      "All-rounder": 1.6
+    },
+    "red_roles": [
+      "All-rounder"
+    ],
+    "amber_roles": [
+      "Finisher",
+      "Powerplay pacer",
+      "Death pacer"
+    ]
+  },
+  "RR": {
+    "team": "RR",
+    "stance": "Win Now",
+    "stance_reason": "Made the 2026 playoffs (finished #4); protect the window.",
+    "home_venue": "Sawai Mansingh Stadium, Jaipur",
+    "finish_2026": 4,
+    "made_playoffs_2026": true,
+    "core_age": 27.6,
+    "purse_left_cr": 6.65,
+    "overseas_slots_left": 0,
+    "priorities": [
+      "Upgrade Wicketkeeper (Amber): Best wicketkeeper ranks 14 of 32 in the league (starter level = top 10)."
+    ],
+    "role_weights": {
+      "Opener": 1.0,
+      "Anchor": 1.0,
+      "Middle-order": 1.0,
+      "Finisher": 1.02,
+      "Wicketkeeper": 1.25,
+      "Powerplay pacer": 0.982,
+      "Death pacer": 1.002,
+      "Wrist spinner": 1.018,
+      "Finger spinner": 1.018,
+      "All-rounder": 1.0
+    },
+    "red_roles": [],
+    "amber_roles": [
+      "Wicketkeeper"
+    ]
+  },
+  "RCB": {
+    "team": "RCB",
+    "stance": "Win Now",
+    "stance_reason": "Made the 2026 playoffs (finished #2); protect the window.",
+    "home_venue": "M Chinnaswamy Stadium, Bengaluru",
+    "finish_2026": 2,
+    "made_playoffs_2026": true,
+    "core_age": 33.4,
+    "purse_left_cr": 0.25,
+    "overseas_slots_left": 0,
+    "priorities": [
+      "Fix Middle-order (Red): Only 0 of 1 needed middle-order(s) in the squad.",
+      "Upgrade Wrist spinner (Amber): Best wrist spinner ranks 11 of 15 in the league (starter level = top 10)."
+    ],
+    "role_weights": {
+      "Opener": 1.0,
+      "Anchor": 1.0,
+      "Middle-order": 1.6,
+      "Finisher": 1.01,
+      "Wicketkeeper": 1.0,
+      "Powerplay pacer": 1.011,
+      "Death pacer": 1.021,
+      "Wrist spinner": 1.236,
+      "Finger spinner": 0.989,
+      "All-rounder": 1.0
+    },
+    "red_roles": [
+      "Middle-order"
+    ],
+    "amber_roles": [
+      "Wrist spinner"
+    ]
+  },
+  "SRH": {
+    "team": "SRH",
+    "stance": "Win Now",
+    "stance_reason": "Made the 2026 playoffs (finished #1); protect the window.",
+    "home_venue": "Rajiv Gandhi Intl Stadium, Hyderabad",
+    "finish_2026": 1,
+    "made_playoffs_2026": true,
+    "core_age": 28.5,
+    "purse_left_cr": 5.45,
+    "overseas_slots_left": 0,
+    "priorities": [
+      "Fix All-rounder (Red): Only 0 of 1 needed all-rounder(s) in the squad.",
+      "Upgrade Wrist spinner (Amber): Best wrist spinner ranks 14 of 15 in the league (starter level = top 10).",
+      "Upgrade Finger spinner (Amber): Best finger spinner ranks 14 of 24 in the league (starter level = top 10).",
+      "Home ground (Rajiv Gandhi Intl Stadium, Hyderabad) favours pace: spin goes 1.13x as expensive relative to the league, so pacers get a higher weight."
+    ],
+    "role_weights": {
+      "Opener": 1.0,
+      "Anchor": 1.0,
+      "Middle-order": 1.0,
+      "Finisher": 0.997,
+      "Wicketkeeper": 1.0,
+      "Powerplay pacer": 1.065,
+      "Death pacer": 1.061,
+      "Wrist spinner": 1.174,
+      "Finger spinner": 1.174,
+      "All-rounder": 1.6
+    },
+    "red_roles": [
+      "All-rounder"
+    ],
+    "amber_roles": [
+      "Wrist spinner",
+      "Finger spinner"
+    ]
+  }
+}

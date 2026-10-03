@@ -1,0 +1,13 @@
+pandas==3.0.6
+numpy==2.4.6
+pyarrow==25.0.1
+PuLP==3.3.2
+statsmodels==0.15.0
+scikit-learn==1.9.1
+plotly==7.1.0
+kaleido==1.4.0
+PyYAML==6.0.3
+openpyxl==3.1.5
+python-pptx==1.0.2
+RapidFuzz==3.14.6
+pytest==9.1.1

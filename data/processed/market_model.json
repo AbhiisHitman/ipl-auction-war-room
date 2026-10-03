@@ -1,0 +1,17 @@
+{
+  "formula": "log(price_lakh) ~ impact + overseas + capped + C(season)",
+  "n": 284,
+  "r2": 0.295,
+  "adj_r2": 0.277,
+  "smearing_factor_not_applied": 1.661,
+  "insights": [
+    "Wrist spinners are the market's best value: they sell for 17% below fair value (median, n=17), while anchors sell for 2.5x fair value (n=24).",
+    "Powerplay specialists sell for 18% below fair value, vs death specialists who sell for 1.3x fair value (n=96 / 102).",
+    "Output is only part of the price: +1 run/match of impact adds 24% to price, but an international cap adds 157%; impact and profile explain just 30% of price variation."
+  ],
+  "price_model": {
+    "formula": "log_price ~ impact + overseas + capped + has_prev + log_prev + C(season_cat)",
+    "r2": 0.376,
+    "adj_r2": 0.355
+  }
+}

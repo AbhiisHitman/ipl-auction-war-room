@@ -1,0 +1,15 @@
+{
+  "structural: win_pct = a + b * realised_impact": {
+    "a": 0.5047,
+    "b": 0.00688,
+    "r2": 0.525
+  },
+  "realisation: realised = c + rho * planned_strength": {
+    "c": -2.959,
+    "rho": 0.445,
+    "r2": 0.041
+  },
+  "win_pct_per_run_of_planned_strength": 0.00306,
+  "n_team_seasons": 132,
+  "playoff_wins_threshold": 8
+}

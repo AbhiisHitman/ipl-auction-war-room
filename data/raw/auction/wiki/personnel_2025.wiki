@@ -1,0 +1,1553 @@
+{{Short description|none}}
+{{Featured list}}
+{{Use Indian English|date=June 2025}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox sports draft
+| name = 2025 Indian Premier League auction
+| sport = [[Cricket]]
+| dates = 24 – 25 November 2024
+| time = 15:30 [[Indian Standard Time|IST]] (13:00 [[Saudi Arabia Standard Time|local]])
+| location = [[Jeddah]], [[Saudi Arabia]]
+| network = [[Star Sports (India)|Star Sports]] (TV)<br/>[[JioCinema]] (Digital)
+| overall = 182
+| rounds = 18
+| league = [[2025 Indian Premier League]]
+| teams = 10
+| fewest = 14 by [[Rajasthan Royals]]
+| most = 23 by [[Punjab Kings]]
+| prev = [[List of 2024 Indian Premier League personnel changes|2024]]
+| next = [[List of 2026 Indian Premier League personnel changes|2026]]
+}}
+{{2025 Indian Premier League Teams|main=y}}
+
+The [[2025 Indian Premier League]] was the 18th edition of the [[Indian Premier League]] (IPL), a professional [[Twenty20]] (T20) [[cricket]] league held in India, organized by the [[Board of Control for Cricket in India]] (BCCI). It has been held annually since the [[2008 Indian Premier League|first edition in 2008]].<ref>{{Cite web |title=Indian Premier League |url=https://www.britannica.com/topic/Indian-Premier-League |access-date=22 March 2025 |website=[[Britannica.com]] |language=en-uk|archive-url=https://web.archive.org/web/20250317155833/https://www.britannica.com/topic/Indian-Premier-League|archive-date=17 March 2025|url-status=live}}</ref> In July 2024, the [[Indian Premier League#Organization|IPL Governing Council]] held a meeting with the owners of the franchises and announced that a mega auction would be conducted ahead of the 2025 season.<ref>{{cite news|date=31 July 2024|title=IPL Owners Meeting – Update|url=https://www.iplt20.com/news/4107/ipl-owners-meeting-update|access-date=28 October 2024|website=[[IPLT20.com]]|archive-date=27 November 2024|archive-url=https://web.archive.org/web/20241127050427/https://www.iplt20.com/news/4107/ipl-owners-meeting-update|url-status=live}}</ref> It was the sixth mega auction after [[List of 2008 Indian Premier League auctions and personnel signings|2008]], [[List of 2011 Indian Premier League personnel changes|2011]], [[List of 2014 Indian Premier League personnel changes|2014]], [[List of 2018 Indian Premier League personnel changes|2018]] and [[List of 2022 Indian Premier League personnel changes|2022]].<ref>{{cite web|date=10 September 2024|title=IPL 2025 Mega Auction: Date, time, venue, and what to expect|url=https://www.financialexpress.com/sports/ipl-2025-mega-auction-date-time-venue-and-what-to-expect/3606613|access-date=30 September 2024|work=[[Financial Express (India)|Financial Express]]|archive-date=7 October 2024|archive-url=https://web.archive.org/web/20241007090811/https://www.financialexpress.com/sports/ipl-2025-mega-auction-date-time-venue-and-what-to-expect/3606613/|url-status=live}}</ref><ref>{{cite web|date=30 September 2024|title=BCCI considering holding IPL 2025 auction overseas: Rajeev Shukla|url=https://www.indiatoday.in/sports/cricket/story/ipl-auction-rajeev-shukla-overseas-2608899-2024-09-30|access-date=30 September 2024|work=[[India Today]]|archive-date=30 September 2024|archive-url=https://web.archive.org/web/20240930181949/https://www.indiatoday.in/sports/cricket/story/ipl-auction-rajeev-shukla-overseas-2608899-2024-09-30|url-status=live}}</ref>
+
+The franchises were required to submit their retention lists before 31 October 2024, and a total of 46 players were retained ahead of the auction. The auction was held on 24 and 25 November 2024 in [[Jeddah]], Saudi Arabia, with the auction purse for each franchise set at {{INRConvert|120|c}}, the highest in the history of the IPL. A total of 1,574 players registered for the auction, of which 574 players were shortlisted to feature in the auction and 182 were sold in the auction. [[Rishabh Pant]] became the most expensive player in the history of IPL when he was bought by the [[Lucknow Super Giants]] for {{INRConvert|27|c}},<ref>{{Cite web |date=25 November 2024 |title=IPL mega auction: Franchises break the bank as Rishabh Pant becomes the most expensive bid |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-mega-auction-franchises-break-the-bank-as-rishabh-pant-becomes-the-most-expensive-bid/articleshow/115640033.cms |access-date=26 November 2024 |work=[[The Times of India]] |language=en |archive-date=26 November 2024 |archive-url=https://web.archive.org/web/20241126012442/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-mega-auction-franchises-break-the-bank-as-rishabh-pant-becomes-the-most-expensive-bid/articleshow/115640033.cms |url-status=live}}</ref> surpassing {{INRConvert|26.75|c}} paid by the [[Punjab Kings]] for [[Shreyas Iyer]] earlier in the same auction,<ref>{{Cite web |date=24 November 2024 |title=IPL auction: Rishabh Pant breaks Shreyas Iyer's record, sold for Rs 27 crore to LSG |url=https://www.indiatoday.in/sports/cricket/story/cricket-ipl-auction-rishabh-pant-record-costliest-lucknow-delhi-war-2639282-2024-11-24 |access-date=26 November 2024 |work=[[India Today]] |language=en |archive-date=24 November 2024 |archive-url=https://web.archive.org/web/20241124143359/https://www.indiatoday.in/sports/cricket/story/cricket-ipl-auction-rishabh-pant-record-costliest-lucknow-delhi-war-2639282-2024-11-24 |url-status=live }}</ref> and {{INRConvert|24.75|c}} paid by the [[Kolkata Knight Riders]] for [[Mitchell Starc]] in the [[List of 2024 Indian Premier League personnel changes|2024 auction]].<ref>{{Cite web |date=2024-11-24 |title=IPL 2025 Auction: Shreyas Iyer hits the jackpot, smashes Mitchell Starc's record with Rs 26.75 cr deal|url=https://www.economictimes.com/news/sports/ipl-2025-auction-shreyas-iyer-sold-to-punjab-kings-for-rs-26-75-crore-most-expensive-player-in-ipl-history/articleshow/115623365.cms |access-date=2024-11-26 |work=[[The Economic Times]]|language=en}}</ref> [[Vaibhav Sooryavanshi]] became the youngest player sold in the IPL history at the age of 13 years, being bought by the [[Rajasthan Royals]] for {{INRConvert|1.1|c}}.<ref>{{cite web|publisher=[[Cricinfo]]|url= https://www.espncricinfo.com/story/ipl-2025-auction-rajasthan-royals-bag-vaibhav-suryavanshi-for-1-10-crore-1461735|date=25 November 2024|accessdate=26 November 2024|title= Bihar's Suryavanshi becomes youngest IPL player at just 13}}</ref>
+
+Following the IPL's [[2025 Indian Premier League#Suspension and rescheduling|suspension and rescheduling]], it was announced that the franchises were allowed to sign temporary replacement players in place of unavailable players as the rescheduled fixtures clashed with the [[International cricket in 2025|international cricket calendar]], notably [[West Indian cricket team in Ireland in 2025|the West Indies' tour of Ireland]], [[West Indian cricket team in England in 2025|the West Indies' tour of England]] and [[2025 World Test Championship final|the World Test Championship final]].<ref>{{Cite web |date=2025-05-13 |title=IPL 2025: Can teams sign replacements for players leaving on international duty mid-season? |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2025-restart-player-replacement-rules-mid-season-international-duty-england-vs-west-indies/article69572248.ece |access-date=2025-05-24 |work=[[Sportstar]] |language=en |archive-date=16 June 2025 |archive-url=https://web.archive.org/web/20250616014109/https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2025-restart-player-replacement-rules-mid-season-international-duty-england-vs-west-indies/article69572248.ece |url-status=live }}</ref> These temporary replacement players were not available for [[List of 2026 Indian Premier League personnel changes|retention in the 2026 auction]].<ref>{{cite web |date=30 October 2024 |title=IPL to allow temporary replacements for last leg of 2025 season |url=https://www.espncricinfo.com/story/ipl-to-allow-franchises-sign-temporary-replacement-players-for-last-leg-of-2025-season-1485918 |access-date=23 May 2025 |publisher=[[Cricinfo]]}}</ref><ref>{{Cite web |title=IPL Allows Temporary Replacements Amid Rescheduled Matches, Foreign Players' Non-Availability |url=https://www.deccanherald.com/sports/cricket/ipl-allows-temporary-replacements-considering-non-availability-of-a-few-foreign-players-3540685 |access-date=2025-05-24 |work=[[Deccan Herald]] |language=en |archive-date=31 July 2025 |archive-url=https://web.archive.org/web/20250731064229/https://www.deccanherald.com/sports/cricket/ipl-allows-temporary-replacements-considering-non-availability-of-a-few-foreign-players-3540685 |url-status=live }}</ref>
+
+== Pre-auction ==
+{| class="wikitable plainrowheaders"
+|+ Retired players
+! scope="col" | Date
+! scope="col" | Name
+! scope="col" | [[2024 Indian Premier League|2024 team]]
+! scope="col" | {{abbr|Age|Age at the time of taking retirement}}
+! scope="col" | {{Ref.}}
+|-
+| 1 June 2024
+! scope="row" | {{sortname|Dinesh|Karthik}}
+| [[Royal Challengers Bengaluru]] || 39 || <ref>{{cite news|title=Dinesh Karthik retires from all representative cricket|url=https://www.espncricinfo.com/story/dinesh-karthik-retires-from-all-representative-cricket-1434318|access-date=1 June 2024|publisher=[[Cricinfo]]|archive-date=3 June 2024|archive-url=https://web.archive.org/web/20240603020920/https://www.espncricinfo.com/story/dinesh-karthik-retires-from-all-representative-cricket-1434318|url-status=live}}</ref>
+|-
+| 24 August 2024
+! scope="row" | {{sortname|Shikhar|Dhawan}}
+| [[Punjab Kings]] || 38 || <ref>{{cite news|title=Shikhar Dhawan retires from international and domestic cricket|url=https://www.espncricinfo.com/story/shikhar-dhawan-retires-from-international-and-domestic-cricket-1448554|access-date=24 August 2024|publisher=[[Cricinfo]]|archive-date=24 August 2024|archive-url=https://web.archive.org/web/20240824093114/https://www.espncricinfo.com/story/shikhar-dhawan-retires-from-international-and-domestic-cricket-1448554|url-status=live}}</ref>
+|-
+| 4 November 2024
+! scope="row" | {{sortname|Wriddhiman|Saha}}
+| [[Gujarat Titans]] || 40 || <ref>{{cite news|title=Wriddhiman Saha to retire from cricket after Ranji Trophy season|url=https://www.espncricinfo.com/story/wriddhiman-saha-to-retire-from-cricket-after-ranji-trophy-season-1458298|access-date=4 November 2024|publisher=[[Cricinfo]]|archive-date=1 December 2024|archive-url=https://web.archive.org/web/20241201142947/https://www.espncricinfo.com/story/wriddhiman-saha-to-retire-from-cricket-after-ranji-trophy-season-1458298|url-status=live}}</ref>
+|}
+
+== Player retention ==
+=== Retention policy ===
+The ten franchises were allowed to retain a maximum of six players each from their squad, the highest number allowed before any of the mega auctions. The six players could consist of a maximum of five [[capped]] players (including Indian and overseas players) and two uncapped players.<ref>{{cite web|date=29 September 2024|title=IPL 2025 mega auction salary purse, retention rules, and RTM explained|url=https://www.business-standard.com/cricket/news/ipl-2025-mega-auction-salary-purse-retention-rules-and-rtm-explained-124092900134_1.html|access-date=29 September 2024|work=[[Business Standard]]|archive-date=30 September 2024|archive-url=https://web.archive.org/web/20240930015913/https://www.business-standard.com/cricket/news/ipl-2025-mega-auction-salary-purse-retention-rules-and-rtm-explained-124092900134_1.html|url-status=live}}</ref> The auction purse for each franchise was set at {{INRConvert|120|c}}, the highest in the history of the IPL.<ref>{{cite web |title=IPL 2025 Mega Auction: Report Says Franchise Purse To Increase From Rs 90 Crore to 120 Crore |url=https://sports.ndtv.com/cricket/ipl-governing-council-to-meet-on-saturday-evening-set-to-finalise-auction-retention-rule-6670161 |access-date=1 October 2024 |work=[[NDTV Sports]] |archive-date=1 October 2024 |archive-url=https://web.archive.org/web/20241001020644/https://sports.ndtv.com/cricket/ipl-governing-council-to-meet-on-saturday-evening-set-to-finalise-auction-retention-rule-6670161 |url-status=live}}</ref> Franchises were deducted a specific amount from the auction purse for every retained player. Franchises who did not retain the maximum number of players were allowed [[Indian Premier League#Players|Right-to-Match]] (RTM) cards at the auction.<ref>{{cite web |title=Franchises can now retain record number of players ahead of IPL 2025 auction, purse size gets bigger too; check all details here |url=https://thesportstak.com/cricket/indian-premier-league-22-mar-2024/story/franchises-can-now-retain-5-players-with-1-rtm-card-ahead-of-ipl-2025-auction-purse-size-gets-bigger-check-all-details-here-3101224-2024-09-28 |access-date=1 October 2024 |website=sportstak.com |date=28 September 2024 |archive-date=7 October 2024 |archive-url=https://web.archive.org/web/20241007090833/https://thesportstak.com/cricket/indian-premier-league-22-mar-2024/story/franchises-can-now-retain-5-players-with-1-rtm-card-ahead-of-ipl-2025-auction-purse-size-gets-bigger-check-all-details-here-3101224-2024-09-28 |url-status=live}}</ref>
+
+=== Retained players ===
+The franchises were required to submit their retention lists before 31 October 2024.<ref>{{cite web |title=Deadline For Submission Of Retention List For IPL 2025 Auction Revealed |url=https://news.abplive.com/sports/cricket/list-of-retained-released-players-for-ipl-2025-mega-auction-announced-check-date-1720752 |access-date=29 September 2024 |work=[[ABP News]] |date=29 September 2024 |archive-date=30 September 2024 |archive-url=https://web.archive.org/web/20240930020104/https://news.abplive.com/sports/cricket/list-of-retained-released-players-for-ipl-2025-mega-auction-announced-check-date-1720752 |url-status=live}}</ref>
+
+* Sources: [[Cricinfo]]<ref name="retain">{{cite web |date=30 October 2024 |title=IPL 2025 retentions: List of all the retained players ahead of the mega auction |url=https://www.espncricinfo.com/story/ipl-2025-retentions-list-list-of-players-retained-by-franchises-csk-kkr-srh-lsg-1457696 |access-date=30 October 2024 |publisher=[[Cricinfo]] |archive-date=10 April 2025 |archive-url=https://web.archive.org/web/20250410063200/https://www.espncricinfo.com/story/ipl-2025-retentions-list-list-of-players-retained-by-franchises-csk-kkr-srh-lsg-1457696 |url-status=live }}</ref>
+
+{{col-begin}}
+{{col-break|width=50%}}
+{| class="wikitable plainrowheaders"
+|+ style="background:#{{IPL Team colors 1|csk}}" | [[Chennai Super Kings|<span style="color:{{IPL Team colors 2|csk}}">Chennai Super Kings</span>]]<span style="background:white; padding:1px;"><ref>{{cite news |date=30 October 2024 |title=Dhoni set to be among CSK's five retained players ahead of IPL 2025 mega auction |url=https://www.espncricinfo.com/story/ipl-2025-ms-dhoni-among-csks-five-retained-players-1457660 |access-date=31 October 2024 |publisher=[[Cricinfo]] |archive-date=30 October 2024 |archive-url=https://web.archive.org/web/20241030140913/https://www.espncricinfo.com/story/ipl-2025-ms-dhoni-among-csks-five-retained-players-1457660 |url-status=live }}</ref></span>
+|-
+! scope="col" | No.
+! scope="col" | Player
+! scope="col" | Nationality
+! scope="col" | Salary
+|-
+| 1
+! scope="row" | {{sortname|Ruturaj|Gaikwad}}
+| {{cr|IND}} || {{INRConvert|18|c|lk=on}}
+|-
+| 2
+! scope="row" | {{sortname|Ravindra|Jadeja}}
+| {{cr|IND}} || {{INRConvert|18|c|lk=on}}
+|-
+| 3
+! scope="row" | {{sortname|Matheesha|Pathirana}}
+| {{cr|SL}} || {{INRConvert|13|c|lk=on}}
+|-
+| 4
+! scope="row" | {{sortname|Shivam|Dube}}
+| {{cr|IND}} || {{INRConvert|12|c|lk=on}}
+|-
+| 5
+! scope="row" | {{sortname|MS|Dhoni}}
+| {{cr|IND}} || {{INRConvert|4|c|lk=on}}
+|}
+{{col-break|width=50%}}
+{| class="wikitable plainrowheaders"
+|+ style="background:#{{IPL Team colors 1|dc}}" | [[Delhi Capitals|<span style="color:{{IPL Team colors 2|dc}}">Delhi Capitals</span>]]<span style="background:white; padding:1px;"><ref>{{cite news|date=31 October 2024|title=Pant to go into mega auction after not being retained by Delhi Capitals|url=https://www.espncricinfo.com/story/ipl-rishabh-pant-to-go-into-mega-auction-won-t-be-retained-by-dc-1457763|access-date=31 October 2024|publisher=[[Cricinfo]]|archive-date=31 October 2024|archive-url=https://web.archive.org/web/20241031185056/https://www.espncricinfo.com/story/ipl-rishabh-pant-to-go-into-mega-auction-won-t-be-retained-by-dc-1457763|url-status=live}}</ref></span>
+|-
+! scope="col" | No.
+! scope="col" | Player
+! scope="col" | Nationality
+! scope="col" | Salary
+|-
+| 1
+! scope="row" | {{sortname|Axar|Patel}}
+| {{cr|IND}} || {{INRConvert|16.5|c|lk=on}}
+|-
+| 2
+! scope="row" | {{sortname|Kuldeep|Yadav}}
+| {{cr|IND}} || {{INRConvert|13.25|c|lk=on}}
+|-
+| 3
+! scope="row" | {{sortname|Tristan|Stubbs}}
+| {{cr|SA}} || {{INRConvert|10|c|lk=on}}.
+|-
+| 4
+! scope="row" | {{sortname|Abhishek|Porel}}
+| {{cr|IND}} || {{INRConvert|4|c|lk=on}}
+|}
+{{col-end}}
+{{clear}}
+{{col-begin}}
+{{col-break|width=50%}}
+{| class="wikitable plainrowheaders"
+|+ style="background:#{{IPL Team colors 1|gt}}" | [[Gujarat Titans|<span style="color:{{IPL Team colors 2|gt}}">Gujarat Titans</span>]]<span style="background:white; padding:1px;"><ref>{{cite news|date=30 October 2024|title=Gill, Rashid, Sudharsan to be retained by Gujarat Titans|url=https://www.espncricinfo.com/story/gill-rashid-sudharsan-to-be-retained-by-gujarat-titans-ahead-of-ipl-2025-mega-auction-1457656|access-date=31 October 2024|publisher=[[Cricinfo]]|archive-date=30 October 2024|archive-url=https://web.archive.org/web/20241030172243/https://www.espncricinfo.com/story/gill-rashid-sudharsan-to-be-retained-by-gujarat-titans-ahead-of-ipl-2025-mega-auction-1457656|url-status=live}}</ref></span>
+|-
+! scope="col" | No.
+! scope="col" | Player
+! scope="col" | Nationality
+! scope="col" | Salary
+|-
+| 1
+! scope="row" | {{sortname|Rashid|Khan}}
+| {{cr|AFG}} || {{INRConvert|18|c|lk=on}}
+|-
+| 2
+! scope="row" | {{sortname|Shubman|Gill}}
+| {{cr|IND}} || {{INRConvert|16.5|c|lk=on}}
+|-
+| 3
+! scope="row" | {{sortname|Sai|Sudharsan}}
+| {{cr|IND}} || {{INRConvert|8.5|c|lk=on}}
+|-
+| 4
+! scope="row" | {{sortname|Rahul|Tewatia}}
+| {{cr|IND}} || {{INRConvert|4|c|lk=on}}
+|-
+| 5
+! scope="row" | {{sortname|Shahrukh|Khan|dab=cricketer}}
+| {{cr|IND}} || {{INRConvert|4|c|lk=on}}
+|}
+{{col-break|width=50%}}
+{| class="wikitable plainrowheaders"
+|+ style="background:#{{IPL Team colors 1|kkr}}" | [[Kolkata Knight Riders|<span style="color:{{IPL Team colors 2|kkr}}">Kolkata Knight Riders</span>]]<span style="background:white; padding:1px;"><ref>{{cite news |date=30 October 2024 |title=Russell, Shreyas Iyer, Starc unlikely to be retained by KKR |url=https://www.espncricinfo.com/story/ipl-2025-retention-russell-shreyas-starc-unlikely-to-be-retained-by-kkr-ahead-of-mega-auction-1457677 |access-date=31 October 2024|publisher=[[Cricinfo]]}}</ref></span>
+|-
+! scope="col" | No.
+! scope="col" | Player
+! scope="col" | Nationality
+! scope="col" | Salary
+|-
+| 1
+! scope="row" | {{sortname|Rinku|Singh|dab=cricketer}}
+| {{cr|IND}} || {{INRConvert|13|c|lk=on}}
+|-
+| 2
+! scope="row" | {{sortname|Varun|Chakravarthy}}
+| {{cr|IND}} || {{INRConvert|12|c|lk=on}}
+|-
+| 3
+! scope="row" | {{sortname|Sunil|Narine}}
+| {{cr|WIN}} || {{INRConvert|12|c|lk=on}}
+|-
+| 4
+! scope="row" | {{sortname|Andre|Russell}}
+| {{cr|WIN}} || {{INRConvert|12|c|lk=on}}
+|-
+| 5
+! scope="row" | {{sortname|Ramandeep|Singh|dab=cricketer}}
+| {{cr|IND}} || {{INRConvert|4|c|lk=on}}
+|-
+| 6
+! scope="row" | {{sortname|Harshit|Rana}}
+| {{cr|IND}} || {{INRConvert|4|c|lk=on}}
+|}
+{{col-end}}
+{{clear}}
+{{col-begin}}
+{{col-break|width=50%}}
+{| class="wikitable plainrowheaders"
+|+ style="background:#{{IPL Team colors 1|lsg}}" | [[Lucknow Super Giants|<span style="color:{{IPL Team colors 2|lsg}}">Lucknow Super Giants</span>]]<span style="background:white; padding:1px;"><ref>{{cite news|title=LSG set to retain Pooran, Mayank and Bishnoi for IPL 2025|url=https://www.espncricinfo.com/story/ipl-2025-auction-lsg-set-to-retain-nicholas-pooran-mayank-yadav-and-ravi-bishnoi-1457344|date=31 October 2024|access-date=31 October 2024|publisher=[[Cricinfo]]|archive-date=28 October 2024|archive-url=https://web.archive.org/web/20241028101238/https://www.espncricinfo.com/story/ipl-2025-auction-lsg-set-to-retain-nicholas-pooran-mayank-yadav-and-ravi-bishnoi-1457344|url-status=live}}</ref></span>
+|-
+! scope="col" | No.
+! scope="col" | Player
+! scope="col" | Nationality
+! scope="col" | Salary
+|-
+| 1
+! scope="row" | {{sortname|Nicholas|Pooran}}
+| {{cr|WIN}} || {{INRConvert|21|c|lk=on}}
+|-
+| 2
+! scope="row" | {{sortname|Ravi|Bishnoi}}
+| {{cr|IND}} || {{INRConvert|11|c|lk=on}}
+|-
+| 3
+! scope="row" | {{sortname|Mayank|Yadav}}
+| {{cr|IND}} || {{INRConvert|11|c|lk=on}}
+|-
+| 4
+! scope="row" | {{sortname|Mohsin|Khan|dab=Indian cricketer}}
+| {{cr|IND}} || {{INRConvert|4|c|lk=on}}
+|-
+| 5
+! scope="row" | {{sortname|Ayush|Badoni}}
+| {{cr|IND}} || {{INRConvert|4|c|lk=on}}
+|}
+{{col-break|width=50%}}
+{| class="wikitable plainrowheaders"
+|+ style="background:#{{IPL Team colors 1|mi}}" | [[Mumbai Indians|<span style="color:{{IPL Team colors 2|mi}}">Mumbai Indians</span>]]<span style="background:white; padding:1px;"><ref>{{cite news|date=31 October 2024|title=MI to retain their big four: Rohit, Hardik, Bumrah, Suryakumar|url=https://www.espncricinfo.com/story/ipl-2025-mi-to-retain-rohit-sharma-hardik-pandya-jasprit-bumrah-suryakumar-yadav-1457755|access-date=31 October 2024|publisher=[[Cricinfo]]|archive-date=19 November 2024|archive-url=https://web.archive.org/web/20241119015920/https://www.espncricinfo.com/story/ipl-2025-mi-to-retain-rohit-sharma-hardik-pandya-jasprit-bumrah-suryakumar-yadav-1457755|url-status=live}}</ref></span>
+|-
+! scope="col" | No.
+! scope="col" | Player
+! scope="col" | Nationality
+! scope="col" | Salary
+|-
+| 1
+! scope="row" | {{sortname|Jasprit|Bumrah}}
+| {{cr|IND}} || {{INRConvert|18|c|lk=on}}
+|-
+| 2
+! scope="row" | {{sortname|Suryakumar|Yadav}}
+| {{cr|IND}} || {{INRConvert|16.35|c|lk=on}}
+|-
+| 3
+! scope="row" | {{sortname|Hardik|Pandya}}
+| {{cr|IND}} || {{INRConvert|16.35|c|lk=on}}
+|-
+| 4
+! scope="row" | {{sortname|Rohit|Sharma}}
+| {{cr|IND}} || {{INRConvert|16.3|c|lk=on}}
+|-
+| 5
+! scope="row" | {{sortname|Tilak|Varma}}
+| {{cr|IND}} || {{INRConvert|8|c|lk=on}}
+|}
+{{col-end}}
+{{clear}}
+{{col-begin}}
+{{col-break|width=50%}}
+{| class="wikitable plainrowheaders"
+|+ style="background:#{{IPL Team colors 1|pbks}}" | [[Punjab Kings|<span style="color:{{IPL Team colors 2|pbks}}">Punjab Kings</span>]]<span style="background:white; padding:1px;"><ref>{{cite news|date=31 October 2024|title=Punjab Kings to retain only two uncapped players|url=https://www.espncricinfo.com/story/ipl-2025-punjab-kings-to-retain-two-uncapped-players-shashank-singh-and-prabhsimran-singh-1457778|access-date=31 October 2024|publisher=[[Cricinfo]]|archive-date=1 November 2024|archive-url=https://web.archive.org/web/20241101003715/https://www.espncricinfo.com/story/ipl-2025-punjab-kings-to-retain-two-uncapped-players-shashank-singh-and-prabhsimran-singh-1457778|url-status=live}}</ref></span>
+|-
+! scope="col" | No.
+! scope="col" | Player
+! scope="col" | Nationality
+! scope="col" | Salary
+|-
+| 1
+! scope="row" | {{sortname|Shashank|Singh}}
+| {{cr|IND}} || {{INRConvert|5.5|c|lk=on}}
+|-
+| 2
+! scope="row" | {{sortname|Prabhsimran|Singh}}
+| {{cr|IND}} || {{INRConvert|4|c|lk=on}}
+|}
+{{col-break|width=50%}}
+{| class="wikitable plainrowheaders"
+|+ style="background:#{{IPL Team colors 1|rr}}" | [[Rajasthan Royals|<span style="color:{{IPL Team colors 2|rr}}">Rajasthan Royals</span>]]<span style="background:white; padding:1px;"><ref>{{cite news |date=30 October 2024 |title=Samson, Jaiswal, Parag and Sandeep set to be retained by Rajasthan Royals |url=https://www.espncricinfo.com/story/ipl-2025-auction-samson-jaiswal-parag-and-sandeep-to-be-retained-by-rajasthan-royals-1457667 |access-date=31 October 2024 |publisher=[[Cricinfo]] |archive-date=1 November 2024 |archive-url=https://web.archive.org/web/20241101204230/https://www.espncricinfo.com/story/ipl-2025-auction-samson-jaiswal-parag-and-sandeep-to-be-retained-by-rajasthan-royals-1457667 |url-status=live }}</ref></span>
+|-
+! scope="col" | No.
+! scope="col" | Player
+! scope="col" | Nationality
+! scope="col" | Salary
+|-
+| 1
+! scope="row" | {{sortname|Sanju|Samson}}
+| {{cr|IND}} || {{INRConvert|18|c|lk=on}}
+|-
+| 2
+! scope="row" | {{sortname|Yashasvi|Jaiswal}}
+| {{cr|IND}} || {{INRConvert|18|c|lk=on}}
+|-
+| 3
+! scope="row" | {{sortname|Dhruv|Jurel}}
+| {{cr|IND}} || {{INRConvert|14|c|lk=on}}
+|-
+| 4
+! scope="row" | {{sortname|Riyan|Parag}}
+| {{cr|IND}} || {{INRConvert|14|c|lk=on}}
+|-
+| 5
+! scope="row" | {{sortname|Shimron|Hetmyer}}
+| {{cr|WIN}} || {{INRConvert|11|c|lk=on}}
+|-
+| 6
+! scope="row" | {{sortname|Sandeep|Sharma}}
+| {{cr|IND}} || {{INRConvert|4|c|lk=on}}
+|}
+{{col-end}}
+{{clear}}
+{{col-begin}}
+{{col-break|width=50%}}
+{| class="wikitable plainrowheaders"
+|+ style="background:#{{IPL Team colors 1|rcb}}" | [[Royal Challengers Bengaluru|<span style="color:{{IPL Team colors 2|rcb}}">Royal Challengers Bengaluru</span>]]<span style="background:white; padding:1px;"><ref>{{cite news|date=31 October 2024|title=Kohli, Patidar and Dayal to be retained by RCB|url=https://www.espncricinfo.com/story/ipl-2025-virat-kohli-rajat-patidar-yash-dayal-to-be-retained-by-rcb-1457819|access-date=31 October 2024|publisher=[[Cricinfo]]|archive-date=7 November 2024|archive-url=https://web.archive.org/web/20241107014229/https://www.espncricinfo.com/story/ipl-2025-virat-kohli-rajat-patidar-yash-dayal-to-be-retained-by-rcb-1457819|url-status=live}}</ref></span>
+|-
+! scope="col" | No.
+! scope="col" | Player
+! scope="col" | Nationality
+! scope="col" | Salary
+|-
+| 1
+! scope="row" | {{sortname|Virat|Kohli}}
+| {{cr|IND}} || {{INRConvert|21|c|lk=on}}
+|-
+| 2
+! scope="row" | {{sortname|Rajat|Patidar}}
+| {{cr|IND}} || {{INRConvert|11|c|lk=on}}
+|-
+| 3
+! scope="row" | {{sortname|Yash|Dayal}}
+| {{cr|IND}} || {{INRConvert|5|c|lk=on}}
+|}
+{{col-break|width=50%}}
+{| class="wikitable plainrowheaders"
+|+ style="background:#{{IPL Team colors 1|srh}}" | [[Sunrisers Hyderabad|<span style="color:{{IPL Team colors 2|srh}}">Sunrisers Hyderabad</span>]]<span style="background:white; padding:1px;"><ref>{{cite news|date=30 October 2024|title=SRH to retain Travis Head and Nitish Reddy as well ahead of IPL mega auction|url=https://www.espncricinfo.com/story/ipl-2025-srh-to-retain-travis-head-and-nitish-kumar-reddy-as-well-ahead-of-mega-auction-1456483|access-date=31 October 2024|publisher=[[Cricinfo]]|archive-date=30 October 2024|archive-url=https://web.archive.org/web/20241030121016/https://www.espncricinfo.com/story/ipl-2025-srh-to-retain-travis-head-and-nitish-kumar-reddy-as-well-ahead-of-mega-auction-1456483|url-status=live}}</ref></span>
+|-
+! scope="col" | No.
+! scope="col" | Player
+! scope="col" | Nationality
+! scope="col" | Salary
+|-
+| 1
+! scope="row" | {{sortname|Heinrich|Klaasen}}
+| {{cr|SA}} || {{INRConvert|23|c|lk=on}}
+|-
+| 2
+! scope="row" | {{sortname|Pat|Cummins}}
+| {{cr|AUS}} || {{INRConvert|18|c|lk=on}}
+|-
+| 3
+! scope="row" | {{sortname|Abhishek|Sharma}}
+| {{cr|IND}} || {{INRConvert|14|c|lk=on}}
+|-
+| 4
+! scope="row" | {{sortname|Travis|Head}}
+| {{cr|AUS}} || {{INRConvert|14|c|lk=on}}
+|-
+| 5
+! scope="row" | {{sortname|Nitish Kumar|Reddy}}
+| {{cr|IND}} || {{INRConvert|6|c|lk=on}}
+|}
+{{col-end}}
+{{clear}}
+
+== Auction ==
+Any player willing to play in the IPL was required to register for the auction. Players who did not register for the mega auction would become ineligible to participate in the mini-auctions held in subsequent years.<ref>{{cite web |date=29 April 2024 |title=IPL 2025: The logic behind Rs 18 crore cap on foreign players and why they have to register for this year's auction |url=https://indianexpress.com/article/sports/cricket/ipl-auction-2025-retention-foreign-player-register-9594869/ |access-date=1 October 2024 |work=[[The Indian Express]] |archive-date=30 September 2024 |archive-url=https://web.archive.org/web/20240930211005/https://indianexpress.com/article/sports/cricket/ipl-auction-2025-retention-foreign-player-register-9594869/ |url-status=live}}</ref> Any auctioned player withdrawing before the season without legitimate reason or injury would be banned from the IPL for a period of two years.<ref>{{cite web |title=Two-year ban for overseas players pulling out after being picked at IPL auction |url=https://www.espncricinfo.com/story/ipl-2025-two-year-ban-for-overseas-players-pulling-out-after-being-picked-at-auction-1453019 |access-date=1 October 2024 |publisher=[[Cricinfo]] |archive-date=30 September 2024 |archive-url=https://web.archive.org/web/20240930194531/https://www.espncricinfo.com/story/ipl-2025-two-year-ban-for-overseas-players-pulling-out-after-being-picked-at-auction-1453019 |url-status=live}}</ref> Any Indian capped player who had not been named in the [[Starting lineup|starting XI]] in [[international cricket]] ([[Test cricket|Test]], [[One Day International|ODI]], [[Twenty20 International|T20I]]) in the preceding five calendar years or did not have a central contract with the BCCI was considered as an uncapped player for the auction.<ref>{{cite web|title=Decks cleared for 'uncapped' Dhoni to be retained |url=https://www.espncricinfo.com/story/ipl-2025-rule-change-allows-csk-option-of-retaining-ms-dhoni-as-uncapped-player-1453028 |access-date=1 October 2024 |publisher=[[Cricinfo]] |archive-date=1 October 2024 |archive-url=https://web.archive.org/web/20241001005749/https://www.espncricinfo.com/story/ipl-2025-rule-change-allows-csk-option-of-retaining-ms-dhoni-as-uncapped-player-1453028 |url-status=live}}</ref><ref>{{cite web |date=29 September 2024 |title=MS Dhoni as uncapped player? IPL's revived rule will not just benefit CSK |url=https://www.indiatoday.in/sports/cricket/story/ipl-uncapped-player-retention-rule-ms-dhoni-all-teams-aakash-chopra-2608167-2024-09-29 |access-date=1 October 2024 |work=[[India Today]] |archive-date=30 September 2024 |archive-url=https://web.archive.org/web/20240930200035/https://www.indiatoday.in/sports/cricket/story/ipl-uncapped-player-retention-rule-ms-dhoni-all-teams-aakash-chopra-2608167-2024-09-29 |url-status=live}}</ref><ref>{{cite web|date=28 September 2024|title=3 IPL franchises apart from CSK who can benefit from BCCI bringing back uncapped player rule|url=https://www.hindustantimes.com/cricket/3-india-stars-apart-from-ms-dhoni-who-can-benefit-from-bcci-bringing-back-uncapped-player-rule-in-ipl-101727589573331.html|access-date=29 September 2024|work=[[The Hindustan Times]]|issn=0971-8257|archive-date=1 October 2024|archive-url=https://web.archive.org/web/20241001132447/https://www.hindustantimes.com/cricket/3-india-stars-apart-from-ms-dhoni-who-can-benefit-from-bcci-bringing-back-uncapped-player-rule-in-ipl-101727589573331.html|url-status=live}}</ref> The salary cap of a player would consist of auction purse, incremental performance pay and match fees. Each playing member (including the [[Impact player (cricket)|impact player]]) would get a match fee of {{INRConvert|7.5|l}} in addition to the auctioned price.<ref>{{cite web|date=29 September 2024 |title=Franchise purse for IPL 2025 auction and the new 'match fee' component |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/explained-franchise-purse-for-ipl-2025-auction-and-the-new-match-fee-component/articleshow/113777845.cms |access-date=1 October 2024 |work=[[The Times of India]] |issn=0971-8257 |archive-date=30 September 2024 |archive-url=https://web.archive.org/web/20240930170544/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/explained-franchise-purse-for-ipl-2025-auction-and-the-new-match-fee-component/articleshow/113777845.cms |url-status=live}}</ref>
+
+The auction was held on 24 and 25 November 2024 in [[Jeddah]], Saudi Arabia.<ref>{{cite web|title=IPL 2025 mega auction to be held on November 24, 25 in Jeddah|url=https://www.espncricinfo.com/story/ipl-2025-auction-on-november-24-25-in-jeddah-1458546|access-date=5 November 2024|publisher=[[Cricinfo]]|archive-date=16 November 2024|archive-url=https://web.archive.org/web/20241116185000/https://www.espncricinfo.com/story/ipl-2025-auction-on-november-24-25-in-jeddah-1458546|url-status=live}}</ref> [[Mallika Sagar]] was appointed as the [[auctioneer]] for the second consecutive time after she hosted the [[List of 2024 Indian Premier League personnel changes|2024 auction]].<ref>{{cite web|date=15 November 2024|title=Mallika Sagar to conduct IPL 2025 mega auction in Jeddah|url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mallika-sagar-ipl-2025-mega-auction-host/articleshow/115334563.cms|access-date=16 November 2024|work=[[The Times of India]]|issn=0971-8257|archive-date=16 November 2024|archive-url=https://web.archive.org/web/20241116011547/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mallika-sagar-ipl-2025-mega-auction-host/articleshow/115334563.cms|url-status=live}}</ref><ref>{{cite web|date=15 November 2024|title=IPL 2025 Auction in Jeddah: Mallika Sagar returns as auctioneer|url=https://economictimes.indiatimes.com/news/sports/ipl-2025-auction-in-jeddah-mallika-sagar-returns-as-auctioneer/articleshow/115336276.cms?from=mdr|access-date=16 November 2024|work=[[The Economic Times]]|issn=0013-0389|archive-date=15 November 2024|archive-url=https://web.archive.org/web/20241115130156/https://economictimes.indiatimes.com/news/sports/ipl-2025-auction-in-jeddah-mallika-sagar-returns-as-auctioneer/articleshow/115336276.cms?from=mdr|url-status=live}}</ref> A total of 1,574 players registered for the auction,<ref name="List">{{cite web |title=1574 players register for TATA IPL 2025 Player Auction|url=https://www.iplt20.com/news/4111/1574-players-register-for-tata-ipl-2025-player-auction|access-date=5 November 2024|website=[[IPLT20.com]]|archive-date=11 November 2024|archive-url=https://web.archive.org/web/20241111155920/https://www.iplt20.com/news/4111/1574-players-register-for-tata-ipl-2025-player-auction|url-status=live}}</ref> of which 574 players were shortlisted to feature in the auction.<ref name="List2">{{cite web|title=TATA IPL 2025 Player Auction List Announced|url=https://www.iplt20.com/news/4112/tata-ipl-2025-player-auction-list-announced|access-date=15 November 2024|website=[[IPLT20.com]]|archive-date=22 November 2024|archive-url=https://web.archive.org/web/20241122145217/https://www.iplt20.com/news/4112/tata-ipl-2025-player-auction-list-announced|url-status=live}}</ref>
+
+=== Summary ===
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col1left"
+|+ Summary by teams
+! scope="col" rowspan="2" | Team
+! scope="colgroup" colspan="3" | Retained<ref name="retain"/>
+! scope="colgroup" colspan="3" | Bought<ref name="Sold">{{cite web|url=https://olympics.com/en/news/ipl-2025-teams-squads-list-player-prices|title=IPL 2025 teams and all squads - full players list|website=[[Olympics.com]]|date=25 November 2024|access-date=25 November 2024|archive-date=24 November 2024|archive-url=https://web.archive.org/web/20241124172801/https://olympics.com/en/news/ipl-2025-teams-squads-list-player-prices|url-status=live}}</ref>
+! scope="colgroup" colspan="3" | Overall
+|-
+! scope="col" | Capped
+! scope="col" | Uncapped
+! scope="col" | Total
+! scope="col" | Capped
+! scope="col" | Uncapped
+! scope="col" | Total
+! scope="col" | Capped
+! scope="col" | Uncapped
+! scope="col" | Total
+|-
+! scope="row" | [[Chennai Super Kings]]
+| 4 || 1 || 5 || 10 || 10 || 20 || 14 || 11 || 25
+|-
+! scope="row" | [[Delhi Capitals]]
+| 3 || 1 || 4 || 9 || 10 || 19 || 12 || 11 || 23
+|-
+! scope="row" | [[Gujarat Titans]]
+| 3 || 2 || 5 || 12 || 8 || 20 || 16 || 9 || 25
+|-
+! scope="row" | [[Kolkata Knight Riders]]
+| 4 || 2 || 6 || 10 || 5 || 15 || 14 || 7 || 21
+|-
+! scope="row" | [[Lucknow Super Giants]]
+| 3 || 2 || 5 || 9 || 10 || 19 || 12 || 12 || 24
+|-
+! scope="row" | [[Mumbai Indians]]
+| 5 || 0 || 5 || 8 || 10 || 18 || 13 || 10 || 23
+|-
+! scope="row" | [[Punjab Kings]]
+| 0 || 2 || 2 || 12 || 11 || 23 || 12 || 13 || 25
+|-
+! scope="row" | [[Rajasthan Royals]]
+| 5 || 1 || 6 || 7 || 7 || 14 || 12 || 8 || 20
+|-
+! scope="row" | [[Royal Challengers Bengaluru]]
+| 2 || 1 || 3 || 12 || 7 || 19 || 14 || 8 || 22
+|-
+! scope="row" | [[Sunrisers Hyderabad]]
+| 5 || 0 || 5 || 8 || 7 || 15 || 13 || 7 || 20
+|- class="sortbottom"
+! scope="row" | Total
+| 35 || 11 || 46 || 97 || 85 || 182 || 132 || 96 || 228
+|}
+
+=== Sold players ===
+Two sets of marquee players went up for bidding first followed by 15 sets of players divided based on their specialisation: [[Batting (cricket)|batters]], [[all-rounder]]s, [[wicket keeper batter]]s, [[Fast bowling|fast bowlers]] and [[Spin bowling|spin bowlers]]; and status: [[capped]] and uncapped. After player no. 116, the auction entered its accelerated phase, covering all the remaining players. During the accelerated round, players were presented based on the franchises' preference.<ref>{{cite web|url=https://www.espncricinfo.com/story/ipl-auction-2025-time-date-and-everything-you-need-to-know-espncricinfo-1458820|title=IPL auction 2025 – Time, date, and details of marquee player sets|date=8 November 2024|access-date=15 January 2026|publisher=[[Cricinfo]]|archive-date=20 February 2025|archive-url=https://web.archive.org/web/20250220155905/https://www.espncricinfo.com/story/ipl-auction-2025-time-date-and-everything-you-need-to-know-espncricinfo-1458820|url-status=live}}</ref><ref>{{Cite web |date=2024-11-24 |title=IPL auction 2025 rules: RTM card, accelerated auction, base price process explained – All you need to know |url=https://www.hindustantimes.com/cricket/ipl-auction-2025-rules-rtm-card-accelerated-auction-base-price-process-explained-all-you-need-to-know-101732432049058.html |access-date=2026-01-15 |work=[[Hindustan Times]] |language=en |archive-date=24 November 2024 |archive-url=https://web.archive.org/web/20241124074744/https://www.hindustantimes.com/cricket/ipl-auction-2025-rules-rtm-card-accelerated-auction-base-price-process-explained-all-you-need-to-know-101732432049058.html |url-status=live }}</ref>
+
+* Sources: [[Cricinfo]],<ref name="Cric">{{cite web|url=https://www.espncricinfo.com/story/ipl-2025-auction-full-list-of-574-players-1459778|title=IPL 2025 auction - Full list of 577 players|date=15 November 2024|access-date=26 November 2024|publisher=[[Cricinfo]]}}</ref> [[Olympics.com]]<ref name="Sold"/>
+: '' {{dagger}} denotes players bought by RTM cards.<ref>{{Cite web |date=2024-11-28 |title=List of RTM Buys by all Franchises at the IPL Auction 2025 |url=https://www.mykhel.com/cricket/csk-mi-rcb-to-kkr-list-of-rtm-buys-by-all-franchises-at-the-ipl-auction-2025-323371.html |access-date=2025-06-22 |website=mykhel.com |language=en}}</ref>''
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 1: marquee players (M1)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | Role
+! scope="col" | No. of IPL matches
+! scope="col" | Category
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 1
+! scope="row" | {{sortname|Jos|Buttler}}
+| {{cr|ENG}} || Wicket-keeper || 107 || Capped || 200 || [[Gujarat Titans]] || 1575 || [[Rajasthan Royals]]
+|-
+| 2
+! scope="row" | {{sortname|Shreyas|Iyer}}
+| {{cr|IND}} || Batter || 116 || Capped || 200 || [[Punjab Kings]] || 2675 || [[Kolkata Knight Riders]]
+|-
+| 3
+! scope="row" | {{sortname|Rishabh|Pant}}
+| {{cr|IND}} || Batter || 111 || Capped || 200 || [[Lucknow Super Giants]] || 2700 || [[Delhi Capitals]]
+|-
+| 4
+! scope="row" | {{sortname|Kagiso|Rabada}}
+| {{cr|SA}} || Bowler || 80 || Capped || 200 || [[Gujarat Titans]] || 1075 || [[Punjab Kings]]
+|-
+| 5
+! scope="row" | {{sortname|Arshdeep|Singh|dab=cricketer}} {{dagger}}
+| {{cr|IND}} || Bowler || 65 || Capped || 200 || [[Punjab Kings]] || 1800 || [[Punjab Kings]]
+|-
+| 6
+! scope="row" | {{sortname|Mitchell|Starc}}
+| {{cr|AUS}} || Bowler || 41 || Capped || 200 || [[Delhi Capitals]] || 1175 || [[Kolkata Knight Riders]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 2: marquee players (M2)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | Role
+! scope="col" | No. of IPL matches
+! scope="col" | Category
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 7
+! scope="row" | {{sortname|Yuzvendra|Chahal}}
+| {{cr|IND}} || Bowler || 160 || Capped || 200 || [[Punjab Kings]] || 1800 || [[Rajasthan Royals]]
+|-
+| 8
+! scope="row" | {{sortname|Liam|Livingstone}}
+| {{cr|ENG}} || All-rounder || 39 || Capped || 200 || [[Royal Challengers Bengaluru]] || 875 || [[Punjab Kings]]
+|-
+| 9
+! scope="row" | {{sortname|David|Miller|dab=South African cricketer}}
+| {{cr|SA}} || Batter || 130 || Capped || 150 || [[Lucknow Super Giants]] || 750 || [[Gujarat Titans]]
+|-
+| 10
+! scope="row" | {{sortname|KL|Rahul}}
+| {{cr|IND}} || Wicket-keeper || 132 || Capped || 200 || [[Delhi Capitals]] || 1400 || [[Lucknow Super Giants]]
+|-
+| 11
+! scope="row" | {{sortname|Mohammed|Shami}}
+| {{cr|IND}} || Bowler || 110 || Capped || 200 || [[Sunrisers Hyderabad]] || 1000 || [[Gujarat Titans]]
+|-
+| 12
+! scope="row" | {{sortname|Mohammed|Siraj}}
+| {{cr|IND}} || Bowler || 93 || Capped || 200 || [[Gujarat Titans]] || 1225 || [[Royal Challengers Bengaluru]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 3: capped batters (BA1)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 13
+! scope="row" | {{sortname|Harry|Brook}}
+| {{cr|ENG}} || 11 || 200 || [[Delhi Capitals]] || 625 || [[Delhi Capitals]]
+|-
+| 14
+! scope="row" | {{sortname|Devon|Conway}}
+| {{cr|NZ}} || 23 || 200 || [[Chennai Super Kings]] || 625 || [[Chennai Super Kings]]
+|-
+| 15
+! scope="row" | {{sortname|Jake|Fraser-McGurk}} {{dagger}}
+| {{cr|AUS}} || 9 || 200 || [[Delhi Capitals]]|| 900 || [[Delhi Capitals]]
+|-
+| 16
+! scope="row" | {{sortname|Aiden|Markram}}
+| {{cr|SA}} || 44 || 200 || [[Lucknow Super Giants]] || 200 || [[Sunrisers Hyderabad]]
+|-
+| 17
+! scope="row" | {{sortname|Devdutt|Padikkal}}
+| {{cr|IND}} || 64 || 200 || [[Royal Challengers Bengaluru]] || 200 || [[Lucknow Super Giants]]
+|-
+| 18
+! scope="row" | {{sortname|Rahul|Tripathi}}
+| {{cr|IND}} || 95 || 75 || [[Chennai Super Kings]] || 340 || [[Sunrisers Hyderabad]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 4: capped all-rounders (AL1)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 20
+! scope="row" | {{sortname|Ravichandran|Ashwin}}
+| {{cr|IND}} || 212 || 200 || [[Chennai Super Kings]] || 975 || [[Rajasthan Royals]]
+|-
+| 21
+! scope="row" | {{sortname|Venkatesh|Iyer}}
+| {{cr|IND}} || 51 || 200 || [[Kolkata Knight Riders]] || 2375 || [[Kolkata Knight Riders]]
+|-
+| 22
+! scope="row" | {{sortname|Mitchell|Marsh}}
+| {{cr|AUS}} || 42 || 200 || [[Lucknow Super Giants]] || 340 || [[Delhi Capitals]]
+|-
+| 23
+! scope="row" | {{sortname|Glenn|Maxwell}}
+| {{cr|AUS}} || 134 || 200 || [[Punjab Kings]] || 420 || [[Royal Challengers Bengaluru]]
+|-
+| 24
+! scope="row" | {{sortname|Harshal|Patel}}
+| {{cr|IND}} || 106 || 200 || [[Sunrisers Hyderabad]] || 800 || [[Punjab Kings]]
+|-
+| 25
+! scope="row" | {{sortname|Rachin|Ravindra}} {{dagger}}
+| {{cr|NZ}} || 10 || 150 || [[Chennai Super Kings]] || 400 || [[Chennai Super Kings]]
+|-
+| 26
+! scope="row" | {{sortname|Marcus|Stoinis}}
+| {{cr|AUS}} || 96 || 200 || [[Punjab Kings]] || 1100 || [[Lucknow Super Giants]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 5: capped wicket-keepers (WK1)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 28
+! scope="row" | {{sortname|Quinton|de Kock}}
+| {{cr|SA}} || 107 || 200 || [[Kolkata Knight Riders]] || 360 || [[Lucknow Super Giants]]
+|-
+| 29
+! scope="row" | {{sortname|Rahmanullah|Gurbaz}}
+| {{cr|AFG}} || 14 || 200 || [[Kolkata Knight Riders]] || 200 || [[Kolkata Knight Riders]]
+|-
+| 30
+! scope="row" | {{sortname|Ishan|Kishan}}
+| {{cr|IND}} || 104 || 200 || [[Sunrisers Hyderabad]] || 1125 || [[Mumbai Indians]]
+|-
+| 31
+! scope="row" | {{sortname|Phil|Salt}}
+| {{cr|ENG}} || 21 || 200 || [[Royal Challengers Bengaluru]] || 1150 || [[Kolkata Knight Riders]]
+|-
+| 32
+! scope="row" | {{sortname|Jitesh|Sharma}}
+| {{cr|IND}} || 40 || 100 || [[Royal Challengers Bengaluru]] || 1100 || [[Punjab Kings]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 6: capped fast bowlers (FA1)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 33
+! scope="row" | {{sortname|Khaleel|Ahmed}}
+| {{cr|IND}} || 57 || 200 || [[Chennai Super Kings]] || 480 || [[Delhi Capitals]]
+|-
+| 575*
+! scope="row" | {{sortname|Jofra|Archer}}
+| {{cr|ENG}} || 40 || 200 || [[Rajasthan Royals]] || 1250 || {{N/A}}
+|-
+| 34
+! scope="row" | {{sortname|Trent|Boult}}
+| {{cr|NZ}} || 104 || 200 || [[Mumbai Indians]] || 1250 || [[Rajasthan Royals]]
+|-
+| 35
+! scope="row" | {{sortname|Josh|Hazlewood}}
+| {{cr|AUS}} || 27 || 200 || [[Royal Challengers Bengaluru]] || 1250 || {{N/A}}
+|-
+| 36
+! scope="row" | {{sortname|Avesh|Khan}}
+| {{cr|IND}} || 63 || 200 || [[Lucknow Super Giants]] || 975 || [[Rajasthan Royals]]
+|-
+| 37
+! scope="row" | {{sortname|Prasidh|Krishna}}
+| {{cr|IND}} || 51 || 200 || [[Gujarat Titans]] || 950 || [[Rajasthan Royals]]
+|-
+| 38
+! scope="row" | {{sortname|T.|Natarajan}}
+| {{cr|IND}} || 61 || 200 || [[Delhi Capitals]] || 1075 || [[Sunrisers Hyderabad]]
+|-
+| 39
+! scope="row" | {{sortname|Anrich|Nortje}}
+| {{cr|SA}} || 46 || 200 || [[Kolkata Knight Riders]] || 650 || [[Delhi Capitals]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 7: capped spin bowlers (SP1)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 40
+! scope="row" | {{sortname|Noor|Ahmad}}
+| {{cr|AFG}} || 23 || 200 || [[Chennai Super Kings]] || 1000 || [[Gujarat Titans]]
+|-
+| 41
+! scope="row" | {{sortname|Rahul|Chahar}}
+| {{cr|IND}} || 78 || 100 || [[Sunrisers Hyderabad]] || 320 || [[Punjab Kings]]
+|-
+| 42
+! scope="row" | {{sortname|Wanindu|Hasaranga}}
+| {{cr|SL}} || 26 || 200 ||[[Rajasthan Royals]] || 525 || [[Sunrisers Hyderabad]]
+|-
+| 44
+! scope="row" | {{sortname|Maheesh|Theekshana}}
+| {{cr|SL}} || 27 || 200 || [[Rajasthan Royals]] || 440 || [[Chennai Super Kings]]
+|-
+| 45
+! scope="row" | {{sortname|Adam|Zampa}}
+| {{cr|AUS}} || 20 || 200 || [[Sunrisers Hyderabad]] || 240 || [[Rajasthan Royals]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 8: uncapped batters (UBA1)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 47
+! scope="row" | {{sortname|Abhinav|Manohar}}
+| {{cr|IND}} || 18 || 30 || [[Sunrisers Hyderabad]] || 320 || [[Gujarat Titans]]
+|-
+| 48
+! scope="row" | {{sortname|Karun|Nair}}
+| {{cr|IND}} || 76 || 30 || [[Delhi Capitals]] || 50 || {{N/A}}
+|-
+| 49
+! scope="row" | {{sortname|Angkrish|Raghuvanshi}}
+| {{cr|IND}} || 10 || 30 || [[Kolkata Knight Riders]] || 300 || [[Kolkata Knight Riders]]
+|-
+| 51
+! scope="row" | {{sortname|Atharva|Taide}}
+| {{cr|IND}} || 9 || 30 || [[Sunrisers Hyderabad]] || 30 || [[Punjab Kings]]
+|-
+| 52
+! scope="row" | {{sortname|Nehal|Wadhera}}
+| {{cr|IND}} || 20 || 30 || [[Punjab Kings]] || 420 || [[Mumbai Indians]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 9: uncapped all-rounders (UAL1)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 53
+! scope="row" | {{sortname|Harpreet|Brar}}
+| {{cr|IND}} || 41 || 30 || [[Punjab Kings]] || 150 || [[Punjab Kings]]
+|-
+| 54
+! scope="row" | {{sortname|Naman|Dhir}} {{dagger}}
+| {{cr|IND}} || 7 || 30 || [[Mumbai Indians]] || 525 || [[Mumbai Indians]]
+|-
+| 55
+! scope="row" | {{sortname|Mahipal|Lomror}}
+| {{cr|IND}} || 40 || 30 || [[Gujarat Titans]] || 170 || [[Royal Challengers Bengaluru]]
+|-
+| 56
+! scope="row" | {{sortname|Sameer|Rizvi}}
+| {{cr|IND}} || 9 || 30 || [[Delhi Capitals]] || 95 || [[Chennai Super Kings]]
+|-
+| 57
+! scope="row" | {{sortname|Abdul|Samad}}
+| {{cr|IND}} || 50 || 30 || [[Lucknow Super Giants]] || 420 || [[Sunrisers Hyderabad]]
+|-
+| 58
+! scope="row" | {{sortname|Vijay|Shankar}}
+| {{cr|IND}} || 72 || 30 || [[Chennai Super Kings]] || 120 || [[Gujarat Titans]]
+|-
+| 59
+! scope="row" | {{sortname|Ashutosh|Sharma|dab=cricketer}}
+| {{cr|IND}} || 11 || 30 || [[Delhi Capitals]] || 380 || [[Punjab Kings]]
+|-
+| 60
+! scope="row" | {{sortname|Nishant|Sindhu}}
+| {{cr|IND}} || {{N/A}} || 30 || [[Gujarat Titans]] || 30 || [[Chennai Super Kings]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 10: uncapped wicket-keepers (UWK1)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 62
+! scope="row" | {{sortname|Aryan|Juyal}}
+| {{cr|IND}} || {{N/A}} || 30 || [[Lucknow Super Giants]] || 30 || {{N/A}}
+|-
+| 63
+! scope="row" | {{sortname|Kumar|Kushagra}}
+| {{cr|IND}} || {{N/A}} || 30 || [[Gujarat Titans]] || 65 || [[Gujarat Titans]]
+|-
+| 64
+! scope="row" | {{sortname|Robin|Minz}}
+| {{cr|IND}} || {{N/A}} || 30 || [[Mumbai Indians]] || 65 || [[Gujarat Titans]]
+|-
+| 65
+! scope="row" | {{sortname|Anuj|Rawat}}
+| {{cr|IND}} || 24 || 30 || [[Gujarat Titans]] || 30 || [[Royal Challengers Bengaluru]]
+|-
+| 66
+! scope="row" | {{sortname|Luvnith|Sisodia}}
+| {{cr|IND}} || {{N/A}} || 30 || [[Kolkata Knight Riders]] || 30 || {{N/A}}
+|-
+| 67
+! scope="row" | {{sortname|Vishnu|Vinod}}
+| {{cr|IND}} || 6 || 30 || [[Punjab Kings]] || 95 || [[Mumbai Indians]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 11: uncapped fast bowlers (UFA1)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 69
+! scope="row" | {{sortname|Vaibhav|Arora}}
+| {{cr|IND}} || 20 || 30 || [[Kolkata Knight Riders]] || 180 || [[Kolkata Knight Riders]]
+|-
+| 70
+! scope="row" | {{sortname|Rasikh Salam|Dar}}
+| {{cr|IND}} || 11 || 30 || [[Royal Challengers Bengaluru]] || 600 || [[Delhi Capitals]]
+|-
+| 71
+! scope="row" | {{sortname|Akash|Madhwal}}
+| {{cr|IND}} || 12 || 30 || [[Rajasthan Royals]] || 120 || [[Mumbai Indians]]
+|-
+| 72
+! scope="row" | {{sortname|Mohit|Sharma}}
+| {{cr|IND}} || 111 || 50 || [[Delhi Capitals]] || 220 || [[Gujarat Titans]]
+|-
+| 73
+! scope="row" | {{sortname|Simarjeet|Singh}}
+| {{cr|IND}} || 10 || 30 || [[Sunrisers Hyderabad]] || 150 || [[Chennai Super Kings]]
+|-
+| 74
+! scope="row" | {{sortname|Yash|Thakur}}
+| {{cr|IND}} || 19 || 30 || [[Punjab Kings]] || 160 || [[Lucknow Super Giants]]
+|-
+| 76
+! scope="row" | {{sortname|Vijaykumar|Vyshak}}
+| {{cr|IND}} || 11 || 30 || [[Punjab Kings]] || 180 || [[Royal Challengers Bengaluru]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 12: uncapped spin bowlers (USP1)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 78
+! scope="row" | {{sortname|Shreyas|Gopal}}
+| {{cr|IND}} || 52 || 30 || [[Chennai Super Kings]] || 30 || [[Mumbai Indians]]
+|-
+| 79
+! scope="row" | {{sortname|Mayank|Markande}}
+| {{cr|IND}} || 37 || 30 || [[Kolkata Knight Riders]] || 30 || [[Sunrisers Hyderabad]]
+|-
+| 80
+! scope="row" | {{sortname|Suyash|Sharma}}
+| {{cr|IND}} || 13 || 30 || [[Royal Challengers Bengaluru]] || 260 || [[Kolkata Knight Riders]]
+|-
+| 81
+! scope="row" | {{sortname|Karn|Sharma}}
+| {{cr|IND}} || 84 || 50 || [[Mumbai Indians]] || 50 || [[Royal Challengers Bengaluru]]
+|-
+| 82
+! scope="row" | {{sortname|Kumar|Kartikeya}}
+| {{cr|IND}} || 12 || 30 || [[Rajasthan Royals]] || 30 || [[Mumbai Indians]]
+|-
+| 83
+! scope="row" | {{sortname|Manav|Suthar}}
+| {{cr|IND}} || {{N/A}} || 30 || [[Gujarat Titans]] || 30 || [[Gujarat Titans]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 13: capped batters (BA2)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 85
+! scope="row" | {{sortname|Faf|du Plessis}}
+| {{cr|SA}} || 145 || 200 || [[Delhi Capitals]] || 200 || [[Royal Challengers Bengaluru]]
+|-
+| 86
+! scope="row" | {{sortname|Glenn|Phillips|dab=cricketer}}
+| {{cr|NZ}} || 8 || 200 || [[Gujarat Titans]] || 200 || [[Sunrisers Hyderabad]]
+|-
+| 87
+! scope="row" | {{sortname|Rovman|Powell}}
+| {{cr|WIN}} || 27 || 150 || [[Kolkata Knight Riders]] || 150 || [[Rajasthan Royals]]
+|-
+| 88
+! scope="row" | {{sortname|Ajinkya|Rahane}}
+| {{cr|IND}} || 185 || 150 || [[Kolkata Knight Riders]] || 150 || [[Chennai Super Kings]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 14: capped all-rounders (AL2)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 91
+! scope="row" | {{sortname|Sam|Curran}}
+| {{cr|ENG}} || 59 || 200 || [[Chennai Super Kings]] || 240 || [[Punjab Kings]]
+|-
+| 92
+! scope="row" | {{sortname|Marco|Jansen}}
+| {{cr|SA}} || 21 || 125 || [[Punjab Kings]] || 700 || [[Sunrisers Hyderabad]]
+|-
+| 94
+! scope="row" | {{sortname|Krunal|Pandya}}
+| {{cr|IND}} || 127 || 200 || [[Royal Challengers Bengaluru]]|| 575 || [[Lucknow Super Giants]]
+|-
+| 95
+! scope="row" | {{sortname|Nitish|Rana}}
+| {{cr|IND}} || 107 || 150 || [[Rajasthan Royals]] || 420 || [[Kolkata Knight Riders]]
+|-
+| 96
+! scope="row" | {{sortname|Washington|Sundar}}
+| {{cr|IND}} || 61 || 200 || [[Gujarat Titans]] || 320 || [[Sunrisers Hyderabad]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 15: capped wicket-keepers (WK2)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 100
+! scope="row" | {{sortname|Donovan|Ferreira}}
+| {{cr|SA}} || 2 || 75 || [[Delhi Capitals]] || 75 || [[Rajasthan Royals]]
+|-
+| 102
+! scope="row" | {{sortname|Josh|Inglis}}
+| {{cr|AUS}} || {{N/A}} || 200 || [[Punjab Kings]] || 260 || {{N/A}}
+|-
+| 103
+! scope="row" | {{sortname|Ryan|Rickelton}}
+| {{cr|SA}} || {{N/A}} || 100 || [[Mumbai Indians]] || 100 || {{N/A}}
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 16: capped fast bowlers (FA2)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 104
+! scope="row" | {{sortname|Deepak|Chahar}}
+| {{cr|IND}} || 81 || 200 || [[Mumbai Indians]] || 925 || [[Chennai Super Kings]]
+|-
+| 105
+! scope="row" | {{sortname|Gerald|Coetzee}}
+| {{cr|SA}} || 10 || 125 || [[Gujarat Titans]] || 240 || [[Mumbai Indians]]
+|-
+| 106
+! scope="row" | {{sortname|Akash|Deep}}
+| {{cr|IND}} || 8 || 100 || [[Lucknow Super Giants]]|| 800 || [[Royal Challengers Bengaluru]]
+|-
+| 107
+! scope="row" | {{sortname|Tushar|Deshpande}}
+| {{cr|IND}} || 36 || 100 || [[Rajasthan Royals]] || 650 || [[Chennai Super Kings]]
+|-
+| 108
+! scope="row" | {{sortname|Lockie|Ferguson}}
+| {{cr|NZ}} || 45 || 200 || [[Punjab Kings]]|| 200 || [[Royal Challengers Bengaluru]]
+|-
+| 109
+! scope="row" | {{sortname|Bhuvneshwar|Kumar}}
+| {{cr|IND}} || 176 || 200 || [[Royal Challengers Bengaluru]] || 1075 || [[Sunrisers Hyderabad]]
+|-
+| 110
+! scope="row" | {{sortname|Mukesh|Kumar|dab=cricketer}} {{dagger}}
+| {{cr|IND}} || 20 || 200 || [[Delhi Capitals]] || 800 || [[Delhi Capitals]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Set 17: capped spin bowlers (SP2)
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | No. of IPL matches
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 111
+! scope="row" | {{sortname|Allah|Ghazanfar}}
+| {{cr|AFG}} || {{N/A}} || 75 || [[Mumbai Indians]] || 480 || [[Kolkata Knight Riders]]
+|}
+
+{{table alignment}}
+{| class="wikitable sortable plainrowheaders defaultcenter col2left col3left " style="font-size:85%;"
+|+ Accelerated round
+! scope="col" | No.
+! scope="col" | Name
+! scope="col" | Country
+! scope="col" | Role
+! scope="col" | No. of IPL matches
+! scope="col" | Category
+! scope="col" | Base price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2025 IPL team
+! scope="col" | Auctioned price<br>({{INR|link=yes}}{{nbsp}}[[lakh]]s)
+! scope="col" | 2024 IPL team
+|-
+| 118
+! scope="row" | {{sortname|Swastik|Chikara}}
+| {{cr|IND}} || Batter || {{N/A}} || Uncapped || 30 || [[Royal Challengers Bengaluru]] || 30 || [[Delhi Capitals]]
+|-
+| 120
+! scope="row" | {{sortname|Shubham|Dubey}}
+| {{cr|IND}} || Batter || 4 || Uncapped || 30 || [[Rajasthan Royals]] || 80 || [[Rajasthan Royals]]
+|-
+| 123
+! scope="row" | {{sortname|Shaik|Rasheed}}
+| {{cr|IND}} || Batter || {{N/A}} || Uncapped || 30 || [[Chennai Super Kings]] || 30 || [[Chennai Super Kings]]
+|-
+| 124
+! scope="row" | {{sortname|Himmat|Singh|dab=cricketer}}
+| {{cr|IND}} || Batter || {{N/A}} || Uncapped || 30 || [[Lucknow Super Giants]] || 30 || {{N/A}}
+|-
+| 126
+! scope="row" | {{sortname|Anshul|Kamboj}}
+| {{cr|IND}} || All-rounder || 3 || Uncapped || 30 || [[Chennai Super Kings]] || 340 || [[Mumbai Indians]]
+|-
+| 127
+! scope="row" | {{sortname|Arshad|Khan|dab=Indian cricketer}}
+| {{cr|IND}} || All-rounder || 10 || Uncapped || 30 || [[Gujarat Titans]] || 130 || [[Lucknow Super Giants]]
+|-
+| 128
+! scope="row" | {{sortname|Darshan|Nalkande}}
+| {{cr|IND}} || All-rounder || 5 || Uncapped || 30 || [[Delhi Capitals]] || 30 || [[Gujarat Titans]]
+|-
+| 130
+! scope="row" | {{sortname|Anukul|Roy}}
+| {{cr|IND}} || All-rounder || 11 || Uncapped || 30 || [[Kolkata Knight Riders]] || 40 || [[Kolkata Knight Riders]]
+|-
+| 131
+! scope="row" | {{sortname|Swapnil|Singh}} {{dagger}}
+| {{cr|IND}} || All-rounder || 14 || Uncapped || 30 || [[Royal Challengers Bengaluru]] || 50 || [[Royal Challengers Bengaluru]]
+|-
+| 134
+! scope="row" | {{sortname|Vansh|Bedi}}
+| {{cr|IND}} || Wicket-keeper || {{N/A}} || Uncapped || 30 || [[Chennai Super Kings]] || 55 || {{N/A}}
+|-
+| 138
+! scope="row" | {{sortname|Kunal|Rathore}}
+| {{cr|IND}} || Wicket-keeper || {{N/A}} || Uncapped || 30 || [[Rajasthan Royals]] || 30 || [[Rajasthan Royals]]
+|-
+| 140
+! scope="row" | {{sortname|Gurnoor|Brar}}
+| {{cr|IND}} || Bowler || 1 || Uncapped || 30 || [[Gujarat Titans]] || 130 || [[Gujarat Titans]]
+|-
+| 141
+! scope="row" | {{sortname|Mukesh|Choudhary}}
+| {{cr|IND}} || Bowler || 14 || Uncapped || 30 || [[Chennai Super Kings]] || 30 || [[Chennai Super Kings]]
+|-
+| 146
+! scope="row" | {{sortname|Arjun|Tendulkar}}
+| {{cr|IND}} || Bowler || 5 || Uncapped || 30 || [[Mumbai Indians]] || 30 || [[Mumbai Indians]]
+|-
+| 147
+! scope="row" | {{sortname|Zeeshan|Ansari}}
+| {{cr|IND}} || Bowler || {{N/A}} || Uncapped || 30 || [[Sunrisers Hyderabad]] || 40 || {{N/A}}
+|-
+| 150
+! scope="row" | {{sortname|Manimaran|Siddharth}}
+| {{cr|IND}} || Bowler || 3 || Uncapped || 30 || [[Lucknow Super Giants]] || 75 || [[Lucknow Super Giants]]
+|-
+| 151
+! scope="row" | {{sortname|Digvesh|Singh}}
+| {{cr|IND}} || Bowler || 3 || Uncapped || 30 || [[Lucknow Super Giants]] || 30 || {{N/A}}
+|-
+| 157
+! scope="row" | {{sortname|Manish|Pandey}}
+| {{cr|IND}} || Batter || 171 || Capped || 75 || [[Kolkata Knight Riders]] || 75 || [[Kolkata Knight Riders]]
+|-
+| 159
+! scope="row" | {{sortname|Sherfane|Rutherford}}
+| {{cr|WIN}} || Batter || 10 || Capped || 150 || [[Gujarat Titans]] || 260 || [[Kolkata Knight Riders]]
+|-
+| 162
+! scope="row" | {{sortname|Shahbaz|Ahmed|dab=cricketer}}
+| {{cr|IND}} || All-rounder || 55 || Capped || 100 || [[Lucknow Super Giants]] || 240 || [[Sunrisers Hyderabad]]
+|-
+| 164
+! scope="row" | {{sortname|Tim|David}}
+| {{cr|AUS}} || All-rounder || 38 || Capped || 200 || [[Royal Challengers Bengaluru]] || 300 || [[Mumbai Indians]]
+|-
+| 165
+! scope="row" | {{sortname|Deepak|Hooda}}
+| {{cr|IND}} || All-rounder || 118 || Capped || 75 || [[Chennai Super Kings]] || 170 || [[Lucknow Super Giants]]
+|-
+| 166
+! scope="row" | {{sortname|Will|Jacks}}
+| {{cr|ENG}} || All-rounder || 8 || Capped || 200 || [[Mumbai Indians]] || 525 || [[Royal Challengers Bengaluru]]
+|-
+| 167
+! scope="row" | {{sortname|Azmatullah|Omarzai}}
+| {{cr|AFG}} || All-rounder || 7 || Capped || 150 || [[Punjab Kings]] || 240 || [[Gujarat Titans]]
+|-
+| 168
+! scope="row" | {{sortname|Sai|Kishore}} {{dagger}}
+| {{cr|IND}} || All-rounder || 10 || Capped || 75 || [[Gujarat Titans]] || 200 || [[Gujarat Titans]]
+|-
+| 169
+! scope="row" | {{sortname|Romario|Shepherd}}
+| {{cr|WIN}} || All-rounder || 10 || Capped || 150 || [[Royal Challengers Bengaluru]] || 150 || [[Mumbai Indians]]
+|-
+| 179
+! scope="row" | {{sortname|Spencer|Johnson|dab=cricketer}}
+| {{cr|AUS}} || Bowler || 5 || Capped || 200 || [[Kolkata Knight Riders]] || 280 || [[Gujarat Titans]]
+|-
+| 180
+! scope="row" | {{sortname|Umran|Malik}}
+| {{cr|IND}} || Bowler || 26 || Capped || 75 || [[Kolkata Knight Riders]] || 75 || [[Sunrisers Hyderabad]]
+|-
+| 182
+! scope="row" | {{sortname|Ishant|Sharma}}
+| {{cr|IND}} || Bowler || 109 || Capped || 75 || [[Gujarat Titans]] || 75 || [[Delhi Capitals]]
+|-
+| 183
+! scope="row" | {{sortname|Nuwan|Thushara}}
+| {{cr|SL}} || Bowler || 7 || Capped || 75 || [[Royal Challengers Bengaluru]] || 160 || [[Mumbai Indians]]
+|-
+| 185
+! scope="row" | {{sortname|Jaydev|Unadkat}}
+| {{cr|IND}} || Bowler || 105 || Capped || 100 || [[Sunrisers Hyderabad]] || 100 || [[Sunrisers Hyderabad]]
+|-
+| 193
+! scope="row" | {{sortname|Sachin|Baby}}
+| {{cr|IND}} || Batter || 19 || Uncapped || 30 || [[Sunrisers Hyderabad]] || 30 || [[Sunrisers Hyderabad]]
+|-
+| 195
+! scope="row" | {{sortname|Harnoor|Singh}}
+| {{cr|IND}} || Batter || {{N/A}} || Uncapped || 30 || [[Punjab Kings]] || 30 || {{N/A}}
+|-
+| 198
+! scope="row" | {{sortname|Andre|Siddarth}}
+| {{cr|IND}} || Batter || {{N/A}} || Uncapped || 30 || [[Chennai Super Kings]] || 30 || {{N/A}}
+|-
+| 201
+! scope="row" | {{sortname|Yudhvir|Singh|dab=cricketer}}
+| {{cr|IND}} || All-rounder || 5 || Uncapped || 30 || [[Rajasthan Royals]] || 35 || [[Lucknow Super Giants]]
+|-
+| 203
+! scope="row" | {{sortname|Rajvardhan|Hangargekar}}
+| {{cr|IND}} || All-rounder || 2 || Uncapped || 30 || [[Lucknow Super Giants]] || 30 || [[Chennai Super Kings]]
+|-
+| 205
+! scope="row" | {{sortname|Arshin|Kulkarni}}
+| {{cr|IND}} || All-rounder || 2 || Uncapped || 30 || [[Lucknow Super Giants]] || 30 || [[Lucknow Super Giants]]
+|-
+| 217
+! scope="row" | {{sortname|Ashwani|Kumar|dab=cricketer}}
+| {{cr|IND}} || Bowler || {{N/A}} || Uncapped || 30 || [[Mumbai Indians]] || 30 || {{N/A}}
+|-
+| 220
+! scope="row" | {{sortname|Akash|Singh|dab=cricketer, born 2002}}
+| {{cr|IND}} || Bowler || 7 || Uncapped || 30 || [[Lucknow Super Giants]] || 30 || [[Sunrisers Hyderabad]]
+|-
+| 221
+! scope="row" | {{sortname|Gurjapneet|Singh}}
+| {{cr|IND}} || Bowler || 2 || Uncapped || 30 || [[Chennai Super Kings]] || 220 || {{N/A}}
+|-
+| 231
+! scope="row" | {{sortname|Matthew|Breetzke}}
+| {{cr|SA}} || Batter || {{N/A}} || Capped || {{N/A}} || [[Lucknow Super Giants]] || 75 || {{N/A}}
+|-
+| 244
+! scope="row" | {{sortname|Mitchell|Santner}}
+| {{cr|NZ}} || All-rounder || 18 || Capped || 200 || [[Mumbai Indians]] || 200 || [[Chennai Super Kings]]
+|-
+| 245
+! scope="row" | {{sortname|Jayant|Yadav}}
+| {{cr|IND}} || All-rounder || 20 || Capped || 75 || [[Gujarat Titans]] || 75 || [[Gujarat Titans]]
+|-
+| 252
+! scope="row" | {{sortname|Fazalhaq|Farooqi}}
+| {{cr|AFG}} || Bowler || 7 || Capped || 200 || [[Rajasthan Royals]] || 200 || [[Sunrisers Hyderabad]]
+|-
+| 256
+! scope="row" | {{sortname|Kwena|Maphaka}}
+| {{cr|SA}} || Bowler || 2 || Capped || 75 || [[Rajasthan Royals]] || 150 || [[Mumbai Indians]]
+|-
+| 257
+! scope="row" | {{sortname|Kuldeep|Sen}}
+| {{cr|IND}} || Bowler || 12 || Capped || 75 || [[Punjab Kings]] || 80 || [[Rajasthan Royals]]
+|-
+| 258
+! scope="row" | {{sortname|Reece|Topley}}
+| {{cr|ENG}} || Bowler || 5 || Capped || 75 || [[Mumbai Indians]] || 75 || [[Royal Challengers Bengaluru]]
+|-
+| 259
+! scope="row" | {{sortname|Lizaad|Williams}}
+| {{cr|SA}} || Bowler || 2 || Capped || 75 || [[Mumbai Indians]] || 75 || [[Delhi Capitals]]
+|-
+| 269
+! scope="row" | {{sortname|Priyansh|Arya}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Punjab Kings]] || 380 || {{N/A}}
+|-
+| 270
+! scope="row" | {{sortname|Manoj|Bhandage}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Royal Challengers Bengaluru]] || 30 || [[Royal Challengers Bengaluru]]
+|-
+| 271
+! scope="row" | {{sortname|Praveen|Dubey}}
+| {{cr|IND}} || All-rounder || 4 || Uncapped || 30 || [[Punjab Kings]] || 30 || [[Delhi Capitals]]
+|-
+| 272
+! scope="row" | {{sortname|Ajay|Mandal}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Delhi Capitals]] || 30 || [[Chennai Super Kings]]
+|-
+| 274
+! scope="row" | {{sortname|Vipraj|Nigam}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Delhi Capitals]] || 50 || {{N/A}}
+|-
+| 281
+! scope="row" | {{sortname|Krishnan|Shrijith}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Mumbai Indians]] || 30 || {{N/A}}
+|-
+| 296
+! scope="row" | {{sortname|Mohit|Rathee}}
+| {{cr|IND}} || Bowler || 1 || Uncapped || 30 || [[Royal Challengers Bengaluru]] || 30 || {{N/A}}
+|-
+| 306
+! scope="row" | {{sortname|Jacob|Bethell}}
+| {{cr|ENG}} || All-rounder || {{N/A}} || Capped || 125 || [[Royal Challengers Bengaluru]] || 260 || {{N/A}}
+|-
+| 307
+! scope="row" | {{sortname|Brydon|Carse}}
+| {{cr|ENG}} || All-rounder || {{N/A}} || Capped || 100 || [[Sunrisers Hyderabad]] || 100 || {{N/A}}
+|-
+| 308
+! scope="row" | {{sortname|Aaron|Hardie}}
+| {{cr|AUS}} || All-rounder || {{N/A}} || Capped || 125 || [[Punjab Kings]] || 125 || {{N/A}}
+|-
+| 311
+! scope="row" | {{sortname|Kamindu|Mendis}}
+| {{cr|SL}} || All-rounder || {{N/A}} || Capped || 75 || [[Sunrisers Hyderabad]] || 75 || {{N/A}}
+|-
+| 314
+! scope="row" | {{sortname|Dushmantha|Chameera}}
+| {{cr|SL}} || Bowler || 13 || Capped || 75 || [[Delhi Capitals]] || 75 || [[Lucknow Super Giants]]
+|-
+| 315
+! scope="row" | {{sortname|Nathan|Ellis}}
+| {{cr|AUS}} || Bowler || 16 || Capped || 100 || [[Chennai Super Kings]] || 200 || [[Punjab Kings]]
+|-
+| 316
+! scope="row" | {{sortname|Shamar|Joseph}} {{dagger}}
+| {{cr|WIN}} || Bowler || 1 || Capped || 75 || [[Lucknow Super Giants]] || 75 || [[Lucknow Super Giants]]
+|-
+| 325
+! scope="row" | {{sortname|Aniket|Verma}}
+| {{cr|IND}} || Batter || {{N/A}} || Uncapped || 30 || [[Sunrisers Hyderabad]] || 30 || {{N/A}}
+|-
+| 329
+! scope="row" | {{sortname|Raj Angad|Bawa}}
+| {{cr|IND}} || All-rounder || 2 || Uncapped || 30 || [[Mumbai Indians]] || 30 || {{N/A}}
+|-
+| 331
+! scope="row" | {{sortname|Musheer|Khan}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Punjab Kings]] || 30 || {{N/A}}
+|-
+| 332
+! scope="row" | {{sortname|Manvanth|Kumar L}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Delhi Capitals]] || 30 || {{N/A}}
+|-
+| 334
+! scope="row" | {{sortname|Suryansh|Shedge}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Punjab Kings]] || 30 || {{N/A}}
+|-
+| 346
+! scope="row" | {{sortname|Kulwant|Khejroliya}}
+| {{cr|IND}} || Bowler || 7 || Uncapped || 30 || [[Gujarat Titans]] || 30 || {{N/A}}
+|-
+| 350
+! scope="row" | {{sortname|Prince|Yadav}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Lucknow Super Giants]] || 30 || {{N/A}}
+|-
+| 363
+! scope="row" | {{sortname|Jamie|Overton}}
+| {{cr|ENG}} || All-rounder || {{N/A}} || Capped || 150 || [[Chennai Super Kings]] || 150 || {{N/A}}
+|-
+| 366
+! scope="row" | {{sortname|Xavier|Bartlett}}
+| {{cr|AUS}} || Bowler || {{N/A}} || Capped || 75 || [[Punjab Kings]] || 80 || {{N/A}}
+|-
+| 369
+! scope="row" | {{sortname|Lungi|Ngidi}}
+| {{cr|SA}} || Bowler || {{N/A}} || Capped || 30 || [[Royal Challengers Bengaluru]] || 100 || [[Delhi Capitals]]
+|-
+| 382
+! scope="row" | {{sortname|Yuvraj|Chaudhary}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Lucknow Super Giants]] || 30 || {{N/A}}
+|-
+| 385
+! scope="row" | {{sortname|Kamlesh|Nagarkoti}}
+| {{cr|IND}} || All-rounder || 12 || Uncapped || 30 || [[Chennai Super Kings]] || 30 || {{N/A}}
+|-
+| 401
+! scope="row" | {{sortname|Abhinandan|Singh}}
+| {{cr|IND}} || Bowler || {{N/A}} || Uncapped || 30 || [[Royal Challengers Bengaluru]] || 30 || {{N/A}}
+|-
+| 405
+! scope="row" | {{sortname|Karim|Janat}}
+| {{cr|AFG}} || All-rounder || {{N/A}} || Capped || 30 || [[Gujarat Titans]] || 75 || {{N/A}}
+|-
+| 416
+! scope="row" | {{sortname|Pyla|Avinash}}
+| {{cr|IND}} || Batter || {{N/A}} || Uncapped || 30 || [[Punjab Kings]] || 30 || {{N/A}}
+|-
+| 425
+! scope="row" | {{sortname|Ramakrishna|Ghosh}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Chennai Super Kings]] || 30 || {{N/A}}
+|-
+| 453
+! scope="row" | {{sortname|Bevon|Jacobs}}
+| {{cr|NZ}} || Batter || {{N/A}} || Uncapped || 30 || [[Mumbai Indians]] || 30 || {{N/A}}
+|-
+| 470
+! scope="row" | {{sortname|Ashok|Sharma|dab=cricketer}}
+| {{cr|IND}} || Bowler || {{N/A}} || Uncapped || 30 || [[Rajasthan Royals]] || 30 || {{N/A}}
+|-
+| 491
+! scope="row" | {{sortname|Vaibhav|Sooryavanshi}}
+| {{cr|IND}} || Batter || {{N/A}} || Uncapped || 30 || [[Rajasthan Royals]] || 110 || {{N/A}}
+|-
+| 529
+! scope="row" | {{sortname|Eshan|Malinga}}
+| {{cr|SL}} || Bowler || {{N/A}} || Uncapped || 30 || [[Sunrisers Hyderabad]] || 120 || {{N/A}}
+|-
+| 557
+! scope="row" | {{sortname|Tripurana|Vijay}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Delhi Capitals]] || 30 || {{N/A}}
+|-
+| 565
+! scope="row" | {{sortname|Madhav|Tiwari}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Delhi Capitals]] || 40 || {{N/A}}
+|-
+| 572
+! scope="row" | {{sortname|Vignesh|Puthur}}
+| {{cr|IND}} || All-rounder || {{N/A}} || Uncapped || 30 || [[Mumbai Indians]] || 30 || {{N/A}}
+|}
+
+== Support staff changes ==
+<!-- only noteworthy staff changes should be included here; not everything needs to be mentioned here -->
+{| class="wikitable sortable plainrowheaders"
+|+ Support staff changes for the 2025 Indian Premier League
+! scope="col" | Team
+! scope="col" | Position
+! scope="col" | Outgoing<ref>{{Cite web |date=2023-08-08 |title=IPL 2024 coaches: Full coaching and support staff for each Indian Premier League team |url=https://www.wisden.com/series/tata-indian-premier-league-2023-24/cricket-news/ipl-2024-coaches-full-coaching-support-staff-for-each-indian-premier-league-team |access-date=2025-06-21 |website=Wisden |language=en |archive-date=21 June 2025 |archive-url=https://web.archive.org/web/20250621155521/https://www.wisden.com/series/tata-indian-premier-league-2023-24/cricket-news/ipl-2024-coaches-full-coaching-support-staff-for-each-indian-premier-league-team |url-status=live }}</ref>
+! scope="col" | Incoming<ref>{{Cite web |date=2025-03-18 |title=IPL 2025: Who Are The Captains And Coaching Staff Of Each Team? |url=https://www.wisden.com/series/ipl-2025/cricket-news/ipl-2025-who-are-the-captains-and-coaching-staff-of-each-team |access-date=2025-04-10 |website=Wisden |language=en |archive-url=https://web.archive.org/web/20250621155521/https://www.wisden.com/series/ipl-2025/cricket-news/ipl-2025-who-are-the-captains-and-coaching-staff-of-each-team |archive-date=2025-06-21}}</ref>
+! scope="col" class="unsortable" | {{Ref.}}
+|-
+! scope="row" | [[Chennai Super Kings]]
+| Bowling coach || {{sortname|Dwayne|Bravo}} || {{N/A}} || <ref name=bravo>{{cite web|title=Dwayne Bravo parts ways with CSK, joins KKR as mentor for IPL 2025|url=https://www.espncricinfo.com/story/dwayne-bravo-parts-ways-with-csk-joins-kkr-as-mentor-for-ipl-2025-1452787|access-date=2024-09-27|publisher=[[Cricinfo]]|language=en|archive-date=9 October 2024|archive-url=https://web.archive.org/web/20241009174446/https://www.espncricinfo.com/story/dwayne-bravo-parts-ways-with-csk-joins-kkr-as-mentor-for-ipl-2025-1452787|url-status=live}}</ref>
+|-
+! scope="rowgroup" rowspan="5" | [[Delhi Capitals]]
+| Head coach || {{sortname|Ricky|Ponting}} || {{sortname|Hemang|Badani}} || <ref>{{Cite web |title=Ricky Ponting and Delhi Capitals part ways |url=https://www.espncricinfo.com/story/ricky-ponting-and-delhi-capitals-part-ways-1443237 |access-date=2024-10-08 |publisher=[[Cricinfo]] |language=en |archive-date=8 October 2024 |archive-url=https://web.archive.org/web/20241008110847/https://www.espncricinfo.com/story/ricky-ponting-and-delhi-capitals-part-ways-1443237 |url-status=live}}</ref><ref name=badani>{{Cite web |title=Hemang Badani to take over as Delhi Capitals head coach |url=https://www.espncricinfo.com/story/ipl-2025-badani-to-take-over-as-dc-head-coach-1455673 |archive-url=https://web.archive.org/web/20250429135324/https://www.espncricinfo.com/story/ipl-2025-badani-to-take-over-as-dc-head-coach-1455673 |archive-date=29 April 2025 |access-date=2025-11-22 |publisher=[[Cricinfo]] |language=en |url-status=live }}</ref>
+|-
+| Assistant coach || {{sortname|Pravin|Amre}}<br/>{{sortname|Ajit|Agarkar}} || {{sortname|Matthew|Mott}} || <ref>{{Cite web|title=IPL 2025: Pravin Amre Set To Part Ways With Delhi Capitals After Nine Years Of Service|url=https://cricket.one/cricket-news/ipl-2025-pravin-amre-set-to-part-ways-with-delhi-capitals-after-nine-years-of-service/6715f74961fef6eaeec8ac0d|access-date=2024-10-21|website=OneCricket|date=21 October 2024|language=en|archive-date=28 October 2024|archive-url=https://web.archive.org/web/20241028154836/https://cricket.one/cricket-news/ipl-2025-pravin-amre-set-to-part-ways-with-delhi-capitals-after-nine-years-of-service/6715f74961fef6eaeec8ac0d|url-status=live}}</ref><ref>{{Cite web |date=2025-02-25 |title=Matthew Mott joins Delhi Capitals as assistant coach |url=https://www.espn.co.uk/cricket/story/_/id/44007001/ipl-2025-dc-news-matthew-mott-joins-delhi-capitals-assistant-coach |access-date=2025-11-22 |website=[[Espn.co.uk]] |language=en}}</ref>
+|-
+| Bowling coach || {{sortname|James|Hopes}} || {{sortname|Munaf|Patel}} ||<ref>{{Cite web |title=IPL 2025: Munaf Patel joins Delhi Capitals as bowling coach |url=https://www.espncricinfo.com/story/ipl-2025-munaf-patel-joins-delhi-capitals-as-bowling-coach-1459344 |access-date=2024-11-12 |publisher=[[Cricinfo]] |language=en |archive-date=25 November 2024 |archive-url=https://web.archive.org/web/20241125110030/https://www.espncricinfo.com/story/ipl-2025-munaf-patel-joins-delhi-capitals-as-bowling-coach-1459344 |url-status=live }}</ref>
+|-
+| Fielding coach || {{sortname|Biju|George}} || {{sortname|Anton|Roux}}<br/>{{sortname|Gnaneswara|Rao|dab=cricketer}} || <ref>{{Cite web |date=2025-02-24 |title=IPL 2025: KKR appoint former Delhi Capitals coach as Head of Scouting |url=https://www.mykhel.com/cricket/ipl-2025-kkr-appoint-former-delhi-capitals-coach-as-head-of-scouting-343297.html |access-date=2025-11-22 |website=Mykhel.com |language=en}}</ref><ref>{{Cite web |date=2025-03-11 |title=IPL 2025: Delhi Capitals rope in 2 new coaches days ahead of the tournament |url=https://cricketaddictor.com/cricket-news/ipl-2025-delhi-capitals-rope-in-2-new-coaches-days-ahead-of-the-tournament-116063/ |access-date=2025-11-22 |work=Cricket Addictor |language=en-us |archive-date=22 April 2025 |archive-url=https://web.archive.org/web/20250422193733/https://cricketaddictor.com/cricket-news/ipl-2025-delhi-capitals-rope-in-2-new-coaches-days-ahead-of-the-tournament-116063/ |url-status=live }}</ref>
+|-
+| Mentor || {{N/A}} || {{sortname|Kevin|Pietersen}} ||<ref>{{Cite web |title=Kevin Pietersen joins Delhi Capitals as team mentor |url=https://www.espncricinfo.com/story/ipl-2025-kevin-pietersen-joins-delhi-capitals-as-team-mentor-1475039 |access-date=2025-02-27 |publisher=[[Cricinfo]] |language=en}}</ref>
+|-
+! scope="rowgroup" rowspan="2" | [[Gujarat Titans]]
+| Assistant coach || {{sortname|Mithun|Manhas}} || {{sortname|Matthew|Wade}} || <ref>{{cite web|url=https://m.cricbuzz.com/cricket-news/133709/matthew-wade-returns-to-gujarat-titans-as-assistant-coach|title=Matthew Wade returns to Gujarat Titans as Assistant Coach|date=9 March 2025|publisher=[[Cricbuzz]]|access-date=10 March 2025|archive-date=29 March 2025|archive-url=https://web.archive.org/web/20250329182546/https://m.cricbuzz.com/cricket-news/133709/matthew-wade-returns-to-gujarat-titans-as-assistant-coach|url-status=live}}</ref>
+|-
+| Batting coach and mentor || {{sortname|Gary|Kirsten}} || {{sortname|Parthiv|Patel}} || <ref>{{Cite web|title=IPL: Parthiv Patel set to join Gujarat Titans as batting mentor|url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-parthiv-patel-set-to-join-gujarat-titans-as-batting-mentor/articleshow/114462746.cms|access-date=2024-10-22|work=[[The Times of India]]|date=22 October 2024|language=en|archive-date=6 December 2024|archive-url=https://web.archive.org/web/20241206183354/https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-parthiv-patel-set-to-join-gujarat-titans-as-batting-mentor/articleshow/114462746.cms|url-status=live}}</ref>
+|-
+! scope="rowgroup" rowspan="2" | [[Kolkata Knight Riders]]
+| Assistant coach || {{sortname|Abhishek|Nayar}}<br/>{{sortname|Omkar|Salvi}}<br/>{{sortname|Ryan ten|Doeschate}} || {{sortname|Ottis|Gibson}}<br/>{{sortname|Carl|Crowe}} || <ref name=salvi/><ref>{{cite web|url=https://m.cricbuzz.com/cricket-news/133703/ottis-gibson-joins-kkr-as-assistant-coach|title=Ottis Gibson joins KKR as Assistant Coach|publisher=[[Cricbuzz]]|date=8 March 2025|access-date=10 March 2025|archive-date=29 March 2025|archive-url=https://web.archive.org/web/20250329182528/https://m.cricbuzz.com/cricket-news/133703/ottis-gibson-joins-kkr-as-assistant-coach|url-status=live}}</ref><ref>{{Cite news |title=IPL 2025: Spin Could Play Key Role, Says KKR Bowling Coach Carl Crowe Ahead Of GT Clash |url=https://sports.ndtv.com/ipl-2025/ipl-2025-spin-could-play-key-role-says-kkr-bowling-coach-carl-crowe-ahead-of-gt-clash-8211981 |archive-url=https://web.archive.org/web/20250516144100/https://sports.ndtv.com/ipl-2025/ipl-2025-spin-could-play-key-role-says-kkr-bowling-coach-carl-crowe-ahead-of-gt-clash-8211981 |archive-date=16 May 2025 |access-date=2025-11-22 |work=[[NDTV Sports]] |url-status=live }}</ref>
+|-
+| Mentor || {{sortname|Gautam|Gambhir}} || {{sortname|Dwayne|Bravo}} || <ref name=bravo/>
+|-
+! scope="row" | [[Lucknow Super Giants]]
+| Mentor || {{N/A}} || {{sortname|Zaheer|Khan}} || <ref>{{Cite web|title=IPL 2025: Zaheer Khan joins LSG as mentor|url=https://www.espncricinfo.com/story/ipl-2025-zaheer-khan-to-join-lucknow-super-giants-as-mentor-1448743|access-date=2024-08-28|publisher=[[Cricinfo]]|language=en|archive-date=25 September 2024|archive-url=https://web.archive.org/web/20240925052556/https://www.espncricinfo.com/story/ipl-2025-zaheer-khan-to-join-lucknow-super-giants-as-mentor-1448743|url-status=live}}</ref>
+|-
+! scope="rowgroup" rowspan="3" | [[Mumbai Indians]]
+| Head coach || {{sortname|Mark|Boucher}} || {{sortname|Mahela|Jayawardene}} || <ref>{{Cite web|title=2017, 2019, 2020, check. The MJ era returns to pocket IPL 2025|url=https://www.mumbaiindians.com/news/2017-2019-2020-check-the-mj-era-returns-to-pocket-ipl-2025-mahela-jayawardene|access-date=2024-10-28|publisher=[[Mumbai Indians]]|date=14 October 2024|language=en|archive-date=9 January 2025|archive-url=https://web.archive.org/web/20250109170741/https://www.mumbaiindians.com/news/2017-2019-2020-check-the-mj-era-returns-to-pocket-ipl-2025-mahela-jayawardene|url-status=live}}</ref>
+|-
+| Bowling coach || {{N/A}} || {{sortname|Paras|Mhambrey}} || <ref>{{Cite web|title=Paras Mhambrey joins Mumbai Indians as bowling coach|url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/paras-mhambrey-joins-mumbai-indians-as-bowling-coach/articleshow/114181736.cms|access-date=2024-10-13|website=[[The Times of India]]|date=13 October 2024 |language=en|archive-date=19 November 2024|archive-url=https://web.archive.org/web/20241119010639/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/paras-mhambrey-joins-mumbai-indians-as-bowling-coach/articleshow/114181736.cms|url-status=live}}</ref>
+|-
+| Fielding coach || {{sortname|James|Pamment}} || {{sortname|Carl|Hopkinson}} || <ref>{{Cite web|url=https://www.espncricinfo.com/story/ipl-2025-mumbai-indians-appoint-carl-hopkinson-as-fielding-coach-1464817|title=Carl Hopkinson replaces James Pamment as Mumbai Indians' fielding coach|publisher=[[Cricinfo]]|date=2024-12-13|access-date=11 March 2025|archive-date=12 March 2025|archive-url=https://web.archive.org/web/20250312121951/https://www.espncricinfo.com/story/ipl-2025-mumbai-indians-appoint-carl-hopkinson-as-fielding-coach-1464817|url-status=live}}</ref>
+|-
+! scope="rowgroup" rowspan="2" | [[Punjab Kings]]
+| Head coach || {{sortname|Trevor|Bayliss}} || {{sortname|Ricky|Ponting}} || <ref>{{Cite news|title=Ponting appointed Punjab Kings head coach|url=https://www.espncricinfo.com/story/ipl-2025-ricky-ponting-appointed-punjab-kings-head-coach-1449547|access-date=2024-09-18|publisher=[[Cricinfo]]|archive-date=9 October 2024|archive-url=https://web.archive.org/web/20241009174502/https://www.espncricinfo.com/story/ipl-2025-ricky-ponting-appointed-punjab-kings-head-coach-1449547|url-status=live}}</ref>
+|-
+| Bowling coach || {{sortname|Charl|Langeveldt}} || {{sortname|James|Hopes}} ||<ref>{{cite web|url=https://www.crictracker.com/cricket-news/reports-james-hopes-set-to-become-fast-bowling-coach-of-punjab-kings-9966-4595/|title=James Hopes set to become fast-bowling coach of Punjab Kings|work=CricTracker|date=2024-10-17|access-date=11 March 2025|archive-date=12 March 2025|archive-url=https://web.archive.org/web/20250312122105/https://www.crictracker.com/cricket-news/reports-james-hopes-set-to-become-fast-bowling-coach-of-punjab-kings-9966-4595/|url-status=live}}</ref>
+|-
+! scope="rowgroup" rowspan="2" | [[Rajasthan Royals]]
+| Head coach || {{sortname|Kumar|Sangakkara}} || {{sortname|Rahul|Dravid}} || <ref>{{Cite web |title=Dravid unveiled as Rajasthan Royals head coach |url=https://www.espncricinfo.com/story/rahul-dravid-unveiled-as-rajasthan-royals-head-coach-1450060 |date=2024-09-06 |publisher=[[Cricinfo]] |access-date=18 November 2024 |archive-date=10 October 2024 |archive-url=https://web.archive.org/web/20241010001022/https://www.espncricinfo.com/story/rahul-dravid-unveiled-as-rajasthan-royals-head-coach-1450060 |url-status=live}}</ref>
+|-
+| Batting coach || {{N/A}} || {{sortname|Vikram|Rathour}} || <ref>{{Cite web|title=Rathour joins Rajasthan Royals as batting coach|url=https://www.espncricinfo.com/story/ipl-vikram-rathour-joins-rajasthan-royals-as-batting-coach-1451830|date=2024-09-20|publisher=[[Cricinfo]]|access-date=18 November 2024|archive-date=9 October 2024|archive-url=https://web.archive.org/web/20241009174455/https://www.espncricinfo.com/story/ipl-vikram-rathour-joins-rajasthan-royals-as-batting-coach-1451830|url-status=live}}</ref>
+|-
+! scope="row" rowspan="2" | [[Royal Challengers Bengaluru]]
+| Batting coach and mentor || {{sortname|Neil|McKenzie}} || {{sortname|Dinesh|Karthik}} || <ref>{{Cite web|title=Dinesh Karthik named RCB batting coach and mentor|url=https://www.espncricinfo.com/story/ipl-karthik-named-royal-challengers-bengaluru-batting-coach-and-mentor-1441786|date=2024-07-01|publisher=[[Cricinfo]]|access-date=18 November 2024|archive-date=3 July 2024|archive-url=https://web.archive.org/web/20240703215228/https://www.espncricinfo.com/story/ipl-karthik-named-royal-challengers-bengaluru-batting-coach-and-mentor-1441786|url-status=live}}</ref>
+|-
+| Bowling coach || {{sortname|Adam|Griffith}} || {{sortname|Omkar|Salvi}} || <ref name=salvi>{{cite web|url=https://m.cricbuzz.com/cricket-news/132462/rcb-sign-omkar-salvi-as-mens-bowling-coach-for-ipl-2025|title=RCB sign Omkar Salvi as men's bowling coach for IPL 2025|date=18 November 2024|publisher=[[Cricbuzz]]|language=en|access-date=17 March 2025|archive-date=29 March 2025|archive-url=https://web.archive.org/web/20250329182624/https://m.cricbuzz.com/cricket-news/132462/rcb-sign-omkar-salvi-as-mens-bowling-coach-for-ipl-2025|url-status=live}}</ref>
+|-
+! scope="rowgroup" rowspan="2" | [[Sunrisers Hyderabad]]
+| Batting coach || {{sortname|Hemang|Badani}} || {{N/A}} || <ref name=badani/>
+|-
+| Bowling coach || {{sortname|Dale|Steyn}} || {{sortname|James|Franklin|dab=cricketer}} || <ref>{{Cite web|title=Steyn and Sunrisers Hyderabad part ways before IPL 2025|url=https://www.espncricinfo.com/story/ipl-2025-dale-steyn-not-to-return-as-srh-bowling-coach-1455621|access-date=2024-10-17|publisher=[[Cricinfo]]|language=en|archive-date=31 October 2024|archive-url=https://web.archive.org/web/20241031032416/https://www.espncricinfo.com/story/ipl-2025-dale-steyn-not-to-return-as-srh-bowling-coach-1455621|url-status=live}}</ref>
+|}
+
+== Withdrawn players ==
+The following players were ruled out and/or unavailable for the rest of the season due to either injury or national duties. The franchises were allowed to pick a replacement player from the unsold players at the auction to replace the withdrawn players.<ref>{{Cite web |date=2025-05-14 |title=Explained: The Updated IPL Player Replacement Rules Ahead Of Resumption |url=https://www.wisden.com/series/ipl-2025/cricket-news/explained-the-updated-ipl-player-replacement-rules-after-leagues-suspension |access-date=2026-01-15 |website=Wisden |language=en |archive-date=16 May 2025 |archive-url=https://web.archive.org/web/20250516113751/https://www.wisden.com/series/ipl-2025/cricket-news/explained-the-updated-ipl-player-replacement-rules-after-leagues-suspension |url-status=live }}</ref><ref>{{Cite web |date=2025-05-14 |title=IPL 2025: Jamie Overton withdraws as league revises replacement rules |url=https://www.bbc.com/sport/cricket/articles/c5ygdzepxlqo |access-date=2026-01-15 |website=[[BBC Sport]] |language=en-GB |archive-date=15 May 2025 |archive-url=https://web.archive.org/web/20250515033814/https://www.bbc.com/sport/cricket/articles/c5ygdzepxlqo |url-status=live }}</ref>
+
+: ''{{double dagger}} denotes temporary replacement players.''
+{| class="wikitable sortable plainrowheaders" style="font-size:85%;"
+|+ Withdrawn players from the 2025 Indian Premier League
+! scope="col" | Player
+! scope="col" | Team
+! scope="col" | Auctioned/retention price
+! scope="col" | Reason
+! scope="col" | Withdrawal announcement date
+! scope="col" | Replacement player
+! scope="col" | Replacement player's price<ref>[[#Auction List|2025 IPL Auction List]]</ref>
+! scope="col" | Signing date
+! scope="col" class="unsortable" | {{Ref.}}
+|-
+! scope="row" | {{sortname|Allah Mohammad|Ghazanfar}}
+| [[Mumbai Indians]] || {{INRConvert|4.80|c}} || Back injury || 16 February 2025 || {{sortname|Mujeeb Ur|Rahman}} || {{INRConvert|2|c}} || 16 February 2025 || <ref>{{Cite web|title=Mujeeb Ur Rahman replaces injured AM Ghazanfar in Mumbai Indians' squad for IPL 2025|url=https://www.espncricinfo.com/story/ipl-2025-mujeeb-ur-rahman-replaces-injured-am-ghazanfar-for-mi-1473416|publisher=[[Cricinfo]]|language=en|access-date=16 February 2024|archive-date=16 February 2025|archive-url=https://web.archive.org/web/20250216091519/https://www.espncricinfo.com/story/ipl-2025-mujeeb-ur-rahman-replaces-injured-am-ghazanfar-for-mi-1473416|url-status=live}}</ref>
+|-
+! scope="row" | {{sortname|Brydon|Carse}}
+| [[Sunrisers Hyderabad]] || {{INRConvert|1|c}} || Toe injury || 6 March 2025 || {{sortname|Wiaan|Mulder}} || {{INRConvert|75|l}} || 6 March 2025 || <ref>{{Cite web|title=Injured Carse ruled out of IPL 2025, SRH sign Mulder as replacement|url=https://www.espncricinfo.com/story/ipl-2025-wiaan-mulder-replaces-injured-brydon-carse-for-srh-1476166|publisher=[[Cricinfo]]|language=en|access-date=6 March 2024|archive-date=6 March 2025|archive-url=https://web.archive.org/web/20250306132101/https://www.espncricinfo.com/story/ipl-2025-wiaan-mulder-replaces-injured-brydon-carse-for-srh-1476166|url-status=live}}</ref>
+|-
+! scope="row" | {{sortname|Lizaad|Williams}}
+| [[Mumbai Indians]] || {{INRConvert|75|l}} || Knee injury || 8 March 2025 || {{sortname|Corbin|Bosch}} || {{INRConvert|75|l}} || 8 March 2025 || <ref>{{Cite web|title=Corbin Bosch replaces injured Lizaad Williams at Mumbai Indians|url=https://www.espncricinfo.com/story/ipl-2025-corbin-bosch-replaces-injured-lizaad-williams-at-mumbai-indians-1476356|publisher=[[Cricinfo]]|language=en|access-date=10 March 2024|archive-date=8 March 2025|archive-url=https://web.archive.org/web/20250308195728/https://www.espncricinfo.com/story/ipl-2025-corbin-bosch-replaces-injured-lizaad-williams-at-mumbai-indians-1476356|url-status=live}}</ref>
+|-
+! scope="row" | {{sortname|Harry|Brook}}
+| [[Delhi Capitals]] || {{INRConvert|6.25|c}} || National duty || 9 March 2025 || {{sortname|Sediqullah|Atal}} || {{INRConvert|1.25|c}} || 7 May 2025 || <ref>{{Cite web|title=Harry Brook pulls out of IPL for second year running|url=https://www.espncricinfo.com/story/harry-brook-pulls-out-of-ipl-for-second-year-running-1476573|publisher=[[Cricinfo]]|language=en|access-date=10 March 2024|archive-date=9 March 2025|archive-url=https://web.archive.org/web/20250309164820/https://www.espncricinfo.com/story/harry-brook-pulls-out-of-ipl-for-second-year-running-1476573|url-status=live}}</ref><ref>{{Cite web |date=2025-05-24 |title=Who Is Sediqullah Atal? Afghan Batter Who Hit Seven Sixes In An Over Makes IPL Debut |url=https://www.cricket.com/news/who-is-sediqullah-atal-afghan-batter-who-hit-seven-sixes-in-an-over-makes-ipl-debut-5242025-1748095957209 |access-date=2025-11-21 |website=Cricket.com |language=en |archive-date=24 May 2025 |archive-url=https://web.archive.org/web/20250524215407/https://www.cricket.com/news/who-is-sediqullah-atal-afghan-batter-who-hit-seven-sixes-in-an-over-makes-ipl-debut-5242025-1748095957209 |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Umran|Malik}}
+| [[Kolkata Knight Riders]] || {{INRConvert|75|l}} || Injury || 16 March 2025 || {{sortname|Chetan|Sakariya}} || {{INRConvert|75|l}} || 16 March 2025 || <ref>{{cite web|url=https://www.cricbuzz.com/cricket-news/133765/kkr-sign-chetan-sakariya-as-replacement-for-umran-malik|title=KKR sign Chetan Sakariya as replacement for Umran Malik|publisher=[[Cricbuzz]]|date=16 March 2025|language=en|access-date=21 June 2025|archive-date=21 June 2025|archive-url=https://web.archive.org/web/20250621155058/https://www.cricbuzz.com/cricket-news/133765/kkr-sign-chetan-sakariya-as-replacement-for-umran-malik|url-status=live}}</ref>
+|-
+! scope="row" | {{sortname|Mohsin|Khan|dab=Indian cricketer}}
+| [[Lucknow Super Giants]] || {{INRConvert|4|c}} || ACL tear || 23 March 2025 || {{sortname|Shardul|Thakur}} || {{INRConvert|2|c}} || 23 March 2025 || <ref>{{cite web|url=http://www.cricbuzz.com/cricket-news/133819/shardul-thakur-to-replace-injured-mohsin-khan-at-lsg|title=Shardul Thakur to replace injured Mohsin Khan at LSG|publisher=[[Cricbuzz]]|date=23 March 2025|language=en|access-date=24 March 2025|archive-date=23 March 2025|archive-url=https://web.archive.org/web/20250323100615/https://www.cricbuzz.com/cricket-news/133819/shardul-thakur-to-replace-injured-mohsin-khan-at-lsg|url-status=live}}</ref>
+|-
+! scope="row" | {{sortname|Ruturaj|Gaikwad}}
+| [[Chennai Super Kings]] || {{INRConvert|18|c}} || Elbow injury || 10 April 2025 || {{sortname|Ayush|Mhatre}} || {{INRConvert|75|l}} || 14 April 2025 || <ref name=":0">{{Cite web |date=14 April 2025 |title=CSK pick Ayush Mhatre as injury replacement for Ruturaj Gaikwad, SRH sign Smaran Ravichandran for the injured Adam Zampa |url=https://www.iplt20.com/news/4161/csk-pick-ayush-mhatre-as-injury-replacement-for-ruturaj-gaikwad-srh-sign-smaran-ravichandran-for-the-injured-adam-zampa |website=[[IPLT20.com]] |access-date=15 April 2025 |archive-date=15 April 2025 |archive-url=https://web.archive.org/web/20250415071718/https://www.iplt20.com/news/4161/csk-pick-ayush-mhatre-as-injury-replacement-for-ruturaj-gaikwad-srh-sign-smaran-ravichandran-for-the-injured-adam-zampa |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Glenn|Phillips|dab=cricketer}}
+| [[Gujarat Titans]] || {{INRConvert|2|c}} || Groin injury || 12 April 2025 || {{sortname|Dasun|Shanaka}} || {{INRConvert|75|l}} || 17 April 2025 || <ref>{{Cite web|title=Gujarat Titans sign Sri Lanka's Dasun Shanaka as replacement for Glenn Phillips|url=https://www.hindustantimes.com/cricket/gujarat-titans-sign-sri-lankas-dasun-shanaka-as-replacement-for-glenn-phillips-101744935945750.html|work=[[Hindustan Times]]|language=en|date=17 April 2025|access-date=18 April 2025|archive-date=19 April 2025|archive-url=https://web.archive.org/web/20250419043133/https://www.hindustantimes.com/cricket/gujarat-titans-sign-sri-lankas-dasun-shanaka-as-replacement-for-glenn-phillips-101744935945750.html|url-status=live}}</ref>
+|-
+! scope="row" | {{sortname|Lockie|Ferguson}}
+| [[Punjab Kings]] || {{INRConvert|2|c}} || Hamstring injury || 13 April 2025 || {{sortname|Kyle|Jamieson}} {{double dagger}} || {{INRConvert|2|c}} || 15 May 2025 || <ref name=":1" >{{Cite web |date=15 May 2025 |title=PBKS, GT, and LSG announce replacements |url=https://www.iplt20.com/news/4212/pbks-gt-and-lsg-announce-replacements |website=[[IPLT20.com]] |access-date=15 May 2025 |archive-date=15 May 2025 |archive-url=https://web.archive.org/web/20250515145100/https://www.iplt20.com/news/4212/pbks-gt-and-lsg-announce-replacements |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Adam|Zampa}}
+| [[Sunrisers Hyderabad]] || {{INRConvert|2.40|c}} || Shoulder injury || 14 April 2025 || {{sortname|Smaran|Ravichandran}} || {{INRConvert|30|l}} || 14 April 2025 || <ref name=":0" />
+|-
+! scope="row" | {{sortname|Gurjapneet|Singh}}
+| [[Chennai Super Kings]] || {{INRConvert|2.2|c}} || Injury || 18 April 2025 || {{sortname|Dewald|Brevis}} || {{INRConvert|2.2|c}} || 18 April 2025 || <ref>{{Cite web |date=18 April 2025 |title=Chennai Super Kings sign Dewald Brevis as a replacement for the injured Gurjapneet Singh |url=https://www.iplt20.com/news/4168/chennai-super-kings-sign-dewald-brevis-as-a-replacement-for-the-injured-gurjapneet-singh |website=[[IPLT20.com]] |access-date=18 April 2025 |archive-date=18 April 2025 |archive-url=https://web.archive.org/web/20250418102216/https://www.iplt20.com/news/4168/chennai-super-kings-sign-dewald-brevis-as-a-replacement-for-the-injured-gurjapneet-singh |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Vignesh|Puthur}}
+| [[Mumbai Indians]] || {{INRConvert|30|l}} || Shin bones injury || 1 May 2025 || {{sortname|Raghu|Sharma|dab=cricketer}} || {{INRConvert|30|l}} || 1 May 2025 || <ref>{{cite web|title=MI replace Vignesh Puthur with Raghu Sharma for remainder of IPL |date=1 May 2025 |url=https://www.hindustantimes.com/cricket/mi-replace-vignesh-puthur-with-raghu-sharma-for-remainder-of-ipl-101746083947872.html |work=[[Hindustan Times]]}}</ref>
+|-
+! scope="row" | {{sortname|Glenn|Maxwell}}
+| [[Punjab Kings]] || {{INRConvert|4.2|c}} || Finger injury || 1 May 2025 || {{sortname|Mitchell|Owen}} || {{INRConvert|3|c}} || 3 May 2025 || <ref>{{Cite web |date=3 May 2025 |title=Punjab Kings pick Mitch Owen as a replacement for the injured Glenn Maxwell |url=https://www.iplt20.com/news/4193/punjab-kings-pick-mitch-owen-as-a-replacement-for-the-injured-glenn-maxwell |website=[[IPLT20.com]] |access-date=5 May 2025 |archive-date=5 May 2025 |archive-url=https://web.archive.org/web/20250505174939/https://www.iplt20.com/news/4193/punjab-kings-pick-mitch-owen-as-a-replacement-for-the-injured-glenn-maxwell |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Vansh|Bedi}}
+| [[Chennai Super Kings]] || {{INRConvert|55|l}} || Ankle injury || 5 May 2025 || {{sortname|Urvil|Patel}} || {{INRConvert|30|l}} || 5 May 2025 || <ref>{{Cite web |date=5 May 2025 |title=CSK sign Urvil Patel as a replacement for injured Vansh Bedi |url=https://www.espncricinfo.com/story/ipl-2025-csk-sign-urvil-patel-as-a-replacement-for-injured-vansh-bedi-1484766 |publisher=[[Cricinfo]] |access-date=5 May 2025 |archive-date=5 May 2025 |archive-url=https://web.archive.org/web/20250505185037/https://www.espncricinfo.com/story/ipl-2025-csk-sign-urvil-patel-as-a-replacement-for-injured-vansh-bedi-1484766 |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Smaran|Ravichandran}}
+| [[Sunrisers Hyderabad]] || {{INRConvert|30|l}} || Injury || 5 May 2025 || {{sortname|Harsh|Dubey}} || {{INRConvert|30|l}} || 5 May 2025 ||<ref>{{Cite web |date=5 May 2025 |title=Sunrisers Hyderabad sign Harsh Dubey as injury replacement for Smaran Ravichandran |url=https://www.iplt20.com/news/4196/sunrisers-hyderabad-sign-harsh-dubey-as-injury-replacement-for-smaran-ravichandran |website=[[IPLT20.com]] |access-date=8 May 2025 |archive-date=8 May 2025 |archive-url=https://web.archive.org/web/20250508093754/https://www.iplt20.com/news/4196/sunrisers-hyderabad-sign-harsh-dubey-as-injury-replacement-for-smaran-ravichandran |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Devdutt|Padikkal}}
+| [[Royal Challengers Bengaluru]] || {{INRConvert|2|c}}|| Right hamstring injury || 7 May 2025 || {{sortname|Mayank|Agarwal}} || {{INRConvert|1|c}} || 7 May 2025 || <ref>{{Cite web |date=May 7, 2025 |title=Royal Challengers Bengaluru sign Mayank Agarwal as injury replacement for Devdutt Padikkal |url=https://www.iplt20.com/news/4204/royal-challengers-bengaluru-sign-mayank-agarwal-as-injury-replacement-for-devdutt-padikkal |website=[[IPLT20.com]] |access-date=7 May 2025 |archive-date=14 May 2025 |archive-url=https://web.archive.org/web/20250514101946/https://www.iplt20.com/news/4204/royal-challengers-bengaluru-sign-mayank-agarwal-as-injury-replacement-for-devdutt-padikkal |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Nitish|Rana}}
+| [[Rajasthan Royals]] || {{INRConvert|4.2|c}}|| Calf injury || 8 May 2025 || {{sortname|Lhuan-dre|Pretorius}} || {{INRConvert|30|l}} || 8 May 2025 || <ref>{{Cite web |date=May 8, 2025 |title=Rajasthan Royals pick Lhuan-dre Pretorius for the injured Nitish Rana|url=https://www.iplt20.com/news/4202/rajasthan-royals-pick-lhuan-dre-pretorius-for-the-injured-nitish-rana |website=[[IPLT20.com]]}}</ref>
+|-
+! scope="row" | {{sortname|Sandeep|Sharma}}
+| [[Rajasthan Royals]] || {{INRConvert|4|c}}|| Finger injury || 8 May 2025 || {{sortname|Nandre|Burger}} || {{INRConvert|3.5|c}} || 8 May 2025 || <ref>{{Cite web |date=May 8, 2025 |title=Rajasthan Royals pick Nandre Burger as injury replacement for Sandeep Sharma |url=https://www.iplt20.com/news/4206/rajasthan-royals-pick-nandre-burger-as-injury-replacement-for-sandeep-sharma |website=[[IPLT20.com]] |access-date=8 May 2025 |archive-date=8 May 2025 |archive-url=https://web.archive.org/web/20250508093146/https://www.iplt20.com/news/4206/rajasthan-royals-pick-nandre-burger-as-injury-replacement-for-sandeep-sharma |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Jake|Fraser-McGurk}}
+| [[Delhi Capitals]] || {{INRConvert|9|c}}|| Personal reasons || 14 May 2025 || {{sortname|Mustafizur|Rahman}} {{double dagger}} || {{INRConvert|6|c}} || 14 May 2025 || <ref>{{Cite web |date=May 14, 2025 |title=DC sign Mustafizur Rahman as replacement for Jake Fraser-McGurk |url=https://www.iplt20.com/news/4211/dc-sign-mustafizur-rahman-as-replacement-for-jake-fraser-mcgurk |website=[[IPLT20.com]] |access-date=14 May 2025 |archive-date=14 May 2025 |archive-url=https://web.archive.org/web/20250514152722/https://www.iplt20.com/news/4211/dc-sign-mustafizur-rahman-as-replacement-for-jake-fraser-mcgurk |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Jos|Buttler}}
+| [[Gujarat Titans]] || {{INRConvert|15.75|c}}|| National duty || 15 May 2025 || {{sortname|Kusal|Mendis}} {{double dagger}} || {{INRConvert|75|l}} || 15 May 2025 ||<ref name=":1" />
+|-
+! scope="row" | {{sortname|Mayank|Yadav}}
+| [[Lucknow Super Giants]] || {{INRConvert|11|c}}|| Back injury || 15 May 2025 || {{sortname|Will|O'Rourke|dab=cricketer}} {{double dagger}} || {{INRConvert|3|c}} || 15 May 2025 ||<ref name=":1" />
+|-
+! scope="row" | {{sortname|Rovman|Powell}}
+| [[Kolkata Knight Riders]] || {{INRConvert|1.5|c}}|| Tonsils || 15 May 2025 || {{sortname|Shivam|Shukla}} {{double dagger}} || {{INRConvert|30|l}} || 19 May 2025 || <ref>{{Cite news |date=2025-05-15 |title=IPL 2025: Which overseas players will be returning for remaining matches? And how many will be missing out? |url=https://www.firstpost.com/firstcricket/ipl-2025-restart-how-many-overseas-players-will-be-returning-for-remaining-matches-missing-out-13888578.html |archive-url=https://web.archive.org/web/20250515033546/https://www.firstpost.com/firstcricket/ipl-2025-restart-how-many-overseas-players-will-be-returning-for-remaining-matches-missing-out-13888578.html |archive-date=15 May 2025 |access-date=2026-01-23 |work=[[Firstpost]] |language=en-IN |url-status=live }}</ref><ref name=":2" >{{Cite web |date=May 19, 2025 |title=Kolkata Knight Riders and Royal Challengers Bengaluru pick player replacements |url=https://www.iplt20.com/news/4215/kolkata-knight-riders-and-royal-challengers-bengaluru-pick-player-replacements |website=[[IPLT20.com]] |access-date=19 May 2025 |archive-date=15 June 2025 |archive-url=https://web.archive.org/web/20250615175329/https://www.iplt20.com/news/4215/kolkata-knight-riders-and-royal-challengers-bengaluru-pick-player-replacements |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Lungi|Ngidi}}
+| [[Royal Challengers Bengaluru]] || {{INRConvert|1|c}}|| National duty || 19 May 2025 || {{sortname|Blessing|Muzarabani}} {{double dagger}} || {{INRConvert|75|l}} || 26 May 2025 ||<ref name=":2" />
+|-
+! scope="row" | {{sortname|Will|Jacks}}
+| [[Mumbai Indians]] || {{INRConvert|5.25|c}}|| National duty || 20 May 2025 || {{sortname|Jonny|Bairstow}} {{double dagger}} || {{INRConvert|5.25|c}} || 19 May 2025 || <ref name=":3" >{{Cite web |date=May 20, 2025 |title=Mumbai Indians sign Jonny Bairstow, Richard Gleeson and Charith Asalanka |url=https://www.iplt20.com/news/4219/mumbai-indians-sign-jonny-bairstow-richard-gleeson-and-charith-asalanka |website=[[IPLT20.com]] |access-date=20 May 2025 |archive-date=21 May 2025 |archive-url=https://web.archive.org/web/20250521191447/https://www.iplt20.com/news/4219/mumbai-indians-sign-jonny-bairstow-richard-gleeson-and-charith-asalanka |url-status=live }}</ref>
+|-
+! scope="row" | {{sortname|Ryan|Rickelton}}
+| [[Mumbai Indians]] || {{INRConvert|1|c}}|| National duty || 20 May 2025 || {{sortname|Richard|Gleeson}} {{double dagger}} || {{INRConvert|1|c}} || 19 May 2025 ||<ref name=":3" />
+|-
+! scope="row" | {{sortname|Corbin|Bosch}}
+| [[Mumbai Indians]] || {{INRConvert|75|l}}|| National duty || 20 May 2025 || {{sortname|Charith|Asalanka}} {{double dagger}} || {{INRConvert|75|l}} || 20 May 2025 ||<ref name=":3" />
+|-
+! scope="row" | {{sortname|Jacob|Bethell}}
+| [[Royal Challengers Bengaluru]] || {{INRConvert|2.6|c}}|| National duty || 22 May 2025 || {{sortname|Tim|Seifert}} {{double dagger}} || {{INRConvert|2|c}} || 22 May 2025 || <ref>{{Cite web |date=May 22, 2025 |title=Royal Challengers Bengaluru sign Tim Seifert as Jacob Bethell set to leave for England national duties|url=https://www.iplt20.com/news/4225/royal-challengers-bengaluru-sign-tim-seifert-as-jacob-bethell-set-to-leave-for-england-national-duties |website=[[IPLT20.com]]}}</ref>
+|}
+
+== References ==
+{{reflist}}
+
+=== General references ===
+* {{Cite journal |date=2024-10-31 |title=IPL Retained Players 2025 |url=https://documents.iplt20.com/smart-images/1730381551643_IPL-2025-Retained-Players.pdf |journal=Indian Premier League Retained Players |publisher=[[Board of Control for Cricket in India]] |volume=18 |issue=1}}
+* {{Anchor|Auction List}}{{Cite journal |date=2024-11-15 |title=IPL Auction List 2025 |url=https://documents.iplt20.com/bcci/documents/1731674068078_TATA%20IPL%202025-%20Auction%20List%20-15.11.24.pdf |journal=Indian Premier League Auction List |publisher=[[Board of Control for Cricket in India]] |volume=18 |issue=2}}
+
+== External links ==
+* [https://www.iplt20.com/auction/2025 2025 IPL Auction] at [[IPLT20.com]]
+* {{ESPNcricinfo 2|auction|id=ipl-2025-auction-1460972|title=2026 Indian Premier League auction}}
+
+{{2025 Indian Premier League}}
+{{Indian Premier League}}
+{{Portal bar|India|Cricket}}
+
+[[Category:2025 Indian Premier League|auction]]
+[[Category:Indian Premier League personnel changes]]

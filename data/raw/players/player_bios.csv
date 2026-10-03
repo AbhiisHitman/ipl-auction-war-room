@@ -1,0 +1,439 @@
+birth_date,batting_hand,bowling_style,wiki_role,bowling_type,capped_intl,person,display_name,wiki_found
+1988-12-06,Left-handed,Slow left-arm orthodox,All-rounder,finger_spin,True,Ravindra Jadeja,Ravindra Jadeja,True
+1981-07-07,Right-handed,Right-arm medium,Wicket-keeper-batter,pace,True,MS Dhoni,MS Dhoni,True
+1987-06-18,Left-handed,Right-arm off break,All-rounder,finger_spin,True,Moeen Ali,Moeen Ali,True
+1997-01-31,Right-handed,Right arm off break,"Batsman, Occasionally Wicket Keeper",finger_spin,True,Ruturaj Gaikwad,Ruturaj Gaikwad,True
+1997-10-04,Left-handed,Right-arm medium,Wicket-keeper-batter,pace,True,Rishabh Pant,Rishabh Pant,True
+1994-01-20,Left-handed,Slow left-arm orthodox,All-rounder,finger_spin,True,Axar Patel,Axar Patel,True
+1999-11-09,Right-handed,Right-arm off break,Opening batter,finger_spin,True,Prithvi Shaw,Prithvi Shaw,True
+1993-11-16,Right-handed,Right-arm fast,Bowler,pace,True,Anrich Nortje,Anrich Nortje,True
+1993-10-11,Right-handed,Right-arm medium-fast,All-rounder,pace,True,Hardik Pandya,Hardik Pandya,True
+1998-09-20,Right-handed,Leg break googly,Bowling All-rounder,wrist_spin,True,Rashid Khan,Rashid Khan,True
+1999-09-08,Right-handed,Right-arm off break,Top-order batter,finger_spin,True,Shubman Gill,Shubman Gill,True
+1988-04-29,Right-handed,Right-arm fast,All-rounder,pace,True,Andre Russell,Andre Russell,True
+1991-08-29,Right-handed,Right-arm leg break googly,Bowler,wrist_spin,True,Varun Chakravarthy,Varun Chakravarthy,True
+1994-12-25,Left-handed,Right-arm medium,Batting all-rounder,pace,True,Venkatesh Iyer,Venkatesh Iyer,True
+1988-05-26,Left-handed,Right-arm off break,All-rounder,finger_spin,True,Sunil Narine,Sunil Narine,True
+1992-04-18,Right-handed,,Wicket-keeper-batter,,True,KL Rahul,KL Rahul,True
+1989-08-16,Right-handed,Right-arm medium,Batting all-rounder,pace,True,Marcus Stoinis,Marcus Stoinis,True
+2000-09-05,Right-handed,Right-arm legbreak,Bowler,wrist_spin,True,Ravi Bishnoi,Ravi Bishnoi,True
+1987-04-30,Right-handed,Right-arm off break,Top-order batter,finger_spin,True,Rohit Sharma,Rohit Sharma,True
+1993-12-06,Right-handed,Right-arm fast,Bowler,pace,True,Jasprit Bumrah,Jasprit Bumrah,True
+1990-09-14,Right-handed,Right-arm off break,Batter,finger_spin,True,Suryakumar Yadav,Suryakumar Yadav,True
+1987-05-12,Right-handed,Right-arm medium,Batting all-rounder,pace,True,Kieron Pollard,Kieron Pollard,True
+1991-02-16,Right-handed,Right-arm off break,Batter,finger_spin,True,Mayank Agarwal,Mayank Agarwal,True
+1999-02-05,Left-handed,Left-arm medium-fast,Bowler,pace,True,Arshdeep Singh,Arshdeep Singh,True
+1994-11-11,Right-handed,Right-arm off-spin,Wicket-keeper-batter,finger_spin,True,Sanju Samson,Sanju Samson,True
+1990-09-08,Right-handed,none,Wicket-keeper-batsman,,True,Jos Buttler,Jos Buttler,True
+2001-12-28,Left-handed,Right-arm leg break,Opening batter,wrist_spin,True,Yashasvi Jaiswal,Yashasvi Jaiswal,True
+1988-11-05,Right-handed,Right-arm medium,Top-order batter,pace,True,Virat Kohli,Virat Kohli,True
+1988-10-14,Right-handed,Right-arm off break,Batting all-rounder,finger_spin,True,Glenn Maxwell,Glenn Maxwell,True
+1994-03-13,Right-handed,Right-arm fast,Bowler,pace,True,Mohammed Siraj,Mohammed Siraj,True
+1990-08-08,Right-handed,Right-arm off-break,Top-order batter,finger_spin,True,Kane Williamson,Kane Williamson,True
+2001-10-28,Right-handed,Right-arm leg break,Batsman,wrist_spin,False,Abdul Samad (Indian cricketer),Abdul Samad,True
+1999-11-22,Right-handed,Right-arm fast,Bowler,pace,True,Umran Malik,Umran Malik,True
+1985-12-05,Left-handed,Right-arm off break,Opening batter,finger_spin,True,Shikhar Dhawan,Shikhar Dhawan,True
+1986-09-17,Right-handed,Right-arm off-break,Bowling all-rounder,finger_spin,True,Ravichandran Ashwin,Ravichandran Ashwin,True
+1993-05-08,Right-handed,Right-arm fast,<!-- Do not change role that does not match what EspnCricInfo says without gaining consensus on the talk page first --> Bowler,pace,True,Pat Cummins,Pat Cummins,True
+1995-05-25,Left-handed,Right-arm fast,Bowler,pace,True,Kagiso Rabada,Kagiso Rabada,True
+1989-07-22,Right-handed,Left-arm fast-medium,Bowler,pace,True,Trent Boult,Trent Boult,True
+1994-12-06,Right-handed,Right-arm leg break,Middle-order batter,wrist_spin,True,Shreyas Iyer,Shreyas Iyer,True
+1990-09-03,Right-handed,Right-arm fast,Bowler,pace,True,Mohammed Shami,Mohammed Shami,True
+1984-07-13,Right-handed,Right-arm leg-break,Top-order batter,wrist_spin,True,Faf du Plessis,Faf du Plessis,True
+1992-12-17,Left-handed,,Wicket-keeper,,True,Quinton de Kock,Quinton de Kock,True
+1986-10-27,Left-handed,Right arm leg break,Opening batter,wrist_spin,True,David Warner (cricketer),David Warner,True
+1989-09-10,Right-handed,Right-arm medium,Top-order batter,pace,True,Manish Pandey,Manish Pandey,True
+1996-12-26,Left-handed,,Middle-order batter,,True,Shimron Hetmyer,Shimron Hetmyer,True
+1985-11-11,Right-handed,Right-arm medium,Batsman<br>Wicket-keeper,pace,True,Robin Uthappa,Robin Uthappa,True
+1990-07-21,Right-handed,Right-arm medium,Opening batsman,pace,True,Jason Roy,Jason Roy,True
+2000-07-07,Left-handed,Right-arm off break,Top order batter,finger_spin,True,Devdutt Padikkal,Devdutt Padikkal,True
+1983-10-07,Right-handed,Right-arm medium-fast,All-rounder,pace,True,Dwayne Bravo,Dwayne Bravo,True
+1993-12-27,Left-handed,Right-arm off break,Batting allrounder,finger_spin,True,Nitish Rana,Nitish Rana,True
+1991-11-05,Right-handed,Right-arm medium-fast,Bowling all-rounder,pace,True,Jason Holder,Jason Holder,True
+1990-11-23,Right-handed,Right-arm fast-medium,Bowling all-rounder,pace,True,Harshal Patel,Harshal Patel,True
+,Right-handed,Right-arm off break,All-rounder,finger_spin,True,Deepak Hooda,Deepak Hooda,True
+1997-07-29,Right-handed,Right-arm Leg break,All-rounder,wrist_spin,True,Wanindu Hasaranga,Wanindu Hasaranga,True
+1999-10-05,Left-handed,Right-arm off break,All-rounder,finger_spin,True,Washington Sundar,Washington Sundar,True
+1991-03-24,Left-handed,Slow left arm orthodox,All-rounder,finger_spin,True,Krunal Pandya,Krunal Pandya,True
+1991-10-20,Right-handed,Right-arm medium,Top-order batter,pace,True,Mitchell Marsh,Mitchell Marsh,True
+1985-09-23,Right-handed,Right-arm off-spin,Wicket-keeper batsman,finger_spin,True,Ambati Rayudu,Ambati Rayudu,True
+1998-07-18,Left-handed,"Leg break, Off-break",Wicket-keeper-batsman,wrist_spin,True,Ishan Kishan,Ishan Kishan,True
+1989-09-26,Right-handed,,Wicket-keeper-batter,,True,Jonny Bairstow,Jonny Bairstow,True
+1985-06-01,Right-handed,Right-arm off break,Wicket-keeper-batter,finger_spin,True,Dinesh Karthik,Dinesh Karthik,True
+1995-10-02,Left-handed,Right-arm off break,Wicket-keeper-batter,finger_spin,True,Nicholas Pooran,Nicholas Pooran,True
+1991-04-04,Left-handed,Left-arm medium,Bowler,pace,True,T. Natarajan,T. Natarajan,True
+1992-08-07,Right-handed,Right arm medium<!--per source; if the source is wrong can you provide another please-->,Bowler,pace,True,Deepak Chahar,Deepak Chahar,True
+1996-02-19,Right-handed,Right-arm fast-medium,Bowler,pace,True,Prasidh Krishna,Prasidh Krishna,True
+1991-06-13,Right-handed,Right-arm fast,Bowler,pace,True,Lockie Ferguson,Lockie Ferguson,True
+1991-01-08,Left-handed,Right-arm fast-medium,Bowler,pace,True,Josh Hazlewood,Josh Hazlewood,True
+1990-01-11,Right-handed,Right-arm fast,Bowler,pace,True,Mark Wood (cricketer),Mark Wood,True
+1990-02-05,Right-handed,Right-arm medium,Bowler,pace,True,Bhuvneshwar Kumar,Bhuvneshwar Kumar,True
+1991-10-16,Right-handed,Right-arm medium,Bowler,pace,True,Shardul Thakur,Shardul Thakur,True
+1995-09-06,Left-handed,Left-arm fast-medium,Bowler,pace,True,Mustafizur Rahman,Mustafizur Rahman,True
+1994-12-14,Left-handed,Left-arm wrist spin,Bowler,wrist_spin,True,Kuldeep Yadav,Kuldeep Yadav,True
+1999-08-04,Right-handed,Right-arm leg break,Bowler,wrist_spin,True,Rahul Chahar,Rahul Chahar,True
+1990-07-23,Right-handed,Right-arm leg break,Bowler,wrist_spin,True,Yuzvendra Chahal,Yuzvendra Chahal,True
+2000-11-30,Right-handed,Right-arm medium,Top-order batter,pace,False,Priyam Garg,Priyam Garg,True
+1994-09-16,Right-handed,Leg break googly,Batting all-rounder,wrist_spin,False,Abhinav Manohar,Abhinav Manohar,True
+2003-04-29,Right-handed,Right-arm leg-break,Batsman,wrist_spin,True,Dewald Brevis,Dewald Brevis,True
+1995-11-15,Right-handed,Right-arm medium,Batting All-rounder,pace,False,Ashwin Hebbar,Ashwin Hebbar,True
+1991-03-02,Right-handed,Right-arm medium,Top-order batter,pace,True,Rahul Tripathi,Rahul Tripathi,True
+2001-11-10,Right-handed,"Right-arm off break, leg break",Batting All Rounder,finger_spin,True,Riyan Parag,Riyan Parag,True
+2000-09-04,Left-handed,Slow left-arm orthodox spin,Batting all-rounder,finger_spin,True,Abhishek Sharma,Abhishek Sharma,True
+1997-10-22,Right-handed,Legbreak,Middle-order batter,wrist_spin,True,Sarfaraz Khan (cricketer),Sarfaraz Khan,True
+1995-05-27,Right-handed,Right-arm off break,Batter,finger_spin,False,Shahrukh Khan (cricketer),Shahrukh Khan,True
+1998-11-26,Right-handed,Right-arm fast-medium,Bowler,pace,True,Shivam Mavi,Shivam Mavi,True
+1993-05-20,Left-handed,Right-arm leg break,Batting all-rounder,wrist_spin,False,Rahul Tewatia,Rahul Tewatia,True
+1999-12-28,Right-handed,Right-arm fast,Bowler,pace,False,Kamlesh Nagarkoti,Kamlesh Nagarkoti,True
+1995-09-16,Left-handed,Slow left-arm orthodox,Bowler,finger_spin,False,Harpreet Brar,Harpreet Brar,True
+1994-12-11,Left-handed,Slow left-arm orthodox,All-rounder,finger_spin,True,Shahbaz Ahmed (cricketer),Shahbaz Ahmed,True
+1993-10-03,Right-handed,,Wicket-keeper-batter,,True,K. S. Bharat,K. S. Bharat,True
+1999-10-17,Left-handed,,Wicket-keeper-batter,,False,Anuj Rawat,Anuj Rawat,True
+2000-08-10,Right-handed,,Wicket-keeper-batter,,False,Prabhsimran Singh,Prabhsimran Singh,True
+1986-09-27,Right-handed,Right arm off break,Wicket-keeper-batsman,finger_spin,False,Sheldon Jackson (cricketer),Sheldon Jackson,True
+1993-10-22,Right-handed,,Wicket-keeper-batter,,True,Jitesh Sharma,Jitesh Sharma,True
+1993-09-11,Right-handed,Right-arm fast-medium,Bowler,pace,False,Basil Thampi,Basil Thampi,True
+2000-11-08,Right-handed,Right arm fast,Bowler,pace,False,Kartik Tyagi,Kartik Tyagi,True
+1996-12-15,Right-handed,Right-arm fast-medium,Bowler,pace,True,Akash Deep,Akash Deep,True
+1993-07-24,Right-handed,Right-arm medium,Bowler,pace,False,KM Asif,KM Asif,True
+1996-12-13,Right-handed,Right-arm fast-medium,Bowler,pace,True,Avesh Khan,Avesh Khan,True
+1998-09-05,Right-handed,Right-arm medium,Bowler,pace,False,Ishan Porel,Ishan Porel,True
+1995-05-15,Left-handed,Right-arm medium,Bowler,pace,True,Tushar Deshpande,Tushar Deshpande,True
+1993-12-04,Right-handed,Right-arm medium-fast,Bowler,pace,False,Ankit Rajpoot,Ankit Rajpoot,True
+2005-01-03,Right-handed,Left-arm unorthodox spin,Bowler,wrist_spin,True,Noor Ahmad,Noor Ahmad,True
+1990-09-08,Right-handed,Right-arm leg break,Bowler,wrist_spin,False,Murugan Ashwin,Murugan Ashwin,True
+1994-04-13,Right-handed,Leg break,Bowler,wrist_spin,False,K. C. Cariappa (cricketer),K.C.Cariappa,True
+1993-09-04,Right-handed,Right-arm leg break,All-rounder,wrist_spin,False,Shreyas Gopal,Shreyas Gopal,True
+1994-01-16,Left-handed,Slow left-arm orthodox,Bowling all-rounder,finger_spin,False,Jagadeesha Suchith,Jagadeesha Suchith,True
+1996-11-06,Left-handed,Slow left-arm orthodox,All-rounder,finger_spin,True,Sai Kishore,Sai Kishore,True
+1994-10-04,Right-handed,Right-arm off break,Top-order batter,finger_spin,True,Aiden Markram,Aiden Markram,True
+1988-06-06,Right-handed,Right-arm off spin,Batter,finger_spin,True,Ajinkya Rahane,Ajinkya Rahane,True
+1991-12-18,Right-handed,Right-arm medium,All-rounder,pace,True,Mandeep Singh,Mandeep Singh,True
+1993-08-04,Right-handed,"Right-arm off break, leg break",Batting all-rounder,finger_spin,True,Liam Livingstone,Liam Livingstone,True
+1998-02-06,Left-handed,Left-arm medium-fast,Bowling all-rounder,pace,True,Dominic Drakes,Dominic Drakes,True
+1990-01-22,Right-handed,Right-arm off-break,Bowler,finger_spin,True,Jayant Yadav,Jayant Yadav,True
+1991-01-26,Right-handed,Right-arm medium,All-rounder,pace,True,Vijay Shankar,Vijay Shankar,True
+1996-11-01,Right-handed,Right arm fast-medium,Bowling all-rounder,pace,True,Odean Smith,Odean Smith,True
+2000-05-01,Right-handed,Left-arm fast,Bowling all-rounder,pace,True,Marco Jansen,Marco Jansen,True
+1993-06-26,Left-handed,Right-arm medium,All-rounder,pace,True,Shivam Dube,Shivam Dube,True
+1988-10-20,Right-handed,Right-arm off-break,Bowling all-rounder,finger_spin,True,Krishnappa Gowtham,Krishnappa Gowtham,True
+1997-12-05,Right-handed,Left-arm fast medium,Bowler,pace,True,Khaleel Ahmed,Khaleel Ahmed,True
+1992-01-11,Right-handed,Right-arm fast,Bowling all-rounder,pace,True,Dushmantha Chameera,Dushmantha Chameera,True
+1998-02-28,Left-handed,Left-arm medium-fast,,pace,True,Chetan Sakariya,Chetan Sakariya,True
+1993-05-18,Right-handed,Right-arm fast medium,Bowler,pace,True,Sandeep Sharma,Sandeep Sharma,True
+1992-11-23,Right-handed,Right-arm fast,Bowler,pace,True,Navdeep Saini,Navdeep Saini,True
+1991-10-18,Right-handed,Left-arm medium,Bowler,pace,True,Jaydev Unadkat,Jaydev Unadkat,True
+1997-11-11,Right-handed,Right-arm leg break,Bowler,wrist_spin,True,Mayank Markande,Mayank Markande,True
+1989-08-12,Right-handed,Slow left-arm orthodox,Bowler,finger_spin,True,Shahbaz Nadeem,Shahbaz Nadeem,True
+2000-08-01,Right-handed,Right-arm off break,Bowler,finger_spin,True,Maheesh Theekshana,Maheesh Theekshana,True
+1997-10-12,Left-handed,Right-arm off break,Middle-order batter,finger_spin,True,Rinku Singh (cricketer),Rinku Singh,True
+1993-07-18,Right-handed,Right arm fast-medium,Batsman,pace,False,Manan Vohra,Manan Vohra,True
+1997-01-03,Right-handed,Right-arm offbreak,All-rounder,finger_spin,False,Lalit Yadav (Delhi cricketer),Lalit Yadav,True
+1995-09-28,Right handed,Right arm medium,Batsman,pace,False,Ripal Patel,Ripal Patel,True
+2002-11-11,Right-handed,Right arm off break,Batsman,finger_spin,False,Yash Dhull,Yash Dhull,True
+2002-11-08,Left-handed,right-arm off-break,Batting all-rounder,finger_spin,True,Tilak Varma,Tilak Varma,True
+1999-11-16,Left-handed,Slow left-arm orthodox,All-rounder,finger_spin,False,Mahipal Lomror,Mahipal Lomror,True
+1998-11-30,Left-handed,Slow left-arm orthodox,All-rounder,finger_spin,False,Anukul Roy,Anukul Roy,True
+1998-10-04,Right-handed,Right-arm fast-medium,Bowler,pace,False,Darshan Nalkande,Darshan Nalkande,True
+1995-05-10,Left-handed,Slow left-arm orthodox,Batting all-rounder,finger_spin,False,Sanjay Yadav (cricketer),R. Sanjay Yadav,True
+2002-11-12,Left-handed,Right-arm medium-fast,,pace,False,Raj Angad Bawa,Raj Angad Bawa,True
+2002-11-10,Right-handed,Right-arm fast,All-rounder,pace,False,Rajvardhan Hangargekar,Rajvardhan Hangargekar,True
+1997-12-13,Right-handed,Left arm fast-medium,Bowler,pace,False,Yash Dayal,Yash Dayal,True
+1998-01-17,Right handed,Right arm medium fast,Bowler,pace,False,Simarjeet Singh,Simarjeet Singh,True
+1999-04-22,Right-handed,Right-arm off break,Top-order batter,finger_spin,True,Finn Allen,Finn Allen,True
+1991-07-08,Left-handed,Right-arm medium,Wicket-keeper-batter,pace,True,Devon Conway,Devon Conway,True
+1993-07-23,Right-handed,Right-arm medium-fast,Middle-order batter,pace,True,Rovman Powell,Rovman Powell,True
+1995-04-01,Right-handed,Right-arm fast,Bowler,pace,True,Jofra Archer,Jofra Archer,True
+1990-02-19,Right-handed,Right-arm medium-fast,All-rounder,pace,True,Rishi Dhawan,Rishi Dhawan,True
+1989-03-29,Right-handed,Right-arm medium-fast,Bowling all-rounder,pace,True,Dwaine Pretorius,Dwaine Pretorius,True
+1998-08-15,Left-handed,Right-arm Fast medium,Middle-order batter,pace,True,Sherfane Rutherford,Sherfane Rutherford,True
+1992-10-27,Right-handed,Left-arm fast-medium,All-rounder,pace,True,Daniel Sams,Daniel Sams,True
+1992-02-05,Left-handed,Slow left-arm orthodox,Bowling All rounder,finger_spin,True,Mitchell Santner,Mitchell Santner,True
+1994-11-26,Right-handed,Right-arm fast-medium,Bowling All-rounder,pace,True,Romario Shepherd,Romario Shepherd,True
+1990-04-20,Right-handed,Left-arm fast-medium,Bowler,pace,True,Jason Behrendorff,Jason Behrendorff,True
+1997-01-04,Left-handed,Left-arm fast-medium,Bowler,pace,True,Obed McCoy,Obed McCoy,True
+1992-08-12,Right-handed,Left-arm fast,Bowler,pace,True,Tymal Mills,Tymal Mills,True
+1992-04-13,Right-handed,Right-arm fast,Bowler,pace,True,Adam Milne,Adam Milne,True
+1996-12-30,Right-handed,Right-arm medium,Batsman,pace,False,Subhranshu Senapati,Subhranshu Senapati,True
+1996-03-16,Right-handed,Right-arm off break,Middle-order batter,finger_spin,True,Tim David,Tim David,True
+1993-07-01,Right-handed,Leg break googly,All-rounder,wrist_spin,False,Praveen Dubey,Praveen Dubey,True
+1994-04-23,Right-handed,Right-arm medium,Batting allrounder,pace,False,Prerak Mankad,Prerak Mankad,True
+1997-12-06,Right-handed,Right-arm medium,Batting allrounder,pace,False,Suyash Prabhudessai,Suyash Prabhudessai,True
+1997-12-14,Right-handed,Right arm medium-fast,Bowler,pace,False,Vaibhav Arora,Vaibhav Arora,True
+1996-07-06,Left-handed,Left arm medium,Bowler,pace,False,Mukesh Choudhary,Mukesh Choudhary,True
+2000-04-05,Right-handed,Right-arm fast medium,Bowler,pace,False,Rasikh Salam,Rasikh Salam,True
+1998-07-15,Left-handed,Left arm medium fast,Bowler,pace,False,Mohsin Khan (Indian cricketer),Mohsin Khan,True
+1994-09-04,Left-handed,Left-arm medium,Bowler,pace,False,Chama Milind,Chama Milind,True
+2000-02-22,Right-handed,Right-arm Legbreak,Bowler,wrist_spin,False,Prashant Solanki,Prashant Solanki,True
+1992-02-29,Right-handed,Right-arm fast-medium,Bowling all-rounder,pace,True,Sean Abbott,Sean Abbott,True
+1996-11-20,Right-handed,Right-arm fast,Bowler,pace,True,Alzarri Joseph,Alzarri Joseph,True
+1996-06-21,Right-handed,Right-arm fast,Bowler,pace,True,Riley Meredith,Riley Meredith,True
+1999-12-03,Right-handed,Right arm off break,Batter,finger_spin,False,Ayush Badoni,Ayush Badoni,True
+,,,,,False,Aneeshwar Gautam,Aneeshwar Gautam,True
+1994-07-08,Right-handed,Right-arm leg break,,wrist_spin,False,Baba Indrajith,Baba Indrajith,True
+1996-05-29,Right-handed,Right-arm Fast-medium,Bowling All-rounder,pace,True,Chamika Karunaratne,Chamika Karunaratne,True
+1993-01-22,Right-handed,Right-arm off break,Batsman,finger_spin,False,Ravikumar Samarth,Ravikumar Samarth,True
+1995-03-14,,,,,False,Abhijeet Tomar,Abhijeet Tomar,True
+1990-11-05,Right-handed,Left-arm medium,Bowler,pace,False,Pradeep Sangwan,Pradeep Sangwan,True
+1992-09-28,Right-handed,Right-arm off-break,All-rounder,finger_spin,False,Writtick Chatterjee,Writtick Chatterjee,True
+1992-08-31,Left-handed,,Top-order batter,,False,Pratham Singh,Pratham Singh,True
+1991-11-21,Right-handed,Right-arm medium; Right-arm offbreak,Batting all-rounder,pace,False,Shashank Singh,Shashank Singh,True
+1992-09-08,Left-handed,Right-arm medium,Batting all-rounder,pace,True,Kyle Mayers,Kyle Mayers,True
+1998-10-31,Right-handed,Right-arm offbreak,Allrounder,finger_spin,False,"Karan Sharma (cricketer, born 1998)",Karan Sharma,True
+1990-11-04,,,Bowler,,False,Baltej Singh,Baltej Dhanda,True
+1998-01-23,,,,,False,Saurabh Dubey (Maharashtra cricketer),Saurabh Dubey,True
+1997-12-20,Left-handed,Left-arm medium,All-rounder,pace,False,Arshad Khan (Indian cricketer),Arshad Khan,True
+,,,,,False,Ansh Patel,Ansh Patel,True
+,,,,,False,Ashok Sharma,Ashok Sharma,True
+1993-01-03,Right-handed,Right-arm medium-fast,Bowler,pace,False,Anunay Singh,Anunay Singh,True
+1989-06-10,Left-handed,Right-arm off break,Middle-order batter,finger_spin,True,David Miller (South African cricketer),David Miller,True
+1991-06-15,Right-handed,,Wicket-keeper-batter,,True,Sam Billings,Sam Billings,True
+1984-10-24,Right-handed,Right-arm off-spin,"Wicket-keeper, batsman",finger_spin,True,Wriddhiman Saha,Wriddhiman Saha,True
+1987-12-26,Left-handed,Right-arm medium,Wicket-keeper-batter,pace,True,Matthew Wade,Matthew Wade,True
+,,,,,False,C. Hari Nishanth,C. Hari Nishanth,False
+1998-03-28,Right-handed,Right-arm off-break,Batter,finger_spin,False,Anmolpreet Singh,Anmolpreet Singh,True
+1995-12-24,Right-handed,,Wicket-keeper,,False,Narayan Jagadeesan,N Jagadeesan,True
+1993-12-02,Right-handed,Right-arm medium-fast,Wicket-keeper-batter,pace,False,Vishnu Vinod,Vishnu Vinod,True
+1988-10-04,Right-handed,Right-arm fast-medium,Bowler,pace,True,Chris Jordan (cricketer),Chris Jordan,True
+1996-03-29,Right-handed,Right-arm fast-medium,Bowler,pace,True,Lungi Ngidi,Lungi Ngidi,True
+1987-10-23,Left-handed,Right arm leg break googly,All-rounder,wrist_spin,True,Karn Sharma,Karn Sharma,True
+1996-10-22,Right-handed,Right arm fast,Bowler,pace,True,Kuldeep Sen,Kuldeep Sen,True
+1989-01-03,Right-handed,Right-arm medium,Opening batter,pace,True,Alex Hales,Alex Hales,True
+,Left-handed,Right-arm medium,Opening batter,pace,True,Evin Lewis,Evin Lewis,True
+1991-12-06,Right-handed,Right-arm off break,Top-order batter,finger_spin,True,Karun Nair,Karun Nair,True
+1996-12-06,Right-handed,Right arm off-break,Occasionally Wicket-keeper-batter / All-rounder,finger_spin,True,Glenn Phillips (cricketer),Glenn Phillips,True
+1994-12-14,Right-handed,,Wicket-keeper-batsman,,True,Tim Seifert,Tim Seifert,True
+1994-09-22,Right-handed,Right-arm fast-medium,Bowler,pace,True,Nathan Ellis,Nathan Ellis,True
+2000-09-22,Right-handed,Left-arm fast,Bowler,pace,True,Fazalhaq Farooqi,Fazalhaq Farooqi,True
+1997-04-13,Right-handed,Right-arm medium,Middle-order batter,pace,True,Ramandeep Singh (cricketer),Ramandeep Singh,True
+2000-04-26,Left-handed,Left-arm orthodox,Top order batsman,finger_spin,False,Atharva Taide,Atharva Taide,True
+2001-01-21,Right-handed,,Wicket-keeper-batter,,True,Dhruv Jurel,Dhruv Jurel,True
+2002-06-17,Right-handed,Right-arm fast,Bowler,pace,True,Mayank Yadav,Mayank Yadav,True
+1996-02-01,Right-handed,Leg break googly,Bowler,wrist_spin,False,Tejas Baroka,Tejas Baroka,True
+1991-10-24,Left-handed,Right-arm medium,"Top-order batter , Occasional wicket-keeper",pace,True,Bhanuka Rajapaksa,Bhanuka Rajapaksa,True
+1990-06-29,Right-handed,Right-arm off break,All rounder,finger_spin,True,Gurkeerat Singh,Gurkeerat Singh,True
+1988-12-11,Right-handed,Right-arm medium-fast,Bowler,pace,True,Tim Southee,Tim Southee,True
+1997-09-20,,,,,False,Rahul Buddhi,Rahul Buddhi,True
+1988-10-05,Right-handed,Right-arm medium,All-rounder,pace,False,Benny Howell,Benny Howell,True
+1996-10-15,Left-handed,Left-arm fast-medium,Bowler,pace,False,Kuldip Yadav,Kuldip Yadav,True
+1989-10-29,Right-handed,Right-arm fast,Bowler,pace,True,Varun Aaron,Varun Aaron,True
+1999-01-01,Left-handed,Slow left-arm orthodox,,finger_spin,False,Ramesh Kumar (cricketer),Ramesh Kumar,True
+2000-08-14,Right-handed,Right-arm off break,Bowler,finger_spin,False,Hrithik Shokeen,Hrithik Shokeen,True
+1998-09-21,Right-handed,Right arm off break,,finger_spin,False,Bhagath Varma,Bhagath Varma,True
+1999-09-24,Left-handed,Left-arm medium-fast,Bowler,pace,False,Arjun Tendulkar,Arjun Tendulkar,True
+,,,,,False,Shubham Garhwal,Shubham Garhwal,True
+1985-01-01,Right-handed,Right-arm off spin,All-rounder,finger_spin,True,Mohammad Nabi,Mohammad Nabi,True
+1987-10-25,Right-handed,Right-arm fast,Bowler,pace,True,Umesh Yadav,Umesh Yadav,True
+1990-09-17,Left-handed,Right-arm medium-fast,Batting all-rounder,pace,True,James Neesham,James Neesham,True
+1987-10-11,Right-handed,Right-arm fast,Bowling all-rounder,pace,True,Nathan Coulter-Nile,Nathan Coulter-Nile,True
+,,,,,False,Vicky Ostwal,Vicky Ostwal,True
+1989-02-07,Right-handed,Right arm leg break,Top-order batter,wrist_spin,True,Rassie van der Dussen,Rassie van der Dussen,True
+1991-05-20,Right-handed,Right-arm medium,Batting all-rounder,pace,True,Daryl Mitchell (New Zealand cricketer),Daryl Mitchell,True
+1990-05-19,Right handed,Right-arm medium,Bowler,pace,True,Siddarth Kaul,Siddarth Kaul,True
+2001-10-15,Left-handed,Right-arm leg break,Top-order batter,wrist_spin,True,Sai Sudharsan,Sai Sudharsan,True
+2001-11-11,Right-handed,,Wicket-keeper,,False,Aryan Juyal,Aryan Juyal,True
+2000-01-15,Left-handed,Left-arm medium,Wicket-keeper,pace,False,Luvnith Sisodia,Luvnith Sisodia,True
+1995-05-07,Right-handed,Slow left-arm orthodox,Bowling all-rounder,finger_spin,True,Fabian Allen,Fabian Allen,True
+1990-02-28,Left-handed,Left-arm fast-medium,Bowling all-rounder,pace,True,David Willey (cricketer),David Willey,True
+1996-11-23,Right-handed,Right-arm medium,All-rounder,pace,False,Aman Hakim Khan,Aman Khan,True
+2002-12-18,Right-handed,Right-arm fast,Bowler,pace,True,Matheesha Pathirana,Matheesha Pathirana,True
+2001-11-28,Right-handed,,Wicket-keeper-batter,,True,Rahmanullah Gurbaz,Rahmanullah Gurbaz,True
+2001-12-22,Right-handed,Right-arm fast,Bowler,pace,True,Harshit Rana,Harshit Rana,True
+1993-11-25,Right-handed,Right-arm medium-fast,Bowler,pace,False,Akash Madhwal,Akash Madhwal,True
+1997-12-26,Right-handed,"Slow Left arm Orthodox, Left arm Wrist spin",Bowler,finger_spin,False,Kumar Kartikeya,Kumar Kartikeya,True
+2000-08-14,Right-handed,Right-arm off break,Batsman,finger_spin,True,Tristan Stubbs,Tristan Stubbs,True
+1993-06-01,Right-handed,Right-arm off break,Top-order batter,finger_spin,True,Rajat Patidar,Rajat Patidar,True
+1999-02-22,Right-handed,Right-arm medium,Middle-order batter,pace,True,Harry Brook,Harry Brook,True
+1998-06-03,Left-handed,Left-arm medium-fast,All-rounder,pace,True,Sam Curran,Sam Curran,True
+1986-04-24,Right-handed,Right-arm off break,All-rounder,finger_spin,True,Sikandar Raza,Sikandar Raza,True
+1999-06-03,Right-handed,Right-arm fast-medium,Batting all-rounder,pace,True,Cameron Green,Cameron Green,True
+1991-06-04,Left-handed,Right-arm fast-medium,All-rounder,pace,True,Ben Stokes,Ben Stokes,True
+1991-07-30,Right-handed,Right-arm off spin,Wicket-keeper batsman,finger_spin,True,Heinrich Klaasen,Heinrich Klaasen,True
+1996-08-28,Right-handed,Right-arm off spin,Wicket-keeper-batter,finger_spin,True,Phil Salt,Phil Salt,True
+1994-02-21,Right-handed,Left-arm Fast-medium,Bowler,pace,True,Reece Topley,Reece Topley,True
+1996-09-20,Right-handed,Right-arm fast,Bowler,pace,True,Jhye Richardson,Jhye Richardson,True
+1988-09-02,Right-handed,Right-arm fast-medium,Bowler,pace,True,Ishant Sharma,Ishant Sharma,True
+1988-02-17,Right-handed,Right-arm leg break,Bowler,wrist_spin,True,Adil Rashid,Adil Rashid,True
+2004-09-24,Right-handed,Right-arm leg break,Top-order Batsman,wrist_spin,False,Shaik Rasheed,Shaik Rasheed,True
+1999-10-30,Left-handed,Leg-Break Googly,All-rounder,wrist_spin,False,Vivrant Sharma,Vivrant Sharma,True
+1995-11-28,Right-handed,Legbreak googly,All-rounder,wrist_spin,False,Samarth Vyas,Samarth Vyas,True
+1996-10-12,Right-handed,Right arm medium,All-rounder,pace,False,Sanvir Singh,Sanvir Singh,True
+2004-04-09,Left-handed,Slow left-arm orthodox,All-rounder,finger_spin,False,Nishant Sindhu,Nishant Sindhu,True
+,Right-handed,Right-arm offbreak,Wicketkeeper Batter,finger_spin,False,Upendra Yadav (cricketer),Upendra Yadav,True
+1998-12-28,,Right-arm fast-medium,Bowler,pace,True,Yash Thakur,Yash Thakur,True
+1993-10-12,Right-handed,Right-arm medium-fast,Bowler,pace,True,Mukesh Kumar (cricketer),Mukesh Kumar,True
+1998-06-06,Right-handed,Right-arm leg-break,Bowler,wrist_spin,False,Himanshu Sharma (cricketer),Himanshu Sharma,True
+1998-11-21,Right-handed,Right-arm off break,Batting all-rounder,finger_spin,True,Will Jacks,Will Jacks,True
+1994-12-30,Right-handed,Right-arm fast-medium,Bowling all-rounder,pace,True,Kyle Jamieson,Kyle Jamieson,True
+1988-12-24,Left-handed,Right-arm leg break,All-rounder,wrist_spin,True,Piyush Chawla,Piyush Chawla,True
+1982-11-24,Right-handed,Right-arm leg break,Bowler,wrist_spin,True,Amit Mishra,Amit Mishra,True
+1991-08-11,Left-handed,Right-arm medium,Batter,pace,True,Harpreet Singh Bhatia,Harpreet Singh Bhatia,True
+1998-10-05,Left-handed,Right-arm medium-fast,All-rounder,pace,False,Manoj Bhandage,Manoj Bhandage,True
+1996-11-11,Right-handed,Slow left-arm orthodox,Bowler,finger_spin,False,Mayank Dagar,Mayank Dagar,True
+2000-05-01,Right-handed,Left-arm Fast,Bowler,pace,True,Duan Jansen,Duan Jansen,True
+1998-07-21,Right-handed,Right-arm off break,Batting all-rounder,finger_spin,True,Donovan Ferreira,Donovan Ferreira,True
+1998-10-17,Right handed,,Wicket keeper batter,,False,Urvil Patel,Urvil Patel,True
+1999-02-25,Right-handed,Right-arm fast-medium,Bowler,pace,False,Vidwath Kaverappa,Vidwath Kaverappa,True
+,,,,,False,Rajan Kumar,Rajan Kumar,False
+2003-05-15,Right-handed,Right-arm leg-break,Bowler,wrist_spin,False,Suyash Sharma,Suyash Sharma,True
+1999-11-01,Right-handed,Left-arm fast,Bowler,pace,True,Josh Little,Josh Little,True
+1988-09-18,Right-handed,Right arm fast-medium,Bowler,pace,True,Mohit Sharma,Mohit Sharma,True
+1997-03-13,Left-handed,Slow Left arm orthodox,,finger_spin,False,Shams Mulani,Shams Mulani,True
+1991-01-22,Right-handed,Slow left-arm orthodox,Bowler,finger_spin,False,Swapnil Singh,Swapnil Singh,True
+1985-05-18,Right-handed,Right arm medium-fast,All-rounder,pace,True,David Wiese,David Wiese,True
+2003-05-26,Right-handed,Right-arm medium-fast,All-rounder,pace,True,Nitish Kumar Reddy,Nitish Kumar Reddy,True
+,,,,,False,Avinash Singh,Avinash Singh,True
+2002-10-09,Left-handed,,Wicket-keeper-batter,,False,Kunal Singh Rathore,Kunal Rathore,True
+1999-11-11,,,,,False,Sonu Yadav,Sonu Yadav,True
+1992-03-13,Left-handed,Left-arm medium-fast,Bowler,pace,False,Kulwant Khejroliya,Kulwant Khejroliya,True
+1996-02-25,Left-handed,Slow left-arm orthodox,,finger_spin,False,Ajay Mandal,Ajay Mandal,True
+1999-01-13,Right-handed,Right-arm leg-break,All-rounder,wrist_spin,False,Mohit Rathee,Mohit Rathee,True
+2000-09-04,Left-handed,Right-arm Legbreak,Top order batter,wrist_spin,False,Nehal Wadhera,Nehal Wadhera,True
+,,,,,False,Shivam Singh,Shivam Singh,False
+1989-10-09,Left-handed,Right-arm off break,Top-order batter,finger_spin,True,Rilee Rossouw,Rilee Rossouw,True
+1994-10-13,Right-handed,Right-arm off break,Wicket-keeper batter,finger_spin,True,Litton Das,Litton Das,True
+1993-04-25,Left-handed,Slow left-arm orthodox,Bowler,finger_spin,True,Akeal Hosein,Akeal Hosein,True
+1992-03-31,Right-handed,Right-arm Leg-Break,Bowler,wrist_spin,True,Adam Zampa,Adam Zampa,True
+1994-12-17,Left-handed,Slow left arm orthodox,Allrounder,finger_spin,False,Akash Vasisht,Akash Vasisht,True
+1999-09-23,Right-handed,Right-arm medium-fast,Bowler,pace,True,Naveen-ul-Haq,Naveen-ul-Haq,True
+1997-09-13,Right-handed,Right-arm medium-fast,Bowler,pace,False,Yudhvir Singh (cricketer),Yudhvir Singh,True
+2001-01-26,Left-handed,Left-arm unorthodox spin,Bowler,wrist_spin,False,Raghav Goyal,Raghav Goyal,True
+,,,,,False,Abdul Basith,Abdul Basith,True
+1990-12-30,Right-handed,Right-arm off break,Top-order batter,finger_spin,True,Joe Root,Joe Root,True
+1987-03-24,Left-handed,Slow left-arm orthodox,All-rounder,finger_spin,True,Shakib Al Hasan,Shakib al Hasan,True
+2002-10-17,Left-handed,,Wicket-keeper-batter,,False,Abishek Porel,Abhishek Porel,True
+1997-01-31,Right-handed,Right arm medium,Bowler,pace,False,Vijaykumar Vyshak,Vijaykumar Vyshak,True
+1993-12-29,Left-handed,Right-arm off break,Batter,finger_spin,True,Travis Head,Travis Head,True
+1999-11-18,Left-handed,Slow left-arm orthodox,Batting all-rounder,finger_spin,True,Rachin Ravindra,Rachin Ravindra,True
+2000-03-24,Right-handed,Right-arm fast-medium,All-rounder,pace,True,Azmatullah Omarzai,Azmatullah Omarzai,True
+2000-10-02,Right-handed,Right-arm fast,Bowler,pace,True,Gerald Coetzee,Gerald Coetzee,True
+1989-03-02,Right-handed,Right-arm fast-medium,Bowling All-rounder,pace,True,Chris Woakes,Chris Woakes,True
+1990-01-30,Left-handed,Left-arm fast,Bowler,pace,True,Mitchell Starc,Mitchell Starc,True
+2000-09-18,Right-handed,Left-arm fast-medium,Bowler,pace,True,Dilshan Madushanka,Dilshan Madushanka,True
+1994-08-27,Left-handed,Right-arm offbreak,Middle-order batter,finger_spin,False,Shubham Dubey,Shubham Dubey,True
+2003-12-06,Right-handed,Right arm off break,,finger_spin,False,Sameer Rizvi,Sameer Rizvi,True
+2004-06-05,Right-handed,Slow left-arm orthodox,"Batter, Occasional wicket-keeper",finger_spin,False,Angkrish Raghuvanshi,Angkrish Raghuvanshi,True
+,,,,,False,Arshin Kulkarni,Arshin Kulkarni,True
+1994-08-19,Right-handed,Right-arm off break,Batsman,finger_spin,False,Tom Kohler-Cadmore,Tom Kohler-Cadmore,True
+1996-09-29,Right-handed,Leg-Break googly,Batsman,wrist_spin,False,Ricky Bhui,Ricky Bhui,True
+2004-10-23,Right-handed,,Wicket-keeper batsman,,False,Kumar Kushagra,Kumar Kushagra,True
+2000-12-23,Left-handed,Left arm medium fast,Bowler,pace,False,Sushant Mishra,Sushant Mishra,True
+2002-04-26,Right-handed,Left-arm medium-fast,Bowler,pace,False,"Akash Singh (cricketer, born 2002)",Akash Singh,True
+2002-08-03,Left-handed,Slow left-arm orthodox spin,Bowling all-rounder,finger_spin,True,Manav Suthar,Manav Suthar,True
+1998-07-03,Right-handed,Slow left arm orthodox,Bowler,finger_spin,False,Manimaran Siddharth,Manimaran Siddharth,True
+1993-01-25,Right-handed,Right-arm off break,Middle-order batter,finger_spin,True,Ashton Turner,Ashton Turner,True
+1995-03-12,Right-handed,Right-arm fast-medium,All-rounder,pace,True,Tom Curran (cricketer),Tom Curran,True
+1995-12-16,Left-handed,Left-arm fast,Bowler,pace,True,Spencer Johnson (cricketer),Spencer Johnson,True
+1994-08-06,Right handed,Right arm medium-fast,Bowler,pace,True,Nuwan Thushara,Nuwan Thushara,True
+,,,,,False,Naman Dhir,Naman Dhir,True
+2000-12-06,Right-handed,Right-arm medium,Bowling all-rounder,pace,True,Anshul Kamboj,Anshul Kamboj,True
+1995-12-30,Right-handed,Right-arm offbreak,Wicket-keeper batsman,finger_spin,False,Sumit Kumar,Sumit Kumar,True
+1998-09-15,Right-handed,Right-arm medium,Batter,pace,False,Ashutosh Sharma (cricketer),Ashutosh Sharma,True
+1931-06-25,,,,,False,V. P. Singh,Vishwanath Singh,True
+1995-11-15,Left-handed,Left-arm orthodox spin,,finger_spin,False,Tanay Thyagarajan,Tanay Thyagarajan,True
+2002-09-13,Left-handed,Slow left arm orthodox,Wicket-keeper-batter,finger_spin,False,Robin Minz,Robin Minz,True
+,,,,,False,Prince Choudary,Prince Choudary,True
+1999-09-16,Right-handed,Right-arm legbreak,,wrist_spin,False,Jhathavedh Subramanyan,Jhathavedh Subramanyan,True
+2001-03-28,Right-handed,Right-arm off break,Bowler,finger_spin,True,Mujeeb Ur Rahman,Mujeeb Ur Rahman,True
+1993-11-10,Right-handed,Left-arm medium,Wicket-keeper batsman,pace,True,Shai Hope,Shai Hope,True
+1998-01-19,Right-handed,Right-arm fast-medium,Bowler,pace,True,Gus Atkinson,Gus Atkinson,True
+,,,,,False,Swastik Chhikara,Swastik Chikara,False
+1997-01-17,,,All Rounder,,False,Abid Mushtaq,Abid Mushtaq,True
+1998-11-28,Left-handed,Left arm googly,,wrist_spin,False,Shivalik Sharma,Shivalik Sharma,True
+,,,,,False,Avanish Rao Aravelly,Avanish Rao Aravelly,False
+1995-08-11,Left-handed,Left-arm fast-medium,Bowler,pace,True,Nandre Burger,Nandre Burger,True
+2004-12-14,Right footed,Right-arm fast-medium,Bowler,pace,False,Sakib Hussain,Sakib Hussain,True
+,,,,,False,Saurav Chauhan,Saurav Chauhan,False
+2002-04-11,Right-handed,Right-arm leg break,Batter,wrist_spin,True,Jake Fraser-McGurk,Jake Fraser-McGurk,True
+1995-03-04,Right-handed,,Wicket-keeper-batter,,True,Josh Inglis,Josh Inglis,True
+1996-07-11,Left-handed,Slow left-arm orthodox,"Wicket-keeper, batter",finger_spin,True,Ryan Rickelton,Ryan Rickelton,True
+2006-03-20,Right-handed,Right arm off spin,Bowler,finger_spin,True,Allah Ghazanfar,Allah Ghazanfar,True
+1996-11-08,Right-handed,Right arm off break,Batsman,finger_spin,False,Himmat Singh (cricketer),Himmat Singh,True
+,,,,,False,Vansh Bedi,Vansh Bedi,False
+2000-05-25,Left-Handed,Right-Arm fast,Bowler,pace,True,Gurnoor Brar,Gurnoor Brar,True
+1999-12-16,Right-handed,Legbreak googly,,wrist_spin,False,Zeeshan Ansari,Zeeshan Ansari,True
+1999-12-15,Right-handed,Right-arm legbreak,Bowler,wrist_spin,False,Digvesh Rathi,Digvesh Rathi,True
+1988-12-18,Left-handed,Right-arm off break,Batsman,finger_spin,False,Sachin Baby,Sachin Baby,True
+,,,,,False,Harnoor Singh,Harnoor Singh,True
+,,,,,False,Andre Siddarth,Andre Siddarth,False
+2001-08-29,Left-handed,Left arm medium-fast,Bowler,pace,False,Ashwani Kumar (cricketer),Ashwani Kumar,True
+1998-11-08,Right-handed,Left-arm fast-medium,Bowler,pace,False,Gurjapneet Singh,Gurjapneet Singh,True
+1998-11-03,Right-handed,Right-arm medium,Batter,pace,True,Matthew Breetzke,Matthew Breetzke,True
+2006-04-08,Left-handed,Left-arm Fast,Bowler,pace,True,Kwena Maphaka,Kwena Maphaka,True
+1993-10-01,Left-handed,Right arm medium-fast,Bowler,pace,True,Lizaad Williams,Lizaad Williams,True
+2001-09-18,Left-handed,Right-arm. offbreak,Opening batter,finger_spin,False,Priyansh Arya,Priyansh Arya,True
+2002-07-28,Right-handed,Right-arm Leg Break,Bowler,wrist_spin,False,Vipraj Nigam,Vipraj Nigam,True
+1996-08-12,Left-handed,,Wicket-keeper,,False,Krishnan Shrijith,Krishnan Shrijith,True
+2003-10-23,Left-handed,Slow left-arm orthodox,Batting all-rounder,finger_spin,True,Jacob Bethell,Jacob Bethell,True
+1995-07-31,Right-handed,Right-arm fast,Bowler,pace,True,Brydon Carse,Brydon Carse,True
+1999-01-07,Right-handed,Right-arm medium-fast,All-rounder,pace,True,Aaron Hardie,Aaron Hardie,True
+1998-09-30,Left-handed,Slow left-arm orthodox; Right-arm off break,All-rounder,finger_spin,True,Kamindu Mendis,Kamindu Mendis,True
+1999-08-31,Left-handed,Right-arm fast,Bowler,pace,True,Shamar Joseph,Shamar Joseph,True
+2002-02-05,Right-handed,Right arm medium-fast,Batter,pace,False,Aniket Verma,Aniket Verma,True
+2005-02-27,Right-handed,Left-arm orthodox spin,All-rounder,finger_spin,False,Musheer Khan,Musheer Khan,True
+,,,,,False,Manvanth Kumar L,Manvanth Kumar L,False
+2003-01-29,Right-handed,Right-arm medium,Batting-allrounder,pace,True,Suryansh Shedge,Suryansh Shedge,True
+2001-12-12,Right-handed,Right-arm fast,Bowler,pace,True,Prince Yadav,Prince Yadav,True
+1994-04-10,Right-handed,Right-arm fast,Bowling all-rounder,pace,True,Jamie Overton,Jamie Overton,True
+1998-12-17,Right-handed,Right-arm fast-medium,Bowler,pace,True,Xavier Bartlett,Xavier Bartlett,True
+2001-10-06,Left-handed,Slow left arm orthodox,All-rounder,finger_spin,False,Yuvraj Chaudhary,Yuvraj Chaudhary,True
+,,,,,False,Abhinandan Singh,Abhinandan Singh,True
+1998-08-11,Right-handed,Right-arm medium-fast,Batting,pace,True,Karim Janat,Karim Janat,True
+,,,,,False,Pyla Avinash,Pyla Avinash,False
+1997-08-28,Right-handed,Right-arm medium-fast,Bowling all-rounder,pace,False,Ramakrishna Ghosh,Ramakrishna Ghosh,True
+2002-05-06,Right-handed,Right-arm medium,Batsman,pace,True,Bevon Jacobs,Bevon Jacobs,True
+2011-03-27,Left-handed,Slow left-arm orthodox,Top-order batter,finger_spin,True,Vaibhav Sooryavanshi,Vaibhav Sooryavanshi,True
+2001-02-04,Left-handed,Right-arm medium fast,Bowler,pace,True,Eshan Malinga,Eshan Malinga,True
+,,,,,False,Tripurana Vijay,Tripurana Vijay,True
+,,,,,False,Madhav Tiwari,Madhav Tiwari,False
+2001-03-02,,Left-arm wrist spin,Bowler,wrist_spin,False,Vignesh Puthur,Vignesh Puthur,True
+2007-07-16,Right-handed,Right-arm off break,Top order batter,finger_spin,False,Ayush Mhatre,Ayush Mhatre,True
+1994-09-10,Right-handed,Right-arm fast medium,All-rounder,pace,True,Corbin Bosch,Corbin Bosch,True
+1993-03-11,Right-handed,Legbreak googly,Bowler,wrist_spin,False,Raghu Sharma (cricketer),Raghu Sharma,True
+2001-09-16,Right-handed,Right-arm medium,All-rounder,pace,True,Mitchell Owen,Mitchell Owen,True
+,,,,,False,Harnoor Pannu,Harnoor Pannu,False
+2006-03-27,Left-handed,,"Wicket-keeper, batter",,True,Lhuan-dre Pretorius,Lhuan-dre Pretorius,True
+,,,,,False,Smaran Ravichandran,Smaran Ravichandran,False
+2002-07-23,Left-handed,Slow left-arm orthodox,Bowling All-rounder,finger_spin,True,Harsh Dubey,Harsh Dubey,True
+1994-10-17,Left-handed,Right-arm off break,Top-order batter,finger_spin,True,Ben Duckett,Ben Duckett,True
+1994-08-02,Right-handed,Right-arm fast-medium,Bowler,pace,True,Jacob Duffy,Jacob Duffy,True
+1991-12-14,Right-handed,Right-arm fast-medium,Bowler,pace,True,Matt Henry (cricketer),Matt Henry,True
+1996-11-04,Right-handed,Right-arm medium,Bowler,pace,True,Auqib Nabi,Auqib Nabi,True
+,,,,,False,Shivang Kumar,Shivang Kumar,False
+2005-11-24,Left-handed,Left-arm orthodox spin,All rounder,finger_spin,False,Prashant Veer,Prashant Veer,True
+2004-08-06,Right-handed,,Wicket-keeper-batter,,False,Mukul Choudhary,Mukul Choudhary,True
+2006-04-26,Right-handed,,Wicket keeper batter,,False,Kartik Sharma,Kartik Sharma,True
+2002-04-18,Right-handed,,Wicket-keeper-batsman,,False,Tejasvi Singh Dahiya,Tejasvi Singh,True
+,,,,,False,Naman Tiwari,Naman Tiwari,False
+,,,,,False,Yash Raj Punja,Yash Raj Punja,False
+1998-05-18,Right-handed,,Top-order batter,,True,Pathum Nissanka,Pathum Nissanka,True
+1994-06-23,Left-handed,Left-arm fast-medium,<!-- Do not change role that does not match what EspnCricInfo says without gaining consensus on the talk page first --> Bowler,pace,True,Ben Dwarshuis,Ben Dwarshuis,True
+2002-06-05,Right-handed,Right-arm medium,All-rounder,pace,True,Zak Foulkes,Zak Foulkes,True
+1995-11-08,Right-handed,Right-arm off break,Batting all-rounder,finger_spin,True,Matthew Short,Matthew Short,True
+1998-11-11,Right-handed,Right-arm off break,Batsman,finger_spin,True,Tom Banton,Tom Banton,True
+2000-10-21,Right-handed,Right-arm off-break,Wicket-keeper,finger_spin,True,Jordan Cox (cricketer),Jordan Cox,True
+2003-10-08,,,,,False,Danish Malewar,Danish Malewar,True
+,,,,,False,Aman Rao,Aman Rao,True
+2003-09-15,Right-handed,Right-arm off break,,finger_spin,False,Akshat Raghuwanshi,Akshat Raghuwanshi,True
+,,,,,False,Satvik Deswal,Satvik Deswal,False
+,,,,,False,Mayank Rawat,Mayank Rawat,False
+,,,,,False,Mangesh Yadav,Mangesh Yadav,False
+,,,,,False,Salil Arora,Salil Arora,False
+,,,,,False,Ravi Singh,Ravi Singh,True
+,,,,,False,Mohammad Izhar,Mohammad Izhar,False
+,,,,,False,Onkar Tarmale,Onkar Tarmale,False
+1998-02-20,Left-handed,Left-arm medium,Bowler,pace,False,Prithvi Raj (cricketer),Prithvi Raj,True
+2003-08-22,Left-handed,Slow left-arm orthodox,Batting All-rounder,finger_spin,True,Cooper Connolly,Cooper Connolly,True
+1995-08-02,Left-handed,Left-arm fast-medium,Bowler,pace,True,Luke Wood (cricketer),Luke Wood,True
+,,,,,False,Sahil Parekh,Sahil Parekh,False
+1952-07-03,,,,,False,Amit Kumar,Amit Kumar,True
+,,,,,False,Vishal Nishad,Vishal Nishad,False
+2000-09-26,Left-handed,Slow left-arm orthodox,All-rounder,finger_spin,False,Atharva Ankolekar,Atharva Ankolekar,True
+2002-01-18,Right-handed,Right-arm medium-fast,Bowler,pace,False,Praful Hinge,Praful Hinge,True
+,,,,,False,Krains Fuletra,Krains Fuletra,False
+2007-01-01,Left-handed,Right-arm Offbreak,All-rounder,finger_spin,False,Vihaan Malhotra,Vihaan Malhotra,True
+1996-09-25,Right-handed,Legbreak,,wrist_spin,False,Sarthak Ranjan,Sarthak Ranjan,True
+,,,,,False,Brijesh Sharma,Brijesh Sharma,False
+,,,,,False,Kanishk Chouhan,Kanishk Chouhan,False
+,,,,,False,Daksh Kamra,Daksh Kamra,False
+2000-04-19,Right-handed,Right-arm medium,All-rounder,pace,True,"Jack Edwards (cricketer, born 2000)",Jack Edwards,True

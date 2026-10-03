@@ -1,0 +1,249 @@
+# Every input that is not derived from data. Each item has:
+#   value, unit, status (verified | assumption), and source or reason.
+# Money in INR crore unless the unit says otherwise (1 crore = 100 lakh).
+date_checked: "2026-10-03"
+
+economics:
+  # ---------------- Central revenue (shared equally by 10 teams) ----------------
+  media_rights_total_cr:
+    value: 48390
+    unit: "INR crore, 2023-2027 cycle"
+    status: verified
+    source: "https://scroll.in/field/1025995/ipl-media-rights-for-2023-27-sold-for-rs-48390-crore-star-india-win-tv-deal-viacom18-bag-digital"
+  media_rights_seasons:
+    value: 5
+    unit: seasons
+    status: verified
+    source: "Same deal: 2023-2027"
+  franchise_share_media_rights:
+    value: 0.50
+    unit: share
+    status: assumption
+    reason: "BCCI does not publish the split; secondary sources report 45-50% of central rights go to the 10 franchises (e.g. https://www.dezerv.in/newsletter/ipl-business-model-that-hit-sixer/). We use 50%."
+  title_sponsorship_cr_per_season:
+    value: 500
+    unit: "INR crore / season"
+    status: verified
+    source: "Tata, 2024-2028, Rs 2,500 crore total - Wikipedia IPL article citing Times of India (19 Jan 2024)"
+  other_central_sponsorship_cr_per_season:
+    value: 300
+    unit: "INR crore / season"
+    status: assumption
+    reason: "Associate/official partner deals are not disclosed in total; order-of-magnitude estimate."
+  franchise_share_central_sponsorship:
+    value: 0.50
+    unit: share
+    status: assumption
+    reason: "Same reported 45-50% split as media rights."
+  n_teams:
+    value: 10
+    unit: teams
+    status: verified
+    source: "IPL since 2022"
+
+  # ---------------- Team-generated revenue ----------------
+  team_sponsorship_base_cr:
+    value: 75
+    unit: "INR crore / season for an average-brand team"
+    status: assumption
+    reason: >
+      Calibrated so a top franchise totals ~Rs 650-700 crore revenue, the range
+      Houlihan Lokey's IPL Valuation Study 2025 gives for top franchises. Scaled
+      per team by brand value / league-average brand value.
+  merchandise_base_cr:
+    value: 10
+    unit: "INR crore / season for an average-brand team"
+    status: assumption
+    reason: "Merchandise is small in Indian sport; scaled by brand value like sponsorship."
+  home_matches:
+    value: 7
+    unit: matches
+    status: verified
+    source: "14 league games, half at home (Cricsheet 2022-2026 schedule)"
+  occupancy:
+    value: 0.90
+    unit: share
+    status: assumption
+    reason: "IPL matches are routinely near sell-out; 90% leaves room for weaker fixtures."
+  max_sellable_seats:
+    value: 60000
+    unit: seats
+    status: assumption
+    reason: "Caps very large grounds (Ahmedabad 132k) at a realistic paid-ticket level."
+  complimentary_share:
+    value: 0.10
+    unit: share
+    status: assumption
+    reason: "Seats reserved for state association, BCCI and sponsors."
+  avg_ticket_price_inr:
+    value: 2500
+    unit: "INR / ticket"
+    status: assumption
+    reason: "Blended price across stands (roughly Rs 750 to Rs 20,000+); same for all teams for simplicity."
+  match_day_cost_cr_per_home_match:
+    value: 1.5
+    unit: "INR crore / home match"
+    status: assumption
+    reason: "Stadium hire, security, operations paid to the hosting association."
+
+  # ---------------- Prize money (season 2026) ----------------
+  prize_money_cr:
+    value: {winner: 20.0, runner_up: 12.5, third: 7.0, fourth: 6.5, other: 0.0}
+    unit: "INR crore"
+    status: verified
+    source: "https://www.business-standard.com/cricket/ipl/ipl-2026-prize-money-how-much-money-does-the-winner-and-runner-up-win-126053100371_1.html (some outlets report Rs 13 crore for runner-up)"
+
+  # ---------------- Performance uplift (same season) ----------------
+  sponsorship_uplift:
+    value: {missed_playoffs: 0.0, made_playoffs: 0.05, won_title: 0.15}
+    unit: "share of team sponsorship"
+    status: assumption
+    reason: "Performance bonus clauses in sponsor contracts; not disclosed."
+  merchandise_uplift:
+    value: {missed_playoffs: 0.0, made_playoffs: 0.15, won_title: 0.40}
+    unit: "share of merchandise"
+    status: assumption
+    reason: "Fan demand spikes with a playoff run / title."
+
+  # ---------------- Costs ----------------
+  player_salary_cr:
+    value: 125
+    unit: "INR crore / season"
+    status: assumption
+    reason: "Default = full purse; the app replaces this with the actual squad salary bill."
+  match_fee_players_per_match:
+    value: 12
+    unit: players
+    status: verified
+    source: "Playing XI + Impact Player each receive the match fee (rules.yaml: match_fee_lakh)"
+  support_staff_cr:
+    value: 30
+    unit: "INR crore / season"
+    status: assumption
+    reason: "Coaches, analysts, medical; not disclosed."
+  operations_admin_cr:
+    value: 40
+    unit: "INR crore / season"
+    status: assumption
+    reason: "Front office, academy, facilities; not disclosed."
+  marketing_cr:
+    value: 30
+    unit: "INR crore / season"
+    status: assumption
+    reason: "Fan engagement and brand campaigns; not disclosed."
+  travel_cr:
+    value: 20
+    unit: "INR crore / season"
+    status: assumption
+    reason: "Charter flights and hotels for ~45 people over ~8 weeks."
+  bcci_fee_share_of_team_revenue:
+    value: 0.20
+    unit: "share of team sponsorship + merchandise"
+    status: assumption
+    reason: "Secondary sources report franchises pay BCCI 20% of revenue excluding tickets; terms are confidential, so we apply it only to team-generated revenue."
+  franchise_fee_cr_per_season:
+    value: {CSK: 0, DC: 0, GT: 520, KKR: 0, LSG: 700, MI: 0, PBKS: 0, RR: 0, RCB: 0, SRH: 0}
+    unit: "INR crore / season"
+    status: assumption
+    reason: >
+      LSG (RPSG, Rs 7,000 crore) and GT (CVC, Rs 5,200 crore) bid in 2021
+      (Wikipedia IPL article citing Cricbuzz); we assume payment in 10 equal
+      annual instalments. The 2008 franchises' original fees were paid over
+      2008-2017 (assumed fully paid). SRH (2013) assumed fully paid.
+
+  # ---------------- Brand values (scales sponsorship + merchandise) ----------------
+  brand_value_usd_m:
+    value: {RCB: 269, MI: 242, CSK: 235, KKR: 227, SRH: 154, DC: 152, RR: 146, GT: 142, PBKS: 141, LSG: 122}
+    unit: "USD million (2025)"
+    status: verified
+    source: "Houlihan Lokey, IPL Valuation Study 2025 (http://cdn.hl.com/pdf/2025/ipl-study-2025.pdf)"
+
+  # ---------------- Home ground capacity ----------------
+  stadium_capacity:
+    value:
+      "MA Chidambaram Stadium, Chennai": 38200
+      "Arun Jaitley Stadium, Delhi": 41000
+      "Narendra Modi Stadium, Ahmedabad": 132000
+      "Eden Gardens, Kolkata": 68000
+      "Ekana Cricket Stadium, Lucknow": 50100
+      "Wankhede Stadium, Mumbai": 33100
+      "Maharaja Yadavindra Singh Stadium, Mullanpur": 38000
+      "M Chinnaswamy Stadium, Bengaluru": 40000
+      "Sawai Mansingh Stadium, Jaipur": 30000
+      "Rajiv Gandhi Intl Stadium, Hyderabad": 39200
+    unit: seats
+    status: verified
+    source: "Wikipedia stadium infoboxes (most cite bcci.tv/venues), fetched 2026-10-03; Hyderabad uses the 39,200 match capacity"
+
+# ======================================================================
+strategy:
+  role_need_weight:
+    value: {Red: 1.6, Amber: 1.25, Green: 1.0}
+    status: assumption
+    reason: "Extra value of filling a weak role; a Red-role player is worth 60% more to this squad than to an average one."
+  strategic_premium:
+    value: {Red: 0.15, Amber: 0.05, Green: 0.0}
+    status: assumption
+    reason: "How far above fair value we are willing to bid for a player who fixes a gap."
+  rival_inflation:
+    value: 0.10
+    status: assumption
+    reason: "Auction bidding wars push prices above model fair value; +10% is the base case, stress-tested at +20%/+30%."
+  rival_inflation_scenarios:
+    value: [0.10, 0.20, 0.30]
+    status: assumption
+    reason: "Spec scenario set."
+  replacement_level_percentile:
+    value: 0.25
+    status: assumption
+    reason: "Value is measured above a freely available player (25th percentile impact); players with no IPL data are assumed to be at this level."
+  role_min_counts:
+    value:
+      Opener: 2
+      Anchor: 1
+      Middle-order: 1
+      Finisher: 2
+      Wicketkeeper: 1
+      Powerplay pacer: 2
+      Death pacer: 2
+      Wrist spinner: 1
+      Finger spinner: 1
+      All-rounder: 1
+    status: assumption
+    reason: >
+      A balanced XI plus cover. All-rounder needs only 1: by our strict data definition
+      (>= 6 balls faced AND >= 12 balls bowled per match) only ~9 players league-wide
+      qualify, so 2 per team would be structurally impossible.
+  coverage_rank_multiplier:
+    value: {green: 10, amber: 15}
+    status: assumption
+    reason: >
+      With 10 teams each needing k players in a role, the league's top 10*k are
+      'starter quality'. Green if our k-th best ranks within 10*k, Amber within 15*k.
+  venue_elasticity:
+    value: 0.5
+    status: assumption
+    reason: "Half of a ground's spin/pace advantage is passed into role weights (damped so one ground can't dominate)."
+  venue_weight_bounds:
+    value: [0.85, 1.20]
+    status: assumption
+    reason: "Keeps venue adjustment modest."
+  age_curve:
+    value: {peak_until: 31, decline_per_year: 0.05, youth_from: 25, youth_bonus_per_year: 0.03, floor: 0.6, cap: 1.15}
+    status: assumption
+    reason: "T20 performance broadly plateaus to ~31 then declines; Long-Term Build rewards youth. Used only in the Long-Term scenario."
+  mega_other_team_retentions:
+    value: 4
+    status: assumption
+    reason: "2025 mega-auction: 46 retentions across 10 teams (~4.6 each); rival teams are assumed to keep their top 4 by impact."
+  title_prob_given_playoffs:
+    value: 0.25
+    status: assumption
+    reason: "Four teams reach the playoffs; we do not model playoff matchups."
+  purse_opportunity_cost_share:
+    value: 0.1
+    status: assumption
+    reason: >
+      Salary is a P&L cost, so money has a price. A crore is only spent if it buys at
+      least 10% of the squad value that a typical auction crore buys (total value / total cost
+      of positive-value pool players). Stops the optimiser keeping expensive, low-impact bench players.

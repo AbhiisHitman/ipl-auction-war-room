@@ -1,0 +1,108 @@
+# IPL player-acquisition rules used by the optimiser.
+# date_checked: 2026-10-03. Every value is tagged `status: verified` (with source)
+# or `status: assumption` (with reason). Re-check before the auction:
+# the BCCI normally publishes retention rules ~1 month before the deadline.
+
+date_checked: "2026-10-03"
+
+common:
+  squad_min:
+    value: 18
+    status: verified
+    source: "https://en.wikipedia.org/wiki/Indian_Premier_League#Player_acquisition (cites BCCI); same in ESPNcricinfo IPL 2026 auction FAQ"
+  squad_max:
+    value: 25
+    status: verified
+    source: "https://en.wikipedia.org/wiki/Indian_Premier_League#Player_acquisition"
+  overseas_max:
+    value: 8
+    status: verified
+    source: "https://en.wikipedia.org/wiki/Indian_Premier_League#Player_acquisition"
+  overseas_in_xi_max:
+    value: 4
+    status: verified
+    source: "https://en.wikipedia.org/wiki/Indian_Premier_League (Rules section)"
+  impact_player_rule:
+    value: true
+    status: verified
+    note: "One substitute per side from 5 named players; in force 2023-2026. Assumed to continue in 2027."
+    source: "https://en.wikipedia.org/wiki/Indian_Premier_League (Rules section)"
+  min_spend_pct:
+    value: 0.75
+    status: verified
+    source: "https://www.espncricinfo.com/story/ipl-auction-2026-faqs-when-where-who-and-how-much-1515453 ; Wikipedia IPL article"
+  overseas_max_fee_lakh:
+    value: 1800
+    status: verified
+    note: "Overseas auction fee is capped at the top retention slab (Rs 18 crore) since 2025; bids above it go to a BCCI welfare fund."
+    source: "https://indianexpress.com/article/sports/cricket/ipl-auction-2025-retention-foreign-player-register-9594869/ (cited on Wikipedia 2026 personnel page)"
+  match_fee_lakh:
+    value: 7.5
+    status: verified
+    note: "Per playing member per match (incl. Impact Player), on top of the contract."
+    source: "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/explained-franchise-purse-for-ipl-2025-auction-and-the-new-match-fee-component/articleshow/113777845.cms"
+  min_base_price_lakh:
+    value: 30
+    status: verified
+    note: "Lowest base price seen in the 2025 and 2026 auction tables."
+    source: "data/raw/auction/auction_records.csv (Wikipedia auction tables)"
+  league_matches_per_team:
+    value: 14
+    status: verified
+    source: "Cricsheet: 74-match seasons 2022-2026 (70 league + 4 playoffs)"
+
+modes:
+  # ---------------------------------------------------------------------
+  mini_2027:
+    label: "IPL 2027 mini-auction (Dec 2026)"
+    auction_season: 2027
+    purse_lakh:
+      value: 12500
+      status: assumption
+      reason: >
+        2026 purse was Rs 125 crore (verified: Wikipedia 2026 personnel page,
+        ESPNcricinfo FAQ). The 2027 figure had not been announced on the
+        check date; we assume it is unchanged. Change here once announced.
+    retention:
+      value: "any number; contract salary is deducted from the purse"
+      status: assumption
+      reason: "Rule used for the 2026 mini-auction (Wikipedia 2026 page, TOI 12 Nov 2025); 2027 is in the same 2025-27 cycle."
+    rtm_available: false
+    venue_note: "Business Standard (19 Sep 2026): auction in India, second week of December 2026; venue not final."
+
+  # ---------------------------------------------------------------------
+  mega_2028:
+    label: "IPL 2028 mega-auction (next cycle, rules not yet announced)"
+    auction_season: 2028
+    purse_lakh:
+      value: 12500
+      status: assumption
+      reason: >
+        New cycle rules are not announced. 2025 mega purse was Rs 120 crore,
+        2026 mini was Rs 125 crore; we use 125 as a conservative floor.
+    max_retentions:
+      value: 6
+      status: assumption
+      reason: "2025 mega-auction rule (retentions + RTM <= 6). Verified for 2025 on Wikipedia 2025 personnel page; assumed to repeat."
+    max_capped_retentions:
+      value: 5
+      status: assumption
+      reason: "2025 rule, assumed to repeat."
+    max_uncapped_retentions:
+      value: 2
+      status: assumption
+      reason: "2025 rule, assumed to repeat."
+    capped_retention_cost_cumulative_lakh:
+      # total purse deduction for retaining 1..5 capped players
+      value: [1800, 3200, 4300, 6100, 7500]
+      status: assumption
+      reason: >
+        2025 slabs Rs 18/14/11/18/14 crore (cumulative 18/32/43/61/75).
+        Cross-checked against 2025 retained salaries in our data
+        (e.g. CSK 4 capped = 61 cr + 1 uncapped 4 cr = 65 cr). Assumed to repeat.
+    uncapped_retention_cost_lakh:
+      value: 400
+      status: assumption
+      reason: "2025 rule (Rs 4 crore per uncapped retention), assumed to repeat."
+    rtm_available: true
+    rtm_note: "RTM not modelled explicitly: unused retention slots are treated as the right to re-buy at expected price (limitation)."
