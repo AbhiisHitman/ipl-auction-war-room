@@ -136,7 +136,7 @@ h1, h2, h3, h4 { margin: 0; }
 .team-card-meta { display: flex; gap: 8px; align-items: center; font-size: 12px; color: var(--ink-2); flex-wrap: wrap; }
 .team-card-gaps { font-size: 12px; color: var(--ink-3); line-height: 1.4; }
 .team-card-cta { margin-top: auto; font-size: 13px; font-weight: 600; color: var(--ink-2); }
-.logo-img { object-fit: contain; display: block; }
+.logo-img { object-fit: contain; display: block; filter: drop-shadow(0 0 1px rgba(255,255,255,0.28)) drop-shadow(0 4px 10px rgba(0,0,0,0.35)); }
 .crest { display: block; filter: drop-shadow(0 6px 18px rgba(0,0,0,0.35)); }
 
 /* ---------------- 3D map ---------------- */

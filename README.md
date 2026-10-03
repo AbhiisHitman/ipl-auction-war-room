@@ -66,7 +66,7 @@ python3.11 -m venv .venv && .venv/bin/pip install -r requirements-dev.txt
 .venv/bin/uvicorn api.index:app --port 8000    # live optimiser + P&L API
 cd web && npm install && npm run dev          # http://localhost:5180
 ```
-Team logos: put `CSK.png`, `MI.png`, ... in `web/public/logos/`. Missing ones fall back to an original crest. Deployed on Vercel: the React site as static files and `api/index.py` as a Python serverless function (`vercel.json`).
+Team logos: originals go in `web/logo-src/`; `python -m src.prepare_logos` removes flat backgrounds and sizes them evenly into `web/public/logos/`. Missing ones fall back to an original crest. Deployed on Vercel: the React site as static files and `api/index.py` as a Python serverless function (`vercel.json`).
 
 ## Limitations (stated honestly)
 - Auction prices reflect bidding dynamics; Wikipedia lists sold players only, so unsold players are missing from the market model.
